@@ -1,0 +1,122 @@
+{
+  "name": "BIDI4",
+  "business": "Bancos",
+  "currentState": {
+    "price": 3.41,
+    "priceToEarnings": 226.17,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Inter Holding Financeira S.A.",
+        "ordinaryShares": 50.02,
+        "preferredShares": 49.98,
+        "totalShares": 100
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1646881200000,
+      "amount": 0.0148,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1626922800000,
+      "amount": 0.0121,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1616122800000,
+      "amount": 0.0136,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1595818800000,
+      "amount": 0.0106,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1593745200000,
+      "amount": 0.0231,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1585623600000,
+      "amount": 0.0231,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1577415600000,
+      "amount": 0.0182,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1569812400000,
+      "amount": 0.0182,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561604400000,
+      "amount": 0.1262,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1553482800000,
+      "amount": 0.1265,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545962400000,
+      "amount": 0.0905,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1538103600000,
+      "amount": 0.0917,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1530241200000,
+      "amount": 0.1187,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

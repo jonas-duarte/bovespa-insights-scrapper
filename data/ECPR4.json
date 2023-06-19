@@ -1,0 +1,191 @@
+{
+  "name": "ECPR4",
+  "business": "Fios e Tecidos",
+  "currentState": {
+    "price": 90.74,
+    "priceToEarnings": -9.92,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "WEMBLEY SOCIEDADE AN�NIMA",
+        "ordinaryShares": 67.5,
+        "preferredShares": 51.93,
+        "totalShares": 60.34
+      },
+      {
+        "name": "ECONORTE - EMPR. CONSTRUTORA NORTE DE MINAS LTDA",
+        "ordinaryShares": 17.92,
+        "preferredShares": 0,
+        "totalShares": 9.68
+      },
+      {
+        "name": "FARPAL AGROPASTORIL E PART. LTDA.",
+        "ordinaryShares": 8.37,
+        "preferredShares": 0,
+        "totalShares": 4.52
+      },
+      {
+        "name": "ECOPAR - Empresa de Com�rcio e Participa��es Ltda.",
+        "ordinaryShares": 1.76,
+        "preferredShares": 0,
+        "totalShares": 0.95
+      },
+      {
+        "name": "Mariza Campos Gomes da Silva",
+        "ordinaryShares": 0.68,
+        "preferredShares": 1.14,
+        "totalShares": 0.89
+      },
+      {
+        "name": "JOS� ALENCAR GOMES DA SILVA - COM. PART. EMP. S.A.",
+        "ordinaryShares": 0.64,
+        "preferredShares": 44.49,
+        "totalShares": 20.81
+      },
+      {
+        "name": "Josu� Christiano Gomes da Silva",
+        "ordinaryShares": 0.23,
+        "preferredShares": 0.38,
+        "totalShares": 0.3
+      },
+      {
+        "name": "Maria da Gra�a Campos Gomes da Silva",
+        "ordinaryShares": 0.23,
+        "preferredShares": 0.38,
+        "totalShares": 0.3
+      },
+      {
+        "name": "Patr�cia Campos Gomes da Silva",
+        "ordinaryShares": 0.23,
+        "preferredShares": 0.38,
+        "totalShares": 0.3
+      },
+      {
+        "name": "Jo�o Gustavo Rebello de Paula",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0,
+        "totalShares": 0.11
+      },
+      {
+        "name": "LUIS DE PAULA FILHO",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0,
+        "totalShares": 0.11
+      },
+      {
+        "name": "MARIA CECILIA REBELLO DE PAULA",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0,
+        "totalShares": 0.11
+      },
+      {
+        "name": "MARIA ISABEL REBELLO DE PAULA",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0,
+        "totalShares": 0.11
+      },
+      {
+        "name": "MARIA JULIANA REBELLO DE PAULA",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0,
+        "totalShares": 0.11
+      },
+      {
+        "name": "LUIS DE PAULA FERREIRA",
+        "ordinaryShares": 0.05,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1557889200000,
+      "amount": 2.2139,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525057200000,
+      "amount": 11.3861,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1405479600000,
+      "amount": 7.7,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 2.53,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335754800000,
+      "amount": 11,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 1.3704,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.6437,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.655,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1146193200000,
+      "amount": 3.3208,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 894250800000,
+      "amount": 0.0534,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

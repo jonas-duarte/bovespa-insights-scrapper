@@ -1,0 +1,242 @@
+{
+  "name": "PATI3",
+  "business": "Artefatos de Ferro e A�o",
+  "currentState": {
+    "price": 36,
+    "priceToEarnings": 11.68,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "L. P. A�OS PARTICIPA��ES LTDA.",
+        "ordinaryShares": 86.11,
+        "preferredShares": 31.03,
+        "totalShares": 83.75
+      },
+      {
+        "name": "COMPANHIA SIDER�RGICA NACIONAL",
+        "ordinaryShares": 11.81,
+        "preferredShares": 0,
+        "totalShares": 11.31
+      },
+      {
+        "name": "Sebasti�o Alves de Messias",
+        "ordinaryShares": 0.42,
+        "preferredShares": 19.65,
+        "totalShares": 1.24
+      },
+      {
+        "name": "Clube de Investimento Centauro do Pampa",
+        "ordinaryShares": 0.33,
+        "preferredShares": 6.9,
+        "totalShares": 0.61
+      },
+      {
+        "name": "Amaro Lafayette Nobre Formiga",
+        "ordinaryShares": 0,
+        "preferredShares": 5.51,
+        "totalShares": 0.24
+      },
+      {
+        "name": "Wilma Carvalho Pontes",
+        "ordinaryShares": 0,
+        "preferredShares": 6.6,
+        "totalShares": 0.28
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681268400000,
+      "amount": 0.4831,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650942000000,
+      "amount": 2.9111,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1618369200000,
+      "amount": 2.3724,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1595905200000,
+      "amount": 0.1794,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1554260400000,
+      "amount": 0.8313,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1522897200000,
+      "amount": 0.1901,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493175600000,
+      "amount": 0.1591,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461639600000,
+      "amount": 0.1148,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430190000000,
+      "amount": 0.1861,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398308400000,
+      "amount": 0.2905,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1365562800000,
+      "amount": 0.3496,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335322800000,
+      "amount": 0.3081,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.5193,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272423600000,
+      "amount": 0.2269,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1239073200000,
+      "amount": 0.5061,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1206414000000,
+      "amount": 0.2888,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1176260400000,
+      "amount": 0.2261,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1176260400000,
+      "amount": 0.2135,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1143601200000,
+      "amount": 0.4869,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1143601200000,
+      "amount": 0.3895,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1113274800000,
+      "amount": 83.3,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1083034800000,
+      "amount": 62.79,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1083034800000,
+      "amount": 17.21,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1051585200000,
+      "amount": 18.155,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1019703600000,
+      "amount": 11.9715,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 988599600000,
+      "amount": 3.205,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 957236400000,
+      "amount": 3.32,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 924750000000,
+      "amount": 1.23,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 903322800000,
+      "amount": 4.9819,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 896324400000,
+      "amount": 2.3307,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 863751600000,
+      "amount": 0.2164,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

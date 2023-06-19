@@ -1,0 +1,110 @@
+{
+  "name": "MNDL3",
+  "business": "Acess�rios",
+  "currentState": {
+    "price": 55.26,
+    "priceToEarnings": 0.15,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "RTI Gest�o de Ativos e Investimentos Ltda",
+        "ordinaryShares": 31.71,
+        "preferredShares": 0,
+        "totalShares": 31.71
+      },
+      {
+        "name": "ZHEPAR PARTICIPA��ES LTDA.",
+        "ordinaryShares": 28.58,
+        "preferredShares": 0,
+        "totalShares": 28.58
+      },
+      {
+        "name": "WIDENHAM INVESTIMENTOS S.A",
+        "ordinaryShares": 20.46,
+        "preferredShares": 0,
+        "totalShares": 20.46
+      },
+      {
+        "name": "ELECE ADM E PARTICIPA��ES LTDA",
+        "ordinaryShares": 1.75,
+        "preferredShares": 0,
+        "totalShares": 1.75
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1306465200000,
+      "amount": 0.0071,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1306465200000,
+      "amount": 0.0071,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1210215600000,
+      "amount": 0.007,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1181271600000,
+      "amount": 0.0086,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1060916400000,
+      "amount": 0.0989,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1026961200000,
+      "amount": 0.1057,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 847072800000,
+      "amount": 0.0068,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

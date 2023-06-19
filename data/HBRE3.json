@@ -1,0 +1,62 @@
+{
+  "name": "HBRE3",
+  "business": "Explora��o de Im�veis",
+  "currentState": {
+    "price": 5.28,
+    "priceToEarnings": 8.13,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "HELIO BORENSTEIN S.A. ADMINISTRA��O PARTIC. E COM�RCIO",
+        "ordinaryShares": 39.73,
+        "preferredShares": 0,
+        "totalShares": 39.73
+      },
+      {
+        "name": "Henry Borenstein",
+        "ordinaryShares": 3.46,
+        "preferredShares": 0,
+        "totalShares": 3.46
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

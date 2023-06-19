@@ -1,0 +1,590 @@
+{
+  "name": "PNVL4",
+  "business": "Medicamentos e Outros Produtos",
+  "currentState": {
+    "price": 18.62,
+    "priceToEarnings": 33.35,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "JULIO RICARDO ANDRIGHETTO MOTTIN",
+        "ordinaryShares": 9.01,
+        "preferredShares": 0,
+        "totalShares": 9.01
+      },
+      {
+        "name": "KINEA PRIVATE EQUITY IV MASTER FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GICA",
+        "ordinaryShares": 5.37,
+        "preferredShares": 0,
+        "totalShares": 5.37
+      },
+      {
+        "name": "ROBERTO LUIZ WEBER",
+        "ordinaryShares": 4.05,
+        "preferredShares": 0,
+        "totalShares": 4.05
+      },
+      {
+        "name": "DENIS PIZZATO",
+        "ordinaryShares": 3.95,
+        "preferredShares": 0,
+        "totalShares": 3.95
+      },
+      {
+        "name": "GERALDO OTTO WEBER",
+        "ordinaryShares": 3.93,
+        "preferredShares": 0,
+        "totalShares": 3.93
+      },
+      {
+        "name": "MARTHA WEBER LUCE",
+        "ordinaryShares": 3.85,
+        "preferredShares": 0,
+        "totalShares": 3.85
+      },
+      {
+        "name": "REGIS PIZZATO",
+        "ordinaryShares": 3.5,
+        "preferredShares": 0,
+        "totalShares": 3.5
+      },
+      {
+        "name": "ELISABETH WEBER TAYLOR",
+        "ordinaryShares": 3.23,
+        "preferredShares": 0,
+        "totalShares": 3.23
+      },
+      {
+        "name": "FRANCISCO ANGELO MOTTIN",
+        "ordinaryShares": 3,
+        "preferredShares": 0,
+        "totalShares": 3
+      },
+      {
+        "name": "NELSON DE ALVARENGA MARIANO DA ROCHA",
+        "ordinaryShares": 2.39,
+        "preferredShares": 0,
+        "totalShares": 2.39
+      },
+      {
+        "name": "NADJA PIZZATO",
+        "ordinaryShares": 1.8,
+        "preferredShares": 0,
+        "totalShares": 1.8
+      },
+      {
+        "name": "JOSE E P ANNONI",
+        "ordinaryShares": 1.67,
+        "preferredShares": 0,
+        "totalShares": 1.67
+      },
+      {
+        "name": "ANA LUIZA MARIANO DA ROCHA MOTTIN",
+        "ordinaryShares": 1.56,
+        "preferredShares": 0,
+        "totalShares": 1.56
+      },
+      {
+        "name": "SYLVIA WAHRLICH",
+        "ordinaryShares": 1.08,
+        "preferredShares": 0,
+        "totalShares": 1.08
+      },
+      {
+        "name": "RUDOLFO JOSE MUSSNICH",
+        "ordinaryShares": 0.64,
+        "preferredShares": 0,
+        "totalShares": 0.64
+      },
+      {
+        "name": "SILVIA TOSTES MOTTIN",
+        "ordinaryShares": 0.39,
+        "preferredShares": 0,
+        "totalShares": 0.39
+      },
+      {
+        "name": "CARLOS ALBERTO DE FREITAS LIMA",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.21
+      },
+      {
+        "name": "Julio Ricardo Mottin Neto",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0,
+        "totalShares": 0.2
+      },
+      {
+        "name": "RAFAELLA POLESE WEBER",
+        "ordinaryShares": 0.16,
+        "preferredShares": 0,
+        "totalShares": 0.16
+      },
+      {
+        "name": "GABRIELA WEBER LUCE",
+        "ordinaryShares": 0.15,
+        "preferredShares": 0,
+        "totalShares": 0.15
+      },
+      {
+        "name": "GUILHERME WEBER LUCE",
+        "ordinaryShares": 0.14,
+        "preferredShares": 0,
+        "totalShares": 0.14
+      },
+      {
+        "name": "LUCAS WEBER",
+        "ordinaryShares": 0.14,
+        "preferredShares": 0,
+        "totalShares": 0.14
+      },
+      {
+        "name": "PATR�CIA WEBER",
+        "ordinaryShares": 0.14,
+        "preferredShares": 0,
+        "totalShares": 0.14
+      },
+      {
+        "name": "MELISSA POLESE SCHNEIDER",
+        "ordinaryShares": 0.14,
+        "preferredShares": 0,
+        "totalShares": 0.14
+      },
+      {
+        "name": "VIVIAN VIEIRA ALBRECHT",
+        "ordinaryShares": 0.13,
+        "preferredShares": 0,
+        "totalShares": 0.13
+      },
+      {
+        "name": "NELSON DE CASTRO PERRONE",
+        "ordinaryShares": 0.12,
+        "preferredShares": 0,
+        "totalShares": 0.12
+      },
+      {
+        "name": "MARIANA MARIANO DA ROCHA MOTTIN",
+        "ordinaryShares": 0.09,
+        "preferredShares": 0,
+        "totalShares": 0.09
+      },
+      {
+        "name": "PAULO ROBERTO BAGGIO",
+        "ordinaryShares": 0.09,
+        "preferredShares": 0,
+        "totalShares": 0.09
+      },
+      {
+        "name": "ADRIANA MOTTIN VELLINHO",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "MARCELA DE AZEVEDO PIZZATO",
+        "ordinaryShares": 0.07,
+        "preferredShares": 0,
+        "totalShares": 0.07
+      },
+      {
+        "name": "GABRIELA ZUBARAN DE AZEVEDO PIZZATO",
+        "ordinaryShares": 0.07,
+        "preferredShares": 0,
+        "totalShares": 0.07
+      },
+      {
+        "name": "ANT�NIO CARLOS TOCCHETTO NAPP",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "IVETE POLESE WEBER",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      },
+      {
+        "name": "JOS� F A PIZZATO ANNONI",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1609297200000,
+      "amount": 0.0499,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1609297200000,
+      "amount": 0.0499,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1609297200000,
+      "amount": 0.0246,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1604026800000,
+      "amount": 0.0253,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1577329200000,
+      "amount": 1.1492,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1577329200000,
+      "amount": 1.1492,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1569985200000,
+      "amount": 1.2059,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561345200000,
+      "amount": 0.6809,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561345200000,
+      "amount": 0.6809,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561345200000,
+      "amount": 0.6809,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545271200000,
+      "amount": 0.9888,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545271200000,
+      "amount": 0.9888,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545271200000,
+      "amount": 0.9888,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1534993200000,
+      "amount": 0.6155,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1534993200000,
+      "amount": 0.6155,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1534993200000,
+      "amount": 0.6155,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1514426400000,
+      "amount": 0.8126,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1502852400000,
+      "amount": 0.5814,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1482890400000,
+      "amount": 0.7965,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1471575600000,
+      "amount": 0.5177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1450663200000,
+      "amount": 2.1505,
+      "type": "JUROS"
+    },
+    {
+      "date": 1439866800000,
+      "amount": 1.1947,
+      "type": "JUROS"
+    },
+    {
+      "date": 1430190000000,
+      "amount": 0.2034,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1418954400000,
+      "amount": 0.5574,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1407812400000,
+      "amount": 0.398,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 0.3963,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1387504800000,
+      "amount": 0.7971,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1376017200000,
+      "amount": 0.5962,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1366945200000,
+      "amount": 0.2787,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1355968800000,
+      "amount": 0.763,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1355968800000,
+      "amount": 0.763,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1344567600000,
+      "amount": 0.596,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1324432800000,
+      "amount": 0.7388,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1312858800000,
+      "amount": 0.9525,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1292896800000,
+      "amount": 0.6543,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1281409200000,
+      "amount": 0.8324,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1261360800000,
+      "amount": 1.186,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1249873200000,
+      "amount": 0.8031,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1229997600000,
+      "amount": 0.5643,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1218423600000,
+      "amount": 0.4702,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1198116000000,
+      "amount": 0.5637,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1186542000000,
+      "amount": 0.468,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1166580000000,
+      "amount": 0.5592,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1155006000000,
+      "amount": 0.4653,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1135130400000,
+      "amount": 0.5358,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1122951600000,
+      "amount": 0.3912,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1103767200000,
+      "amount": 0.5962,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1090206000000,
+      "amount": 0.3234,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1072749600000,
+      "amount": 0.5016,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1058929200000,
+      "amount": 0.408,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1040954400000,
+      "amount": 0.4103,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1028170800000,
+      "amount": 0.2638,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1009332000000,
+      "amount": 0.3624,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 995338800000,
+      "amount": 0.2605,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 981684000000,
+      "amount": 0.089,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 977882400000,
+      "amount": 0.1544,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 945828000000,
+      "amount": 0.132,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 933044400000,
+      "amount": 0.352,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 921466800000,
+      "amount": 0.0727,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 914896800000,
+      "amount": 0.22,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 902804400000,
+      "amount": 0.335,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 883447200000,
+      "amount": 0.363,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 871268400000,
+      "amount": 0.38,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 855799200000,
+      "amount": 0.45,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 839300400000,
+      "amount": 0.3,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 823053600000,
+      "amount": 0.24,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 823053600000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

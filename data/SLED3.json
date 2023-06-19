@@ -1,0 +1,230 @@
+{
+  "name": "SLED3",
+  "business": "Produtos Diversos",
+  "currentState": {
+    "price": 7,
+    "priceToEarnings": 0.63,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Jorge Eduardo Saraiva",
+        "ordinaryShares": 41.61,
+        "preferredShares": 1.03,
+        "totalShares": 3.83
+      },
+      {
+        "name": "Alyssa Nunes Bruscato Costa",
+        "ordinaryShares": 15.03,
+        "preferredShares": 0,
+        "totalShares": 1.04
+      },
+      {
+        "name": "Olga Maria Barbosa Saraiva",
+        "ordinaryShares": 10.41,
+        "preferredShares": 0.11,
+        "totalShares": 0.82
+      },
+      {
+        "name": "DISTRIBUIDORA RECORD DE SERVICOS DE IMPRENSA SA",
+        "ordinaryShares": 0,
+        "preferredShares": 6.99,
+        "totalShares": 6.51
+      },
+      {
+        "name": "EDITORA MODERNA LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 7.02,
+        "totalShares": 6.54
+      },
+      {
+        "name": "EDITORA SCHWARCZ S A",
+        "ordinaryShares": 0,
+        "preferredShares": 6.07,
+        "totalShares": 5.65
+      },
+      {
+        "name": "GEN GRUPO EDITORIAL NACIONAL PARTICIPACOES S A",
+        "ordinaryShares": 0,
+        "preferredShares": 7.45,
+        "totalShares": 6.94
+      },
+      {
+        "name": "GRUPO A EDUCACAO S A",
+        "ordinaryShares": 0,
+        "preferredShares": 5.95,
+        "totalShares": 5.54
+      },
+      {
+        "name": "SOLUTIONS 2 GO DO BRASIL INDUSTRIA COMERCIO E DIST LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 7.31,
+        "totalShares": 6.8
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1525057200000,
+      "amount": 0.218,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.18,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1419904800000,
+      "amount": 0.8866,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1387159200000,
+      "amount": 0.8828,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1355450400000,
+      "amount": 0.9188,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1323136800000,
+      "amount": 0.8782,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1291341600000,
+      "amount": 0.7863,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1261360800000,
+      "amount": 0.7341,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1240455600000,
+      "amount": 0.0705,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1233194400000,
+      "amount": 0.63,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1208919600000,
+      "amount": 0.1464,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1204858800000,
+      "amount": 0.5226,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1172718000000,
+      "amount": 0.4955,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1144292400000,
+      "amount": 0.0364,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1140490800000,
+      "amount": 0.4015,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1106704800000,
+      "amount": 0.4077,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1078974000000,
+      "amount": 0.454,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1039572000000,
+      "amount": 0.3749,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1015988400000,
+      "amount": 0.338,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 982810800000,
+      "amount": 0.3597,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 951357600000,
+      "amount": 0.3998,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 921121200000,
+      "amount": 0.3297,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 889412400000,
+      "amount": 0.2545,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 861850800000,
+      "amount": 0.37,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 830487600000,
+      "amount": 36.25,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

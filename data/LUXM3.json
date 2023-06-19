@@ -1,0 +1,145 @@
+{
+  "name": "LUXM3",
+  "business": "Transporte Hidrovi�rio",
+  "currentState": {
+    "price": 10,
+    "priceToEarnings": 19.37,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Glarus S. A.",
+        "ordinaryShares": 38.03,
+        "preferredShares": 14.76,
+        "totalShares": 25.05
+      },
+      {
+        "name": "Becker Participa��es S.A.",
+        "ordinaryShares": 23.59,
+        "preferredShares": 0,
+        "totalShares": 10.43
+      },
+      {
+        "name": "EL Participa��es S.A.",
+        "ordinaryShares": 14.54,
+        "preferredShares": 0,
+        "totalShares": 6.43
+      },
+      {
+        "name": "SCMG Participa��es Ltda.",
+        "ordinaryShares": 6.34,
+        "preferredShares": 0,
+        "totalShares": 2.8
+      },
+      {
+        "name": "SIMG PARTICIPA��ES LTDA",
+        "ordinaryShares": 6.34,
+        "preferredShares": 0,
+        "totalShares": 2.8
+      },
+      {
+        "name": "Eliana Logemann",
+        "ordinaryShares": 0,
+        "preferredShares": 0.82,
+        "totalShares": 0.46
+      },
+      {
+        "name": "Fernando Ferreira Becker",
+        "ordinaryShares": 0,
+        "preferredShares": 15.54,
+        "totalShares": 8.67
+      },
+      {
+        "name": "JORGE LINDEMANN",
+        "ordinaryShares": 0,
+        "preferredShares": 0.82,
+        "totalShares": 0.46
+      },
+      {
+        "name": "JORGE LUIZ SILVA LOGEMANN",
+        "ordinaryShares": 0,
+        "preferredShares": 3.89,
+        "totalShares": 2.17
+      },
+      {
+        "name": "Roberto Lindemann",
+        "ordinaryShares": 0,
+        "preferredShares": 0.82,
+        "totalShares": 0.46
+      },
+      {
+        "name": "ROGERIO POHLMANN LIVI",
+        "ordinaryShares": 0,
+        "preferredShares": 0.03,
+        "totalShares": 0.02
+      },
+      {
+        "name": "Sandra In�s Mallmann Guariglia",
+        "ordinaryShares": 0,
+        "preferredShares": 3.73,
+        "totalShares": 2.08
+      },
+      {
+        "name": "Silvia Christina Mallmann Guariglia",
+        "ordinaryShares": 0,
+        "preferredShares": 4.34,
+        "totalShares": 2.42
+      },
+      {
+        "name": "S�lvia Helena Becker Livi",
+        "ordinaryShares": 0,
+        "preferredShares": 9.7,
+        "totalShares": 5.41
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1461812400000,
+      "amount": 0.65,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430190000000,
+      "amount": 1.1802,
+      "type": "Dividendo"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

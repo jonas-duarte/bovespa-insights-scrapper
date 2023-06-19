@@ -1,0 +1,168 @@
+{
+  "name": "APTI4",
+  "business": "Agricultura",
+  "currentState": {
+    "price": 3.5,
+    "priceToEarnings": -2.6,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Ciro M�nico Alexandre Aliperti",
+        "ordinaryShares": 41.33,
+        "preferredShares": 29.66,
+        "totalShares": 33.58
+      },
+      {
+        "name": "S/C Joal Empreendimentos e Participa��es Ltda",
+        "ordinaryShares": 37.28,
+        "preferredShares": 10.06,
+        "totalShares": 19.21
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1461898800000,
+      "amount": 4.1763,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 4.1763,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1429844400000,
+      "amount": 28.3329,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 28.3329,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366858800000,
+      "amount": 28.3329,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335409200000,
+      "amount": 22.6663,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 16.9998,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 11.3381,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 11.3381,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209524400000,
+      "amount": 0.0113,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177642800000,
+      "amount": 11.3381,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1146193200000,
+      "amount": 11.3381,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1113879600000,
+      "amount": 15.1842,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1083034800000,
+      "amount": 15.5862,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1053054000000,
+      "amount": 13.8739,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1019617200000,
+      "amount": 14.9776,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 985575600000,
+      "amount": 8.6029,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956804400000,
+      "amount": 8.3347,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 925441200000,
+      "amount": 8.3244,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 893300400000,
+      "amount": 8.3656,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 868849200000,
+      "amount": 5.25,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

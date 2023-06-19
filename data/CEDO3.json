@@ -1,0 +1,411 @@
+{
+  "name": "CEDO3",
+  "business": "Fios e Tecidos",
+  "currentState": {
+    "price": 9.45,
+    "priceToEarnings": 10.05,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Aroldo Teodoro Campos",
+        "ordinaryShares": 20.16,
+        "preferredShares": 34.08,
+        "totalShares": 26.13
+      },
+      {
+        "name": "Fabiano Soares Nogueira",
+        "ordinaryShares": 14.14,
+        "preferredShares": 3.29,
+        "totalShares": 9.48
+      },
+      {
+        "name": "Luiz C�sar Guimar�es",
+        "ordinaryShares": 5.27,
+        "preferredShares": 0.05,
+        "totalShares": 3.03
+      },
+      {
+        "name": "Paula Mascarenhas de Freitas Borges",
+        "ordinaryShares": 4.58,
+        "preferredShares": 0.51,
+        "totalShares": 2.83
+      },
+      {
+        "name": "Luciana Freitas Borges Miranda",
+        "ordinaryShares": 4.47,
+        "preferredShares": 0.5,
+        "totalShares": 2.77
+      },
+      {
+        "name": "Victor Mascarenhas de Freitas Borges",
+        "ordinaryShares": 4.35,
+        "preferredShares": 0.54,
+        "totalShares": 2.71
+      },
+      {
+        "name": "Silvio Diniz Ferreira",
+        "ordinaryShares": 3.7,
+        "preferredShares": 2.38,
+        "totalShares": 3.13
+      },
+      {
+        "name": "Am�lia Gonzaga Carvalho Silva",
+        "ordinaryShares": 3.25,
+        "preferredShares": 0.35,
+        "totalShares": 2
+      },
+      {
+        "name": "L�cia Mattos de Magalh�es Mascarenhas",
+        "ordinaryShares": 2.51,
+        "preferredShares": 0.05,
+        "totalShares": 1.46
+      },
+      {
+        "name": "F�bio Mascarenhas Alves",
+        "ordinaryShares": 2.16,
+        "preferredShares": 0.02,
+        "totalShares": 1.24
+      },
+      {
+        "name": "Maria Salome Pinto Gonzaga",
+        "ordinaryShares": 1.99,
+        "preferredShares": 0.29,
+        "totalShares": 1.26
+      },
+      {
+        "name": "P�rola Francisca Mascarenhas Alves",
+        "ordinaryShares": 1.41,
+        "preferredShares": 0.44,
+        "totalShares": 0.99
+      },
+      {
+        "name": "Nathalia Haas",
+        "ordinaryShares": 1.13,
+        "preferredShares": 0,
+        "totalShares": 0.65
+      },
+      {
+        "name": "Rachel Haas Gaetani",
+        "ordinaryShares": 1.13,
+        "preferredShares": 0,
+        "totalShares": 0.65
+      },
+      {
+        "name": "Estevam Rodrigo Mascarenhas e Magalh�es",
+        "ordinaryShares": 1.1,
+        "preferredShares": 0,
+        "totalShares": 0.63
+      },
+      {
+        "name": "Ines Gonzaga Zatz",
+        "ordinaryShares": 0.96,
+        "preferredShares": 0.34,
+        "totalShares": 0.69
+      },
+      {
+        "name": "Maria Luiza Gonzaga de Oliveira",
+        "ordinaryShares": 0.86,
+        "preferredShares": 0.17,
+        "totalShares": 0.56
+      },
+      {
+        "name": "Cristiano Ratton Mascarenhas",
+        "ordinaryShares": 0.65,
+        "preferredShares": 0.06,
+        "totalShares": 0.4
+      },
+      {
+        "name": "Andr� Maur�cio Miranda",
+        "ordinaryShares": 0.61,
+        "preferredShares": 0,
+        "totalShares": 0.35
+      },
+      {
+        "name": "Cl�udia Borba Mascarenhas",
+        "ordinaryShares": 0.56,
+        "preferredShares": 0.09,
+        "totalShares": 0.36
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1395370800000,
+      "amount": 0.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1382666400000,
+      "amount": 0.4,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1359684000000,
+      "amount": 0.3,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1354586400000,
+      "amount": 0.3,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1330311600000,
+      "amount": 0.18,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1313982000000,
+      "amount": 0.4235,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1295834400000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1282273200000,
+      "amount": 1.1765,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1264730400000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240542000000,
+      "amount": 0.1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1229652000000,
+      "amount": 1.24,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1227060000000,
+      "amount": 0.59,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1145502000000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1137722400000,
+      "amount": 0.65,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1129860000000,
+      "amount": 1.42,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1122001200000,
+      "amount": 1.47,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1114743600000,
+      "amount": 1.18,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1106272800000,
+      "amount": 1.4,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1098327600000,
+      "amount": 1.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1090551600000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1082602800000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1075082400000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1066960800000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1059102000000,
+      "amount": 0.65,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1051239600000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1042768800000,
+      "amount": 1.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1035342000000,
+      "amount": 0.75,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1027047600000,
+      "amount": 0.55,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1019098800000,
+      "amount": 0.85,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1011319200000,
+      "amount": 1.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1004061600000,
+      "amount": 0.85,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 995598000000,
+      "amount": 0.7,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 987735600000,
+      "amount": 0.65,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 979869600000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 971920800000,
+      "amount": 1.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 964148400000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956113200000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 948420000000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 940557600000,
+      "amount": 0.6,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 930279600000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 900558000000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 885520800000,
+      "amount": 0.67,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 877658400000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 869194800000,
+      "amount": 1.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 853466400000,
+      "amount": 0.75,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 845604000000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 837745200000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 822016800000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

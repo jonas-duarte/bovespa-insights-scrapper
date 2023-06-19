@@ -1,0 +1,117 @@
+{
+  "name": "SMLS3",
+  "business": "Programas de Fideliza��o",
+  "currentState": {
+    "price": 22.4,
+    "priceToEarnings": 10.78,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Gol Linhas A�reas S.A.",
+        "ordinaryShares": 99.98,
+        "preferredShares": 0,
+        "totalShares": 99.98
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1617073200000,
+      "amount": 4.0271,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1606705200000,
+      "amount": 0.4345,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1596423600000,
+      "amount": 0.8351,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1577674800000,
+      "amount": 0.2703,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1555902000000,
+      "amount": 3.2889,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1553828400000,
+      "amount": 0.1402,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545962400000,
+      "amount": 0.1478,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1530241200000,
+      "amount": 0.0842,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1525402800000,
+      "amount": 3.5368,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1522292400000,
+      "amount": 0.1188,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1512352800000,
+      "amount": 0.0493,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1512352800000,
+      "amount": 0.0493,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

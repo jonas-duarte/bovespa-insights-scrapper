@@ -1,0 +1,203 @@
+{
+  "name": "RDNI3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 6.14,
+    "priceToEarnings": 13.32,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Rodobens Participa��es S.A",
+        "ordinaryShares": 33.69,
+        "preferredShares": 0,
+        "totalShares": 33.69
+      },
+      {
+        "name": "Waldemar Verdi Junior",
+        "ordinaryShares": 12.66,
+        "preferredShares": 0,
+        "totalShares": 12.66
+      },
+      {
+        "name": "PORTUGAL CLUBE DE INVESTIMENTOS",
+        "ordinaryShares": 12.57,
+        "preferredShares": 0,
+        "totalShares": 12.57
+      },
+      {
+        "name": "TARPON GT MASTER FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 9.82,
+        "preferredShares": 0,
+        "totalShares": 9.82
+      },
+      {
+        "name": "Giuliano Finimundi Verdi",
+        "ordinaryShares": 7.77,
+        "preferredShares": 0,
+        "totalShares": 7.77
+      },
+      {
+        "name": "DM Motors do Brasil Ltda.",
+        "ordinaryShares": 2.47,
+        "preferredShares": 0,
+        "totalShares": 2.47
+      },
+      {
+        "name": "Alessandra Escobar Verdi",
+        "ordinaryShares": 0.91,
+        "preferredShares": 0,
+        "totalShares": 0.91
+      },
+      {
+        "name": "Beny Maria Verdi Haddad",
+        "ordinaryShares": 0.91,
+        "preferredShares": 0,
+        "totalShares": 0.91
+      },
+      {
+        "name": "Ena Lucia Escobar Verdi Caldeira",
+        "ordinaryShares": 0.91,
+        "preferredShares": 0,
+        "totalShares": 0.91
+      },
+      {
+        "name": "Maria Ignez Escobar Verdi",
+        "ordinaryShares": 0.91,
+        "preferredShares": 0,
+        "totalShares": 0.91
+      },
+      {
+        "name": "RV Holding LTDA",
+        "ordinaryShares": 0.75,
+        "preferredShares": 0,
+        "totalShares": 0.75
+      },
+      {
+        "name": "Ilha Bela Companhia Securitizadora de Cr�ditos FI",
+        "ordinaryShares": 0.45,
+        "preferredShares": 0,
+        "totalShares": 0.45
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682391600000,
+      "amount": 0.1442,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650942000000,
+      "amount": 0.0572,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619146800000,
+      "amount": 0.01,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1587610800000,
+      "amount": 0.0091,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461639600000,
+      "amount": 0.237,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1429844400000,
+      "amount": 0.383,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398222000000,
+      "amount": 0.5242,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1386554400000,
+      "amount": 0.4182,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367204400000,
+      "amount": 0.6686,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.3437,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1302663600000,
+      "amount": 0.3503,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272510000000,
+      "amount": 0.1358,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1239764400000,
+      "amount": 0.4049,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1208401200000,
+      "amount": 0.022,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1198029600000,
+      "amount": 0.175,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 0.0038,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

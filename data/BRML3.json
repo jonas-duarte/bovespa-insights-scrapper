@@ -1,0 +1,132 @@
+{
+  "name": "BRML3",
+  "business": "Explora��o de Im�veis",
+  "currentState": {
+    "price": 8.26,
+    "priceToEarnings": 11.94,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Aliansce Sonae Shopping Center S.A.",
+        "ordinaryShares": 100,
+        "preferredShares": 0,
+        "totalShares": 100
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1651201200000,
+      "amount": 0.0536,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1565146800000,
+      "amount": 0.2016,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1565146800000,
+      "amount": 0.6244,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.0833,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1553742000000,
+      "amount": 0.0652,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545357600000,
+      "amount": 0.0119,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1543197600000,
+      "amount": 0.0831,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.0662,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.4576,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1417572000000,
+      "amount": 0.1546,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.3145,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.4715,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335236400000,
+      "amount": 0.1507,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.1652,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272855600000,
+      "amount": 0.244,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "name": "PEAB4",
+  "business": "Holdings Diversificadas",
+  "currentState": {
+    "price": 63.1,
+    "priceToEarnings": 56.37,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "ESP�LIO - PAULO S�RGIO FREIRE DE CARVALHO GON�ALVES TOURINHO",
+        "ordinaryShares": 32.31,
+        "preferredShares": 0.62,
+        "totalShares": 16.44
+      },
+      {
+        "name": "FUNDA��O MARIA EMILIA PEDREIRA FREIRE DE CARVALHO",
+        "ordinaryShares": 17.05,
+        "preferredShares": 1.42,
+        "totalShares": 9.22
+      },
+      {
+        "name": "PATRIMONIAL MUNDO NOVO LTDA",
+        "ordinaryShares": 5.9,
+        "preferredShares": 1.62,
+        "totalShares": 3.76
+      },
+      {
+        "name": "Cia de Seguros Alian�a da Bahia",
+        "ordinaryShares": 2.74,
+        "preferredShares": 9.16,
+        "totalShares": 5.95
+      },
+      {
+        "name": "ADRECOR ADMINISTRA��O LTDA",
+        "ordinaryShares": 0.07,
+        "preferredShares": 60.68,
+        "totalShares": 30.43
+      },
+      {
+        "name": "SOCIEDADE AGR�COLA SANTA TEREZA LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.34,
+        "totalShares": 0.17
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1668654000000,
+      "amount": 0.2889,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1668654000000,
+      "amount": 0.2356,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.6021,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1648782000000,
+      "amount": 0.7811,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1637031600000,
+      "amount": 1.6305,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1637031600000,
+      "amount": 10.0276,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1621566000000,
+      "amount": 0.769,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1605668400000,
+      "amount": 32.61,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1588042800000,
+      "amount": 2.7184,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1568170800000,
+      "amount": 1.2705,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556247600000,
+      "amount": 3.0067,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524798000000,
+      "amount": 3.448,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 3.1585,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 1.3357,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 2.77,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 2.5609,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 1.5749,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335754800000,
+      "amount": 1.1813,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1307674800000,
+      "amount": 1.6049,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1302750000000,
+      "amount": 0.559,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272510000000,
+      "amount": 0.209,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240974000000,
+      "amount": 6.27,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1219719600000,
+      "amount": 2.45,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1197424800000,
+      "amount": 1.07,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1184641200000,
+      "amount": 0.57,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 0.6522,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1156388400000,
+      "amount": 0.572,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1145847600000,
+      "amount": 0.3261,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1127876400000,
+      "amount": 0.98,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1113274800000,
+      "amount": 0.42,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1082343600000,
+      "amount": 0.86,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1069380000000,
+      "amount": 0.86,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

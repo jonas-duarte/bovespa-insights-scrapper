@@ -1,0 +1,146 @@
+{
+  "name": "VSTE3",
+  "business": "Tecidos, Vestu�rio e Cal�ados",
+  "currentState": {
+    "price": 16.94,
+    "priceToEarnings": 15.89,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Fundos sob gest�o da WNT Gestora de Recursos",
+        "ordinaryShares": 29.98,
+        "preferredShares": 0,
+        "totalShares": 29.98
+      },
+      {
+        "name": "Banco BTG Pactual S.A.",
+        "ordinaryShares": 18.19,
+        "preferredShares": 0,
+        "totalShares": 18.19
+      },
+      {
+        "name": "Gerib� Participa��es 11 S.A.",
+        "ordinaryShares": 18.09,
+        "preferredShares": 0,
+        "totalShares": 18.09
+      },
+      {
+        "name": "Banco XP S.A.",
+        "ordinaryShares": 11.29,
+        "preferredShares": 0,
+        "totalShares": 11.29
+      },
+      {
+        "name": "Porto Empreendimentos E Participa��es S.A.",
+        "ordinaryShares": 9.52,
+        "preferredShares": 0,
+        "totalShares": 9.52
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1683169200000,
+      "amount": 0.1157,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.4762,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525057200000,
+      "amount": 0.9353,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525057200000,
+      "amount": 0.9353,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1416535200000,
+      "amount": 0.2286,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1363316400000,
+      "amount": 0.0583,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1326160800000,
+      "amount": 0.1752,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1292896800000,
+      "amount": 0.3535,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1281927600000,
+      "amount": 0.1252,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1274065200000,
+      "amount": 0.0525,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.0102,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1258509600000,
+      "amount": 0.1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.2594,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

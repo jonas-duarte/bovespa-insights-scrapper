@@ -1,0 +1,158 @@
+{
+  "name": "MSPA3",
+  "business": "Papel e Celulose",
+  "currentState": {
+    "price": 46.25,
+    "priceToEarnings": -59.39,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "ERGELA PARTICIPACOES LTDA",
+        "ordinaryShares": 21.69,
+        "preferredShares": 10.77,
+        "totalShares": 20.37
+      },
+      {
+        "name": "HDW AGRO PECUARIA E PARTICIPA��ES LTDA",
+        "ordinaryShares": 20.05,
+        "preferredShares": 2.81,
+        "totalShares": 17.96
+      },
+      {
+        "name": "INGOJUCAR PARTICIPACOES LTDA",
+        "ordinaryShares": 17.29,
+        "preferredShares": 12.23,
+        "totalShares": 16.68
+      },
+      {
+        "name": "BRUPAN PARTICIPACOES LTDA",
+        "ordinaryShares": 13.81,
+        "preferredShares": 2.59,
+        "totalShares": 12.45
+      },
+      {
+        "name": "WALADI PARTICIPACOES LTDA",
+        "ordinaryShares": 12.03,
+        "preferredShares": 0.02,
+        "totalShares": 10.58
+      },
+      {
+        "name": "Ana Maria de Moraes Velloso",
+        "ordinaryShares": 8.95,
+        "preferredShares": 3.02,
+        "totalShares": 8.24
+      },
+      {
+        "name": "DORA CARMEN A S WEIZFLOG",
+        "ordinaryShares": 0.19,
+        "preferredShares": 0.23,
+        "totalShares": 0.19
+      },
+      {
+        "name": "Alfredo Weiszflog",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0.03,
+        "totalShares": 0.03
+      },
+      {
+        "name": "Walter Weiszflog",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0.03,
+        "totalShares": 0.03
+      },
+      {
+        "name": "Ingo Pl�ger",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0.03,
+        "totalShares": 0.02
+      },
+      {
+        "name": "Trife Participa��es Ltda",
+        "ordinaryShares": 0.02,
+        "preferredShares": 12.7,
+        "totalShares": 1.55
+      },
+      {
+        "name": "PAULO RENATO FERREIRA VELLOSO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.0554,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556506800000,
+      "amount": 0.4,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1538708400000,
+      "amount": 2.3,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525057200000,
+      "amount": 2.85,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1494558000000,
+      "amount": 2.83,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1494558000000,
+      "amount": 2.82,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1472180400000,
+      "amount": 1.19,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

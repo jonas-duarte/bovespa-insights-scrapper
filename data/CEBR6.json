@@ -1,0 +1,162 @@
+{
+  "name": "CEBR6",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 12.6,
+    "priceToEarnings": 4.33,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "DISTRITO FEDERAL",
+        "ordinaryShares": 93.2,
+        "preferredShares": 67.19,
+        "totalShares": 80.15
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682996400000,
+      "amount": 1.6405,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651028400000,
+      "amount": 3.896,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1634180400000,
+      "amount": 2.4477,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1634180400000,
+      "amount": 61.2598,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1620183600000,
+      "amount": 40.5924,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1595818800000,
+      "amount": 1.835,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1557111600000,
+      "amount": 0.0532,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525402800000,
+      "amount": 0.2023,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1417053600000,
+      "amount": 42.8,
+      "type": "SUBSCRICAO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 3.7693,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.6884,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1021431600000,
+      "amount": 1.6678,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1021431600000,
+      "amount": 0.0649,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1021431600000,
+      "amount": 0.0258,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 988599600000,
+      "amount": 0.5684,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 988599600000,
+      "amount": 0.0728,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 988599600000,
+      "amount": 0.0289,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956718000000,
+      "amount": 0.3464,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956718000000,
+      "amount": 0.0769,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956718000000,
+      "amount": 0.0306,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 927255600000,
+      "amount": 1.1359,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

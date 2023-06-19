@@ -1,0 +1,89 @@
+{
+  "name": "IGBR3",
+  "business": "Explora��o de Im�veis",
+  "currentState": {
+    "price": 175.99,
+    "priceToEarnings": 0.56,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "HAG Holding Ltda.",
+        "ordinaryShares": 51,
+        "preferredShares": 0,
+        "totalShares": 51
+      },
+      {
+        "name": "Antonio Jos� de Jesus Faustino",
+        "ordinaryShares": 11.39,
+        "preferredShares": 0,
+        "totalShares": 11.39
+      },
+      {
+        "name": "Moris Arditti",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1020049200000,
+      "amount": 2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 988254000000,
+      "amount": 11.0238,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 862369200000,
+      "amount": 4.34,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 830833200000,
+      "amount": 6.06,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

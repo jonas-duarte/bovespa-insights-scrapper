@@ -1,0 +1,74 @@
+{
+  "name": "OSXB3",
+  "business": "Equipamentos e Servi�os",
+  "currentState": {
+    "price": 5.27,
+    "priceToEarnings": -0.06,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Centennial Asset Mining Fund LLC",
+        "ordinaryShares": 22.54,
+        "preferredShares": 0,
+        "totalShares": 22.54
+      },
+      {
+        "name": "Centennial Asset Mining Fund LLC - Itau Unibanco S.A.",
+        "ordinaryShares": 14.42,
+        "preferredShares": 0,
+        "totalShares": 14.42
+      },
+      {
+        "name": "Eike Fuhrken Batista",
+        "ordinaryShares": 12.47,
+        "preferredShares": 0,
+        "totalShares": 12.47
+      },
+      {
+        "name": "Roberto Lombardi de Barros",
+        "ordinaryShares": 9.66,
+        "preferredShares": 0,
+        "totalShares": 9.66
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

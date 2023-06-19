@@ -1,0 +1,266 @@
+{
+  "name": "DOHL4",
+  "business": "Fios e Tecidos",
+  "currentState": {
+    "price": 5.76,
+    "priceToEarnings": 2.673,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Cesar Pereira D�hler",
+        "ordinaryShares": 20.88,
+        "preferredShares": 13.54,
+        "totalShares": 18.83
+      },
+      {
+        "name": "Anke D�hler Beck",
+        "ordinaryShares": 20.79,
+        "preferredShares": 10.67,
+        "totalShares": 17.96
+      },
+      {
+        "name": "Cardopar Participa��es Ltda.",
+        "ordinaryShares": 9.76,
+        "preferredShares": 5.58,
+        "totalShares": 8.59
+      },
+      {
+        "name": "Eldopar Participa��es Ltda.",
+        "ordinaryShares": 9.76,
+        "preferredShares": 5.58,
+        "totalShares": 8.59
+      },
+      {
+        "name": "JMGR Participa��es Ltda.",
+        "ordinaryShares": 7.77,
+        "preferredShares": 4.55,
+        "totalShares": 6.87
+      },
+      {
+        "name": "AMR Participa��es Ltda.",
+        "ordinaryShares": 5.68,
+        "preferredShares": 1.65,
+        "totalShares": 4.55
+      },
+      {
+        "name": "MAM Participa��es Ltda.",
+        "ordinaryShares": 5.68,
+        "preferredShares": 1.65,
+        "totalShares": 4.55
+      },
+      {
+        "name": "Marcos Werner Schmalz",
+        "ordinaryShares": 5.17,
+        "preferredShares": 2.4,
+        "totalShares": 4.4
+      },
+      {
+        "name": "Belvedere Renoir Fundo de Investimentos em Acoes",
+        "ordinaryShares": 0,
+        "preferredShares": 7.6,
+        "totalShares": 2.13
+      },
+      {
+        "name": "CLUBE DE INVESTIMENTOS PROFIT",
+        "ordinaryShares": 0,
+        "preferredShares": 7.07,
+        "totalShares": 1.98
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1652065200000,
+      "amount": 0.132,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1632970800000,
+      "amount": 0.0946,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1625022000000,
+      "amount": 0.088,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1620183600000,
+      "amount": 0.022,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1606964400000,
+      "amount": 0.3113,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1595991600000,
+      "amount": 0.143,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1545184800000,
+      "amount": 0.22,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1513821600000,
+      "amount": 0.198,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1450317600000,
+      "amount": 0.099,
+      "type": "JUROS"
+    },
+    {
+      "date": 1418868000000,
+      "amount": 0.198,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1387159200000,
+      "amount": 0.2365,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1355882400000,
+      "amount": 0.1925,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1324000800000,
+      "amount": 0.198,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1292810400000,
+      "amount": 1.298,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1271386800000,
+      "amount": 0.66,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1238382000000,
+      "amount": 1.1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1206932400000,
+      "amount": 0.04,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1206932400000,
+      "amount": 0.004,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1114657200000,
+      "amount": 1.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1103248800000,
+      "amount": 11.5,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1083121200000,
+      "amount": 1.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1071540000000,
+      "amount": 11.5,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1049770800000,
+      "amount": 1.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1040004000000,
+      "amount": 15,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1008295200000,
+      "amount": 15,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 977104800000,
+      "amount": 14,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 945655200000,
+      "amount": 14,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 923281200000,
+      "amount": 6,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 893300400000,
+      "amount": 6,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 861937200000,
+      "amount": 10,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 831092400000,
+      "amount": 14,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

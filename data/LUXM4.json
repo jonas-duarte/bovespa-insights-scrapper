@@ -1,0 +1,270 @@
+{
+  "name": "LUXM4",
+  "business": "Transporte Hidrovi�rio",
+  "currentState": {
+    "price": 21.49,
+    "priceToEarnings": 41.62,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Glarus S. A.",
+        "ordinaryShares": 38.03,
+        "preferredShares": 14.76,
+        "totalShares": 25.05
+      },
+      {
+        "name": "Becker Participa��es S.A.",
+        "ordinaryShares": 23.59,
+        "preferredShares": 0,
+        "totalShares": 10.43
+      },
+      {
+        "name": "EL Participa��es S.A.",
+        "ordinaryShares": 14.54,
+        "preferredShares": 0,
+        "totalShares": 6.43
+      },
+      {
+        "name": "SCMG Participa��es Ltda.",
+        "ordinaryShares": 6.34,
+        "preferredShares": 0,
+        "totalShares": 2.8
+      },
+      {
+        "name": "SIMG PARTICIPA��ES LTDA",
+        "ordinaryShares": 6.34,
+        "preferredShares": 0,
+        "totalShares": 2.8
+      },
+      {
+        "name": "Eliana Logemann",
+        "ordinaryShares": 0,
+        "preferredShares": 0.82,
+        "totalShares": 0.46
+      },
+      {
+        "name": "Fernando Ferreira Becker",
+        "ordinaryShares": 0,
+        "preferredShares": 15.54,
+        "totalShares": 8.67
+      },
+      {
+        "name": "JORGE LINDEMANN",
+        "ordinaryShares": 0,
+        "preferredShares": 0.82,
+        "totalShares": 0.46
+      },
+      {
+        "name": "JORGE LUIZ SILVA LOGEMANN",
+        "ordinaryShares": 0,
+        "preferredShares": 3.89,
+        "totalShares": 2.17
+      },
+      {
+        "name": "Roberto Lindemann",
+        "ordinaryShares": 0,
+        "preferredShares": 0.82,
+        "totalShares": 0.46
+      },
+      {
+        "name": "ROGERIO POHLMANN LIVI",
+        "ordinaryShares": 0,
+        "preferredShares": 0.03,
+        "totalShares": 0.02
+      },
+      {
+        "name": "Sandra In�s Mallmann Guariglia",
+        "ordinaryShares": 0,
+        "preferredShares": 3.73,
+        "totalShares": 2.08
+      },
+      {
+        "name": "Silvia Christina Mallmann Guariglia",
+        "ordinaryShares": 0,
+        "preferredShares": 4.34,
+        "totalShares": 2.42
+      },
+      {
+        "name": "S�lvia Helena Becker Livi",
+        "ordinaryShares": 0,
+        "preferredShares": 9.7,
+        "totalShares": 5.41
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682564400000,
+      "amount": 0.5945,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651114800000,
+      "amount": 0.6963,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619492400000,
+      "amount": 1.2031,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619060400000,
+      "amount": 0.404,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1596596400000,
+      "amount": 2.707,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1596164400000,
+      "amount": 1.964,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1572490800000,
+      "amount": 1.4037,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.4675,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524798000000,
+      "amount": 0.3964,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.7519,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461812400000,
+      "amount": 0.715,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430190000000,
+      "amount": 1.2982,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 1.2001,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.968,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.954,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.724,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1271991600000,
+      "amount": 0.412,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240801200000,
+      "amount": 0.209,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209351600000,
+      "amount": 0.715,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177383600000,
+      "amount": 0.297,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1145329200000,
+      "amount": 0.33,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1114398000000,
+      "amount": 0.1019,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1080270000000,
+      "amount": 0.088,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1048561200000,
+      "amount": 0.0714,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1017802800000,
+      "amount": 0.0462,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 984452400000,
+      "amount": 0.23,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 897274800000,
+      "amount": 0.061,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

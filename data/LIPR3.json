@@ -1,0 +1,202 @@
+{
+  "name": "LIPR3",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 72.8,
+    "priceToEarnings": 31.7,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Centrais El�tricas Brasileiras S.A. � ELETROBR�S",
+        "ordinaryShares": 83.71,
+        "preferredShares": 0,
+        "totalShares": 83.71
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 1.8204,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1682650800000,
+      "amount": 0.5481,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650596400000,
+      "amount": 1.5587,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650596400000,
+      "amount": 0.2058,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1625626800000,
+      "amount": 0.3137,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1617937200000,
+      "amount": 0.5926,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1617937200000,
+      "amount": 0.7863,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1617937200000,
+      "amount": 0.3211,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1555038000000,
+      "amount": 1.8471,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1555038000000,
+      "amount": 0.266,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1534993200000,
+      "amount": 3.9802,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1523588400000,
+      "amount": 0.2801,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1523588400000,
+      "amount": 2.3752,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1523588400000,
+      "amount": 0.7917,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1490670000000,
+      "amount": 0.7195,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1459393200000,
+      "amount": 0.3523,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1459393200000,
+      "amount": 0.1174,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1396234800000,
+      "amount": 0.2041,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1396234800000,
+      "amount": 0.068,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1364353200000,
+      "amount": 0.8144,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1364353200000,
+      "amount": 0.2715,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1333335600000,
+      "amount": 1.4326,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1333335600000,
+      "amount": 0.4775,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1305255600000,
+      "amount": 0.6937,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1305255600000,
+      "amount": 0.2312,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1270004400000,
+      "amount": 0.0651,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1238122800000,
+      "amount": 0.975,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 891486000000,
+      "amount": 1.1131,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 862196400000,
+      "amount": 1.4477,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

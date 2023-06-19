@@ -1,0 +1,129 @@
+{
+  "name": "CRDE3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 16,
+    "priceToEarnings": 4.87,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "TOTAL LOG PLANEJAMENTO E PARTICIPACOES LTDA",
+        "ordinaryShares": 44.63,
+        "preferredShares": 0,
+        "totalShares": 44.63
+      },
+      {
+        "name": "SQUADRA INVESTIMENTOS - GEST�O DE RECURSOS LTDA.",
+        "ordinaryShares": 18.58,
+        "preferredShares": 0,
+        "totalShares": 18.58
+      },
+      {
+        "name": "Carlos Antonio Guedes Valente",
+        "ordinaryShares": 11.01,
+        "preferredShares": 0,
+        "totalShares": 11.01
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1589338800000,
+      "amount": 2.065,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1589338800000,
+      "amount": 2.065,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1585710000000,
+      "amount": 10.32,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1430103600000,
+      "amount": 1,
+      "type": "Restituição de capital"
+    },
+    {
+      "date": 1430103600000,
+      "amount": 0.25,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1335754800000,
+      "amount": 0.0363,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304305200000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1290045600000,
+      "amount": 0.39,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.0777,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1230256800000,
+      "amount": 0.1951,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1218769200000,
+      "amount": 0.2437,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1196042400000,
+      "amount": 0.0076,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

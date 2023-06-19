@@ -1,0 +1,309 @@
+{
+  "name": "IGTI3",
+  "business": "Explora��o de Im�veis",
+  "currentState": {
+    "price": 2.81,
+    "priceToEarnings": 81.31,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "GJ Investimentos e Participa��es S.A.",
+        "ordinaryShares": 62.5,
+        "preferredShares": 1.61,
+        "totalShares": 40.64
+      },
+      {
+        "name": "NORGES BANK",
+        "ordinaryShares": 2.89,
+        "preferredShares": 10.75,
+        "totalShares": 5.71
+      },
+      {
+        "name": "Vera Ribeiro Jereissati",
+        "ordinaryShares": 1.73,
+        "preferredShares": 0,
+        "totalShares": 1.11
+      },
+      {
+        "name": "DIANA JEREISSATI LEGEY",
+        "ordinaryShares": 1.73,
+        "preferredShares": 0,
+        "totalShares": 1.11
+      },
+      {
+        "name": "LIA RIBEIRO JEREISSATI",
+        "ordinaryShares": 1.72,
+        "preferredShares": 0,
+        "totalShares": 1.11
+      },
+      {
+        "name": "Oceana Investimentos Administradora de Carteira de Valores Mobili�rios Ltda",
+        "ordinaryShares": 1.47,
+        "preferredShares": 5.26,
+        "totalShares": 2.83
+      },
+      {
+        "name": "BlackRock",
+        "ordinaryShares": 1.38,
+        "preferredShares": 4.93,
+        "totalShares": 2.65
+      },
+      {
+        "name": "Kalila Representa��es Comerciais Ltda",
+        "ordinaryShares": 0.18,
+        "preferredShares": 0.3,
+        "totalShares": 0.23
+      },
+      {
+        "name": "Grande Moinho Cearense S.A.",
+        "ordinaryShares": 0.11,
+        "preferredShares": 0,
+        "totalShares": 0.07
+      },
+      {
+        "name": "Cesena SP Empreendimentos Imobili�rios S.A.",
+        "ordinaryShares": 0.05,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "LFJ Participa��es Ltda",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      },
+      {
+        "name": "MLRJ Imobili�ria S.A.",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Shopping Center Reunidos do Brasil Ltda. (�SCRB�)",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681959600000,
+      "amount": 0.0131,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1681959600000,
+      "amount": 0.0131,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1681959600000,
+      "amount": 0.0131,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1677812400000,
+      "amount": 0.0131,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.0163,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.0163,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.0163,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619492400000,
+      "amount": 0.0569,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619492400000,
+      "amount": 0.0569,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1594177200000,
+      "amount": 0.1138,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1555902000000,
+      "amount": 0.1991,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1555902000000,
+      "amount": 0.1991,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524711600000,
+      "amount": 0.1991,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524711600000,
+      "amount": 0.1991,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1500001200000,
+      "amount": 0.45,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1493262000000,
+      "amount": 0.1495,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 0.0219,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.0992,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.0173,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1309489200000,
+      "amount": 0.1462,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1309489200000,
+      "amount": 0.0109,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.016,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240974000000,
+      "amount": 0.0178,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209351600000,
+      "amount": 0.0157,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177556400000,
+      "amount": 0.0112,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1164333600000,
+      "amount": 0.0034,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1083207600000,
+      "amount": 0.0153,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1051239600000,
+      "amount": 0.0141,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1020049200000,
+      "amount": 0.0117,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956804400000,
+      "amount": 0.0333,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956804400000,
+      "amount": 0.0222,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 925354800000,
+      "amount": 0.0584,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 893818800000,
+      "amount": 0.0519,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 855194400000,
+      "amount": 0.0968,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 855194400000,
+      "amount": 0.0089,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 830833200000,
+      "amount": 0.0783,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

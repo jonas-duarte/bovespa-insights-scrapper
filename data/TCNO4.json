@@ -1,0 +1,629 @@
+{
+  "name": "TCNO4",
+  "business": "Engenharia Consultiva",
+  "currentState": {
+    "price": 0.85,
+    "priceToEarnings": -4.82,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "K�TIA MOSSO FERREIRA",
+        "ordinaryShares": 15.61,
+        "preferredShares": 0,
+        "totalShares": 5.55
+      },
+      {
+        "name": "CARLOS RIBEIRO MOSSO",
+        "ordinaryShares": 6.68,
+        "preferredShares": 0.94,
+        "totalShares": 2.98
+      },
+      {
+        "name": "CARLOS AUGUSTO MOSSO",
+        "ordinaryShares": 3,
+        "preferredShares": 0,
+        "totalShares": 1.07
+      },
+      {
+        "name": "REGINA CELI RIBEIRO MOSSO",
+        "ordinaryShares": 2.26,
+        "preferredShares": 0,
+        "totalShares": 0.81
+      },
+      {
+        "name": "ANTONIO JOS� DA COSTA NUNES",
+        "ordinaryShares": 0.93,
+        "preferredShares": 0.01,
+        "totalShares": 0.34
+      },
+      {
+        "name": "RAMON MENDES FERREIRA",
+        "ordinaryShares": 0.14,
+        "preferredShares": 0,
+        "totalShares": 0.05
+      },
+      {
+        "name": "Leonardo C.de M. Camacho",
+        "ordinaryShares": 0.05,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      },
+      {
+        "name": "ROGERIO WANDERLEY DE AGUIAR",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "KOSHITIRO TOKUTAKE",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "WILSON SILVA DA ROCHA",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "FLAVIA MART�O FLORIO",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "MARCELO SENGES CARNEIRO",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "MARIA GL�RIA NUNES DO AMARAL",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "CARLA SIMONE CAMACHO CARNEIRO",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "MATHEUS CHAUD DE CASTRO QUINTA",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "TECNOSOLO ENGENHARIA S/A",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "ANTONIO JOAQUIM COELHO",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ARMANDO ROBERT",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "J�LIO CEZAR COSTA NUNES",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "CRISTIANE C. DE MORAES CAMACHO",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ALCINDO PINTO",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "CELIO DE ALENCAR LIMA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "FLORIANO GUILHERME FERREIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "WILLIAM DA SILVA E SILVA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ALTINO TEIXEIRA DE CARVALHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0.03,
+        "totalShares": 0.02
+      },
+      {
+        "name": "ANDR� KRIEGER LOBO BACELAR",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ANTONIO CARLOS DOS SANTOS",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "C�CERO ORLANDO CARNEIRO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "JOS� LUIZ COUTO DE SOUZA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ALBINO DE ALMEIDA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.05,
+        "totalShares": 0.03
+      },
+      {
+        "name": "�LVARO RODRIGUES",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ANA CONSUELO OLIVEIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ANDR� LUIZ RODRIGUES VAZ",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      },
+      {
+        "name": "ANDR� LUIZ V COSTA SILVA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ANTONIO EM�LIO ALMEIDA MELLO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ANTONIO R GOMES SILVA FILHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ANTONIO STEFANON",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ANTONIO VIEIRA MOREIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ARNALDO MAJOWKA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      },
+      {
+        "name": "ASSOC FUNC TECN TECNOCLUBE",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0
+      },
+      {
+        "name": "AUGUSTO ALVES DE OLIVEIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.19,
+        "totalShares": 0.12
+      },
+      {
+        "name": "CARLOS AIETA O S MACHADO AIETA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      },
+      {
+        "name": "CARLOS EDMUNDO METELO NEVES",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0
+      },
+      {
+        "name": "CARLOS ROBERTO DE OLIVEIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "DANILO DIAS CORREA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "DENNY BEZERRA ALCANTARA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.05,
+        "totalShares": 0.04
+      },
+      {
+        "name": "DILSON SEABRA ROCHA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      },
+      {
+        "name": "EDY DE MAGALH�ES",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "EURICO ANTONIO DA COSTA BRAGA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "EVARISTO SOARES CONFORT",
+        "ordinaryShares": 0,
+        "preferredShares": 0.02,
+        "totalShares": 0.02
+      },
+      {
+        "name": "FRANCISCO PAULO MAGALDI",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "FREDEMAR DE ANDRADE",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0
+      },
+      {
+        "name": "GREG�RIO SCHACHTER",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      },
+      {
+        "name": "H�LIO NELSON LUCZYSZYN",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "H�LIO SZNEJDER",
+        "ordinaryShares": 0,
+        "preferredShares": 0.1,
+        "totalShares": 0.06
+      },
+      {
+        "name": "INEZILA GUIMAR�ES SILVEIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "JACQUES MICHAAN",
+        "ordinaryShares": 0,
+        "preferredShares": 0.62,
+        "totalShares": 0.4
+      },
+      {
+        "name": "JAIME POMELA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "JEFFERSON SILVA SANTOS",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "JERUSA MARIA MATUCK",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "JOHANNES KABDERIAN DREYER",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "JORGE ALBERTO SPOERI NATHAN",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0
+      },
+      {
+        "name": "JORGE CURTINHAS DA SILVA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      },
+      {
+        "name": "JOS� ANTONIO SEVERINO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "J�LIO C�SAR DE LEMOS VAZ",
+        "ordinaryShares": 0,
+        "preferredShares": 0.02,
+        "totalShares": 0.01
+      },
+      {
+        "name": "LUCIANO TEIXEIRA DE OLIVEIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "LUIZ ANTONIO MACHADO ALVES",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "LUIZ GONZAGA PEREIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0
+      },
+      {
+        "name": "MARCELO QUEIROZ PESSOA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "M�RCIA JOS� GALDINHO SANTOS",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "MARCO ANTONIO LOPES",
+        "ordinaryShares": 0,
+        "preferredShares": 0.03,
+        "totalShares": 0.02
+      },
+      {
+        "name": "MARIA C�LIA VIEIRA LOUZADA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      },
+      {
+        "name": "MARTA FLORES MOREIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.06,
+        "totalShares": 0.04
+      },
+      {
+        "name": "NEIL ADILSON NUNES DOS SANTOS",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "NELSON ALEXANDRE DE CARVALHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "RAPHAEL ANTHONY GOMES DE OLIVEIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "REGINA DOS SANTOS O BARRAL",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ROBERTO LOPES PEREZ",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "SILVIO EDUARDO ROSSI",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "SOAVES SOC AVIC DIST AB LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.04,
+        "totalShares": 0.02
+      },
+      {
+        "name": "SOLANGE THEREZA SALGUEIRO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "TEREZINHA DE JESUS FERREIRA PINHEIRO",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0
+      },
+      {
+        "name": "YOSHIO ODA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.18,
+        "totalShares": 0.12
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1430794800000,
+      "amount": 0.007,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1430794800000,
+      "amount": 0.0009,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335754800000,
+      "amount": 0.003,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.0075,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.0004,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209351600000,
+      "amount": 0.0229,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177642800000,
+      "amount": 0.5091,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1146193200000,
+      "amount": 0.1308,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1114743600000,
+      "amount": 0.0728,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1083207600000,
+      "amount": 0.0211,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1070503200000,
+      "amount": 0.0152,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956804400000,
+      "amount": 0.0453,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 925268400000,
+      "amount": 0.116,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 893646000000,
+      "amount": 0.1754,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 862196400000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 830833200000,
+      "amount": 0.05,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

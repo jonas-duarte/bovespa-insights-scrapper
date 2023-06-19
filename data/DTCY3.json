@@ -1,0 +1,86 @@
+{
+  "name": "DTCY3",
+  "business": "Servi�os Diversos",
+  "currentState": {
+    "price": 5.8,
+    "priceToEarnings": 156.32,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Ouro Verde Participa��es S/A",
+        "ordinaryShares": 34.42,
+        "preferredShares": 15.91,
+        "totalShares": 33.67
+      },
+      {
+        "name": "AUGUSTUS ADMINISTRACAO S/A",
+        "ordinaryShares": 19.49,
+        "preferredShares": 28.56,
+        "totalShares": 19.86
+      },
+      {
+        "name": "LEONARDO PETRELLI NETO",
+        "ordinaryShares": 12.63,
+        "preferredShares": 5.69,
+        "totalShares": 12.35
+      },
+      {
+        "name": "TERRA NOVA EMPREENDIMENTOS E CONSULTORIA S.A. (nova denom. social de RIC Empreend.)",
+        "ordinaryShares": 12.52,
+        "preferredShares": 30.08,
+        "totalShares": 13.23
+      },
+      {
+        "name": "MONGERAL AEGON SEGUROS E PREVIDENCIA S.A.",
+        "ordinaryShares": 5.82,
+        "preferredShares": 1.9,
+        "totalShares": 5.66
+      },
+      {
+        "name": "F MOTA ADMINISTRACAO E EMPREENDIMENTOS S/A",
+        "ordinaryShares": 4.48,
+        "preferredShares": 7.04,
+        "totalShares": 4.58
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

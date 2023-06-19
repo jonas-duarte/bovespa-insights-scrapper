@@ -1,0 +1,195 @@
+{
+  "name": "PTNT3",
+  "business": "Fios e Tecidos",
+  "currentState": {
+    "price": 8.69,
+    "priceToEarnings": 9.07,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "GLADIUM ADMINISTRA��O E PARTICIPA��ES LTDA",
+        "ordinaryShares": 97.6,
+        "preferredShares": 1.42,
+        "totalShares": 33.48
+      },
+      {
+        "name": "Santiago Santos Gottschall",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0.78,
+        "totalShares": 0.56
+      },
+      {
+        "name": "RAUL WELSCH",
+        "ordinaryShares": 0.01,
+        "preferredShares": 5.74,
+        "totalShares": 3.83
+      },
+      {
+        "name": "BRAZILIAN INDUSTRIAL IC",
+        "ordinaryShares": 0,
+        "preferredShares": 5.42,
+        "totalShares": 3.62
+      },
+      {
+        "name": "Clube de Investimentos Sol",
+        "ordinaryShares": 0,
+        "preferredShares": 32.2,
+        "totalShares": 21.46
+      },
+      {
+        "name": "ELTON UGHINI",
+        "ordinaryShares": 0,
+        "preferredShares": 5.96,
+        "totalShares": 3.98
+      },
+      {
+        "name": "TRIGONO HORIZON MICROCAP MASTER FIA",
+        "ordinaryShares": 0,
+        "preferredShares": 2.39,
+        "totalShares": 1.59
+      },
+      {
+        "name": "WALTER APPEL",
+        "ordinaryShares": 0,
+        "preferredShares": 7.74,
+        "totalShares": 5.16
+      },
+      {
+        "name": "WELLINGTON ARAUJO DE OLIVEIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 4.79,
+        "totalShares": 3.2
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1667530800000,
+      "amount": 0.3187,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1635476400000,
+      "amount": 0.2027,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1572922800000,
+      "amount": 0.0726,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1559617200000,
+      "amount": 0.1041,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1541383200000,
+      "amount": 0.1499,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1509501600000,
+      "amount": 0.1249,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1478138400000,
+      "amount": 0.1249,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1446084000000,
+      "amount": 0.1249,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1414634400000,
+      "amount": 0.1249,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1382580000000,
+      "amount": 0.1249,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1288576800000,
+      "amount": 0.4303,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1288576800000,
+      "amount": 0.0824,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1256781600000,
+      "amount": 0.4146,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1224727200000,
+      "amount": 0.3746,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1193277600000,
+      "amount": 0.398,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1099018800000,
+      "amount": 3.7464,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 988599600000,
+      "amount": 4.0068,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 956890800000,
+      "amount": 4.0068,
+      "type": "JRS CAP PR�PRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

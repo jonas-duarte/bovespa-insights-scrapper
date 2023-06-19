@@ -1,0 +1,206 @@
+{
+  "name": "BAHI3",
+  "business": "Servi�os Educacionais",
+  "currentState": {
+    "price": 8.78,
+    "priceToEarnings": -1.93,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "JV EDUCACAO FI EM PART MULTIESTRATEGIA",
+        "ordinaryShares": 31.41,
+        "preferredShares": 0,
+        "totalShares": 31.41
+      },
+      {
+        "name": "Fairfax Brasil Seguros Corporativos S.A.",
+        "ordinaryShares": 21.19,
+        "preferredShares": 0,
+        "totalShares": 21.19
+      },
+      {
+        "name": "Mint Educa��o Fundo de Investimento em A��es",
+        "ordinaryShares": 13.2,
+        "preferredShares": 0,
+        "totalShares": 13.2
+      },
+      {
+        "name": "AGATHOS - PARTICIPACOES E EMPREENDIMENTOS S.A.",
+        "ordinaryShares": 5.07,
+        "preferredShares": 0,
+        "totalShares": 5.07
+      },
+      {
+        "name": "Guilherme Affonso Ferreira Filho",
+        "ordinaryShares": 3.2,
+        "preferredShares": 0,
+        "totalShares": 3.2
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1494558000000,
+      "amount": 0.6419,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1429758000000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1364439600000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1334026800000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1287972000000,
+      "amount": 2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1274410800000,
+      "amount": 2.2233,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1220324400000,
+      "amount": 0.825,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1205118000000,
+      "amount": 1.65,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1186455600000,
+      "amount": 1.482,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1172631600000,
+      "amount": 1.368,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1158289200000,
+      "amount": 1.14,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1141700400000,
+      "amount": 0.95,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1109127600000,
+      "amount": 0.5333,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1080010800000,
+      "amount": 6,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1080010800000,
+      "amount": 5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1080010800000,
+      "amount": 4,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1061780400000,
+      "amount": 4.6,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1061780400000,
+      "amount": 4.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1061780400000,
+      "amount": 4.4,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1012183200000,
+      "amount": 5,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 925441200000,
+      "amount": 0.9114,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 893905200000,
+      "amount": 1.7736,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 871873200000,
+      "amount": 1.4362,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 827204400000,
+      "amount": 0.8,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

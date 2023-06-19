@@ -1,0 +1,113 @@
+{
+  "name": "CALI3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 11.11,
+    "priceToEarnings": 3.29,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Lindenberg Investimentos Ltda.",
+        "ordinaryShares": 87.82,
+        "preferredShares": 0,
+        "totalShares": 87.82
+      },
+      {
+        "name": "Marcos Ribeiro Simon",
+        "ordinaryShares": 6.09,
+        "preferredShares": 0,
+        "totalShares": 6.09
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682305200000,
+      "amount": 0.4468,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1649041200000,
+      "amount": 4.3199,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524452400000,
+      "amount": 2.9383,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1490151600000,
+      "amount": 2.464,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1458615600000,
+      "amount": 9.3095,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1427770800000,
+      "amount": 5.3234,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 7.79,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 8.45,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 835066800000,
+      "amount": 3.0022,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 835066800000,
+      "amount": 1.2369,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

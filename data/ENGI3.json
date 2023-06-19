@@ -1,0 +1,240 @@
+{
+  "name": "ENGI3",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 12.91,
+    "priceToEarnings": 12.97,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Gipar S/A",
+        "ordinaryShares": 62.9,
+        "preferredShares": 4.87,
+        "totalShares": 27.67
+      },
+      {
+        "name": "BNDES PARTICIPA��ES S/A BNDESPAR",
+        "ordinaryShares": 5.8,
+        "preferredShares": 15,
+        "totalShares": 11.39
+      },
+      {
+        "name": "Samambaia Master Fundo de Investimento em A��es no Exterior - BDR N�vel I",
+        "ordinaryShares": 5,
+        "preferredShares": 12.93,
+        "totalShares": 9.81
+      },
+      {
+        "name": "BLACKROCK ASSET MANAG IR LT I ITS CAP A M F T BKR I S FD",
+        "ordinaryShares": 1.94,
+        "preferredShares": 5.03,
+        "totalShares": 3.82
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1679367600000,
+      "amount": 0.16,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1661223600000,
+      "amount": 0.232,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1640833200000,
+      "amount": 0.44,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1629169200000,
+      "amount": 0.13,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1616122800000,
+      "amount": 0.22,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1597719600000,
+      "amount": 0.056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1582772400000,
+      "amount": 0.064,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1565665200000,
+      "amount": 0.056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1553223600000,
+      "amount": 0.03,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1551236400000,
+      "amount": 0.13,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1534215600000,
+      "amount": 0.056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1519786800000,
+      "amount": 0.1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1502679600000,
+      "amount": 0.056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1487732400000,
+      "amount": 0.0572,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1471402800000,
+      "amount": 0.023,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1456714800000,
+      "amount": 0.0572,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1435546800000,
+      "amount": 0.082,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.107,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1408417200000,
+      "amount": 0.056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1393470000000,
+      "amount": 0.082,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1376017200000,
+      "amount": 0.0233,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1369364400000,
+      "amount": 0.0327,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1359511200000,
+      "amount": 0.103,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1344481200000,
+      "amount": 0.056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1332298800000,
+      "amount": 0.04,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1313722800000,
+      "amount": 0.056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1299034800000,
+      "amount": 0.033,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1284692400000,
+      "amount": 0.056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1268276400000,
+      "amount": 0.033,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1256176800000,
+      "amount": 0.08,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1220497200000,
+      "amount": 0.26,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1205377200000,
+      "amount": 0.4,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1187838000000,
+      "amount": 0.3,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

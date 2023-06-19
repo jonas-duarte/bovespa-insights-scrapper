@@ -1,0 +1,141 @@
+{
+  "name": "APER3",
+  "business": "Corretoras de Seguros",
+  "currentState": {
+    "price": 28,
+    "priceToEarnings": 25.48,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Stirling FI Em Participa��es Multiestrategia",
+        "ordinaryShares": 16.8,
+        "preferredShares": 0,
+        "totalShares": 16.8
+      },
+      {
+        "name": "Cesar Augusto Antunes da Silva",
+        "ordinaryShares": 15.23,
+        "preferredShares": 0,
+        "totalShares": 15.23
+      },
+      {
+        "name": "Credit Suisse Securities (Europe) Ltd.",
+        "ordinaryShares": 9.5,
+        "preferredShares": 0,
+        "totalShares": 9.5
+      },
+      {
+        "name": "Patria Investimentos",
+        "ordinaryShares": 9.03,
+        "preferredShares": 0,
+        "totalShares": 9.03
+      },
+      {
+        "name": "BC Gest�o de Recursos Ltda. (\"Brasil Capital\")",
+        "ordinaryShares": 8.65,
+        "preferredShares": 0,
+        "totalShares": 8.65
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.3237,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651114800000,
+      "amount": 0.0692,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1592190000000,
+      "amount": 0.0532,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.026,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.026,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.4365,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1384740000000,
+      "amount": 0.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1376449200000,
+      "amount": 0.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1368586800000,
+      "amount": 0.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367204400000,
+      "amount": 1.125,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1336100400000,
+      "amount": 0.9843,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 3.49,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "name": "AFLT3",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 9.04,
+    "priceToEarnings": 14.54,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Neoenergia S.A",
+        "ordinaryShares": 90.14,
+        "preferredShares": 0,
+        "totalShares": 90.14
+      },
+      {
+        "name": "Iberdrola Energia S.A.",
+        "ordinaryShares": 8.5,
+        "preferredShares": 0,
+        "totalShares": 8.5
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681959600000,
+      "amount": 0.3316,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1681959600000,
+      "amount": 0.1486,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1681959600000,
+      "amount": 0.1141,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650250800000,
+      "amount": 0.2362,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1638500400000,
+      "amount": 0.1904,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1617764400000,
+      "amount": 0.317,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1617764400000,
+      "amount": 0.1226,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1600830000000,
+      "amount": 0.174,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1595991600000,
+      "amount": 0.2947,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1595991600000,
+      "amount": 0.2541,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1576119600000,
+      "amount": 0.1057,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1540263600000,
+      "amount": 0.1044,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1522119600000,
+      "amount": 0.0761,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1505876400000,
+      "amount": 0.1223,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1491966000000,
+      "amount": 0.4756,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1491966000000,
+      "amount": 0.0963,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1473130800000,
+      "amount": 0.1189,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461812400000,
+      "amount": 0.1902,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430190000000,
+      "amount": 0.1247,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1411009200000,
+      "amount": 0.1009,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 0.1501,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1377226800000,
+      "amount": 0.1427,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367204400000,
+      "amount": 0.2664,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1334890800000,
+      "amount": 0.3187,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.2496,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

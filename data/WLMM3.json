@@ -1,0 +1,350 @@
+{
+  "name": "WLMM3",
+  "business": "Material de Transporte",
+  "currentState": {
+    "price": 20,
+    "priceToEarnings": 5.94,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "SAJUTH� RIO PARTIICIPA��ES S.A.",
+        "ordinaryShares": 94.08,
+        "preferredShares": 73.56,
+        "totalShares": 82.9
+      },
+      {
+        "name": "ROGERIO LEOPOLDO MAGALH�ES LEITE JAYANETTI",
+        "ordinaryShares": 0.57,
+        "preferredShares": 2.6,
+        "totalShares": 1.67
+      },
+      {
+        "name": "MARIA ISBELA LEMOS DE MORAES",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0.17,
+        "totalShares": 0.18
+      },
+      {
+        "name": "JO�O FLAVIO TEIXEIRA LEMOS DE MORAES",
+        "ordinaryShares": 0.09,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "WILSON LEMOS DE MORAES NETO",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Esp�lio de WILSON LEMOS DE MORAES",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0.02,
+        "totalShares": 0.02
+      },
+      {
+        "name": "JULIANA LEMOS DE MORES",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "VERA LUCIA BRAND�O COSTA",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "DON ROG�RIO LEMOS DE MORAES MAGALH�ES LEITE JAYANETTI",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "MARIAMA LEMOS DE MORAES MAGALH�ES LEITE JAYANETTI",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "DON LEOPOLDO LEMOS DE MORAES MAGALH�ES LEITE JAYNETTI",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "FELIPE LEMOS DE MORAES",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "DON DAVID LEMOS DE MORAES MAGALH�ES LEITE JAYANETTI",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "JHAYANNA LEMOS DE MORES MAGALH�ES LEITE JAYANETTI",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "WILSON LEMOS DE MORAES JUNIOR",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ISABELLA LEMOS DE MORAES",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "NICOLAS DE PAULA LEMOS DE MORAES",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "TAINA LEMOS DE MORAES FERREIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "ESPOLIO DE MARIA DE LOURDES TEIEIRA DE MORAES",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.245,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1682650800000,
+      "amount": 0.154,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1672974000000,
+      "amount": 0.2604,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1665975600000,
+      "amount": 0.1302,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1657076400000,
+      "amount": 0.0859,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1655953200000,
+      "amount": 0.2669,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.2529,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1649041200000,
+      "amount": 0.0859,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1641524400000,
+      "amount": 0.1172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1633662000000,
+      "amount": 0.0755,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1625454000000,
+      "amount": 0.0755,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.3441,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1617678000000,
+      "amount": 0.0755,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1588215600000,
+      "amount": 0.3198,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.113,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.0766,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.0422,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.036,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1442458800000,
+      "amount": 4.7221,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.9616,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.6661,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.6468,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.3298,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1387245600000,
+      "amount": 1.823,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 1.7545,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.1987,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1329357600000,
+      "amount": 2.02,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.1588,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1286420400000,
+      "amount": 1.605,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.8248,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.3916,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1233021600000,
+      "amount": 2.2743,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1200880800000,
+      "amount": 0.651,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1166407200000,
+      "amount": 0.722,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1132106400000,
+      "amount": 0.846,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1114743600000,
+      "amount": 1.124,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1103508000000,
+      "amount": 0.65,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

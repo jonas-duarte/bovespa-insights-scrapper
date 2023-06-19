@@ -1,0 +1,84 @@
+{
+  "name": "ATOM3",
+  "business": "Outros",
+  "currentState": {
+    "price": 2.54,
+    "priceToEarnings": 15.53,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "EXAME. LTDA.",
+        "ordinaryShares": 34.79,
+        "preferredShares": 0,
+        "totalShares": 34.79
+      },
+      {
+        "name": "WHPH PARTICIPACOES E EMPREENDIMENTOS S.A",
+        "ordinaryShares": 34.79,
+        "preferredShares": 0,
+        "totalShares": 34.79
+      },
+      {
+        "name": "JP TUCHE ASSET MANAGEMENT ADM DE CARTEIRAS LTDA",
+        "ordinaryShares": 5.3,
+        "preferredShares": 0,
+        "totalShares": 5.3
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682305200000,
+      "amount": 0.3204,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.069,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619578800000,
+      "amount": 0.3,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "name": "LOGG3",
+  "business": "Explora��o de Im�veis",
+  "currentState": {
+    "price": 22.32,
+    "priceToEarnings": 8.08,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Conedi Participa��es Ltda.",
+        "ordinaryShares": 24.38,
+        "preferredShares": 0,
+        "totalShares": 24.38
+      },
+      {
+        "name": "Starwood Brasil Fundo de Investimento em Participa��es",
+        "ordinaryShares": 14.75,
+        "preferredShares": 0,
+        "totalShares": 14.75
+      },
+      {
+        "name": "FIDELITY MANAGEMENT RESEARCH COMPANY (FMR LLC)",
+        "ordinaryShares": 9.43,
+        "preferredShares": 0,
+        "totalShares": 9.43
+      },
+      {
+        "name": "Fundo de Investimento em Participa��es Bradesco MPLUS",
+        "ordinaryShares": 7.61,
+        "preferredShares": 0,
+        "totalShares": 7.61
+      },
+      {
+        "name": "Rubens Menin Teixeira de Souza",
+        "ordinaryShares": 6.02,
+        "preferredShares": 0,
+        "totalShares": 6.02
+      },
+      {
+        "name": "Challenger Fundo de Investimentos em A��es",
+        "ordinaryShares": 5.53,
+        "preferredShares": 0,
+        "totalShares": 5.53
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1676257200000,
+      "amount": 0.9178,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1644807600000,
+      "amount": 0.8666,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1614913200000,
+      "amount": 0.3254,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1589857200000,
+      "amount": 0.2117,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1559271600000,
+      "amount": 0.14,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

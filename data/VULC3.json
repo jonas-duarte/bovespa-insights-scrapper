@@ -1,0 +1,168 @@
+{
+  "name": "VULC3",
+  "business": "Cal�ados",
+  "currentState": {
+    "price": 16.56,
+    "priceToEarnings": 8.15,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Gianpega Neg�cios e Participa��es S/A.",
+        "ordinaryShares": 31.81,
+        "preferredShares": 0,
+        "totalShares": 31.81
+      },
+      {
+        "name": "Gold Neg�cios e Participa��es S/A.",
+        "ordinaryShares": 15.23,
+        "preferredShares": 0,
+        "totalShares": 15.23
+      },
+      {
+        "name": "GUEPARDO INVESTIMENTOS LTDA",
+        "ordinaryShares": 10.03,
+        "preferredShares": 0,
+        "totalShares": 10.03
+      },
+      {
+        "name": "Maria Cristina Nunes de Camargo",
+        "ordinaryShares": 5.89,
+        "preferredShares": 0,
+        "totalShares": 5.89
+      },
+      {
+        "name": "Pedro Bartelle",
+        "ordinaryShares": 4.23,
+        "preferredShares": 0,
+        "totalShares": 4.23
+      },
+      {
+        "name": "Pedro Grendene Bartelle",
+        "ordinaryShares": 4.11,
+        "preferredShares": 0,
+        "totalShares": 4.11
+      },
+      {
+        "name": "Giovana Bartelle Velloso",
+        "ordinaryShares": 3.07,
+        "preferredShares": 0,
+        "totalShares": 3.07
+      },
+      {
+        "name": "BARTELLE FUNDO DE INVESTIMENTO DE A��ES - INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 1.79,
+        "preferredShares": 0,
+        "totalShares": 1.79
+      },
+      {
+        "name": "Andre de Camargo Bartelle",
+        "ordinaryShares": 1.56,
+        "preferredShares": 0,
+        "totalShares": 1.56
+      },
+      {
+        "name": "FUNDO DE INVESTIMENTO DE A��ES INVESTIMENTO NO EXTERIOR PGB",
+        "ordinaryShares": 0.84,
+        "preferredShares": 0,
+        "totalShares": 0.84
+      },
+      {
+        "name": "Gabriella de Camargo Bartelle",
+        "ordinaryShares": 0.77,
+        "preferredShares": 0,
+        "totalShares": 0.77
+      },
+      {
+        "name": "L4E FUNDO DE INVESTIMENTO DE A��ES - INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0.65,
+        "preferredShares": 0,
+        "totalShares": 0.65
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1684724400000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1680490800000,
+      "amount": 0.0845,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1668049200000,
+      "amount": 0.37,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1635908400000,
+      "amount": 0.35,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1303700400000,
+      "amount": 0.1037,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.3916,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1243825200000,
+      "amount": 0.6711,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209351600000,
+      "amount": 0.1356,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1178852400000,
+      "amount": 0.1415,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,440 @@
+{
+  "name": "BMEB3",
+  "business": "Bancos",
+  "currentState": {
+    "price": 12.09,
+    "priceToEarnings": 5.72,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "CONSUELO ANDRADE DE ARA�JO (PROPRIEDADE PLENA E USUFRUTO - VIDE ITEM 6.6).",
+        "ordinaryShares": 30.25,
+        "preferredShares": 14.43,
+        "totalShares": 24.19
+      },
+      {
+        "name": "Pedro Henrique de Oliveira",
+        "ordinaryShares": 11.18,
+        "preferredShares": 7.42,
+        "totalShares": 9.74
+      },
+      {
+        "name": "Sociedade Agr�cola Santa Luzia Ltda",
+        "ordinaryShares": 5.89,
+        "preferredShares": 0,
+        "totalShares": 3.64
+      },
+      {
+        "name": "Luiz Henrique Andrade de Ara�jo",
+        "ordinaryShares": 5.05,
+        "preferredShares": 3.25,
+        "totalShares": 4.36
+      },
+      {
+        "name": "Maur�cio de Faria Ara�jo",
+        "ordinaryShares": 4.39,
+        "preferredShares": 0,
+        "totalShares": 2.71
+      },
+      {
+        "name": "Sapil Ltda.",
+        "ordinaryShares": 4.24,
+        "preferredShares": 0,
+        "totalShares": 2.62
+      },
+      {
+        "name": "Renato Augusto de Ara�jo",
+        "ordinaryShares": 4.02,
+        "preferredShares": 0.55,
+        "totalShares": 2.69
+      },
+      {
+        "name": "Lance Empreendimentos e Participa��es Ltda.",
+        "ordinaryShares": 3.95,
+        "preferredShares": 0,
+        "totalShares": 2.44
+      },
+      {
+        "name": "Paulo Henrique Brant de Ara�jo",
+        "ordinaryShares": 3.11,
+        "preferredShares": 0.11,
+        "totalShares": 1.96
+      },
+      {
+        "name": "Marco Ant�nio Andrade de Ara�jo",
+        "ordinaryShares": 2.65,
+        "preferredShares": 6.4,
+        "totalShares": 4.08
+      },
+      {
+        "name": "Yehuda Waisberg",
+        "ordinaryShares": 1.09,
+        "preferredShares": 8.87,
+        "totalShares": 4.07
+      },
+      {
+        "name": "Gustavo Henrique Diniz de Ara�jo",
+        "ordinaryShares": 1.03,
+        "preferredShares": 2.01,
+        "totalShares": 1.4
+      },
+      {
+        "name": "Jose Ribeiro Vianna Neto",
+        "ordinaryShares": 1,
+        "preferredShares": 0.03,
+        "totalShares": 0.63
+      },
+      {
+        "name": "Ana Carolina Andrade de Ara�jo Lima",
+        "ordinaryShares": 0.98,
+        "preferredShares": 0.3,
+        "totalShares": 0.72
+      },
+      {
+        "name": "Sandra Maria de Ara�jo Sim�es",
+        "ordinaryShares": 0.94,
+        "preferredShares": 0.15,
+        "totalShares": 0.64
+      },
+      {
+        "name": "Cristiana Nogueira de Ara�jo",
+        "ordinaryShares": 0.7,
+        "preferredShares": 0,
+        "totalShares": 0.43
+      },
+      {
+        "name": "Clarissa Nogueira de Araujo",
+        "ordinaryShares": 0.45,
+        "preferredShares": 0.19,
+        "totalShares": 0.35
+      },
+      {
+        "name": "MB A��es Mercantil do Brasil FI",
+        "ordinaryShares": 0.27,
+        "preferredShares": 1.8,
+        "totalShares": 0.86
+      },
+      {
+        "name": "MB Fundo de Investimento em A��es Institui��es Financeiras",
+        "ordinaryShares": 0.16,
+        "preferredShares": 3.45,
+        "totalShares": 1.42
+      },
+      {
+        "name": "Maria �ngela de Moura",
+        "ordinaryShares": 0.1,
+        "preferredShares": 1.88,
+        "totalShares": 0.78
+      },
+      {
+        "name": "Daniela de Araujo Coelho",
+        "ordinaryShares": 0.07,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "MB Fundo de Investimentos em A��es",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0.18,
+        "totalShares": 0.09
+      },
+      {
+        "name": "Pedro Ribeiro de Oliveira Neto",
+        "ordinaryShares": 0,
+        "preferredShares": 0.03,
+        "totalShares": 0.01
+      },
+      {
+        "name": "MB Clube de Inv dos Func do Grupo Merc do Brasil",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1678417200000,
+      "amount": 0.2806,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1664766000000,
+      "amount": 0.254,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1645412400000,
+      "amount": 0.2346,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1645412400000,
+      "amount": 0.0325,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1629082800000,
+      "amount": 0.4049,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1613617200000,
+      "amount": 0.7761,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1582686000000,
+      "amount": 0.6238,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1551063600000,
+      "amount": 0.0542,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1471316400000,
+      "amount": 0.3017,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1458183600000,
+      "amount": 0.3,
+      "type": "JUROS"
+    },
+    {
+      "date": 1439348400000,
+      "amount": 0.33,
+      "type": "JUROS"
+    },
+    {
+      "date": 1424311200000,
+      "amount": 0,
+      "type": "Juros"
+    },
+    {
+      "date": 1375930800000,
+      "amount": 0.2986,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1360893600000,
+      "amount": 0.3318,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1344567600000,
+      "amount": 0.3318,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1328839200000,
+      "amount": 0.25,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1312513200000,
+      "amount": 0.52,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1297389600000,
+      "amount": 0.3318,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1281063600000,
+      "amount": 0.8597,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1281063600000,
+      "amount": 0.1922,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1265853600000,
+      "amount": 0.2612,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1248318000000,
+      "amount": 0.2612,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1231984800000,
+      "amount": 0.2541,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1218510000000,
+      "amount": 0.323,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1201572000000,
+      "amount": 0.2544,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1187319600000,
+      "amount": 12.72,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1168912800000,
+      "amount": 12.71,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1156129200000,
+      "amount": 12.71,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1137722400000,
+      "amount": 12.71,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1124420400000,
+      "amount": 12.71,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1105495200000,
+      "amount": 12.35,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1092625200000,
+      "amount": 12.35,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1073613600000,
+      "amount": 12.35,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1061262000000,
+      "amount": 12.35,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1045188000000,
+      "amount": 10.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1029466800000,
+      "amount": 10.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1009504800000,
+      "amount": 12.35,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 994734000000,
+      "amount": 12.35,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 977968800000,
+      "amount": 12.35,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 965012400000,
+      "amount": 12.35,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 946432800000,
+      "amount": 12,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 934772400000,
+      "amount": 10.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 920343600000,
+      "amount": 10.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 903927600000,
+      "amount": 9.18,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 884138400000,
+      "amount": 8.4706,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 871441200000,
+      "amount": 10.5882,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 856753200000,
+      "amount": 12.8,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 841114800000,
+      "amount": 9,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 824094000000,
+      "amount": 10,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

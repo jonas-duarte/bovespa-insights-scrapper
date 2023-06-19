@@ -1,0 +1,85 @@
+{
+  "name": "LVTC3",
+  "business": "Programas e Servi�os",
+  "currentState": {
+    "price": 6.44,
+    "priceToEarnings": 22.07,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Vanderlei Rigatieri Junior",
+        "ordinaryShares": 35.47,
+        "preferredShares": 0,
+        "totalShares": 35.47
+      },
+      {
+        "name": "2B Capital � Brasil Capital de Crescimento I � Fundo Invest Partic Multiestrat�gia",
+        "ordinaryShares": 29.91,
+        "preferredShares": 0,
+        "totalShares": 29.91
+      },
+      {
+        "name": "Fundo de Investimento em Participa��es Multiestrat�gia Multisetorial Plus Investimento no Exterior",
+        "ordinaryShares": 10,
+        "preferredShares": 0,
+        "totalShares": 10
+      },
+      {
+        "name": "ALASKA POLAND FUNDO DE INVESTIMENTO DE A��ES � BDR N�VEL I INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 7.17,
+        "preferredShares": 0,
+        "totalShares": 7.17
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681873200000,
+      "amount": 0.0135,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.174,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

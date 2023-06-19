@@ -1,0 +1,127 @@
+{
+  "name": "BRIT3",
+  "business": "Telecomunica��es",
+  "currentState": {
+    "price": 2.59,
+    "priceToEarnings": 15.21,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Jos� Roberto Nogueira",
+        "ordinaryShares": 33,
+        "preferredShares": 0,
+        "totalShares": 33
+      },
+      {
+        "name": "Jo�o Paulo Estevam",
+        "ordinaryShares": 7.97,
+        "preferredShares": 0,
+        "totalShares": 7.97
+      },
+      {
+        "name": "Jord�o Estevam Nogueira",
+        "ordinaryShares": 7.9,
+        "preferredShares": 0,
+        "totalShares": 7.9
+      },
+      {
+        "name": "Paulo Estevam da Silva",
+        "ordinaryShares": 7.87,
+        "preferredShares": 0,
+        "totalShares": 7.87
+      },
+      {
+        "name": "Miguel Estevam Parente",
+        "ordinaryShares": 4.71,
+        "preferredShares": 0,
+        "totalShares": 4.71
+      },
+      {
+        "name": "Jordania Karina Nogueira Estevam",
+        "ordinaryShares": 3.95,
+        "preferredShares": 0,
+        "totalShares": 3.95
+      },
+      {
+        "name": "Ana Paula Nogueira",
+        "ordinaryShares": 3.93,
+        "preferredShares": 0,
+        "totalShares": 3.93
+      },
+      {
+        "name": "Francisco Estevam Sobrinho",
+        "ordinaryShares": 3.54,
+        "preferredShares": 0,
+        "totalShares": 3.54
+      },
+      {
+        "name": "Francisco de Fran�a Reis",
+        "ordinaryShares": 2.36,
+        "preferredShares": 0,
+        "totalShares": 2.36
+      },
+      {
+        "name": "Gabriela Queiroz Estevam",
+        "ordinaryShares": 1.77,
+        "preferredShares": 0,
+        "totalShares": 1.77
+      },
+      {
+        "name": "Pedro Sales Queiroz Estevam",
+        "ordinaryShares": 1.77,
+        "preferredShares": 0,
+        "totalShares": 1.77
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681959600000,
+      "amount": 0.0323,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650942000000,
+      "amount": 0.0012,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

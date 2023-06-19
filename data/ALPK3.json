@@ -1,0 +1,74 @@
+{
+  "name": "ALPK3",
+  "business": "Servi�os Diversos",
+  "currentState": {
+    "price": 3.98,
+    "priceToEarnings": -5.74,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Fundo de Investimento em Participa��es Maranello - Multiestrat�gia",
+        "ordinaryShares": 38.69,
+        "preferredShares": 0,
+        "totalShares": 38.69
+      },
+      {
+        "name": "Riverside Fundo de Investimento em Participa��es Multiestrat�gia",
+        "ordinaryShares": 26.44,
+        "preferredShares": 0,
+        "totalShares": 26.44
+      },
+      {
+        "name": "Tempranillo Fundo de Investimento de A��es Investimento no Exterior",
+        "ordinaryShares": 11.81,
+        "preferredShares": 0,
+        "totalShares": 11.81
+      },
+      {
+        "name": "Fundo de Investimento Multimercado Cr�dito Privado Valbuena",
+        "ordinaryShares": 7.13,
+        "preferredShares": 0,
+        "totalShares": 7.13
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

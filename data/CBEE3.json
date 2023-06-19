@@ -1,0 +1,127 @@
+{
+  "name": "CBEE3",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 14.6,
+    "priceToEarnings": -25.46,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Enel Brasil S.A.",
+        "ordinaryShares": 99.8,
+        "preferredShares": 0,
+        "totalShares": 99.8
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1649818800000,
+      "amount": 0.0825,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1618887600000,
+      "amount": 0.0701,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1587956400000,
+      "amount": 0.3981,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556247600000,
+      "amount": 0.2441,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430276400000,
+      "amount": 0.0118,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398135600000,
+      "amount": 0.0412,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.0299,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.006,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.0131,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.0291,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1258423200000,
+      "amount": 0.0493,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240974000000,
+      "amount": 0.0237,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209438000000,
+      "amount": 0.0093,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 0.0116,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

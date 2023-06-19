@@ -1,0 +1,74 @@
+{
+  "name": "RNEW3",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 1.57,
+    "priceToEarnings": 0.49,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "AP Energias Renov�veis Fundo de Investimento em Participa��es Multiestrat�gia",
+        "ordinaryShares": 65.46,
+        "preferredShares": 54.6,
+        "totalShares": 60.03
+      },
+      {
+        "name": "Caetit� Participa��es LTDA",
+        "ordinaryShares": 8.3,
+        "preferredShares": 0.33,
+        "totalShares": 4.31
+      },
+      {
+        "name": "Renato do Amaral Figueiredo",
+        "ordinaryShares": 5.33,
+        "preferredShares": 3.63,
+        "totalShares": 4.48
+      },
+      {
+        "name": "Ricardo Lopes Delneri",
+        "ordinaryShares": 5.2,
+        "preferredShares": 11.37,
+        "totalShares": 8.28
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

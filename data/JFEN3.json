@@ -1,0 +1,163 @@
+{
+  "name": "JFEN3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 2.45,
+    "priceToEarnings": -1.16,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Gaster Participacoes SA",
+        "ordinaryShares": 79.99,
+        "preferredShares": 0,
+        "totalShares": 79.99
+      },
+      {
+        "name": "Antonio Jos� de Almeida Carneiro",
+        "ordinaryShares": 10.42,
+        "preferredShares": 0,
+        "totalShares": 10.42
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1398826800000,
+      "amount": 0.0681,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.0611,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335927600000,
+      "amount": 0.1584,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.1383,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 2.45,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1145502000000,
+      "amount": 0.4,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1115953200000,
+      "amount": 0.57,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1082430000000,
+      "amount": 1.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1082430000000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1050462000000,
+      "amount": 4.32,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1019617200000,
+      "amount": 4.3203,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 987649200000,
+      "amount": 4.7735,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956113200000,
+      "amount": 3.4423,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 949284000000,
+      "amount": 1.6975,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 925268400000,
+      "amount": 0.4934,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 917575200000,
+      "amount": 1.8107,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 893732400000,
+      "amount": 0.4888,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 884052000000,
+      "amount": 4.3935,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 862196400000,
+      "amount": 2.48,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 830746800000,
+      "amount": 1.54,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

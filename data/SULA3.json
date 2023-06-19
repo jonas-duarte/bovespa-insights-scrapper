@@ -1,0 +1,215 @@
+{
+  "name": "SULA3",
+  "business": "Seguradoras",
+  "currentState": {
+    "price": 7.43,
+    "priceToEarnings": 52.32,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Lako Participa��es S.A.",
+        "ordinaryShares": 25.13,
+        "preferredShares": 0,
+        "totalShares": 12.6
+      },
+      {
+        "name": "Sulasapar Participa��es S.A.",
+        "ordinaryShares": 25.13,
+        "preferredShares": 0,
+        "totalShares": 12.6
+      },
+      {
+        "name": "Rede D�Or S�o Luiz S.A.",
+        "ordinaryShares": 10.03,
+        "preferredShares": 20.16,
+        "totalShares": 15.08
+      },
+      {
+        "name": "Dynamo Administra��o de Recursos LTDA",
+        "ordinaryShares": 5.13,
+        "preferredShares": 10.3,
+        "totalShares": 7.71
+      },
+      {
+        "name": "Patrick Antonio Claude de Larragoiti Lucas",
+        "ordinaryShares": 0.36,
+        "preferredShares": 0.73,
+        "totalShares": 0.55
+      },
+      {
+        "name": "Chantal de Larragoiti Lucas",
+        "ordinaryShares": 0.32,
+        "preferredShares": 0.63,
+        "totalShares": 0.47
+      },
+      {
+        "name": "Christiane Claude de Larragoiti Lucas",
+        "ordinaryShares": 0.26,
+        "preferredShares": 0.52,
+        "totalShares": 0.39
+      },
+      {
+        "name": "Sophie Marie Antoinette de S�gur",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0.4,
+        "totalShares": 0.3
+      },
+      {
+        "name": "Isabelle Rose Marie de S�gur Lamoignon",
+        "ordinaryShares": 0.16,
+        "preferredShares": 0.33,
+        "totalShares": 0.25
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1671505200000,
+      "amount": 0.0199,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1640574000000,
+      "amount": 0.0749,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1609902000000,
+      "amount": 0.0525,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1605582000000,
+      "amount": 0.3026,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1601866800000,
+      "amount": 0.0662,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1595991600000,
+      "amount": 0.1126,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1592362800000,
+      "amount": 0.0644,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1584673200000,
+      "amount": 0.0689,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1576638000000,
+      "amount": 0.0946,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1569294000000,
+      "amount": 0.0517,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1553742000000,
+      "amount": 0.0675,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1545962400000,
+      "amount": 0.1378,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1522292400000,
+      "amount": 0.0547,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1514426400000,
+      "amount": 0.1206,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1490756400000,
+      "amount": 0.0804,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1482717600000,
+      "amount": 0.0976,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1459306800000,
+      "amount": 0.0802,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1450231200000,
+      "amount": 0.0698,
+      "type": "JUROS"
+    },
+    {
+      "date": 1446084000000,
+      "amount": 0.012,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1438225200000,
+      "amount": 0.012,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430276400000,
+      "amount": 0.012,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1427770800000,
+      "amount": 0.0622,
+      "type": "Dividendo"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "name": "PMAM3",
+  "business": "Artefatos de Cobre",
+  "currentState": {
+    "price": 4.78,
+    "priceToEarnings": -0.07,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "CAIXA ECONOMICA FEDERAL",
+        "ordinaryShares": 16.18,
+        "preferredShares": 0,
+        "totalShares": 16.18
+      },
+      {
+        "name": "Minera��o Buritirama S.A.",
+        "ordinaryShares": 8.64,
+        "preferredShares": 0,
+        "totalShares": 8.64
+      },
+      {
+        "name": "CARGILL FINANCIAL SERVICES INTERNAT, INC",
+        "ordinaryShares": 7.92,
+        "preferredShares": 0,
+        "totalShares": 7.92
+      },
+      {
+        "name": "EWZ INVESTMENTS LLC - SOCOPA SOC CORRETORA PAULISTA S.A.",
+        "ordinaryShares": 6.5,
+        "preferredShares": 0,
+        "totalShares": 6.5
+      },
+      {
+        "name": "GLENCORE INTERNATIONAL INVESTIMENTS LTD.",
+        "ordinaryShares": 5.73,
+        "preferredShares": 0,
+        "totalShares": 5.73
+      },
+      {
+        "name": "Bonsucex Holding S.A.",
+        "ordinaryShares": 5.71,
+        "preferredShares": 0,
+        "totalShares": 5.71
+      },
+      {
+        "name": "Luiz Barsi Filho",
+        "ordinaryShares": 5.37,
+        "preferredShares": 0,
+        "totalShares": 5.37
+      },
+      {
+        "name": "EWZ BRASIL FIA",
+        "ordinaryShares": 3.37,
+        "preferredShares": 0,
+        "totalShares": 3.37
+      },
+      {
+        "name": "Silvio Tini de Ara�jo",
+        "ordinaryShares": 0.46,
+        "preferredShares": 0,
+        "totalShares": 0.46
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1461898800000,
+      "amount": 0.0758,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.0758,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.22,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

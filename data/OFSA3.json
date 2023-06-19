@@ -1,0 +1,149 @@
+{
+  "name": "OFSA3",
+  "business": "Medicamentos e Outros Produtos",
+  "currentState": {
+    "price": 25.13,
+    "priceToEarnings": 12.18,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "MITSUI & CO., LTD",
+        "ordinaryShares": 29.44,
+        "preferredShares": 0,
+        "totalShares": 29.44
+      },
+      {
+        "name": "Jardel Massari",
+        "ordinaryShares": 28.76,
+        "preferredShares": 0,
+        "totalShares": 28.76
+      },
+      {
+        "name": "Norival Bonamichi",
+        "ordinaryShares": 27.53,
+        "preferredShares": 0,
+        "totalShares": 27.53
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681441200000,
+      "amount": 0.1967,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1671159600000,
+      "amount": 0.4388,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1650423600000,
+      "amount": 0.2375,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1639710000000,
+      "amount": 0.3004,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1617937200000,
+      "amount": 0.173,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1608692400000,
+      "amount": 0.2506,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1602644400000,
+      "amount": 0.1882,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1576724400000,
+      "amount": 0.0175,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1553828400000,
+      "amount": 0.1772,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1544752800000,
+      "amount": 0.1423,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1523588400000,
+      "amount": 0.1027,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1513648800000,
+      "amount": 0.1112,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.2249,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1450663200000,
+      "amount": 0.0932,
+      "type": "JUROS"
+    },
+    {
+      "date": 1430190000000,
+      "amount": 0.1811,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1420164000000,
+      "amount": 0.0673,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

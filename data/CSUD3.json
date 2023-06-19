@@ -1,0 +1,241 @@
+{
+  "name": "CSUD3",
+  "business": "Servi�os Diversos",
+  "currentState": {
+    "price": 13.65,
+    "priceToEarnings": 7.29,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Greeneville Delaware LLC.",
+        "ordinaryShares": 36.81,
+        "preferredShares": 0,
+        "totalShares": 36.81
+      },
+      {
+        "name": "Greeneville Delaware LLC",
+        "ordinaryShares": 17.24,
+        "preferredShares": 0,
+        "totalShares": 17.24
+      },
+      {
+        "name": "REAL INVESTOR GEST�O DE RECURSOS LTDA.",
+        "ordinaryShares": 8.59,
+        "preferredShares": 0,
+        "totalShares": 8.59
+      },
+      {
+        "name": "Marcos Ribeiro Leite",
+        "ordinaryShares": 0.17,
+        "preferredShares": 0,
+        "totalShares": 0.17
+      },
+      {
+        "name": "ADMINISTRADORES",
+        "ordinaryShares": 0.11,
+        "preferredShares": 0,
+        "totalShares": 0.11
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.3537,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1679454000000,
+      "amount": 0.1455,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1672628400000,
+      "amount": 0.1577,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1664506800000,
+      "amount": 0.1577,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1655780400000,
+      "amount": 0.1264,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1650596400000,
+      "amount": 0.3938,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1646967600000,
+      "amount": 0.0972,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1639710000000,
+      "amount": 0.0972,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632452400000,
+      "amount": 0.102,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1624590000000,
+      "amount": 0.073,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1618542000000,
+      "amount": 0.146,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1614913200000,
+      "amount": 0.0681,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1607050800000,
+      "amount": 0.1119,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1601348400000,
+      "amount": 0.073,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1593140400000,
+      "amount": 0.0645,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1584068400000,
+      "amount": 0.0547,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1575601200000,
+      "amount": 0.0973,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1568343600000,
+      "amount": 0.0547,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561345200000,
+      "amount": 0.1046,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1544148000000,
+      "amount": 0.2462,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1524452400000,
+      "amount": 0.1042,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1512957600000,
+      "amount": 0.334,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.0282,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1482285600000,
+      "amount": 0.3102,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1451268000000,
+      "amount": 0.1697,
+      "type": "JUROS"
+    },
+    {
+      "date": 1418868000000,
+      "amount": 0.0885,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.001,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1355968800000,
+      "amount": 0.1679,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1323828000000,
+      "amount": 0.1628,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1303786800000,
+      "amount": 0.1707,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1293069600000,
+      "amount": 0.1633,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1273460400000,
+      "amount": 0.0564,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

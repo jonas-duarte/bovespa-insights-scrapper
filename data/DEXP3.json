@@ -1,0 +1,211 @@
+{
+  "name": "DEXP3",
+  "business": "Petroqu�micos",
+  "currentState": {
+    "price": 9.68,
+    "priceToEarnings": 6.62,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "GURGU�IA FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO INVESTIMENTO EXTERIOR",
+        "ordinaryShares": 9.41,
+        "preferredShares": 5.2,
+        "totalShares": 9.15
+      },
+      {
+        "name": "MARCELO PRADEZ DE FARIA STALLONE",
+        "ordinaryShares": 8.46,
+        "preferredShares": 0,
+        "totalShares": 7.94
+      },
+      {
+        "name": "IMOBILIARIA MONDESIR S/A",
+        "ordinaryShares": 8.06,
+        "preferredShares": 0.28,
+        "totalShares": 7.58
+      },
+      {
+        "name": "EDUARDO DE FARIA",
+        "ordinaryShares": 7.36,
+        "preferredShares": 0,
+        "totalShares": 6.91
+      },
+      {
+        "name": "JORGE PAULO PEIXOTO DE CASTRO PALHARES",
+        "ordinaryShares": 3.7,
+        "preferredShares": 0,
+        "totalShares": 3.47
+      },
+      {
+        "name": "PAULO CESAR PEIXOTO DE CASTRO PALHARES FILHO",
+        "ordinaryShares": 3.69,
+        "preferredShares": 0,
+        "totalShares": 3.46
+      },
+      {
+        "name": "ANDREA PALHARES VASCONCELOS",
+        "ordinaryShares": 3.68,
+        "preferredShares": 0,
+        "totalShares": 3.46
+      },
+      {
+        "name": "MARIA HELENA PALHARES SALGADO",
+        "ordinaryShares": 3.54,
+        "preferredShares": 0,
+        "totalShares": 3.33
+      },
+      {
+        "name": "JOAO CARLOS PEIXOTO DE CASTRO PALHARES",
+        "ordinaryShares": 2.83,
+        "preferredShares": 0,
+        "totalShares": 2.66
+      },
+      {
+        "name": "CELINA CORREA PEIXOTO DE CASTRO PALHARES",
+        "ordinaryShares": 1.1,
+        "preferredShares": 0,
+        "totalShares": 1.03
+      },
+      {
+        "name": "ANTONIO EDUARDO PEIXOTO DE CASTRO PALHARES",
+        "ordinaryShares": 1.08,
+        "preferredShares": 0,
+        "totalShares": 1.01
+      },
+      {
+        "name": "ANTONIO JOAQUIM PEIXOTO DE CASTRO",
+        "ordinaryShares": 1.06,
+        "preferredShares": 0,
+        "totalShares": 1
+      },
+      {
+        "name": "Emilio Salgado Filho",
+        "ordinaryShares": 0.92,
+        "preferredShares": 0,
+        "totalShares": 0.86
+      },
+      {
+        "name": "HEITOR DIAS PALHARES NETO",
+        "ordinaryShares": 0.61,
+        "preferredShares": 0,
+        "totalShares": 0.58
+      },
+      {
+        "name": "Pedro Henrique Silva Salgado",
+        "ordinaryShares": 0.14,
+        "preferredShares": 0,
+        "totalShares": 0.13
+      },
+      {
+        "name": "Jo�o Pedro Silva Salgado",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A",
+        "ordinaryShares": 0,
+        "preferredShares": 12.79,
+        "totalShares": 0.79
+      },
+      {
+        "name": "CAIXA ECONOMICA FEDERAL",
+        "ordinaryShares": 0,
+        "preferredShares": 8.15,
+        "totalShares": 0.5
+      },
+      {
+        "name": "CESAR AUGUSTO PEIXOTO DE CASTRO PALHARES",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "TAQUARI PARTICIPA��ES S/A",
+        "ordinaryShares": 0,
+        "preferredShares": 17.39,
+        "totalShares": 1.07
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.2684,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651114800000,
+      "amount": 0.3848,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619578800000,
+      "amount": 0.8411,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1595905200000,
+      "amount": 0.3067,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.1946,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1120100400000,
+      "amount": 0.0102,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 933562800000,
+      "amount": 22.344,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 899694000000,
+      "amount": 2.27,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

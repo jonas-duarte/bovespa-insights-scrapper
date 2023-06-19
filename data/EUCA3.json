@@ -1,0 +1,191 @@
+{
+  "name": "EUCA3",
+  "business": "Madeira",
+  "currentState": {
+    "price": 15.19,
+    "priceToEarnings": 5.65,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "IFF Holding S.A.",
+        "ordinaryShares": 39.97,
+        "preferredShares": 8,
+        "totalShares": 18.79
+      },
+      {
+        "name": "Pasama Participa��es SC Ltda",
+        "ordinaryShares": 34.34,
+        "preferredShares": 0,
+        "totalShares": 11.59
+      },
+      {
+        "name": "Brascorp Participa��es Ltda",
+        "ordinaryShares": 11.77,
+        "preferredShares": 0,
+        "totalShares": 3.97
+      },
+      {
+        "name": "Flavio Maluf",
+        "ordinaryShares": 6.5,
+        "preferredShares": 0.14,
+        "totalShares": 2.29
+      },
+      {
+        "name": "Otavio Maluf",
+        "ordinaryShares": 4.55,
+        "preferredShares": 0.07,
+        "totalShares": 1.58
+      },
+      {
+        "name": "Paulo Salim Maluf",
+        "ordinaryShares": 0.97,
+        "preferredShares": 0.13,
+        "totalShares": 0.41
+      },
+      {
+        "name": "Economico Agro Pastoril Industrial S/A",
+        "ordinaryShares": 0,
+        "preferredShares": 50.34,
+        "totalShares": 33.35
+      },
+      {
+        "name": "Grandfood Ind. e Com�rcio Ltda",
+        "ordinaryShares": 0,
+        "preferredShares": 0.8,
+        "totalShares": 0.53
+      },
+      {
+        "name": "Grandfood Ind. e Comercio Ltda",
+        "ordinaryShares": 0,
+        "preferredShares": 6.6,
+        "totalShares": 4.37
+      },
+      {
+        "name": "UBS Ag Zurich",
+        "ordinaryShares": 0,
+        "preferredShares": 9.82,
+        "totalShares": 6.51
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1672628400000,
+      "amount": 0.7183,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1640055600000,
+      "amount": 0.2573,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1620702000000,
+      "amount": 0.1711,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1609902000000,
+      "amount": 0.201,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1557111600000,
+      "amount": 0.0415,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525057200000,
+      "amount": 0.0605,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493089200000,
+      "amount": 0.0486,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1460948400000,
+      "amount": 0.0074,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1428634800000,
+      "amount": 0.038,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1388023200000,
+      "amount": 0.1863,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1388023200000,
+      "amount": 0.1863,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1356573600000,
+      "amount": 0.1732,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1334545200000,
+      "amount": 0.0338,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1324605600000,
+      "amount": 0.2286,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1304564400000,
+      "amount": 0.006,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1293588000000,
+      "amount": 0.2488,
+      "type": "JRS CAP PR�PRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

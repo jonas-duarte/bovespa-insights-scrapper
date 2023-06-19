@@ -1,0 +1,139 @@
+{
+  "name": "LAVV3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 6.5,
+    "priceToEarnings": 10.86,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Cyrela Brazil Realty S.A. Emprendimentos e Parts",
+        "ordinaryShares": 24.02,
+        "preferredShares": 0,
+        "totalShares": 24.02
+      },
+      {
+        "name": "RH Empreendimentos Imobili�rios Ltda.",
+        "ordinaryShares": 16.14,
+        "preferredShares": 0,
+        "totalShares": 16.14
+      },
+      {
+        "name": "Tarpon Capital",
+        "ordinaryShares": 15.12,
+        "preferredShares": 0,
+        "totalShares": 15.12
+      },
+      {
+        "name": "Ralph Horn",
+        "ordinaryShares": 9.7,
+        "preferredShares": 0,
+        "totalShares": 9.7
+      },
+      {
+        "name": "Seller Consultoria imob.e representa��es ltda",
+        "ordinaryShares": 3.75,
+        "preferredShares": 0,
+        "totalShares": 3.75
+      },
+      {
+        "name": "Daniel Horn",
+        "ordinaryShares": 2.67,
+        "preferredShares": 0,
+        "totalShares": 2.67
+      },
+      {
+        "name": "Moshe Mordehai Horn",
+        "ordinaryShares": 2.67,
+        "preferredShares": 0,
+        "totalShares": 2.67
+      },
+      {
+        "name": "Ovadia Horn",
+        "ordinaryShares": 1.94,
+        "preferredShares": 0,
+        "totalShares": 1.94
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1684206000000,
+      "amount": 0.0311,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1678762800000,
+      "amount": 0.1791,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1661828400000,
+      "amount": 0.2493,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1661828400000,
+      "amount": 0.0578,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.0879,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650942000000,
+      "amount": 0.2086,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1634526000000,
+      "amount": 0.5764,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619492400000,
+      "amount": 0.1035,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

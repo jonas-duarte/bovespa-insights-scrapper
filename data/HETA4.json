@@ -1,0 +1,86 @@
+{
+  "name": "HETA4",
+  "business": "Utens�lios Dom�sticos",
+  "currentState": {
+    "price": 5.68,
+    "priceToEarnings": 0.01,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "HERCULES PARTICIPA��ES SOCIEDADES SIMPLES LTDA",
+        "ordinaryShares": 72.05,
+        "preferredShares": 0,
+        "totalShares": 24.19
+      },
+      {
+        "name": "FUNDA��O ABRAMO EBERLE",
+        "ordinaryShares": 13.44,
+        "preferredShares": 0.26,
+        "totalShares": 4.68
+      },
+      {
+        "name": "ELECE ADM E PARTICIPA��ES LTDA",
+        "ordinaryShares": 12.87,
+        "preferredShares": 1.12,
+        "totalShares": 5.06
+      },
+      {
+        "name": "GILBERTO ALVES MENDES",
+        "ordinaryShares": 0,
+        "preferredShares": 17.47,
+        "totalShares": 11.61
+      },
+      {
+        "name": "LUIGI AUGUSTO DE OLIVEIRA",
+        "ordinaryShares": 0,
+        "preferredShares": 5.3,
+        "totalShares": 3.52
+      },
+      {
+        "name": "ZHEPAR PARTICIPA��ES LTDA.",
+        "ordinaryShares": 0,
+        "preferredShares": 27.51,
+        "totalShares": 18.27
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "name": "CTNM3",
+  "business": "Fios e Tecidos",
+  "currentState": {
+    "price": 9.83,
+    "priceToEarnings": -0.98,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "EMPRESA NACIONAL DE COM�RCIO, R�DITO E PARTICIPA��ES S.A.",
+        "ordinaryShares": 44.73,
+        "preferredShares": 6.78,
+        "totalShares": 24.02
+      },
+      {
+        "name": "WEMBLEY SOCIEDADE AN�NIMA",
+        "ordinaryShares": 40.18,
+        "preferredShares": 1.97,
+        "totalShares": 19.32
+      },
+      {
+        "name": "ECONORTE - EMPR. CONSTRUTORA NORTE DE MINAS LTDA",
+        "ordinaryShares": 6.7,
+        "preferredShares": 2.63,
+        "totalShares": 4.48
+      },
+      {
+        "name": "FARPAL AGROPASTORIL E PART. LTDA.",
+        "ordinaryShares": 3.09,
+        "preferredShares": 1.21,
+        "totalShares": 2.06
+      },
+      {
+        "name": "HOLTEX INC",
+        "ordinaryShares": 2.48,
+        "preferredShares": 0.97,
+        "totalShares": 1.66
+      },
+      {
+        "name": "ECOPAR - Empresa de Com�rcio e Participa��es Ltda.",
+        "ordinaryShares": 0.65,
+        "preferredShares": 0.26,
+        "totalShares": 0.43
+      },
+      {
+        "name": "JOS� ALENCAR GOMES DA SILVA - COM. PART. EMP. S.A.",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0.3,
+        "totalShares": 0.18
+      },
+      {
+        "name": "ALASKA POLAND FIA - BDR NIVEL 1",
+        "ordinaryShares": 0,
+        "preferredShares": 23.25,
+        "totalShares": 12.69
+      },
+      {
+        "name": "BNDES Participa��es - BNDESPar",
+        "ordinaryShares": 0,
+        "preferredShares": 11.49,
+        "totalShares": 6.27
+      },
+      {
+        "name": "GARANTIA GEST�O DE RECURSO (CREDIT SUISSE)",
+        "ordinaryShares": 0,
+        "preferredShares": 6.8,
+        "totalShares": 3.71
+      },
+      {
+        "name": "Venture Consultoria Financeira e Administrativa Ltda",
+        "ordinaryShares": 0,
+        "preferredShares": 4.87,
+        "totalShares": 2.66
+      },
+      {
+        "name": "VERDE ASSET MANAGEMENT/VERDE SERVI�OS�INTERNACIONAIS",
+        "ordinaryShares": 0,
+        "preferredShares": 8.26,
+        "totalShares": 4.51
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1304046000000,
+      "amount": 0.0059,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.0086,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.037,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 2.5885,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1146193200000,
+      "amount": 5.5321,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1114743600000,
+      "amount": 9.163,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1083294000000,
+      "amount": 8.7232,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1051671600000,
+      "amount": 2.1971,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1036033200000,
+      "amount": 6.87,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1019790000000,
+      "amount": 1.7887,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1009504800000,
+      "amount": 3.98,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 988599600000,
+      "amount": 1.4909,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 977968800000,
+      "amount": 2.78,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 956890800000,
+      "amount": 3.6441,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 925441200000,
+      "amount": 3.5927,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 893905200000,
+      "amount": 4.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 862196400000,
+      "amount": 10.9567,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 830833200000,
+      "amount": 9.6422,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

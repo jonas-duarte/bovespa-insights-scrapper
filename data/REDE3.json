@@ -1,0 +1,153 @@
+{
+  "name": "REDE3",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 5.61,
+    "priceToEarnings": 8.88,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Denerge - Desenvolvimento Energ�tico S.A.",
+        "ordinaryShares": 70.01,
+        "preferredShares": 0,
+        "totalShares": 70.01
+      },
+      {
+        "name": "Energisa Participa��es Minorit�rias S/A",
+        "ordinaryShares": 29.57,
+        "preferredShares": 0,
+        "totalShares": 29.57
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682564400000,
+      "amount": 0.1339,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1679367600000,
+      "amount": 0.2145,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1668567600000,
+      "amount": 0.19,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1660618800000,
+      "amount": 0.1706,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651460400000,
+      "amount": 0.1616,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1637118000000,
+      "amount": 0.1828,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1629169200000,
+      "amount": 0.1775,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1624935600000,
+      "amount": 0.3,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1615863600000,
+      "amount": 0.3172,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1597719600000,
+      "amount": 0.093,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1573527600000,
+      "amount": 0.036,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1565665200000,
+      "amount": 0.0883,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1560826800000,
+      "amount": 0.1036,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1557198000000,
+      "amount": 0.1845,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1557198000000,
+      "amount": 0.0478,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525230000000,
+      "amount": 0.0128,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493866800000,
+      "amount": 0.0179,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.0582,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

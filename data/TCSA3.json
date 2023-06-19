@@ -1,0 +1,120 @@
+{
+  "name": "TCSA3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 3.64,
+    "priceToEarnings": 21.89,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Meyer Joseph Nigri",
+        "ordinaryShares": 34.81,
+        "preferredShares": 0,
+        "totalShares": 34.81
+      },
+      {
+        "name": "VKN Administra��o de Recursos Ltda",
+        "ordinaryShares": 14.02,
+        "preferredShares": 0,
+        "totalShares": 14.02
+      },
+      {
+        "name": "Lilian Raquel Czeresnia Nigri",
+        "ordinaryShares": 3.56,
+        "preferredShares": 0,
+        "totalShares": 3.56
+      },
+      {
+        "name": "Joseph Meyer Nigri",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1461898800000,
+      "amount": 0.1614,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1429844400000,
+      "amount": 0.2056,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1396494000000,
+      "amount": 0.4683,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335409200000,
+      "amount": 0.3006,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1303959600000,
+      "amount": 0.2568,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272510000000,
+      "amount": 0.1806,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240887600000,
+      "amount": 0.1229,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1208487600000,
+      "amount": 0.0531,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1176692400000,
+      "amount": 0.0158,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

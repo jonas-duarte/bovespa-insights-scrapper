@@ -1,0 +1,142 @@
+{
+  "name": "CAMB3",
+  "business": "Cal�ados",
+  "currentState": {
+    "price": 9.14,
+    "priceToEarnings": 5.57,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "ROBERTO ESTEFANO",
+        "ordinaryShares": 24.35,
+        "preferredShares": 0,
+        "totalShares": 24.35
+      },
+      {
+        "name": "Eduardo Estefano Filho",
+        "ordinaryShares": 21,
+        "preferredShares": 0,
+        "totalShares": 21
+      },
+      {
+        "name": "RIVALE REPRESENTA��ES",
+        "ordinaryShares": 10,
+        "preferredShares": 0,
+        "totalShares": 10
+      },
+      {
+        "name": "SUELI VIZINTAS ESTEFANO",
+        "ordinaryShares": 3.85,
+        "preferredShares": 0,
+        "totalShares": 3.85
+      },
+      {
+        "name": "BRZ Small Cap Fi de a��es",
+        "ordinaryShares": 2.04,
+        "preferredShares": 0,
+        "totalShares": 2.04
+      },
+      {
+        "name": "MARA ELIANA CARLETTI ESTEFANO",
+        "ordinaryShares": 1.9,
+        "preferredShares": 0,
+        "totalShares": 1.9
+      },
+      {
+        "name": "Juliana Vizintas Estefano",
+        "ordinaryShares": 1.71,
+        "preferredShares": 0,
+        "totalShares": 1.71
+      },
+      {
+        "name": "RICARDO PROPHETA MARQUES",
+        "ordinaryShares": 1.62,
+        "preferredShares": 0,
+        "totalShares": 1.62
+      },
+      {
+        "name": "SERGIO VIZINTAS STEFANO",
+        "ordinaryShares": 1.48,
+        "preferredShares": 0,
+        "totalShares": 1.48
+      },
+      {
+        "name": "RENATO VIZINTAS ESTEFANO",
+        "ordinaryShares": 1.46,
+        "preferredShares": 0,
+        "totalShares": 1.46
+      },
+      {
+        "name": "ROMA CONSULTORIA ASSESSORIA E ADMINISTRACAO",
+        "ordinaryShares": 1.38,
+        "preferredShares": 0,
+        "totalShares": 1.38
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1678849200000,
+      "amount": 0.0654,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1670554800000,
+      "amount": 0.0603,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1663210800000,
+      "amount": 0.0515,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1655694000000,
+      "amount": 0.044,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1650250800000,
+      "amount": 0.0367,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

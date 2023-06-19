@@ -1,0 +1,190 @@
+{
+  "name": "EMAE4",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 67.44,
+    "priceToEarnings": 40.77,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Secretaria da Fazenda e Planejamento do Estado de S�o Paulo",
+        "ordinaryShares": 97.61,
+        "preferredShares": 0.23,
+        "totalShares": 38.99
+      },
+      {
+        "name": "Companhia do Metropolitano de S�o Paulo",
+        "ordinaryShares": 2.39,
+        "preferredShares": 0,
+        "totalShares": 0.95
+      },
+      {
+        "name": "�lvaro Luiz Alves de Lima de �lvares Otero",
+        "ordinaryShares": 0,
+        "preferredShares": 9.9,
+        "totalShares": 5.96
+      },
+      {
+        "name": "Eletrobras",
+        "ordinaryShares": 0,
+        "preferredShares": 64.82,
+        "totalShares": 39.02
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1685934000000,
+      "amount": 0.5144,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1681441200000,
+      "amount": 1.1561,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1681441200000,
+      "amount": 0.3159,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1652670000000,
+      "amount": 0.5609,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.3204,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1637204400000,
+      "amount": 0.5448,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1620615600000,
+      "amount": 0.471,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1619146800000,
+      "amount": 0.8434,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1609815600000,
+      "amount": 6.2227,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1607914800000,
+      "amount": 1.0563,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1587610800000,
+      "amount": 0.3884,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1577329200000,
+      "amount": 0.3966,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1555902000000,
+      "amount": 0.2552,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1544407200000,
+      "amount": 0.5748,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1524538800000,
+      "amount": 0.9346,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493175600000,
+      "amount": 0.4471,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461639600000,
+      "amount": 0.1019,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398394800000,
+      "amount": 0.1599,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.0877,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272855600000,
+      "amount": 0.0318,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1210734000000,
+      "amount": 0.3651,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 988167600000,
+      "amount": 0.1017,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 925095600000,
+      "amount": 0.0122,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

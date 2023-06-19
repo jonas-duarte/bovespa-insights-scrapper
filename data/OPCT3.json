@@ -1,0 +1,242 @@
+{
+  "name": "OPCT3",
+  "business": "Equipamentos e Servi�os",
+  "currentState": {
+    "price": 3.99,
+    "priceToEarnings": -8.93,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Flavio Nogueira Pinheiro de Andrade",
+        "ordinaryShares": 30.7,
+        "preferredShares": 0,
+        "totalShares": 30.7
+      },
+      {
+        "name": "Dynamo Administra��o de Recursos LTDA",
+        "ordinaryShares": 14.82,
+        "preferredShares": 0,
+        "totalShares": 14.82
+      },
+      {
+        "name": "Leblon Equities Gest�o de Investimentos",
+        "ordinaryShares": 7.89,
+        "preferredShares": 0,
+        "totalShares": 7.89
+      },
+      {
+        "name": "TOTAL RETURNINVESTMENT LLC",
+        "ordinaryShares": 5.73,
+        "preferredShares": 0,
+        "totalShares": 5.73
+      },
+      {
+        "name": "HAROLDO NOGUEIRA SOLBER",
+        "ordinaryShares": 2.53,
+        "preferredShares": 0,
+        "totalShares": 2.53
+      },
+      {
+        "name": "Erik Fabian Gomes Cunha",
+        "ordinaryShares": 1.21,
+        "preferredShares": 0,
+        "totalShares": 1.21
+      },
+      {
+        "name": "ARTHUR OCTAVIO DE AVILA KOS FILHO",
+        "ordinaryShares": 1.19,
+        "preferredShares": 0,
+        "totalShares": 1.19
+      },
+      {
+        "name": "MAUR�CIO MAURO ROCHA LATADO",
+        "ordinaryShares": 1.16,
+        "preferredShares": 0,
+        "totalShares": 1.16
+      },
+      {
+        "name": "ADRIANO RANIERI CERVINHO VIANA",
+        "ordinaryShares": 0.78,
+        "preferredShares": 0,
+        "totalShares": 0.78
+      },
+      {
+        "name": "Felipe Nogueira Pinheiro de Andrade",
+        "ordinaryShares": 0.43,
+        "preferredShares": 0,
+        "totalShares": 0.43
+      },
+      {
+        "name": "Gustavo Lutz Menezes Petry",
+        "ordinaryShares": 0.39,
+        "preferredShares": 0,
+        "totalShares": 0.39
+      },
+      {
+        "name": "Luiz Izid�rio Soares Pinto",
+        "ordinaryShares": 0.39,
+        "preferredShares": 0,
+        "totalShares": 0.39
+      },
+      {
+        "name": "MARCELO CORTES MONTEIRO DA SILVA",
+        "ordinaryShares": 0.39,
+        "preferredShares": 0,
+        "totalShares": 0.39
+      },
+      {
+        "name": "PEDRO RAFAEL NONATO PEREZ",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.21
+      },
+      {
+        "name": "Ricardo Lutz da Cunha e Menezes",
+        "ordinaryShares": 0.16,
+        "preferredShares": 0,
+        "totalShares": 0.16
+      },
+      {
+        "name": "VITOR KUME",
+        "ordinaryShares": 0.11,
+        "preferredShares": 0,
+        "totalShares": 0.11
+      },
+      {
+        "name": "Eduardo de Toledo",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "CARLOS FREDERICO FRIENDENBERG DE BRITO SILVA MARINS",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "THIAGO BORGES PAES DE LIMA",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "GUSTAVO AMARANTE GABRIEL",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Luis Antonio Gomes Araujo",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      },
+      {
+        "name": "ALESSANDRO SILVA MONTE",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "CHEN LI CHENG",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "FERNANDO D�AMBR�SIO LUCCHESI",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "JORGE LUIZ ELIAS GERALDO",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "JULIO CESAR DE SOUZA JUNIOR",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "PEDRO DE MORAES REGO MARTINS",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "LEONARDO SANT�ANNA ANTUNES MACIEL",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "ANA PAULA LOPES COELHO DE CASTRO LYRA",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "FAGNER AUGUSTO DE MAGALH�ES",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "LUCIANE ATELLA BASTOS",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "NATALIA DE MENEZES FONSECA",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

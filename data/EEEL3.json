@@ -1,0 +1,97 @@
+{
+  "name": "EEEL3",
+  "business": "Energia El�trica",
+  "currentState": {
+    "price": 421.01,
+    "priceToEarnings": 4.66,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "CPFL Comercializa��o de Energia Cone Sul Ltda.",
+        "ordinaryShares": 100,
+        "preferredShares": 100,
+        "totalShares": 100
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1653534000000,
+      "amount": 126.238,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1624503600000,
+      "amount": 23.5383,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1620183600000,
+      "amount": 6.6625,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1608087600000,
+      "amount": 8.9908,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1588734000000,
+      "amount": 10.7615,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556766000000,
+      "amount": 14.4372,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525402800000,
+      "amount": 14.4372,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493866800000,
+      "amount": 13.3176,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

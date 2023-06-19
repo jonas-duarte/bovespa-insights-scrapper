@@ -1,0 +1,159 @@
+{
+  "name": "UCAS3",
+  "business": "M�veis",
+  "currentState": {
+    "price": 2.81,
+    "priceToEarnings": 7.06,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Alexandre Grendene Bartelle",
+        "ordinaryShares": 41.72,
+        "preferredShares": 0,
+        "totalShares": 41.72
+      },
+      {
+        "name": "OPPORTUNITY HDF ADMINISTRADORA DE RECURSOS LTDA",
+        "ordinaryShares": 10.23,
+        "preferredShares": 0,
+        "totalShares": 10.23
+      },
+      {
+        "name": "4UM Gest�o de Recursos Ltda",
+        "ordinaryShares": 7.13,
+        "preferredShares": 0,
+        "totalShares": 7.13
+      },
+      {
+        "name": "Camila Zietolie",
+        "ordinaryShares": 3.25,
+        "preferredShares": 0,
+        "totalShares": 3.25
+      },
+      {
+        "name": "Isabela Zietolie",
+        "ordinaryShares": 3.25,
+        "preferredShares": 0,
+        "totalShares": 3.25
+      },
+      {
+        "name": "Laura Zietolie",
+        "ordinaryShares": 3.25,
+        "preferredShares": 0,
+        "totalShares": 3.25
+      },
+      {
+        "name": "Renata Vendruscolo Zietolie",
+        "ordinaryShares": 3.25,
+        "preferredShares": 0,
+        "totalShares": 3.25
+      },
+      {
+        "name": "Kelly Zietolie",
+        "ordinaryShares": 0.91,
+        "preferredShares": 0,
+        "totalShares": 0.91
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1670295600000,
+      "amount": 0.1816,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1639623600000,
+      "amount": 0.1079,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1620702000000,
+      "amount": 0.1058,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1607050800000,
+      "amount": 0.1074,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1596596400000,
+      "amount": 0.1828,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1580871600000,
+      "amount": 0.3672,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1576465200000,
+      "amount": 0.0757,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1449799200000,
+      "amount": 0.1135,
+      "type": "JUROS"
+    },
+    {
+      "date": 1419213600000,
+      "amount": 0.1514,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1387764000000,
+      "amount": 0.0984,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1369018800000,
+      "amount": 0.3943,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1356055200000,
+      "amount": 0.1362,
+      "type": "JRS CAP PR�PRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

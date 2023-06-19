@@ -1,0 +1,79 @@
+{
+  "name": "BMOB3",
+  "business": "Programas e Servi�os",
+  "currentState": {
+    "price": 14.1,
+    "priceToEarnings": 15.71,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Otello Technology Investiment AS (anteriormente denominada \"Bemobi Holding AS\")",
+        "ordinaryShares": 35.99,
+        "preferredShares": 0,
+        "totalShares": 35.99
+      },
+      {
+        "name": "Real Investor",
+        "ordinaryShares": 5.01,
+        "preferredShares": 0,
+        "totalShares": 5.01
+      },
+      {
+        "name": "SPX EQUITIES GEST�O DE RECURSOS LTDA",
+        "ordinaryShares": 5.01,
+        "preferredShares": 0,
+        "totalShares": 5.01
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1679540400000,
+      "amount": 0.2333,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1647831600000,
+      "amount": 0.2024,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}
