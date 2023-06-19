@@ -1,0 +1,96 @@
+{
+  "name": "LJQQ3",
+  "business": "Produtos Diversos",
+  "currentState": {
+    "price": 5.77,
+    "priceToEarnings": -35.09,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Alaska Investimento Ltda",
+        "ordinaryShares": 20.26,
+        "preferredShares": 0,
+        "totalShares": 20.26
+      },
+      {
+        "name": "Wishbone Management LC",
+        "ordinaryShares": 15.05,
+        "preferredShares": 0,
+        "totalShares": 15.05
+      },
+      {
+        "name": "GENESIS INVESTMENT MANAGEMENT, LLP",
+        "ordinaryShares": 6.3,
+        "preferredShares": 0,
+        "totalShares": 6.3
+      },
+      {
+        "name": "ABSOLUTO PARTNERS GEST�O DE RECURSOS LTDA.",
+        "ordinaryShares": 5.79,
+        "preferredShares": 0,
+        "totalShares": 5.79
+      },
+      {
+        "name": "Bradesco Asset Management S.A. DTVM",
+        "ordinaryShares": 5.31,
+        "preferredShares": 0,
+        "totalShares": 5.31
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1640142000000,
+      "amount": 0.1228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1619578800000,
+      "amount": 0.0186,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1608606000000,
+      "amount": 0.0672,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

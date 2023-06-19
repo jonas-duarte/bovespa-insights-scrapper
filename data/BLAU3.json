@@ -1,0 +1,113 @@
+{
+  "name": "BLAU3",
+  "business": "Medicamentos e Outros Produtos",
+  "currentState": {
+    "price": 20.01,
+    "priceToEarnings": 10.16,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Marcelo Rodolfo Hahn",
+        "ordinaryShares": 82.5,
+        "preferredShares": 0,
+        "totalShares": 82.5
+      },
+      {
+        "name": "Hahn Participa��es EIRELI",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681873200000,
+      "amount": 0.0524,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1679626800000,
+      "amount": 0.183,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1671591600000,
+      "amount": 0.1765,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1664161200000,
+      "amount": 0.1681,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1657162800000,
+      "amount": 0.1595,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1649300400000,
+      "amount": 0.1391,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1648090800000,
+      "amount": 0.2056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1638500400000,
+      "amount": 0.1227,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632366000000,
+      "amount": 0.1059,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1625454000000,
+      "amount": 0.0195,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

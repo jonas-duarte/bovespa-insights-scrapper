@@ -1,0 +1,96 @@
+{
+  "name": "RECV3",
+  "business": "Explora��o, Refino e Distribui��o",
+  "currentState": {
+    "price": 19.09,
+    "priceToEarnings": 5.89,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "PetroSantander Luxembourg Holdings S.a.r.l.",
+        "ordinaryShares": 19.62,
+        "preferredShares": 0,
+        "totalShares": 19.62
+      },
+      {
+        "name": "Opportunity Holding Fundo de Investimento em Participa��es Multiestrat�gia Investimento no Exterior",
+        "ordinaryShares": 17.03,
+        "preferredShares": 0,
+        "totalShares": 17.03
+      },
+      {
+        "name": "Eduardo Cintra Santos",
+        "ordinaryShares": 5.03,
+        "preferredShares": 0,
+        "totalShares": 5.03
+      },
+      {
+        "name": "OPEG FUNDO DE INVESTIMENTO EM ACOES INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 4.78,
+        "preferredShares": 0,
+        "totalShares": 4.78
+      },
+      {
+        "name": "Perbras - Empresa Brasileira de Perfura��es Ltda.",
+        "ordinaryShares": 4.27,
+        "preferredShares": 0,
+        "totalShares": 4.27
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682478000000,
+      "amount": 0.4441,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1669863600000,
+      "amount": 0.615,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1651028400000,
+      "amount": 0.1633,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

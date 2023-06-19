@@ -1,0 +1,366 @@
+{
+  "name": "JALL3",
+  "business": "A�ucar e Alcool",
+  "currentState": {
+    "price": 7.99,
+    "priceToEarnings": 2.73,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Vera Cruz Agropecu�ria Ltda.",
+        "ordinaryShares": 35.92,
+        "preferredShares": 0,
+        "totalShares": 35.92
+      },
+      {
+        "name": "Gissara Agropecu�ria Ltda.",
+        "ordinaryShares": 10.43,
+        "preferredShares": 0,
+        "totalShares": 10.43
+      },
+      {
+        "name": "Clovis Ferreira de Morais",
+        "ordinaryShares": 3.62,
+        "preferredShares": 0,
+        "totalShares": 3.62
+      },
+      {
+        "name": "Lisbela Baptista Lage de Siqueira",
+        "ordinaryShares": 1.99,
+        "preferredShares": 0,
+        "totalShares": 1.99
+      },
+      {
+        "name": "Rural Agropastoril Empreendimentos e Participa��es Ltda.",
+        "ordinaryShares": 1.93,
+        "preferredShares": 0,
+        "totalShares": 1.93
+      },
+      {
+        "name": "Maria Therezinha Chain�a Braollos",
+        "ordinaryShares": 1.5,
+        "preferredShares": 0,
+        "totalShares": 1.5
+      },
+      {
+        "name": "Maria de Lourdes Matiazzo",
+        "ordinaryShares": 1.48,
+        "preferredShares": 0,
+        "totalShares": 1.48
+      },
+      {
+        "name": "Silvio Augusto Batista de Siqueira",
+        "ordinaryShares": 0.76,
+        "preferredShares": 0,
+        "totalShares": 0.76
+      },
+      {
+        "name": "Renata Drummond de Siqueira",
+        "ordinaryShares": 0.69,
+        "preferredShares": 0,
+        "totalShares": 0.69
+      },
+      {
+        "name": "Silvia Drummond de Siqueira",
+        "ordinaryShares": 0.69,
+        "preferredShares": 0,
+        "totalShares": 0.69
+      },
+      {
+        "name": "Marcelo Braoios",
+        "ordinaryShares": 0.53,
+        "preferredShares": 0,
+        "totalShares": 0.53
+      },
+      {
+        "name": "JO�O PEDRO BRAOLLOS NETO",
+        "ordinaryShares": 0.53,
+        "preferredShares": 0,
+        "totalShares": 0.53
+      },
+      {
+        "name": "ANTONIO FERNANDO ABRAHAO DE MORAIS",
+        "ordinaryShares": 0.52,
+        "preferredShares": 0,
+        "totalShares": 0.52
+      },
+      {
+        "name": "CLAUDIA ABRAHAO DE MORAIS",
+        "ordinaryShares": 0.52,
+        "preferredShares": 0,
+        "totalShares": 0.52
+      },
+      {
+        "name": "Adriana Braollos",
+        "ordinaryShares": 0.51,
+        "preferredShares": 0,
+        "totalShares": 0.51
+      },
+      {
+        "name": "Ricardo Braoios",
+        "ordinaryShares": 0.5,
+        "preferredShares": 0,
+        "totalShares": 0.5
+      },
+      {
+        "name": "D�bora Braollos",
+        "ordinaryShares": 0.5,
+        "preferredShares": 0,
+        "totalShares": 0.5
+      },
+      {
+        "name": "Alexandre Braoios",
+        "ordinaryShares": 0.49,
+        "preferredShares": 0,
+        "totalShares": 0.49
+      },
+      {
+        "name": "Planagri S/A",
+        "ordinaryShares": 0.4,
+        "preferredShares": 0,
+        "totalShares": 0.4
+      },
+      {
+        "name": "Ednan Ara�jo Moraes Filho",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.21
+      },
+      {
+        "name": "Gislene Rodrigues Moraes",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.21
+      },
+      {
+        "name": "Graciele Rodrigues Moraes",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.21
+      },
+      {
+        "name": "Jos� Salvino de Menezes",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.21
+      },
+      {
+        "name": "Lizeti Rodrigues de Menezes e Castro",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.21
+      },
+      {
+        "name": "Ozires Salvino de Menezes",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.21
+      },
+      {
+        "name": "Teresa Marcia Nascimento de Morais",
+        "ordinaryShares": 0.18,
+        "preferredShares": 0,
+        "totalShares": 0.18
+      },
+      {
+        "name": "Christiane Nascimento de Morais",
+        "ordinaryShares": 0.18,
+        "preferredShares": 0,
+        "totalShares": 0.18
+      },
+      {
+        "name": "Clovis Ferreira de Morais Junior",
+        "ordinaryShares": 0.18,
+        "preferredShares": 0,
+        "totalShares": 0.18
+      },
+      {
+        "name": "Raul Tadeu Batista de Siqueira",
+        "ordinaryShares": 0.17,
+        "preferredShares": 0,
+        "totalShares": 0.17
+      },
+      {
+        "name": "H�lio M�rcio Batista de Siqueira",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "M�rio Benjamim Batista de Siqueira",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "M�riam Siqueira Krug",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "Otavio Lage de Siqueira Filho",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "Silvia Regina Fontoura de Siqueira",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Sara Kinjo Esber",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Myriam Penna de Siqueira",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "CL Morais Agropecu�ria amp; Planejamento Ltda.",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "Mar�lia Baptista de Siqueira",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "Henrique Penna de Siqueira",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      },
+      {
+        "name": "Rodrigo Penna de Siqueira",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      },
+      {
+        "name": "Julia Penna de Siqueira",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Tereza Penna de Siqueira",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Gibrail Kinjo Esber Brahim Filho",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Grace Gibrail Kanjo",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "M�nica Gibrail Kanjo de �vila",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "N�dia Gibrail Kanjo",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Nazira Gibrail Kanjo Nasser",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Judith Rodrigues de Menezes",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "LUIZ CESAR VAZ DE MELO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Ot�vio Jos� Baptista de Siqueira",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1658804400000,
+      "amount": 0.1779,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1638932400000,
+      "amount": 0.1551,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1627354800000,
+      "amount": 0.1387,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

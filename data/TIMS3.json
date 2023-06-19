@@ -1,0 +1,117 @@
+{
+  "name": "TIMS3",
+  "business": "Telecomunica��es",
+  "currentState": {
+    "price": 14.9,
+    "priceToEarnings": 21.5,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "TIM Brasil Servi�os e Participa��es S.A.",
+        "ordinaryShares": 66.6,
+        "preferredShares": 0,
+        "totalShares": 66.6
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682391600000,
+      "amount": 0.095,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1681095600000,
+      "amount": 0.2479,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1671591600000,
+      "amount": 0.188,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1663729200000,
+      "amount": 0.1012,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1663729200000,
+      "amount": 0.0971,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1655953200000,
+      "amount": 0.1116,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1648436400000,
+      "amount": 0.0806,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1639969200000,
+      "amount": 0.2314,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632884400000,
+      "amount": 0.0568,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1624244400000,
+      "amount": 0.1447,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1608260400000,
+      "amount": 0.2409,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1603076400000,
+      "amount": 0.2065,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

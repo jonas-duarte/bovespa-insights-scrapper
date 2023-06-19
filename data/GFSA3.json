@@ -1,0 +1,124 @@
+{
+  "name": "GFSA3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 7.22,
+    "priceToEarnings": -3.72,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "MAM ASSET MANAGEMENT GESTORA DE RECURSOS LTDA.",
+        "ordinaryShares": 23.01,
+        "preferredShares": 0,
+        "totalShares": 23.01
+      },
+      {
+        "name": "ESH THETA MASTER FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO",
+        "ordinaryShares": 12.91,
+        "preferredShares": 0,
+        "totalShares": 12.91
+      },
+      {
+        "name": "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
+        "ordinaryShares": 9.43,
+        "preferredShares": 0,
+        "totalShares": 9.43
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1461553200000,
+      "amount": 0.0481,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461553200000,
+      "amount": 0.0481,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398394800000,
+      "amount": 0.0825,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1388109600000,
+      "amount": 0.3111,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1388109600000,
+      "amount": 0.3093,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.2291,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272337200000,
+      "amount": 0.1211,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.2009,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1207278000000,
+      "amount": 0.2084,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1171418400000,
+      "amount": 0.1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1010368800000,
+      "amount": 0.2609,
+      "type": "JRS CAP PR�PRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

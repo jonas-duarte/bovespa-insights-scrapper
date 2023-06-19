@@ -1,0 +1,436 @@
+{
+  "name": "POMO4",
+  "business": "Material Rodovi�rio",
+  "currentState": {
+    "price": 5.19,
+    "priceToEarnings": 8.33,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "BELLPART PARTICIPA��ES LTDA",
+        "ordinaryShares": 44.48,
+        "preferredShares": 0.67,
+        "totalShares": 16.47
+      },
+      {
+        "name": "Alaska Investimentos Ltda",
+        "ordinaryShares": 18.11,
+        "preferredShares": 0.72,
+        "totalShares": 7
+      },
+      {
+        "name": "G5 HUBBLE FIA IE",
+        "ordinaryShares": 6.22,
+        "preferredShares": 0,
+        "totalShares": 2.24
+      },
+      {
+        "name": "VATE PARTICIPA��ES E ADMINISTRA��O LTDA",
+        "ordinaryShares": 3.03,
+        "preferredShares": 0,
+        "totalShares": 1.1
+      },
+      {
+        "name": "JAMES EDUARDO BELLINI",
+        "ordinaryShares": 2.25,
+        "preferredShares": 3.22,
+        "totalShares": 2.87
+      },
+      {
+        "name": "MAURO GILBERTO BELLINI",
+        "ordinaryShares": 2.25,
+        "preferredShares": 1.85,
+        "totalShares": 2
+      },
+      {
+        "name": "PAULO ALEXANDER PACHECO BELLINI",
+        "ordinaryShares": 2.02,
+        "preferredShares": 0.99,
+        "totalShares": 1.36
+      },
+      {
+        "name": "VIVIANE MARIA PINTO BADO",
+        "ordinaryShares": 1.46,
+        "preferredShares": 0.08,
+        "totalShares": 0.58
+      },
+      {
+        "name": "FUND PETROBRAS SEG SOC PETROS",
+        "ordinaryShares": 0,
+        "preferredShares": 4.7,
+        "totalShares": 3
+      },
+      {
+        "name": "T.ROWE PRICE ASSOCIATES",
+        "ordinaryShares": 0,
+        "preferredShares": 9.78,
+        "totalShares": 6.25
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1678071600000,
+      "amount": 0.092,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1672023600000,
+      "amount": 0.142,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1640660400000,
+      "amount": 0.037,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1625454000000,
+      "amount": 0.07,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1608606000000,
+      "amount": 0.02,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1584932400000,
+      "amount": 0.025,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1582772400000,
+      "amount": 0.048,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1569207600000,
+      "amount": 0.03,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561431600000,
+      "amount": 0.03,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1544752800000,
+      "amount": 0.09,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1519614000000,
+      "amount": 0.021,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1514340000000,
+      "amount": 0.0185,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1478743200000,
+      "amount": 0.131,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1434942000000,
+      "amount": 0.0243,
+      "type": "JUROS"
+    },
+    {
+      "date": 1427079600000,
+      "amount": 0.0243,
+      "type": "Juros"
+    },
+    {
+      "date": 1424660400000,
+      "amount": 0.0339,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1419213600000,
+      "amount": 0.0236,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1411354800000,
+      "amount": 0.0175,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1403492400000,
+      "amount": 0.0175,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1395370800000,
+      "amount": 0.0175,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1392951600000,
+      "amount": 0.075,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1387764000000,
+      "amount": 0.0175,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1379905200000,
+      "amount": 0.0175,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1371783600000,
+      "amount": 0.035,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1363834800000,
+      "amount": 0.035,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1355882400000,
+      "amount": 0.179,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1355882400000,
+      "amount": 0.036,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1348196400000,
+      "amount": 0.035,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1340247600000,
+      "amount": 0.035,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1332298800000,
+      "amount": 0.035,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1323396000000,
+      "amount": 0.25,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1323396000000,
+      "amount": 0.035,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1316574000000,
+      "amount": 0.029,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1308625200000,
+      "amount": 0.029,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1300676400000,
+      "amount": 0.029,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1291860000000,
+      "amount": 0.2344,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1291860000000,
+      "amount": 0.026,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1285038000000,
+      "amount": 0.025,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1277089200000,
+      "amount": 0.05,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1269226800000,
+      "amount": 0.05,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1260496800000,
+      "amount": 0.133,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1260496800000,
+      "amount": 0.068,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1260496800000,
+      "amount": 0.06,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1251774000000,
+      "amount": 0.06,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1229047200000,
+      "amount": 0.1672,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1229047200000,
+      "amount": 0.0665,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1197597600000,
+      "amount": 0.181,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1197597600000,
+      "amount": 0.1543,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1166148000000,
+      "amount": 0.1654,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1166148000000,
+      "amount": 0.06,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1134698400000,
+      "amount": 0.38,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1103248800000,
+      "amount": 0.34,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1071799200000,
+      "amount": 0.276,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1049079600000,
+      "amount": 0.08,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1040349600000,
+      "amount": 0.19,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1009936800000,
+      "amount": 0.2607,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 977364000000,
+      "amount": 0.0956,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 946260000000,
+      "amount": 0.0495,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 912391200000,
+      "amount": 0.12,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 909367200000,
+      "amount": 0.055,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 901594800000,
+      "amount": 0.088,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 881805600000,
+      "amount": 8,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 877917600000,
+      "amount": 13.75,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 855108000000,
+      "amount": 7,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 855108000000,
+      "amount": 1.5,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

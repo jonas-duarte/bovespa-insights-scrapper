@@ -1,0 +1,204 @@
+{
+  "name": "INTB3",
+  "business": "Computadores e Equipamentos",
+  "currentState": {
+    "price": 26.15,
+    "priceToEarnings": 16.7,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Dahua Europe B.V.",
+        "ordinaryShares": 10,
+        "preferredShares": 0,
+        "totalShares": 10
+      },
+      {
+        "name": "Antonia de Freitas Tonin",
+        "ordinaryShares": 9.67,
+        "preferredShares": 0,
+        "totalShares": 9.67
+      },
+      {
+        "name": "Maria Augusta de Freitas Francalacci",
+        "ordinaryShares": 9.67,
+        "preferredShares": 0,
+        "totalShares": 9.67
+      },
+      {
+        "name": "Jorge Luiz Savi de Freitas",
+        "ordinaryShares": 6.5,
+        "preferredShares": 0,
+        "totalShares": 6.5
+      },
+      {
+        "name": "Jadna Savi de Freitas",
+        "ordinaryShares": 6.32,
+        "preferredShares": 0,
+        "totalShares": 6.32
+      },
+      {
+        "name": "Jane Savi de Freitas",
+        "ordinaryShares": 6.32,
+        "preferredShares": 0,
+        "totalShares": 6.32
+      },
+      {
+        "name": "Janete Savi de Freitas",
+        "ordinaryShares": 6.32,
+        "preferredShares": 0,
+        "totalShares": 6.32
+      },
+      {
+        "name": "Pedro Horn de Freitas",
+        "ordinaryShares": 4.89,
+        "preferredShares": 0,
+        "totalShares": 4.89
+      },
+      {
+        "name": "Ant�nio de Freitas Aiquel",
+        "ordinaryShares": 4.86,
+        "preferredShares": 0,
+        "totalShares": 4.86
+      },
+      {
+        "name": "Joanna Horn de Freitas",
+        "ordinaryShares": 4.84,
+        "preferredShares": 0,
+        "totalShares": 4.84
+      },
+      {
+        "name": "Eduardo de Freitas Teixeira",
+        "ordinaryShares": 4.84,
+        "preferredShares": 0,
+        "totalShares": 4.84
+      },
+      {
+        "name": "Altair Angelo Silvestri",
+        "ordinaryShares": 0.72,
+        "preferredShares": 0,
+        "totalShares": 0.72
+      },
+      {
+        "name": "Rafael Boeing",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "Gilberto Heinzelmann",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "HENRIQUE FERNANDEZ",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Mateus Affonso Bandeira",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "MARCIO FERREIRA DA SILVA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "PAULO DANIEL CORREA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1680058800000,
+      "amount": 0.1187,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1677726000000,
+      "amount": 0.0898,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1672196400000,
+      "amount": 0.1974,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1659322800000,
+      "amount": 0.1266,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1656385200000,
+      "amount": 0.0607,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1646881200000,
+      "amount": 0.0319,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1646881200000,
+      "amount": 0.1458,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1627959600000,
+      "amount": 0.03,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1627959600000,
+      "amount": 0.1345,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

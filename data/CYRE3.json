@@ -1,0 +1,246 @@
+{
+  "name": "CYRE3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 19.05,
+    "priceToEarnings": 9.39,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Elie Horn",
+        "ordinaryShares": 19.95,
+        "preferredShares": 0,
+        "totalShares": 19.95
+      },
+      {
+        "name": "BLACKROCK, INC.",
+        "ordinaryShares": 10.19,
+        "preferredShares": 0,
+        "totalShares": 10.19
+      },
+      {
+        "name": "Eirenor S/A",
+        "ordinaryShares": 5.48,
+        "preferredShares": 0,
+        "totalShares": 5.48
+      },
+      {
+        "name": "EH Capital Management",
+        "ordinaryShares": 1.88,
+        "preferredShares": 0,
+        "totalShares": 1.88
+      },
+      {
+        "name": "Susette Horn",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682996400000,
+      "amount": 0.5113,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650596400000,
+      "amount": 0.5648,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619146800000,
+      "amount": 1.0873,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1608001200000,
+      "amount": 1.5605,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1595473200000,
+      "amount": 0.2569,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1575946800000,
+      "amount": 1.0405,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1562727600000,
+      "amount": 0.7804,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1545098400000,
+      "amount": 0.5987,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525662000000,
+      "amount": 0.5209,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.0941,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461812400000,
+      "amount": 0.1806,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398654000000,
+      "amount": 0.4231,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.3783,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.1256,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.2881,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.337,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.4703,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.1854,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209438000000,
+      "amount": 0.041,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1189998000000,
+      "amount": 0.1687,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 0.0852,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1161313200000,
+      "amount": 0.1806,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1144724400000,
+      "amount": 0.269,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1116903600000,
+      "amount": 0.3814,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1102989600000,
+      "amount": 0.2145,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1083294000000,
+      "amount": 0.0938,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1050462000000,
+      "amount": 0.1343,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1015470000000,
+      "amount": 0.2384,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 982638000000,
+      "amount": 0.2514,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 956631600000,
+      "amount": 0.1292,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 925441200000,
+      "amount": 0.0797,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 893732400000,
+      "amount": 0.0575,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 861332400000,
+      "amount": 0.025,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

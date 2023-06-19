@@ -1,0 +1,105 @@
+{
+  "name": "VIVA3",
+  "business": "Acess�rios",
+  "currentState": {
+    "price": 27.88,
+    "priceToEarnings": 18.63,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Nelson Kaufman",
+        "ordinaryShares": 24.66,
+        "preferredShares": 0,
+        "totalShares": 24.66
+      },
+      {
+        "name": "Marina Kaufman Bueno Netto",
+        "ordinaryShares": 14.75,
+        "preferredShares": 0,
+        "totalShares": 14.75
+      },
+      {
+        "name": "M�rcio Monteiro Kaufman",
+        "ordinaryShares": 10.45,
+        "preferredShares": 0,
+        "totalShares": 10.45
+      },
+      {
+        "name": "Paulo Kruglensky",
+        "ordinaryShares": 4.17,
+        "preferredShares": 0,
+        "totalShares": 4.17
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682564400000,
+      "amount": 0.3642,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.0539,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1640574000000,
+      "amount": 0.2752,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.0528,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1609210800000,
+      "amount": 0.1058,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1577415600000,
+      "amount": 0.1694,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

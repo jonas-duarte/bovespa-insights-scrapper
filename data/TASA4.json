@@ -1,0 +1,220 @@
+{
+  "name": "TASA4",
+  "business": "Armas e Muni��es",
+  "currentState": {
+    "price": 15,
+    "priceToEarnings": 5.27,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "BYK Participa��es S.A.",
+        "ordinaryShares": 71.83,
+        "preferredShares": 5.25,
+        "totalShares": 29.68
+      },
+      {
+        "name": "Gibraltar Incorpora��es e Participa��es Ltda",
+        "ordinaryShares": 9.51,
+        "preferredShares": 8.52,
+        "totalShares": 8.88
+      },
+      {
+        "name": "Luiz Barsi Filho",
+        "ordinaryShares": 2.67,
+        "preferredShares": 7.73,
+        "totalShares": 5.87
+      },
+      {
+        "name": "CBC Brasil Com�rcio e Distribui��o Ltda",
+        "ordinaryShares": 1.45,
+        "preferredShares": 0,
+        "totalShares": 0.53
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 1.2956,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650337200000,
+      "amount": 1.6244,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366945200000,
+      "amount": 0.0271,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1353290400000,
+      "amount": 0.0323,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1345086000000,
+      "amount": 0.07,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1321495200000,
+      "amount": 0.1,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1312945200000,
+      "amount": 0.03,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.002,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1289959200000,
+      "amount": 0.1,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1277866800000,
+      "amount": 0.07,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.002,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1258423200000,
+      "amount": 0.14,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1227664800000,
+      "amount": 0.2,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1196128800000,
+      "amount": 0.16,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1176692400000,
+      "amount": 0.005,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1166061600000,
+      "amount": 0.1,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1138240800000,
+      "amount": 0.0741,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1100656800000,
+      "amount": 0.08,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1068775200000,
+      "amount": 0.0751,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1051585200000,
+      "amount": 0.0129,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1040349600000,
+      "amount": 0.0942,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1023246000000,
+      "amount": 0.0616,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1008208800000,
+      "amount": 0.0952,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 977191200000,
+      "amount": 0.0616,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 956890800000,
+      "amount": 0.0025,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 945050400000,
+      "amount": 0.0616,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 914205600000,
+      "amount": 0.0616,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 890967600000,
+      "amount": 0.031,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 862369200000,
+      "amount": 0.0524,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

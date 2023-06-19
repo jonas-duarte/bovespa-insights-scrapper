@@ -1,0 +1,355 @@
+{
+  "name": "DXCO3",
+  "business": "Madeira",
+  "currentState": {
+    "price": 9.09,
+    "priceToEarnings": 10.97,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Ita�sa S.A.",
+        "ordinaryShares": 37.28,
+        "preferredShares": 0,
+        "totalShares": 37.28
+      },
+      {
+        "name": "FIA Jequitib�",
+        "ordinaryShares": 10.2,
+        "preferredShares": 0,
+        "totalShares": 10.2
+      },
+      {
+        "name": "Salo Davi Seibel",
+        "ordinaryShares": 8.39,
+        "preferredShares": 0,
+        "totalShares": 8.39
+      },
+      {
+        "name": "FMR LLC - Fidelity Investments",
+        "ordinaryShares": 5.09,
+        "preferredShares": 0,
+        "totalShares": 5.09
+      },
+      {
+        "name": "Andrea Laserna Seibel",
+        "ordinaryShares": 1.17,
+        "preferredShares": 0,
+        "totalShares": 1.17
+      },
+      {
+        "name": "Alfredo Egydio Arruda Villela Filho",
+        "ordinaryShares": 0.73,
+        "preferredShares": 0,
+        "totalShares": 0.73
+      },
+      {
+        "name": "Ana L�cia de Mattos Barretto Villela",
+        "ordinaryShares": 0.73,
+        "preferredShares": 0,
+        "totalShares": 0.73
+      },
+      {
+        "name": "Ricardo Villela Marino",
+        "ordinaryShares": 0.7,
+        "preferredShares": 0,
+        "totalShares": 0.7
+      },
+      {
+        "name": "Rodolfo Villela Marino",
+        "ordinaryShares": 0.7,
+        "preferredShares": 0,
+        "totalShares": 0.7
+      },
+      {
+        "name": "FIP Ligna",
+        "ordinaryShares": 0.64,
+        "preferredShares": 0,
+        "totalShares": 0.64
+      },
+      {
+        "name": "OES Participa��es S.A.",
+        "ordinaryShares": 0.37,
+        "preferredShares": 0,
+        "totalShares": 0.37
+      },
+      {
+        "name": "Olavo Egydio Setubal J�nior",
+        "ordinaryShares": 0.06,
+        "preferredShares": 0,
+        "totalShares": 0.06
+      },
+      {
+        "name": "Jos� Luiz Egydio Setubal",
+        "ordinaryShares": 0.05,
+        "preferredShares": 0,
+        "totalShares": 0.05
+      },
+      {
+        "name": "Alfredo Egydio Setubal",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Guilherme Setubal Souza e Silva",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Ricardo Egydio Setubal",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Roberto Egydio Setubal",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Rudric ITH Participa��es Ltda",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "PSN Participa��es Ltda.",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Carolina Marinho Lutz Setubal",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Julia Guidon Setubal Winandy",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Paulo Egydio Setubal",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "OE Setubal S.A.",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Tide Participa��es Ltda.",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1670986800000,
+      "amount": 0.339,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1639450800000,
+      "amount": 1.0341,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1639450800000,
+      "amount": 0.2465,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1613530800000,
+      "amount": 0.4344,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1607655600000,
+      "amount": 0.3144,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1576465200000,
+      "amount": 0.3734,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545098400000,
+      "amount": 0.4154,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545098400000,
+      "amount": 0.3771,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1513216800000,
+      "amount": 0.0883,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1487037600000,
+      "amount": 0.0088,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1450317600000,
+      "amount": 0.2668,
+      "type": "JUROS"
+    },
+    {
+      "date": 1438052400000,
+      "amount": 0.0515,
+      "type": "JUROS"
+    },
+    {
+      "date": 1423101600000,
+      "amount": 0.0651,
+      "type": "Juros"
+    },
+    {
+      "date": 1418695200000,
+      "amount": 0.0857,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1406689200000,
+      "amount": 0.1097,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1392606000000,
+      "amount": 0.1046,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1387159200000,
+      "amount": 0.1223,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1374462000000,
+      "amount": 0.1576,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1361242800000,
+      "amount": 0.0118,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1354240800000,
+      "amount": 0.1639,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1343271600000,
+      "amount": 0.1132,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1329357600000,
+      "amount": 0.0083,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1323396000000,
+      "amount": 0.118,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1311908400000,
+      "amount": 0.1087,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1297648800000,
+      "amount": 0.0588,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1292551200000,
+      "amount": 0.1446,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1280890800000,
+      "amount": 0.1433,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1266894000000,
+      "amount": 0.0023,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1261101600000,
+      "amount": 0.0764,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1229479200000,
+      "amount": 0.0897,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1217300400000,
+      "amount": 0.1333,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1198116000000,
+      "amount": 0.0456,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

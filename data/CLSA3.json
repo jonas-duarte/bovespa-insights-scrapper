@@ -1,0 +1,98 @@
+{
+  "name": "CLSA3",
+  "business": "Servi�os Financeiros Diversos",
+  "currentState": {
+    "price": 6.96,
+    "priceToEarnings": -85.87,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Pedro Paulo Chiamurela",
+        "ordinaryShares": 35.29,
+        "preferredShares": 0,
+        "totalShares": 35.29
+      },
+      {
+        "name": "Ver�nica Allende Serra",
+        "ordinaryShares": 9.04,
+        "preferredShares": 0,
+        "totalShares": 9.04
+      },
+      {
+        "name": "Innova Capital S.A.",
+        "ordinaryShares": 8.87,
+        "preferredShares": 0,
+        "totalShares": 8.87
+      },
+      {
+        "name": "Bernardo Carvalho Lustosa",
+        "ordinaryShares": 8.71,
+        "preferredShares": 0,
+        "totalShares": 8.71
+      },
+      {
+        "name": "Renato Kocubej Soriano",
+        "ordinaryShares": 3.46,
+        "preferredShares": 0,
+        "totalShares": 3.46
+      },
+      {
+        "name": "Innova Global Tech Fundo de Investimento em Participa��es Multiestrat�gia",
+        "ordinaryShares": 2.5,
+        "preferredShares": 0,
+        "totalShares": 2.5
+      },
+      {
+        "name": "Mauro Back",
+        "ordinaryShares": 1.26,
+        "preferredShares": 0,
+        "totalShares": 1.26
+      },
+      {
+        "name": "Rafael de Souza Louren�o",
+        "ordinaryShares": 1.03,
+        "preferredShares": 0,
+        "totalShares": 1.03
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

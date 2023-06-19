@@ -1,0 +1,109 @@
+{
+  "name": "TECN3",
+  "business": "Acess�rios",
+  "currentState": {
+    "price": 3.13,
+    "priceToEarnings": 4.62,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Swensen LTD",
+        "ordinaryShares": 26.2,
+        "preferredShares": 0,
+        "totalShares": 26.2
+      },
+      {
+        "name": "Joaquim Pedro Andr�s Ribeiro",
+        "ordinaryShares": 11.61,
+        "preferredShares": 0,
+        "totalShares": 11.61
+      },
+      {
+        "name": "Renato Jos� Goettems",
+        "ordinaryShares": 11.58,
+        "preferredShares": 0,
+        "totalShares": 11.58
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1674615600000,
+      "amount": 0.082,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1642561200000,
+      "amount": 0.081,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1482372000000,
+      "amount": 0.0486,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1437534000000,
+      "amount": 0.3,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1419559200000,
+      "amount": 0.2068,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 0.16,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1366858800000,
+      "amount": 0.1603,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335409200000,
+      "amount": 0.4485,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

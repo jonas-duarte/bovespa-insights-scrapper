@@ -1,0 +1,208 @@
+{
+  "name": "TRIS3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 5.22,
+    "priceToEarnings": 11.39,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Trisul Participa��es S.A.",
+        "ordinaryShares": 50.83,
+        "preferredShares": 0,
+        "totalShares": 50.83
+      },
+      {
+        "name": "Michel Esper Saad Junior",
+        "ordinaryShares": 2.95,
+        "preferredShares": 0,
+        "totalShares": 2.95
+      },
+      {
+        "name": "Jorge Cury Neto",
+        "ordinaryShares": 2.37,
+        "preferredShares": 0,
+        "totalShares": 2.37
+      },
+      {
+        "name": "Jos� Roberto Cury",
+        "ordinaryShares": 2.31,
+        "preferredShares": 0,
+        "totalShares": 2.31
+      },
+      {
+        "name": "Fl�via Mattar Sayeg Michalu�",
+        "ordinaryShares": 0.3,
+        "preferredShares": 0,
+        "totalShares": 0.3
+      },
+      {
+        "name": "Jos� Sayeg Neto",
+        "ordinaryShares": 0.3,
+        "preferredShares": 0,
+        "totalShares": 0.3
+      },
+      {
+        "name": "�mega Administra��o e Participa��es Ltda.",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682478000000,
+      "amount": 0.0686,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1682478000000,
+      "amount": 0.0686,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650942000000,
+      "amount": 0.1098,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650942000000,
+      "amount": 0.1098,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619146800000,
+      "amount": 0.1206,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619146800000,
+      "amount": 0.1206,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1589252400000,
+      "amount": 0.1072,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1589252400000,
+      "amount": 0.1072,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1587610800000,
+      "amount": 0.1072,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1587610800000,
+      "amount": 0.1072,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556247600000,
+      "amount": 0.0684,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556247600000,
+      "amount": 0.0684,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524798000000,
+      "amount": 0.0838,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524798000000,
+      "amount": 0.0838,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493262000000,
+      "amount": 0.065,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461726000000,
+      "amount": 0.1254,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430103600000,
+      "amount": 0.2589,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1397444400000,
+      "amount": 0.0611,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366599600000,
+      "amount": 0.0485,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.1137,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1271386800000,
+      "amount": 0.1417,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1228874400000,
+      "amount": 0.0645,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1208142000000,
+      "amount": 0.0662,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

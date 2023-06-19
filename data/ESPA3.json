@@ -1,0 +1,108 @@
+{
+  "name": "ESPA3",
+  "business": "Produtos Diversos",
+  "currentState": {
+    "price": 1.84,
+    "priceToEarnings": -12.93,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Ygor Alessandro de Moura",
+        "ordinaryShares": 16.9,
+        "preferredShares": 0,
+        "totalShares": 16.9
+      },
+      {
+        "name": "Magn�lia Fundo de Investimento em Participa��es Multiestrat�gia",
+        "ordinaryShares": 16.9,
+        "preferredShares": 0,
+        "totalShares": 16.9
+      },
+      {
+        "name": "Paulo Jos� I�sz de Morais",
+        "ordinaryShares": 10.04,
+        "preferredShares": 0,
+        "totalShares": 10.04
+      },
+      {
+        "name": "FOURTH SAIL LP",
+        "ordinaryShares": 7.93,
+        "preferredShares": 0,
+        "totalShares": 7.93
+      },
+      {
+        "name": "Neo Future Master Fundo De Investimento Em A��es",
+        "ordinaryShares": 7.28,
+        "preferredShares": 0,
+        "totalShares": 7.28
+      },
+      {
+        "name": "SMZXP Participa��es Ltda.",
+        "ordinaryShares": 2.55,
+        "preferredShares": 0,
+        "totalShares": 2.55
+      },
+      {
+        "name": "Jos� Carlos Semenzato",
+        "ordinaryShares": 0.96,
+        "preferredShares": 0,
+        "totalShares": 0.96
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1630897200000,
+      "amount": 0.0348,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1630897200000,
+      "amount": 0.0471,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.0604,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

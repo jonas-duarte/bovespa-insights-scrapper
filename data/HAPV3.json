@@ -1,0 +1,142 @@
+{
+  "name": "HAPV3",
+  "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
+  "currentState": {
+    "price": 4.35,
+    "priceToEarnings": -35.02,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "PPAR Pinheiro Participa��es S.A.",
+        "ordinaryShares": 33.89,
+        "preferredShares": 0,
+        "totalShares": 33.89
+      },
+      {
+        "name": "BlackRock, Inc.",
+        "ordinaryShares": 5.14,
+        "preferredShares": 0,
+        "totalShares": 5.14
+      },
+      {
+        "name": "Jorge Fontoura Pinheiro Koren de Lima",
+        "ordinaryShares": 0.57,
+        "preferredShares": 0,
+        "totalShares": 0.57
+      },
+      {
+        "name": "Candido Pinheiro Koren de Lima",
+        "ordinaryShares": 0.55,
+        "preferredShares": 0,
+        "totalShares": 0.55
+      },
+      {
+        "name": "Ana Christina Fontoura Koren de Lima",
+        "ordinaryShares": 0.53,
+        "preferredShares": 0,
+        "totalShares": 0.53
+      },
+      {
+        "name": "Candido Pinheiro Koren de Lima J�nior",
+        "ordinaryShares": 0.45,
+        "preferredShares": 0,
+        "totalShares": 0.45
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1640574000000,
+      "amount": 0.0054,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632711600000,
+      "amount": 0.0118,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1625540400000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1620183600000,
+      "amount": 0.0026,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1609988400000,
+      "amount": 0.0251,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1599706800000,
+      "amount": 0.1491,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1588042800000,
+      "amount": 0.0165,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1578020400000,
+      "amount": 0.1597,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1562036400000,
+      "amount": 0.1554,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1555902000000,
+      "amount": 0.1217,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1544752800000,
+      "amount": 0.1843,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

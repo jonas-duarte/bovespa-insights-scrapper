@@ -1,0 +1,212 @@
+{
+  "name": "AMAR3",
+  "business": "Tecidos, Vestu�rio e Cal�ados",
+  "currentState": {
+    "price": 0.83,
+    "priceToEarnings": -0.48,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "ZAP FIA IE",
+        "ordinaryShares": 6.71,
+        "preferredShares": 0,
+        "totalShares": 6.71
+      },
+      {
+        "name": "Marcio Luiz Goldfarb",
+        "ordinaryShares": 5.71,
+        "preferredShares": 0,
+        "totalShares": 5.71
+      },
+      {
+        "name": "MOBYDICK FUNDO DE INVESTIMENTO EM A��ES",
+        "ordinaryShares": 4.36,
+        "preferredShares": 0,
+        "totalShares": 4.36
+      },
+      {
+        "name": "Ricardo Goldfarb",
+        "ordinaryShares": 3.89,
+        "preferredShares": 0,
+        "totalShares": 3.89
+      },
+      {
+        "name": "Marina Goldfarb",
+        "ordinaryShares": 3.87,
+        "preferredShares": 0,
+        "totalShares": 3.87
+      },
+      {
+        "name": "Renata Goldfarb",
+        "ordinaryShares": 3.87,
+        "preferredShares": 0,
+        "totalShares": 3.87
+      },
+      {
+        "name": "Fl�via Goldfarb Papa",
+        "ordinaryShares": 3.64,
+        "preferredShares": 0,
+        "totalShares": 3.64
+      },
+      {
+        "name": "Roberta Goldfarb Philipsen",
+        "ordinaryShares": 3.64,
+        "preferredShares": 0,
+        "totalShares": 3.64
+      },
+      {
+        "name": "Marcelo Goldfarb",
+        "ordinaryShares": 3.59,
+        "preferredShares": 0,
+        "totalShares": 3.59
+      },
+      {
+        "name": "Denise Golfarb Terpins",
+        "ordinaryShares": 3.22,
+        "preferredShares": 0,
+        "totalShares": 3.22
+      },
+      {
+        "name": "Michel Terpins",
+        "ordinaryShares": 3.19,
+        "preferredShares": 0,
+        "totalShares": 3.19
+      },
+      {
+        "name": "Rodrigo Terpins",
+        "ordinaryShares": 3.19,
+        "preferredShares": 0,
+        "totalShares": 3.19
+      },
+      {
+        "name": "Ticiana Terpins Strozenberg",
+        "ordinaryShares": 3.19,
+        "preferredShares": 0,
+        "totalShares": 3.19
+      },
+      {
+        "name": "MIL FUNDO DE INVESTIMENTO DE A��ES",
+        "ordinaryShares": 1.28,
+        "preferredShares": 0,
+        "totalShares": 1.28
+      },
+      {
+        "name": "CSHG DRAGSTER II FIM CP IE",
+        "ordinaryShares": 0.28,
+        "preferredShares": 0,
+        "totalShares": 0.28
+      },
+      {
+        "name": "D�cio Goldfarb",
+        "ordinaryShares": 0.19,
+        "preferredShares": 0,
+        "totalShares": 0.19
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1430276400000,
+      "amount": 0.0654,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1430276400000,
+      "amount": 0.0654,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1397703600000,
+      "amount": 0.1094,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366254000000,
+      "amount": 0.1156,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1354154400000,
+      "amount": 0.2081,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1334804400000,
+      "amount": 0.1703,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1310958000000,
+      "amount": 0.5419,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1305860400000,
+      "amount": 0.0669,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1303182000000,
+      "amount": 0.0706,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1291946400000,
+      "amount": 0.0572,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1290736800000,
+      "amount": 0.0572,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1280804400000,
+      "amount": 0.1145,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1280804400000,
+      "amount": 0.0539,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

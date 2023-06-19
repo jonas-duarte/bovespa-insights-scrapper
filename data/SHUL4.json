@@ -1,0 +1,371 @@
+{
+  "name": "SHUL4",
+  "business": "Motores, Compressores e Outros",
+  "currentState": {
+    "price": 6.1,
+    "priceToEarnings": 7.08,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "WALDIR CARLOS SCHULZ",
+        "ordinaryShares": 22.35,
+        "preferredShares": 5.18,
+        "totalShares": 12.51
+      },
+      {
+        "name": "GERT HEINZ SCHULZ",
+        "ordinaryShares": 22.3,
+        "preferredShares": 5.41,
+        "totalShares": 12.63
+      },
+      {
+        "name": "ELIANA ERNA SCHULZ MANTEUFEL",
+        "ordinaryShares": 18.67,
+        "preferredShares": 0,
+        "totalShares": 7.98
+      },
+      {
+        "name": "OVANDI ROSENSTOCK",
+        "ordinaryShares": 18.31,
+        "preferredShares": 4.18,
+        "totalShares": 10.22
+      },
+      {
+        "name": "DORIANE BRAATZ",
+        "ordinaryShares": 18.29,
+        "preferredShares": 0.67,
+        "totalShares": 8.2
+      },
+      {
+        "name": "ALEXANDRE EDUARDO ROSENSTOCK",
+        "ordinaryShares": 0,
+        "preferredShares": 0.69,
+        "totalShares": 0.4
+      },
+      {
+        "name": "Clube de Investimentos Sol",
+        "ordinaryShares": 0,
+        "preferredShares": 13.17,
+        "totalShares": 7.54
+      },
+      {
+        "name": "HELGA DE LOYOLA",
+        "ordinaryShares": 0,
+        "preferredShares": 1,
+        "totalShares": 0.57
+      },
+      {
+        "name": "NORD AT MASTER FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 0,
+        "preferredShares": 1.27,
+        "totalShares": 0.73
+      },
+      {
+        "name": "REAL INVESTOR MASTER FIA - BDR NIVEL I",
+        "ordinaryShares": 0,
+        "preferredShares": 2.32,
+        "totalShares": 1.33
+      },
+      {
+        "name": "S�RGIO EDUARDO FERREIRA RODARTE",
+        "ordinaryShares": 0,
+        "preferredShares": 8.26,
+        "totalShares": 4.73
+      },
+      {
+        "name": "TRIGONO FLAGSHIP SMALL CAPS MASTER FIA",
+        "ordinaryShares": 0,
+        "preferredShares": 10.7,
+        "totalShares": 6.13
+      },
+      {
+        "name": "TRIGONO ICATU 100 FUNDO DE INVESTIMENTO EM A��ES PREVID�NCIA",
+        "ordinaryShares": 0,
+        "preferredShares": 2.61,
+        "totalShares": 1.5
+      },
+      {
+        "name": "TRIGONO VERBIER MASTER FUNDO DE INVESTIMENTO EM A��ES",
+        "ordinaryShares": 0,
+        "preferredShares": 2.44,
+        "totalShares": 1.4
+      },
+      {
+        "name": "WERNER MUELLER ROGER",
+        "ordinaryShares": 0,
+        "preferredShares": 0.77,
+        "totalShares": 0.44
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1680490800000,
+      "amount": 0.0612,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1677034800000,
+      "amount": 0.0641,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1672023600000,
+      "amount": 0.0671,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1664161200000,
+      "amount": 0.0629,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1656039600000,
+      "amount": 0.0297,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1650337200000,
+      "amount": 0.0567,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1637809200000,
+      "amount": 0.041,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632452400000,
+      "amount": 0.0602,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1624503600000,
+      "amount": 0.0469,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1618887600000,
+      "amount": 0.0384,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1609124400000,
+      "amount": 0.0678,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1605582000000,
+      "amount": 0.0778,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1601434800000,
+      "amount": 0.108,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1593399600000,
+      "amount": 0.0562,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1569812400000,
+      "amount": 0.1538,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1554951600000,
+      "amount": 0.1116,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1539745200000,
+      "amount": 0.1974,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1525316400000,
+      "amount": 0.1145,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1511229600000,
+      "amount": 0.1065,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1493694000000,
+      "amount": 0.0532,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1477620000000,
+      "amount": 0.0838,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.0472,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1447380000000,
+      "amount": 0.1781,
+      "type": "JUROS"
+    },
+    {
+      "date": 1429758000000,
+      "amount": 0.0766,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1415930400000,
+      "amount": 0.1748,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1395889200000,
+      "amount": 0.1801,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1382493600000,
+      "amount": 0.1183,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1364871600000,
+      "amount": 0.0991,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1344913200000,
+      "amount": 0.0571,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1334026800000,
+      "amount": 0.1513,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1312340400000,
+      "amount": 0.0867,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1303182000000,
+      "amount": 0.1019,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1290564000000,
+      "amount": 0.4671,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1272337200000,
+      "amount": 0.6823,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1256868000000,
+      "amount": 0.1439,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1207882800000,
+      "amount": 0.1741,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1198807200000,
+      "amount": 0.5783,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1177470000000,
+      "amount": 2.5574,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1146193200000,
+      "amount": 2.7034,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1114743600000,
+      "amount": 2.4859,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1082602800000,
+      "amount": 0.9884,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1051671600000,
+      "amount": 0.359,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1014778800000,
+      "amount": 0.3,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 925441200000,
+      "amount": 0.34,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 862369200000,
+      "amount": 0.1625,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 830833200000,
+      "amount": 0.73,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

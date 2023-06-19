@@ -1,0 +1,129 @@
+{
+  "name": "HBOR3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 3.32,
+    "priceToEarnings": 9.5,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "H�lio Borenstein S.A. - Administra��o, Participa��es e Com�rcio",
+        "ordinaryShares": 38.53,
+        "preferredShares": 0,
+        "totalShares": 38.53
+      },
+      {
+        "name": "Henrique Borenstein",
+        "ordinaryShares": 7.39,
+        "preferredShares": 0,
+        "totalShares": 7.39
+      },
+      {
+        "name": "Henry Borenstein",
+        "ordinaryShares": 4.17,
+        "preferredShares": 0,
+        "totalShares": 4.17
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.0906,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.1807,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.0475,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.0649,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430276400000,
+      "amount": 0.3962,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398222000000,
+      "amount": 0.5045,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366340400000,
+      "amount": 0.5216,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1334545200000,
+      "amount": 1.0897,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1302836400000,
+      "amount": 0.7971,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272250800000,
+      "amount": 0.3444,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240369200000,
+      "amount": 0.2185,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1203040800000,
+      "amount": 0.03,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "name": "CCRO3",
+  "business": "Explora��o de Rodovias",
+  "currentState": {
+    "price": 14.06,
+    "priceToEarnings": 21.68,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "SUCEA Participa��es S.A. (anteriormente Camargo Corr�a Investimentos em Infra-Estrutura S.A.)",
+        "ordinaryShares": 13.32,
+        "preferredShares": 0,
+        "totalShares": 13.32
+      },
+      {
+        "name": "Soares Penido Concess�es S.A.",
+        "ordinaryShares": 10.43,
+        "preferredShares": 0,
+        "totalShares": 10.43
+      },
+      {
+        "name": "Ita�sa S.A.",
+        "ordinaryShares": 10.33,
+        "preferredShares": 0,
+        "totalShares": 10.33
+      },
+      {
+        "name": "Votorantim S.A",
+        "ordinaryShares": 10.33,
+        "preferredShares": 0,
+        "totalShares": 10.33
+      },
+      {
+        "name": "Capital International Investors",
+        "ordinaryShares": 5.01,
+        "preferredShares": 0,
+        "totalShares": 5.01
+      },
+      {
+        "name": "Soares Penido Obras, Constru��es e Investimentos S.A.",
+        "ordinaryShares": 4.62,
+        "preferredShares": 0,
+        "totalShares": 4.62
+      },
+      {
+        "name": "SINCRO Participa��es S.A. (anteriormente denominada CC Investimentos e Participa��es S.A.)",
+        "ordinaryShares": 1.54,
+        "preferredShares": 0,
+        "totalShares": 1.54
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681873200000,
+      "amount": 0.0365,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1667271600000,
+      "amount": 0.2929,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650337200000,
+      "amount": 0.0874,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1638241200000,
+      "amount": 0.0761,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1617850800000,
+      "amount": 0.0898,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1601521200000,
+      "amount": 0.1848,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1586401200000,
+      "amount": 0.297,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1571367600000,
+      "amount": 0.4653,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1557198000000,
+      "amount": 0.297,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1540263600000,
+      "amount": 0.396,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1523847600000,
+      "amount": 0.198,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1508378400000,
+      "amount": 0.4386,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1491879600000,
+      "amount": 0.198,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1478656800000,
+      "amount": 0.4248,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1458010800000,
+      "amount": 0.2832,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1450317600000,
+      "amount": 0.0504,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1443754800000,
+      "amount": 0.4875,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1429153200000,
+      "amount": 0.0571,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1411700400000,
+      "amount": 0.7359,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1397530800000,
+      "amount": 0.0571,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1380164400000,
+      "amount": 0.68,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366254000000,
+      "amount": 0.0571,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1348801200000,
+      "amount": 0.54,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1334286000000,
+      "amount": 0.0571,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1314586800000,
+      "amount": 1.59,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1303182000000,
+      "amount": 0.2283,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1284951600000,
+      "amount": 1.7,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272423600000,
+      "amount": 0.23,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1250046000000,
+      "amount": 1.16,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1239764400000,
+      "amount": 0.25,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1239764400000,
+      "amount": 0.1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1218423600000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1206586800000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1186628400000,
+      "amount": 0.82,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1175137200000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1155178800000,
+      "amount": 0.63,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1143601200000,
+      "amount": 0.25,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1125543600000,
+      "amount": 2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1112238000000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1092020400000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1079578800000,
+      "amount": 0.59,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1049943600000,
+      "amount": 0.35,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

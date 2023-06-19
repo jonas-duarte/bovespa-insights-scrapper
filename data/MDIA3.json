@@ -1,0 +1,203 @@
+{
+  "name": "MDIA3",
+  "business": "Alimentos Diversos",
+  "currentState": {
+    "price": 40.98,
+    "priceToEarnings": 27.03,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "DIBRA FUNDO DE INVESTIMENTO EM A��ES.",
+        "ordinaryShares": 63.32,
+        "preferredShares": 0,
+        "totalShares": 63.32
+      },
+      {
+        "name": "AVEIRO FUNDO DE INVESTIMENTOS EM A��ES",
+        "ordinaryShares": 3.89,
+        "preferredShares": 0,
+        "totalShares": 3.89
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1679022000000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1671073200000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1663297200000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1655262000000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1647486000000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1644375600000,
+      "amount": 1.7466,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1639623600000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1631761200000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1623812400000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1617764400000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1608692400000,
+      "amount": 0.4572,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1577674800000,
+      "amount": 0.2507,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545876000000,
+      "amount": 0.41,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1513821600000,
+      "amount": 0.3905,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1502334000000,
+      "amount": 0.17,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1481767200000,
+      "amount": 1.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1470279600000,
+      "amount": 0.5,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1450058400000,
+      "amount": 0.72,
+      "type": "JUROS"
+    },
+    {
+      "date": 1437966000000,
+      "amount": 0.5,
+      "type": "JUROS"
+    },
+    {
+      "date": 1418608800000,
+      "amount": 1.213,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1386554400000,
+      "amount": 1.0337,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1356055200000,
+      "amount": 1.0093,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1325037600000,
+      "amount": 0.7713,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1302490800000,
+      "amount": 0.7712,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1270436400000,
+      "amount": 0.6726,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240542000000,
+      "amount": 0.2791,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209438000000,
+      "amount": 0.27,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177470000000,
+      "amount": 0.3831,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "name": "CBAV3",
+  "business": "Minerais Met�licos",
+  "currentState": {
+    "price": 5.63,
+    "priceToEarnings": 6.35,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Votorantim S.A.",
+        "ordinaryShares": 67.89,
+        "preferredShares": 0,
+        "totalShares": 67.89
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682564400000,
+      "amount": 0.3458,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1670295600000,
+      "amount": 0.0948,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.1928,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.0959,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

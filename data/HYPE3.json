@@ -1,0 +1,241 @@
+{
+  "name": "HYPE3",
+  "business": "Medicamentos e Outros Produtos",
+  "currentState": {
+    "price": 45.19,
+    "priceToEarnings": 16.96,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Jo�o Alves de Queiroz Filho",
+        "ordinaryShares": 21.38,
+        "preferredShares": 0,
+        "totalShares": 21.38
+      },
+      {
+        "name": "Maiorem S.A. de C.V.",
+        "ordinaryShares": 14.74,
+        "preferredShares": 0,
+        "totalShares": 14.74
+      },
+      {
+        "name": "CAPITAL INTERNATIONAL INVESTORS",
+        "ordinaryShares": 10.4,
+        "preferredShares": 0,
+        "totalShares": 10.4
+      },
+      {
+        "name": "Votorantim S.A.",
+        "ordinaryShares": 5.12,
+        "preferredShares": 0,
+        "totalShares": 5.12
+      },
+      {
+        "name": "Alvaro Stainfeld Link",
+        "ordinaryShares": 0.12,
+        "preferredShares": 0,
+        "totalShares": 0.12
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1680058800000,
+      "amount": 0.3079,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1671678000000,
+      "amount": 0.3077,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1664334000000,
+      "amount": 0.3077,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1656298800000,
+      "amount": 0.3078,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1648436400000,
+      "amount": 0.3088,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1640660400000,
+      "amount": 0.3088,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632711600000,
+      "amount": 0.3081,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1626922800000,
+      "amount": 0.3082,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1616727600000,
+      "amount": 0.3088,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1609124400000,
+      "amount": 0.2929,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1603422000000,
+      "amount": 0.2929,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1593140400000,
+      "amount": 0.2935,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1585278000000,
+      "amount": 0.2939,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1577070000000,
+      "amount": 0.3042,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1569985200000,
+      "amount": 0.2554,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1562036400000,
+      "amount": 0.2556,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1554951600000,
+      "amount": 0.0264,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1554951600000,
+      "amount": 0.2284,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545357600000,
+      "amount": 0.1536,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545357600000,
+      "amount": 0.1976,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1538449200000,
+      "amount": 0.1997,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1530586800000,
+      "amount": 0.2054,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1522897200000,
+      "amount": 0.212,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1514426400000,
+      "amount": 0.92,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1498186800000,
+      "amount": 1.3005,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1492570800000,
+      "amount": 0.0509,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1487124000000,
+      "amount": 0.6,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1469588400000,
+      "amount": 0.25,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1462158000000,
+      "amount": 0.2106,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1460602800000,
+      "amount": 0.0394,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.163,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.1205,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

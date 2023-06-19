@@ -1,0 +1,151 @@
+{
+  "name": "CVCB3",
+  "business": "Viagens e Turismo",
+  "currentState": {
+    "price": 4.5,
+    "priceToEarnings": -3.16,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "OPEG FUNDO DE INVESTIMENTO EM ACOES INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 14.75,
+        "preferredShares": 0,
+        "totalShares": 14.75
+      },
+      {
+        "name": "OPPORTUNITY ACOES FIA BDR NIVEL I IE",
+        "ordinaryShares": 2.85,
+        "preferredShares": 0,
+        "totalShares": 2.85
+      },
+      {
+        "name": "OPPORTUNITY LOGICA MASTER FIA",
+        "ordinaryShares": 0.88,
+        "preferredShares": 0,
+        "totalShares": 0.88
+      },
+      {
+        "name": "Opportunity Selection Master Fundo de Investimento em A��es",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "Opportunity Long Biased Previd�ncia Master Fundo de Investimento",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1577070000000,
+      "amount": 0.4174,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.0261,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1544407200000,
+      "amount": 0.4165,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1524798000000,
+      "amount": 0.0836,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1513562400000,
+      "amount": 0.2892,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.1658,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1481162400000,
+      "amount": 0.1671,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1461639600000,
+      "amount": 0.5464,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461639600000,
+      "amount": 0.1886,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1450404000000,
+      "amount": 0.1146,
+      "type": "JUROS"
+    },
+    {
+      "date": 1429066800000,
+      "amount": 0.4783,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1429066800000,
+      "amount": 0.153,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1418090400000,
+      "amount": 0.1103,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1398654000000,
+      "amount": 0.1137,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

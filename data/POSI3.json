@@ -1,0 +1,239 @@
+{
+  "name": "POSI3",
+  "business": "Computadores e Equipamentos",
+  "currentState": {
+    "price": 8.96,
+    "priceToEarnings": 4.49,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "H�lio Bruck Rotenberg",
+        "ordinaryShares": 12.47,
+        "preferredShares": 0,
+        "totalShares": 12.47
+      },
+      {
+        "name": "Cixares Libero Vargas",
+        "ordinaryShares": 6.78,
+        "preferredShares": 0,
+        "totalShares": 6.78
+      },
+      {
+        "name": "Zenith Asset Management Ltda.",
+        "ordinaryShares": 5.08,
+        "preferredShares": 0,
+        "totalShares": 5.08
+      },
+      {
+        "name": "Lucas Raduy Guimar�es",
+        "ordinaryShares": 3.23,
+        "preferredShares": 0,
+        "totalShares": 3.23
+      },
+      {
+        "name": "Giem Raduy Guimar�es",
+        "ordinaryShares": 3.13,
+        "preferredShares": 0,
+        "totalShares": 3.13
+      },
+      {
+        "name": "Paulo Fernando Ferrari Lago",
+        "ordinaryShares": 2.92,
+        "preferredShares": 0,
+        "totalShares": 2.92
+      },
+      {
+        "name": "Samuel Ferrari Lago",
+        "ordinaryShares": 2.92,
+        "preferredShares": 0,
+        "totalShares": 2.92
+      },
+      {
+        "name": "Thais Susana Ferrari Lago",
+        "ordinaryShares": 2.92,
+        "preferredShares": 0,
+        "totalShares": 2.92
+      },
+      {
+        "name": "Rafael Moia Vargas",
+        "ordinaryShares": 2.82,
+        "preferredShares": 0,
+        "totalShares": 2.82
+      },
+      {
+        "name": "Daniela Cesar Formighieri Rigolino",
+        "ordinaryShares": 2.56,
+        "preferredShares": 0,
+        "totalShares": 2.56
+      },
+      {
+        "name": "Sofia Guimar�es Von Ridder",
+        "ordinaryShares": 2.53,
+        "preferredShares": 0,
+        "totalShares": 2.53
+      },
+      {
+        "name": "Isabela Cesar Formighieri",
+        "ordinaryShares": 2.51,
+        "preferredShares": 0,
+        "totalShares": 2.51
+      },
+      {
+        "name": "Rodrigo Cesar Formighieri",
+        "ordinaryShares": 2.28,
+        "preferredShares": 0,
+        "totalShares": 2.28
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.3342,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1682650800000,
+      "amount": 0.18,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.2211,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.1191,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.1704,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.0852,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.0852,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1590980400000,
+      "amount": 0.0321,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.0257,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.0683,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 0.0455,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.0877,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.259,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272337200000,
+      "amount": 0.2905,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240887600000,
+      "amount": 0.0989,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1218510000000,
+      "amount": 0.1595,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1218510000000,
+      "amount": 0.138,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1206414000000,
+      "amount": 0.2199,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1206414000000,
+      "amount": 0.2084,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1186714800000,
+      "amount": 0.2081,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1186714800000,
+      "amount": 0.1482,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1175655600000,
+      "amount": 0.0065,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

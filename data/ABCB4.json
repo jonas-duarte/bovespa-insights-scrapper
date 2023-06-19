@@ -1,0 +1,284 @@
+{
+  "name": "ABCB4",
+  "business": "Bancos",
+  "currentState": {
+    "price": 17.69,
+    "priceToEarnings": 4.96,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "MARSAU URUGUAY HOLDINGS S.A.",
+        "ordinaryShares": 100,
+        "preferredShares": 24.09,
+        "totalShares": 62.18
+      },
+      {
+        "name": "Compass Group LLC",
+        "ordinaryShares": 0,
+        "preferredShares": 5.31,
+        "totalShares": 2.65
+      },
+      {
+        "name": "Una Capital Ltda.",
+        "ordinaryShares": 0,
+        "preferredShares": 5.02,
+        "totalShares": 2.5
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1672282800000,
+      "amount": 0.37,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1664506800000,
+      "amount": 0.362,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1656558000000,
+      "amount": 0.352,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1648695600000,
+      "amount": 0.313,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1640833200000,
+      "amount": 0.252,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1633489200000,
+      "amount": 0.232,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1625022000000,
+      "amount": 0.219,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1617159600000,
+      "amount": 0.213,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1609902000000,
+      "amount": 0.3382,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1597201200000,
+      "amount": 0.1587,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1577674800000,
+      "amount": 0.491,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1562209200000,
+      "amount": 0.559,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545962400000,
+      "amount": 0.539,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1530241200000,
+      "amount": 0.54,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1514426400000,
+      "amount": 0.532,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1498791600000,
+      "amount": 0.554,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1482976800000,
+      "amount": 0.539,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1467255600000,
+      "amount": 0.548,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1451440800000,
+      "amount": 0.463,
+      "type": "JUROS"
+    },
+    {
+      "date": 1435633200000,
+      "amount": 0.402,
+      "type": "JUROS"
+    },
+    {
+      "date": 1419904800000,
+      "amount": 0.333,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1404097200000,
+      "amount": 0.326,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1388368800000,
+      "amount": 0.303,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1372388400000,
+      "amount": 0.2966,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1357092000000,
+      "amount": 0.308,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1341198000000,
+      "amount": 0.33,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1325124000000,
+      "amount": 0.16,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1317351600000,
+      "amount": 0.15,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1309402800000,
+      "amount": 0.15,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1301540400000,
+      "amount": 0.14,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1293674400000,
+      "amount": 0.14,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1285815600000,
+      "amount": 0.14,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1277866800000,
+      "amount": 0.13,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1270004400000,
+      "amount": 0.13,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1262138400000,
+      "amount": 0.13,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1254279600000,
+      "amount": 0.12,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1246330800000,
+      "amount": 0.13,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1238468400000,
+      "amount": 0.13,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1230602400000,
+      "amount": 0.13,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1222743600000,
+      "amount": 0.13,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1214794800000,
+      "amount": 0.12,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1206932400000,
+      "amount": 0.12,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1198116000000,
+      "amount": 0.32,
+      "type": "JRS CAP PR�PRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

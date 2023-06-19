@@ -1,0 +1,124 @@
+{
+  "name": "MRFG3",
+  "business": "Carnes e Derivados",
+  "currentState": {
+    "price": 7.23,
+    "priceToEarnings": 1.39,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "MMS PARTICIPA��ES LTDA.",
+        "ordinaryShares": 38.69,
+        "preferredShares": 0,
+        "totalShares": 38.69
+      },
+      {
+        "name": "Marcos Antonio Molina dos Santos",
+        "ordinaryShares": 9.04,
+        "preferredShares": 0,
+        "totalShares": 9.04
+      },
+      {
+        "name": "Marcia Ap. Pascoal Mar�al dos Santos",
+        "ordinaryShares": 5.38,
+        "preferredShares": 0,
+        "totalShares": 5.38
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1671418800000,
+      "amount": 0.9095,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1660878000000,
+      "amount": 0.7576,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1649818800000,
+      "amount": 0.5801,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1640055600000,
+      "amount": 1.2502,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1631242800000,
+      "amount": 1.4006,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1617937200000,
+      "amount": 0.2039,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304305200000,
+      "amount": 0.014,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1293674400000,
+      "amount": 0.0996,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.0439,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1262052000000,
+      "amount": 0.4899,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1198029600000,
+      "amount": 0.1844,
+      "type": "JRS CAP PR�PRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

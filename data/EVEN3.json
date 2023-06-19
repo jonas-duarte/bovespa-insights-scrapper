@@ -1,0 +1,144 @@
+{
+  "name": "EVEN3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 6.59,
+    "priceToEarnings": 9.61,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Nova Milano Investimentos",
+        "ordinaryShares": 48.44,
+        "preferredShares": 0,
+        "totalShares": 48.44
+      },
+      {
+        "name": "Nebraska Capital Gest�o de Recursos LTDA",
+        "ordinaryShares": 5.14,
+        "preferredShares": 0,
+        "totalShares": 5.14
+      },
+      {
+        "name": "Real Investor Gest�o de Recursos LTDA",
+        "ordinaryShares": 5.08,
+        "preferredShares": 0,
+        "totalShares": 5.08
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1668740400000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1639969200000,
+      "amount": 0.0735,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1623985200000,
+      "amount": 0.1931,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619578800000,
+      "amount": 0.5642,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1588215600000,
+      "amount": 0.1424,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1463972400000,
+      "amount": 0.0107,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461294000000,
+      "amount": 0.1601,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.2625,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1400554800000,
+      "amount": 0.2887,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367204400000,
+      "amount": 0.2616,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1334718000000,
+      "amount": 0.2302,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.257,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1270782000000,
+      "amount": 0.1661,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1240369200000,
+      "amount": 0.0798,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1208142000000,
+      "amount": 0.049,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "name": "ANIM3",
+  "business": "Servi�os Educacionais",
+  "currentState": {
+    "price": 4.13,
+    "priceToEarnings": -18.67,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Daniel Faccini Castanho",
+        "ordinaryShares": 10.63,
+        "preferredShares": 0,
+        "totalShares": 10.63
+      },
+      {
+        "name": "GUEPARDO INVESTIMENTOS LTDA.",
+        "ordinaryShares": 9.68,
+        "preferredShares": 0,
+        "totalShares": 9.68
+      },
+      {
+        "name": "Marcelo Battistella Bueno",
+        "ordinaryShares": 6.94,
+        "preferredShares": 0,
+        "totalShares": 6.94
+      },
+      {
+        "name": "R�mulo Faccini Castanho",
+        "ordinaryShares": 4.58,
+        "preferredShares": 0,
+        "totalShares": 4.58
+      },
+      {
+        "name": "Dynamo Administra��o de Recursos Ltda.",
+        "ordinaryShares": 3.93,
+        "preferredShares": 0,
+        "totalShares": 3.93
+      },
+      {
+        "name": "Dynamo Internacional Gest�o de Recursos Ltda.",
+        "ordinaryShares": 3.01,
+        "preferredShares": 0,
+        "totalShares": 3.01
+      },
+      {
+        "name": "Maur�cio Nogueira Escobar",
+        "ordinaryShares": 2.61,
+        "preferredShares": 0,
+        "totalShares": 2.61
+      },
+      {
+        "name": "Ign�cio Dauden Martinez",
+        "ordinaryShares": 1.27,
+        "preferredShares": 0,
+        "totalShares": 1.27
+      },
+      {
+        "name": "�tila Sim�es da Cunha",
+        "ordinaryShares": 1.19,
+        "preferredShares": 0,
+        "totalShares": 1.19
+      },
+      {
+        "name": "Ricardo Can�ado Gon�alves de Souza",
+        "ordinaryShares": 0.76,
+        "preferredShares": 0,
+        "totalShares": 0.76
+      },
+      {
+        "name": "Gabriel Ralston Correa Ribeiro",
+        "ordinaryShares": 0.76,
+        "preferredShares": 0,
+        "totalShares": 0.76
+      },
+      {
+        "name": "Rodrigo Rossetto Dias Ramos",
+        "ordinaryShares": 0.66,
+        "preferredShares": 0,
+        "totalShares": 0.66
+      },
+      {
+        "name": "Fabr�cio Ghinato Mainieri",
+        "ordinaryShares": 0.3,
+        "preferredShares": 0,
+        "totalShares": 0.3
+      },
+      {
+        "name": "Leonardo Barros Haddad",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1556161200000,
+      "amount": 0.0069,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524625200000,
+      "amount": 0.2536,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493175600000,
+      "amount": 0.0619,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461553200000,
+      "amount": 0.1875,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1427684400000,
+      "amount": 0.4728,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.11,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

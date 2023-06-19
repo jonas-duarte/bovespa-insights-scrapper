@@ -1,0 +1,394 @@
+{
+  "name": "BRAP4",
+  "business": "Minerais Met�licos",
+  "currentState": {
+    "price": 23.63,
+    "priceToEarnings": 2.6,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Cidade de Deus Cia. Cial. de Participa��es",
+        "ordinaryShares": 36.74,
+        "preferredShares": 0.13,
+        "totalShares": 12.98
+      },
+      {
+        "name": "NCF Participa��es S.A.",
+        "ordinaryShares": 24.87,
+        "preferredShares": 0.99,
+        "totalShares": 9.37
+      },
+      {
+        "name": "Funda��o Bradesco",
+        "ordinaryShares": 14.88,
+        "preferredShares": 0,
+        "totalShares": 5.22
+      },
+      {
+        "name": "Nova Cidade de Deus Participa��es S.A.",
+        "ordinaryShares": 1.37,
+        "preferredShares": 0,
+        "totalShares": 0.48
+      },
+      {
+        "name": "BTG Pactual WM",
+        "ordinaryShares": 0.06,
+        "preferredShares": 6.24,
+        "totalShares": 4.07
+      },
+      {
+        "name": "BlackRock, Inc.",
+        "ordinaryShares": 0,
+        "preferredShares": 9.75,
+        "totalShares": 6.33
+      },
+      {
+        "name": "Fundo de Investimento Gera��o Futuro LPAR",
+        "ordinaryShares": 0,
+        "preferredShares": 5.12,
+        "totalShares": 3.33
+      },
+      {
+        "name": "Grantham, Mayo, Van Otterloo & Co LLC",
+        "ordinaryShares": 0,
+        "preferredShares": 10.1,
+        "totalShares": 6.56
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682564400000,
+      "amount": 1.2351,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1672023600000,
+      "amount": 0.1708,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1667962800000,
+      "amount": 0.8146,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1667962800000,
+      "amount": 0.7095,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 1.5767,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1639623600000,
+      "amount": 6.0439,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1626318000000,
+      "amount": 1.7808,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1617159600000,
+      "amount": 0.7272,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1617159600000,
+      "amount": 2.7157,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1605063600000,
+      "amount": 0.8607,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1605063600000,
+      "amount": 1.1427,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1577415600000,
+      "amount": 0.7993,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.4667,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.1283,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1545962400000,
+      "amount": 0.6441,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1524798000000,
+      "amount": 1.285,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1513908000000,
+      "amount": 0.9557,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1493262000000,
+      "amount": 0.4725,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1482372000000,
+      "amount": 0.111,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1446170400000,
+      "amount": 0.4085,
+      "type": "JUROS"
+    },
+    {
+      "date": 1429844400000,
+      "amount": 0.3829,
+      "type": "Juros"
+    },
+    {
+      "date": 1429844400000,
+      "amount": 0.2422,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1414720800000,
+      "amount": 0.5467,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1414720800000,
+      "amount": 0.3442,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398654000000,
+      "amount": 0.4612,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398654000000,
+      "amount": 0.3635,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1383184800000,
+      "amount": 0.5999,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1383184800000,
+      "amount": 0.1116,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367204400000,
+      "amount": 0.3842,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1367204400000,
+      "amount": 0.266,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1351648800000,
+      "amount": 0.6502,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.7001,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.3107,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.1921,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1320026400000,
+      "amount": 0.7476,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1320026400000,
+      "amount": 0.0053,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1303959600000,
+      "amount": 0.7535,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1303959600000,
+      "amount": 0.1938,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1288317600000,
+      "amount": 0.4728,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1288317600000,
+      "amount": 0.0329,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.2819,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.2299,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1256868000000,
+      "amount": 0.3782,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1256868000000,
+      "amount": 0.137,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.4887,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1241060400000,
+      "amount": 0.1565,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1225418400000,
+      "amount": 0.424,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1225418400000,
+      "amount": 0.2009,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1209524400000,
+      "amount": 0.5087,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1193796000000,
+      "amount": 0.2393,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1193796000000,
+      "amount": 0.1237,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 0.5018,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1177902000000,
+      "amount": 0.3386,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1166666400000,
+      "amount": 1.4179,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1162177200000,
+      "amount": 1.0104,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1146193200000,
+      "amount": 1.5058,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1128913200000,
+      "amount": 1.1816,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1104976800000,
+      "amount": 1.8905,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 988599600000,
+      "amount": 0.0193,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

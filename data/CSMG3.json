@@ -1,0 +1,408 @@
+{
+  "name": "CSMG3",
+  "business": "�gua e Saneamento",
+  "currentState": {
+    "price": 20.16,
+    "priceToEarnings": 7.56,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Estado de Minas Gerais",
+        "ordinaryShares": 50.03,
+        "preferredShares": 0,
+        "totalShares": 50.03
+      },
+      {
+        "name": "BlackRock, Inc.",
+        "ordinaryShares": 5.84,
+        "preferredShares": 0,
+        "totalShares": 5.84
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1679454000000,
+      "amount": 0.6471,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1679454000000,
+      "amount": 0.347,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1663642800000,
+      "amount": 0.1549,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1655780400000,
+      "amount": 0.1401,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1647918000000,
+      "amount": 0.0893,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632452400000,
+      "amount": 0.2777,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632452400000,
+      "amount": 0.1513,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1624330800000,
+      "amount": 0.1455,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1616554800000,
+      "amount": 0.171,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1614654000000,
+      "amount": 0.1992,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1605754800000,
+      "amount": 6.4877,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1600743600000,
+      "amount": 0.4994,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1592881200000,
+      "amount": 0.3473,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1585105200000,
+      "amount": 0.6686,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1585105200000,
+      "amount": 0.3597,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1569294000000,
+      "amount": 0.4124,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561086000000,
+      "amount": 0.1659,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1553569200000,
+      "amount": 0.4192,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1552014000000,
+      "amount": 0.7297,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1537758000000,
+      "amount": 0.4315,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1529895600000,
+      "amount": 0.4065,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1525662000000,
+      "amount": 2.2153,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1522033200000,
+      "amount": 0.607,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1519700400000,
+      "amount": 0.3645,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1510884000000,
+      "amount": 0.9494,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1506049200000,
+      "amount": 0.3081,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1498014000000,
+      "amount": 0.2948,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1490151600000,
+      "amount": 0.2529,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1489633200000,
+      "amount": 0.2885,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1479261600000,
+      "amount": 0.2396,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1471834800000,
+      "amount": 0.2247,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1462935600000,
+      "amount": 0.2072,
+      "type": "JUROS"
+    },
+    {
+      "date": 1447207200000,
+      "amount": 0.0209,
+      "type": "JUROS"
+    },
+    {
+      "date": 1439262000000,
+      "amount": 0.0089,
+      "type": "JUROS"
+    },
+    {
+      "date": 1431313200000,
+      "amount": 0.0385,
+      "type": "Juros"
+    },
+    {
+      "date": 1427166000000,
+      "amount": 0.0205,
+      "type": "Juros"
+    },
+    {
+      "date": 1411354800000,
+      "amount": 0.2745,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1403578800000,
+      "amount": 0.2797,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1395630000000,
+      "amount": 0.2913,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1391392800000,
+      "amount": 0.2856,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1379991600000,
+      "amount": 0.2603,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1372129200000,
+      "amount": 0.3049,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1363834800000,
+      "amount": 0.3189,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1362106800000,
+      "amount": 0.3954,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1348196400000,
+      "amount": 0.3229,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1340247600000,
+      "amount": 0.3096,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1332298800000,
+      "amount": 0.3285,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1331607600000,
+      "amount": 0.2594,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1316574000000,
+      "amount": 0.37,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1309921200000,
+      "amount": 0.36,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1301540400000,
+      "amount": 0.343,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1300417200000,
+      "amount": 0.5818,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1285815600000,
+      "amount": 0.4954,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1277866800000,
+      "amount": 0.4937,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1270004400000,
+      "amount": 0.4665,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1270004400000,
+      "amount": 0.38,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1254279600000,
+      "amount": 0.33,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1246330800000,
+      "amount": 0.38,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1238468400000,
+      "amount": 0.3393,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1238468400000,
+      "amount": 0.3243,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1222398000000,
+      "amount": 0.22,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1217818800000,
+      "amount": 0.45,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1206673200000,
+      "amount": 0.24,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1189479600000,
+      "amount": 0.27,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1181530800000,
+      "amount": 0.18,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1175569200000,
+      "amount": 0.1744,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1163383200000,
+      "amount": 0.24,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1153796400000,
+      "amount": 0.2156,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1148353200000,
+      "amount": 0.16,
+      "type": "JRS CAP PR�PRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

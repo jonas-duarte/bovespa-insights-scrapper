@@ -1,0 +1,192 @@
+{
+  "name": "PARD3",
+  "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
+  "currentState": {
+    "price": 20.25,
+    "priceToEarnings": 36.76,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "FLEURY S.A.",
+        "ordinaryShares": 100,
+        "preferredShares": 0,
+        "totalShares": 100
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 2.1541,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1671678000000,
+      "amount": 0.1292,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1664247600000,
+      "amount": 0.1258,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1660618800000,
+      "amount": 0.1224,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1651806000000,
+      "amount": 0.1516,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1648609200000,
+      "amount": 0.1091,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1638932400000,
+      "amount": 0.0789,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632106800000,
+      "amount": 0.0729,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1623812400000,
+      "amount": 0.0681,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1616554800000,
+      "amount": 0.066,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1607482800000,
+      "amount": 0.0627,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1600225200000,
+      "amount": 0.1366,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1588906800000,
+      "amount": 0.0225,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1585278000000,
+      "amount": 0.0714,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1576119600000,
+      "amount": 0.0722,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1569207600000,
+      "amount": 0.0741,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561518000000,
+      "amount": 0.0757,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.1548,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1553742000000,
+      "amount": 0.0837,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1544493600000,
+      "amount": 0.0826,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1538103600000,
+      "amount": 0.0696,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1530241200000,
+      "amount": 0.0701,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1526353200000,
+      "amount": 0.0713,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1525057200000,
+      "amount": 0.0325,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1513648800000,
+      "amount": 0.2293,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.7457,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.4643,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

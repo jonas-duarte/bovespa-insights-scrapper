@@ -1,0 +1,145 @@
+{
+  "name": "VBBR3",
+  "business": "Explora��o, Refino e Distribui��o",
+  "currentState": {
+    "price": 17.61,
+    "priceToEarnings": 15.87,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Samambaia Master Fundo de Investimento em A��es Investimento no Exterior - BDR N�vel I",
+        "ordinaryShares": 8.58,
+        "preferredShares": 0,
+        "totalShares": 8.58
+      },
+      {
+        "name": "BlackRock, Inc.",
+        "ordinaryShares": 5.01,
+        "preferredShares": 0,
+        "totalShares": 5.01
+      },
+      {
+        "name": "Dynamo Administra��o de Recursos Ltda.",
+        "ordinaryShares": 3.66,
+        "preferredShares": 0,
+        "totalShares": 3.66
+      },
+      {
+        "name": "Dynamo Internacional Gest�o de Recursos Ltda.",
+        "ordinaryShares": 2.88,
+        "preferredShares": 0,
+        "totalShares": 2.88
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1671591600000,
+      "amount": 0.3902,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1663729200000,
+      "amount": 0.3489,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1651114800000,
+      "amount": 0.1171,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1639450800000,
+      "amount": 0.1315,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1631502000000,
+      "amount": 0.3337,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1618455600000,
+      "amount": 0.6069,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1618455600000,
+      "amount": 0.9442,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1608519600000,
+      "amount": 0.4276,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1596164400000,
+      "amount": 0.5012,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1575428400000,
+      "amount": 0.4638,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1556074800000,
+      "amount": 2.1195,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1544493600000,
+      "amount": 0.4839,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1524625200000,
+      "amount": 0.3722,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1517450400000,
+      "amount": 0.5653,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

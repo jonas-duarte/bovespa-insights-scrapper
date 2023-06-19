@@ -1,0 +1,162 @@
+{
+  "name": "MOVI3",
+  "business": "Aluguel de carros",
+  "currentState": {
+    "price": 10.28,
+    "priceToEarnings": 11.66,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "SIMPAR S.A.",
+        "ordinaryShares": 63.03,
+        "preferredShares": 0,
+        "totalShares": 63.03
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1683082800000,
+      "amount": 0.1208,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1672023600000,
+      "amount": 0.1518,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1664506800000,
+      "amount": 0.1521,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1656558000000,
+      "amount": 0.1466,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1651633200000,
+      "amount": 0.8489,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1648609200000,
+      "amount": 0.1495,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1640746800000,
+      "amount": 0.1254,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1632884400000,
+      "amount": 0.0768,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1624935600000,
+      "amount": 0.0907,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1624849200000,
+      "amount": 0.0802,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1609815600000,
+      "amount": 0.1478,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1578020400000,
+      "amount": 0.1337,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1570071600000,
+      "amount": 0.0932,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1569553200000,
+      "amount": 0.0762,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1561690800000,
+      "amount": 0.0762,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545271200000,
+      "amount": 0.1444,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1540522800000,
+      "amount": 0.0968,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1530241200000,
+      "amount": 0.033,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1524711600000,
+      "amount": 0.0037,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1522810800000,
+      "amount": 0.0221,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1515031200000,
+      "amount": 0.0703,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

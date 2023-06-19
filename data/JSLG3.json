@@ -1,0 +1,174 @@
+{
+  "name": "JSLG3",
+  "business": "Transporte Rodovi�rio",
+  "currentState": {
+    "price": 9,
+    "priceToEarnings": 13.72,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "SIMPAR S.A.",
+        "ordinaryShares": 71.93,
+        "preferredShares": 0,
+        "totalShares": 71.93
+      },
+      {
+        "name": "JSP HOLDING S.A.",
+        "ordinaryShares": 2.6,
+        "preferredShares": 0,
+        "totalShares": 2.6
+      },
+      {
+        "name": "Fernando Antonio Sim�es",
+        "ordinaryShares": 0.32,
+        "preferredShares": 0,
+        "totalShares": 0.32
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1672110000000,
+      "amount": 0.2361,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1651719600000,
+      "amount": 0.2162,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1640228400000,
+      "amount": 0.1591,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1619665200000,
+      "amount": 0.0793,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1609902000000,
+      "amount": 0.0554,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1588215600000,
+      "amount": 0.0559,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1578020400000,
+      "amount": 0.1886,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1545962400000,
+      "amount": 0.155,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1453255200000,
+      "amount": 0.9704,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1453255200000,
+      "amount": 0.9666,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1450663200000,
+      "amount": 0.0485,
+      "type": "JUROS"
+    },
+    {
+      "date": 1450663200000,
+      "amount": 0.0485,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1430276400000,
+      "amount": 0.0022,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1419300000000,
+      "amount": 0.0902,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1398394800000,
+      "amount": 0.0147,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1386900000000,
+      "amount": 0.1019,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1366945200000,
+      "amount": 0.0172,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1355709600000,
+      "amount": 0.0794,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.0114,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1323396000000,
+      "amount": 0.0667,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.1122,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

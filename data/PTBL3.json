@@ -1,0 +1,343 @@
+{
+  "name": "PTBL3",
+  "business": "Produtos para Constru��o",
+  "currentState": {
+    "price": 7.33,
+    "priceToEarnings": 10.3,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "C�sar Gomes J�nior",
+        "ordinaryShares": 19.1,
+        "preferredShares": 0,
+        "totalShares": 19.1
+      },
+      {
+        "name": "Eleonora Ramos Gomes",
+        "ordinaryShares": 11.84,
+        "preferredShares": 0,
+        "totalShares": 11.84
+      },
+      {
+        "name": "Augusto Lopes Gomes",
+        "ordinaryShares": 3.18,
+        "preferredShares": 0,
+        "totalShares": 3.18
+      },
+      {
+        "name": "Eduardo Ramos Gomes",
+        "ordinaryShares": 3.18,
+        "preferredShares": 0,
+        "totalShares": 3.18
+      },
+      {
+        "name": "Eduardo Czenay Guitierrez",
+        "ordinaryShares": 2.8,
+        "preferredShares": 0,
+        "totalShares": 2.8
+      },
+      {
+        "name": "Marcelo Consonni Gomes",
+        "ordinaryShares": 2.51,
+        "preferredShares": 0,
+        "totalShares": 2.51
+      },
+      {
+        "name": "Carolina Consoni Gomes Malucelli",
+        "ordinaryShares": 2.51,
+        "preferredShares": 0,
+        "totalShares": 2.51
+      },
+      {
+        "name": "Lucio Rebello",
+        "ordinaryShares": 2.45,
+        "preferredShares": 0,
+        "totalShares": 2.45
+      },
+      {
+        "name": "Beatriz Rebello Salles",
+        "ordinaryShares": 2.45,
+        "preferredShares": 0,
+        "totalShares": 2.45
+      },
+      {
+        "name": "Carolina Czernay Gutierrez",
+        "ordinaryShares": 2.17,
+        "preferredShares": 0,
+        "totalShares": 2.17
+      },
+      {
+        "name": "Carlos Eduardo Zoppello Brennand",
+        "ordinaryShares": 1.94,
+        "preferredShares": 0,
+        "totalShares": 1.94
+      },
+      {
+        "name": "Gabriela Richter Gomes",
+        "ordinaryShares": 1.42,
+        "preferredShares": 0,
+        "totalShares": 1.42
+      },
+      {
+        "name": "C�sar Gomes Neto",
+        "ordinaryShares": 1.4,
+        "preferredShares": 0,
+        "totalShares": 1.4
+      },
+      {
+        "name": "Lucia Gomes Vieira Dellagnelo",
+        "ordinaryShares": 0.58,
+        "preferredShares": 0,
+        "totalShares": 0.58
+      },
+      {
+        "name": "Miriam Gomes Vieira de Andrade",
+        "ordinaryShares": 0.58,
+        "preferredShares": 0,
+        "totalShares": 0.58
+      },
+      {
+        "name": "Maria Cristina Gomes Vieira",
+        "ordinaryShares": 0.52,
+        "preferredShares": 0,
+        "totalShares": 0.52
+      },
+      {
+        "name": "Daniel Gomes Vieira",
+        "ordinaryShares": 0.32,
+        "preferredShares": 0,
+        "totalShares": 0.32
+      },
+      {
+        "name": "Valerio Gomes Neto",
+        "ordinaryShares": 0.25,
+        "preferredShares": 0,
+        "totalShares": 0.25
+      },
+      {
+        "name": "Gustavo Czernay Gutierrez",
+        "ordinaryShares": 0.19,
+        "preferredShares": 0,
+        "totalShares": 0.19
+      },
+      {
+        "name": "Maria Amelia Gomes Vieira",
+        "ordinaryShares": 0.15,
+        "preferredShares": 0,
+        "totalShares": 0.15
+      },
+      {
+        "name": "Junior Administra��o Bens Part. Soc. Ltda",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "PBG Participa��es Societ�rias Ltda",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1683082800000,
+      "amount": 0.1305,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1683082800000,
+      "amount": 0.0796,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1660791600000,
+      "amount": 0.162,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1660791600000,
+      "amount": 0.1461,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1648004400000,
+      "amount": 0.0247,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1637290800000,
+      "amount": 0.5736,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1630638000000,
+      "amount": 0.1298,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.1325,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.1804,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1611630000000,
+      "amount": 0.1118,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1588647600000,
+      "amount": 0.0398,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1554433200000,
+      "amount": 0.0747,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1554433200000,
+      "amount": 0.0802,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1534215600000,
+      "amount": 0.0435,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1534215600000,
+      "amount": 0.0189,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525402800000,
+      "amount": 0.0294,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1525402800000,
+      "amount": 0.1061,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1502247600000,
+      "amount": 0.07,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 0.0037,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.0459,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1438916400000,
+      "amount": 0.0375,
+      "type": "JUROS"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.2441,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1407898800000,
+      "amount": 0.0407,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.1007,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.0484,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1376276400000,
+      "amount": 0.0262,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1376276400000,
+      "amount": 0.0176,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.0543,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1355796000000,
+      "amount": 0.0321,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1355796000000,
+      "amount": 0.0132,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 890881200000,
+      "amount": 0.018,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 830746800000,
+      "amount": 0.031,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

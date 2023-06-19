@@ -1,0 +1,161 @@
+{
+  "name": "DIRR3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 19.02,
+    "priceToEarnings": 11.88,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Filadelphia Participa��es Ltda.",
+        "ordinaryShares": 29.67,
+        "preferredShares": 0,
+        "totalShares": 29.67
+      },
+      {
+        "name": "ALLIANCA FIM IE",
+        "ordinaryShares": 10.15,
+        "preferredShares": 0,
+        "totalShares": 10.15
+      },
+      {
+        "name": "Ricardo Ribeiro Valadares Gontijo",
+        "ordinaryShares": 1.85,
+        "preferredShares": 0,
+        "totalShares": 1.85
+      },
+      {
+        "name": "Ana L�cia Ribeiro Valadares Gontijo",
+        "ordinaryShares": 0.96,
+        "preferredShares": 0,
+        "totalShares": 0.96
+      },
+      {
+        "name": "Ricardo Valadares Gontijo",
+        "ordinaryShares": 0.45,
+        "preferredShares": 0,
+        "totalShares": 0.45
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1671159600000,
+      "amount": 0.7,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1657767600000,
+      "amount": 0.47,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1621393200000,
+      "amount": 0.69,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1602212400000,
+      "amount": 0.81,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1571022000000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1552532400000,
+      "amount": 0.38,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1538362800000,
+      "amount": 0.6123,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1467860400000,
+      "amount": 0.2734,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1437534000000,
+      "amount": 0.2706,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430190000000,
+      "amount": 0.1818,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1415844000000,
+      "amount": 0.2368,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.3724,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.3639,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1331521200000,
+      "amount": 0.2709,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1294192800000,
+      "amount": 0.3019,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272250800000,
+      "amount": 0.141,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

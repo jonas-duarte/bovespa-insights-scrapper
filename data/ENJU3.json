@@ -1,0 +1,104 @@
+{
+  "name": "ENJU3",
+  "business": "Programas e Servi�os",
+  "currentState": {
+    "price": 1.34,
+    "priceToEarnings": -6.04,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Ana Luiza McLaren Moreira Maia e Lima",
+        "ordinaryShares": 8.38,
+        "preferredShares": 0,
+        "totalShares": 8.38
+      },
+      {
+        "name": "Vokin Administra��o de Recursos Ltda.",
+        "ordinaryShares": 6.69,
+        "preferredShares": 0,
+        "totalShares": 6.69
+      },
+      {
+        "name": "Ti� Lima",
+        "ordinaryShares": 6.45,
+        "preferredShares": 0,
+        "totalShares": 6.45
+      },
+      {
+        "name": "ABSOLUTO PARTNERS GEST�O DE RECURSOS LTDA.",
+        "ordinaryShares": 6.39,
+        "preferredShares": 0,
+        "totalShares": 6.39
+      },
+      {
+        "name": "ARAM, LLC",
+        "ordinaryShares": 6.34,
+        "preferredShares": 0,
+        "totalShares": 6.34
+      },
+      {
+        "name": "Oceana Investimentos Administradora de Carteira de Valores",
+        "ordinaryShares": 5.86,
+        "preferredShares": 0,
+        "totalShares": 5.86
+      },
+      {
+        "name": "BESSEMER VENTURE PARTNERS",
+        "ordinaryShares": 5.43,
+        "preferredShares": 0,
+        "totalShares": 5.43
+      },
+      {
+        "name": "ARNALDO GOLDEMBERG",
+        "ordinaryShares": 5.26,
+        "preferredShares": 0,
+        "totalShares": 5.26
+      },
+      {
+        "name": "Sharp Capital Gestora de Recursos Ltda.",
+        "ordinaryShares": 5.2,
+        "preferredShares": 0,
+        "totalShares": 5.2
+      }
+    ]
+  },
+  "events": [],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

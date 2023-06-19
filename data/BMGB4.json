@@ -1,0 +1,129 @@
+{
+  "name": "BMGB4",
+  "business": "Bancos",
+  "currentState": {
+    "price": 2.53,
+    "priceToEarnings": 7.35,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "BMG Participa��es S.A.",
+        "ordinaryShares": 41.44,
+        "preferredShares": 0,
+        "totalShares": 26.48
+      },
+      {
+        "name": "S�o Judas Tadeu Participa��es Ltda.",
+        "ordinaryShares": 13.85,
+        "preferredShares": 4.28,
+        "totalShares": 10.39
+      },
+      {
+        "name": "�gua Boa Participa��es Ltda.",
+        "ordinaryShares": 13.84,
+        "preferredShares": 4.28,
+        "totalShares": 10.39
+      },
+      {
+        "name": "Rivage Participa��es Ltda.",
+        "ordinaryShares": 13.84,
+        "preferredShares": 4.28,
+        "totalShares": 10.39
+      },
+      {
+        "name": "Noma Participa��es Ltda.",
+        "ordinaryShares": 5.31,
+        "preferredShares": 4.28,
+        "totalShares": 4.93
+      },
+      {
+        "name": "Jo�o Annes Guimar�es",
+        "ordinaryShares": 5.08,
+        "preferredShares": 8.74,
+        "totalShares": 6.4
+      },
+      {
+        "name": "RAJ Participa��es S.A.",
+        "ordinaryShares": 4.52,
+        "preferredShares": 16.05,
+        "totalShares": 8.68
+      },
+      {
+        "name": "Esp�lio Flavio Pentagna Guimar�es",
+        "ordinaryShares": 0,
+        "preferredShares": 2.31,
+        "totalShares": 0.83
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682305200000,
+      "amount": 0.02,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1671678000000,
+      "amount": 0.1252,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1666321200000,
+      "amount": 0.2401,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1640574000000,
+      "amount": 0.3155,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1609210800000,
+      "amount": 0.1786,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1576724400000,
+      "amount": 0.25,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

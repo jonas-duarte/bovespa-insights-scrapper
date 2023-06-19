@@ -1,0 +1,185 @@
+{
+  "name": "TPIS3",
+  "business": "Explora��o de Rodovias",
+  "currentState": {
+    "price": 4.28,
+    "priceToEarnings": -4.58,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "THP - TRIUNFO HOLDING PARTICIPA��ES S.A",
+        "ordinaryShares": 54.97,
+        "preferredShares": 0,
+        "totalShares": 54.97
+      },
+      {
+        "name": "EXPLORADOR CAPITAL MANAGEMENT LLC",
+        "ordinaryShares": 11.07,
+        "preferredShares": 0,
+        "totalShares": 11.07
+      },
+      {
+        "name": "BNDES PARTICIPA��ES S.A.",
+        "ordinaryShares": 5.09,
+        "preferredShares": 0,
+        "totalShares": 5.09
+      },
+      {
+        "name": "Miguel Ferreira de Aguiar",
+        "ordinaryShares": 0.79,
+        "preferredShares": 0,
+        "totalShares": 0.79
+      },
+      {
+        "name": "Carlo Alberto Bottarelli",
+        "ordinaryShares": 0.36,
+        "preferredShares": 0,
+        "totalShares": 0.36
+      },
+      {
+        "name": "Wilson Piovezan",
+        "ordinaryShares": 0.28,
+        "preferredShares": 0,
+        "totalShares": 0.28
+      },
+      {
+        "name": "Luiz Fernando Wolff de Carvalho",
+        "ordinaryShares": 0.05,
+        "preferredShares": 0,
+        "totalShares": 0.05
+      },
+      {
+        "name": "Dorival Pagani Jr.",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      },
+      {
+        "name": "Ricardo Stabille Piovezan",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682564400000,
+      "amount": 0.0459,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651201200000,
+      "amount": 0.0187,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.0412,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524798000000,
+      "amount": 0.1946,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.2304,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1444186800000,
+      "amount": 0.0568,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.1705,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1381978800000,
+      "amount": 0.3563,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1350529200000,
+      "amount": 0.18,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1344481200000,
+      "amount": 0.14,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1332385200000,
+      "amount": 0.0146,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1317610800000,
+      "amount": 0.137,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1301281200000,
+      "amount": 0.0508,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1285038000000,
+      "amount": 0.0753,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1281495600000,
+      "amount": 0.0502,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1267758000000,
+      "amount": 0.0575,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

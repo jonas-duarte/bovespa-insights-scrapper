@@ -1,0 +1,200 @@
+{
+  "name": "JHSF3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 4.95,
+    "priceToEarnings": 6.28,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "JHSF PAR S.A.",
+        "ordinaryShares": 40,
+        "preferredShares": 0,
+        "totalShares": 40
+      },
+      {
+        "name": "Jos� Auriemo Neto",
+        "ordinaryShares": 15.12,
+        "preferredShares": 0,
+        "totalShares": 15.12
+      },
+      {
+        "name": "Capital Research Global Investors",
+        "ordinaryShares": 7.99,
+        "preferredShares": 0,
+        "totalShares": 7.99
+      },
+      {
+        "name": "Flatly Global Ltd.",
+        "ordinaryShares": 0.25,
+        "preferredShares": 0,
+        "totalShares": 0.25
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1684378800000,
+      "amount": 0.0479,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1681873200000,
+      "amount": 0.0479,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1678935600000,
+      "amount": 0.0479,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1676343600000,
+      "amount": 0.0479,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1673924400000,
+      "amount": 0.0479,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1671073200000,
+      "amount": 0.048,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1646276400000,
+      "amount": 0.1607,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1634180400000,
+      "amount": 0.1835,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1617246000000,
+      "amount": 0.2104,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1602039600000,
+      "amount": 0.0671,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1597719600000,
+      "amount": 0.0788,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1577415600000,
+      "amount": 0.0832,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1554260400000,
+      "amount": 0.1164,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1415325600000,
+      "amount": 0.0116,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.0463,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1367290800000,
+      "amount": 0.116,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1365735600000,
+      "amount": 0.0696,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1332730800000,
+      "amount": 0.0467,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1327370400000,
+      "amount": 0.14,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.2346,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1288144800000,
+      "amount": 0.1126,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.0704,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1261533600000,
+      "amount": 0.1229,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1240887600000,
+      "amount": 0.1056,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1205377200000,
+      "amount": 0.0352,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "name": "ECOR3",
+  "business": "Explora��o de Rodovias",
+  "currentState": {
+    "price": 6.99,
+    "priceToEarnings": 14.21,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Igli do Brasil Participa��es Ltda",
+        "ordinaryShares": 46.19,
+        "preferredShares": 0,
+        "totalShares": 46.19
+      },
+      {
+        "name": "IGLI S.p.A",
+        "ordinaryShares": 5.69,
+        "preferredShares": 0,
+        "totalShares": 5.69
+      },
+      {
+        "name": "PRIMAV INFRAESTRUTURA S/A",
+        "ordinaryShares": 3.59,
+        "preferredShares": 0,
+        "totalShares": 3.59
+      },
+      {
+        "name": "Cesar Beltr�o de Almeida",
+        "ordinaryShares": 3.38,
+        "preferredShares": 0,
+        "totalShares": 3.38
+      },
+      {
+        "name": "Denise Beltr�o de Almeida Cassou",
+        "ordinaryShares": 3.38,
+        "preferredShares": 0,
+        "totalShares": 3.38
+      },
+      {
+        "name": "Marcelo Beltr�o de Almeida",
+        "ordinaryShares": 3.15,
+        "preferredShares": 0,
+        "totalShares": 3.15
+      },
+      {
+        "name": "Maria Fernanda Beltr�o de Almeida",
+        "ordinaryShares": 1.58,
+        "preferredShares": 0,
+        "totalShares": 1.58
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1670209200000,
+      "amount": 0.0076,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1541383200000,
+      "amount": 0.2857,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1541383200000,
+      "amount": 0.0636,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525057200000,
+      "amount": 0.3728,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1509501600000,
+      "amount": 0.2336,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1490756400000,
+      "amount": 0.1887,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1478656800000,
+      "amount": 0.186,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1478656800000,
+      "amount": 0.0773,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1431572400000,
+      "amount": 0.4239,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1416794400000,
+      "amount": 0.2338,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1416794400000,
+      "amount": 0.1791,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1416794400000,
+      "amount": 0.1104,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 0.8731,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1395716400000,
+      "amount": 0.0375,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1384135200000,
+      "amount": 0.3225,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1369710000000,
+      "amount": 0.4572,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1352685600000,
+      "amount": 0.261,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1331866800000,
+      "amount": 0.0921,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1320717600000,
+      "amount": 0.2508,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1303786800000,
+      "amount": 0.2604,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1291773600000,
+      "amount": 0.21,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1291773600000,
+      "amount": 0.02,
+      "type": "JRS CAP PR�PRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

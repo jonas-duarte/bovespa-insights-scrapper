@@ -1,0 +1,210 @@
+{
+  "name": "GOLL4",
+  "business": "Transporte A�reo",
+  "currentState": {
+    "price": 11.34,
+    "priceToEarnings": -1.34,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "ABRA Kingsland LLP",
+        "ordinaryShares": 50,
+        "preferredShares": 15.31,
+        "totalShares": 46.35
+      },
+      {
+        "name": "ABRA MOBI LLP",
+        "ordinaryShares": 50,
+        "preferredShares": 15.31,
+        "totalShares": 46.35
+      },
+      {
+        "name": "ABRA Group Limited",
+        "ordinaryShares": 0,
+        "preferredShares": 3.22,
+        "totalShares": 0.34
+      },
+      {
+        "name": "Aller Participa��es S/A",
+        "ordinaryShares": 0,
+        "preferredShares": 0.53,
+        "totalShares": 0.06
+      },
+      {
+        "name": "AMERICAN AIRLINES INC.",
+        "ordinaryShares": 0,
+        "preferredShares": 6.6,
+        "totalShares": 0.69
+      },
+      {
+        "name": "CONSTANTINO DE OLIVEIRA JUNIOR",
+        "ordinaryShares": 0,
+        "preferredShares": 0.05,
+        "totalShares": 0.01
+      },
+      {
+        "name": "HENRIQUE CONSTANTINO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "JOAQUIM CONSTANTINO NETO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "RICARDO CONSTANTINO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1304478000000,
+      "amount": 0.1885,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1269831600000,
+      "amount": 0.7016,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209524400000,
+      "amount": 0.18,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1198202400000,
+      "amount": 0.1899,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1198202400000,
+      "amount": 0.1883,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1190862000000,
+      "amount": 0.1899,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1190862000000,
+      "amount": 0.1883,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1182740400000,
+      "amount": 0.2038,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1182740400000,
+      "amount": 0.172,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1174359600000,
+      "amount": 0.2044,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1174359600000,
+      "amount": 0.1713,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1171504800000,
+      "amount": 0.0845,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1166493600000,
+      "amount": 0.1373,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1163383200000,
+      "amount": 0.1661,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1158721200000,
+      "amount": 0.1504,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1150772400000,
+      "amount": 0.1635,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1147057200000,
+      "amount": 0.0412,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1145242800000,
+      "amount": 0.0214,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1142910000000,
+      "amount": 0.58,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1142910000000,
+      "amount": 0.1806,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1113188400000,
+      "amount": 0.32,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

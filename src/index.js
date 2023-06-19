@@ -2,21 +2,15 @@ require("dotenv").config();
 
 const axios = require("axios");
 const cheerio = require("cheerio");
-const { MongoClient } = require("mongodb");
-const uri = process.env.MONGO_URI;
-const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
+const yahooFinance = require("yahoo-finance2").default;
+const fs = require("fs");
 
-const finnhubToken = process.env.FINNHUB_TOKEN;
+const SYMBOLS = require("./symbols.json");
+
+const DATA_PATH = './data'
 
 async function getAllSymbols() {
-  const response = await axios.get(`https://finnhub.io/api/v1/stock/symbol?exchange=SA&token=${finnhubToken}`);
-
-  const symbols = response.data.map((stock) => ({
-    name: stock.symbol.split(".")[0],
-    description: stock.description,
-  }));
-
-  return symbols;
+  return SYMBOLS;
 }
 
 // https://fundamentus.com.br/detalhes.php?papel=SAPR4
@@ -87,24 +81,28 @@ async function getEvents(symbol) {
 }
 
 async function getHistory(symbol) {
-  const response = await axios.get(`https://finnhub.io/api/v1/stock/metric?symbol=${symbol}.SA&metric=all&token=${finnhubToken}`);
+  const result = await yahooFinance.quoteSummary("SAPR4.SA", { modules: ["earnings", "incomeStatementHistory", "financialData"] });
 
-  const earningsPerShare = response.data.series?.annual?.eps.map(({ period, v }) => ({
-    period: new Date(period).getTime(),
-    value: v,
+  const earningsPerShare = result.earnings.financialsChart.yearly.map((item) => ({
+    period: new Date(`${item.date}-01-31`).getTime(),
+    value: item.earnings,
   }));
 
-  const netMargin = response.data.series?.annual?.netMargin.map(({ period, v }) => ({
-    period: new Date(period).getTime(),
-    value: v,
+  const netMargin = result.incomeStatementHistory.incomeStatementHistory.map((incomeStatement) => ({
+    period: new Date(incomeStatement.endDate).getTime(),
+    value: incomeStatement.netIncome / incomeStatement.totalRevenue,
   }));
 
-  const debtByAnnualEquity = response.data.metric["totalDebt/totalEquityAnnual"];
+  const debtByAnnualEquity = result.financialData.debtToEquity;
 
-  return { debtByAnnualEquity, earningsPerShare, netMargin };
+  return {
+    debtByAnnualEquity,
+    earningsPerShare,
+    netMargin,
+  };
 }
 
-async function scrapper(collection) {
+async function scrapper() {
   const symbols = await getAllSymbols();
 
   console.log(`[info] ${symbols.length} symbols fetched`);
@@ -113,14 +111,14 @@ async function scrapper(collection) {
     const symbol = symbols[i];
 
     try {
-      const details = await getSymbolDetails(symbol.name);
-      if (!details.price) throw new Error("Unable to find stock details...");
-      const holders = await getHolders(symbol.name);
-      const events = await getEvents(symbol.name);
-      const { debtByAnnualEquity, earningsPerShare, netMargin} = await getHistory(symbol.name);
+      const details = await getSymbolDetails(symbol);
+      if (!details.price) throw new Error(`Unable to find stock details for ${symbol}...`);
+      const holders = await getHolders(symbol);
+      const events = await getEvents(symbol);
+      const { debtByAnnualEquity, earningsPerShare, netMargin } = await getHistory(symbol);
 
       const data = {
-        name: symbol.name,
+        name: symbol,
         business: details.business,
         currentState: {
           price: details.price,
@@ -129,23 +127,21 @@ async function scrapper(collection) {
           holders: holders.filter((holder) => holder.name.toUpperCase() !== "OUTROS" && holder.name.toUpperCase() !== "ACOESTESOURARIA"),
         },
         events,
-        history:{
-            earningsPerShare,
-            netMargin,
-        }
+        history: {
+          earningsPerShare,
+          netMargin,
+        },
       };
 
-      await collection.updateOne({ name: symbol.name }, { $set: data }, { upsert: true });
-
-      console.log(`[info] success processing ${symbol.name}...`);
+      fs.writeFile(`${DATA_PATH}/${symbol}.json`, JSON.stringify(data, null, 2), (err) => {
+        if (err) throw err;
+      });
+      
+      console.log(`[info] success processing ${symbol}...`);
     } catch (error) {
-      console.log(`[error] failed to process ${symbol.name}:`, error);
+      console.log(`[error] failed to process ${symbol}:`, error);
     }
   }
 }
 
-client.connect(async (err) => {
-  const collection = client.db("database").collection("stocks");
-  await scrapper(collection);
-  client.close();
-});
+scrapper();

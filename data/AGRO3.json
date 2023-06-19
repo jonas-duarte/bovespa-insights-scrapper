@@ -1,0 +1,129 @@
+{
+  "name": "AGRO3",
+  "business": "Agricultura",
+  "currentState": {
+    "price": 23.95,
+    "priceToEarnings": 62.22,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "CRESUD S.A.C.I.F.Y.A",
+        "ordinaryShares": 37.84,
+        "preferredShares": 0,
+        "totalShares": 37.84
+      },
+      {
+        "name": "Charles River Capital",
+        "ordinaryShares": 7.51,
+        "preferredShares": 0,
+        "totalShares": 7.51
+      },
+      {
+        "name": "Eli Horn",
+        "ordinaryShares": 5.96,
+        "preferredShares": 0,
+        "totalShares": 5.96
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1666839600000,
+      "amount": 3.2387,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1649300400000,
+      "amount": 2.0163,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1635303600000,
+      "amount": 2.6212,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1602817200000,
+      "amount": 0.7078,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1571194800000,
+      "amount": 0.9293,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1539658800000,
+      "amount": 0.7621,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1506913200000,
+      "amount": 0.2411,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1478484000000,
+      "amount": 0.4011,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1477015200000,
+      "amount": 0.183,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1445997600000,
+      "amount": 1.3977,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1387332000000,
+      "amount": 0.1007,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1225245600000,
+      "amount": 0.0193,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "name": "STBP3",
+  "business": "Servi�os de Apoio e Armazenagem",
+  "currentState": {
+    "price": 10.09,
+    "priceToEarnings": 22.88,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "The Bank of New York ADR Department",
+        "ordinaryShares": 23.02,
+        "preferredShares": 0,
+        "totalShares": 23.02
+      },
+      {
+        "name": "Opportunity Global FIP Multiestrat�gia IE",
+        "ordinaryShares": 10.49,
+        "preferredShares": 0,
+        "totalShares": 10.49
+      },
+      {
+        "name": "Opportunity Agro FIP Multiestrat�gia IE",
+        "ordinaryShares": 6.8,
+        "preferredShares": 0,
+        "totalShares": 6.8
+      },
+      {
+        "name": "OPPORTUNITY ACOES FIA BDR NIVEL I IE",
+        "ordinaryShares": 5.02,
+        "preferredShares": 0,
+        "totalShares": 5.02
+      },
+      {
+        "name": "OPPORTUNITY LOGICA MASTER FIA",
+        "ordinaryShares": 1.42,
+        "preferredShares": 0,
+        "totalShares": 1.42
+      },
+      {
+        "name": "OPP I FIA BDR NIVEL I INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 1.14,
+        "preferredShares": 0,
+        "totalShares": 1.14
+      },
+      {
+        "name": "OPPORTUNITY HOLDING FDO DE INVEST PART",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Opportunity Invest II LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "OPPORTUNITY EQ P ADM REC LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "OPPORTUNITY INVESTIMENTOS LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1683082800000,
+      "amount": 0.015,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1681786800000,
+      "amount": 0.0359,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1671505200000,
+      "amount": 0.0147,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1668049200000,
+      "amount": 0.1513,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1668049200000,
+      "amount": 0.0755,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1662606000000,
+      "amount": 0.3781,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1647226800000,
+      "amount": 0.0394,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1640055600000,
+      "amount": 0.113,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1640055600000,
+      "amount": 0.147,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1588561200000,
+      "amount": 0.0175,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556593200000,
+      "amount": 0.0043,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525230000000,
+      "amount": 0.003,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1450317600000,
+      "amount": 0.0065,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

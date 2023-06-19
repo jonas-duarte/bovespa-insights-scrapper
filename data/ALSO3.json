@@ -1,0 +1,164 @@
+{
+  "name": "ALSO3",
+  "business": "Explora��o de Im�veis",
+  "currentState": {
+    "price": 23.4,
+    "priceToEarnings": 4.37,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Canada Pension Plan Investment Board",
+        "ordinaryShares": 12.54,
+        "preferredShares": 0,
+        "totalShares": 12.54
+      },
+      {
+        "name": "Cura Brazil S.� r.l.",
+        "ordinaryShares": 6.56,
+        "preferredShares": 0,
+        "totalShares": 6.56
+      },
+      {
+        "name": "SQUADRA",
+        "ordinaryShares": 5.41,
+        "preferredShares": 0,
+        "totalShares": 5.41
+      },
+      {
+        "name": "Sierra Brazil 1 S.� r.l.",
+        "ordinaryShares": 2.99,
+        "preferredShares": 0,
+        "totalShares": 2.99
+      },
+      {
+        "name": "Rique Empreendimentos e Participa��es Ltda..",
+        "ordinaryShares": 1.54,
+        "preferredShares": 0,
+        "totalShares": 1.54
+      },
+      {
+        "name": "Fundo de Investimentos em Participa��es Bali",
+        "ordinaryShares": 1.17,
+        "preferredShares": 0,
+        "totalShares": 1.17
+      },
+      {
+        "name": "Renato Feitosa Rique",
+        "ordinaryShares": 0.24,
+        "preferredShares": 0,
+        "totalShares": 0.24
+      },
+      {
+        "name": "RFR Empreendimentos e Participa��es S.A.",
+        "ordinaryShares": 0.24,
+        "preferredShares": 0,
+        "totalShares": 0.24
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.2595,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1682650800000,
+      "amount": 0.2595,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651460400000,
+      "amount": 0.3839,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619578800000,
+      "amount": 0.2264,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556506800000,
+      "amount": 0.455,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524625200000,
+      "amount": 0.455,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493262000000,
+      "amount": 0.455,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461726000000,
+      "amount": 0.109,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430276400000,
+      "amount": 0.455,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398740400000,
+      "amount": 0.455,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366858800000,
+      "amount": 0.35,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335322800000,
+      "amount": 0.32,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1303959600000,
+      "amount": 0.0385,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "name": "NTCO3",
+  "business": "Produtos de Uso Pessoal",
+  "currentState": {
+    "price": 16.46,
+    "priceToEarnings": -7.94,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Antonio Luiz da Cunha Seabra",
+        "ordinaryShares": 14.4,
+        "preferredShares": 0,
+        "totalShares": 14.4
+      },
+      {
+        "name": "Guilherme Peirao Leal",
+        "ordinaryShares": 7.18,
+        "preferredShares": 0,
+        "totalShares": 7.18
+      },
+      {
+        "name": "Dynamo Administra��o de Recursos Ltda / Dynamo Internacional Gest�o de Recursos Ltda.",
+        "ordinaryShares": 5.13,
+        "preferredShares": 0,
+        "totalShares": 5.13
+      },
+      {
+        "name": "BlackRock Inc",
+        "ordinaryShares": 5.07,
+        "preferredShares": 0,
+        "totalShares": 5.07
+      },
+      {
+        "name": "Felipe Pedroso Leal",
+        "ordinaryShares": 3.28,
+        "preferredShares": 0,
+        "totalShares": 3.28
+      },
+      {
+        "name": "Ricardo Pedroso Leal",
+        "ordinaryShares": 3.28,
+        "preferredShares": 0,
+        "totalShares": 3.28
+      },
+      {
+        "name": "Norma Regina Pinotti",
+        "ordinaryShares": 2.74,
+        "preferredShares": 0,
+        "totalShares": 2.74
+      },
+      {
+        "name": "Maria Heli Dalla Colletta de Mattos",
+        "ordinaryShares": 1.76,
+        "preferredShares": 0,
+        "totalShares": 1.76
+      },
+      {
+        "name": "FIA Veredas � Investimento no Exterior",
+        "ordinaryShares": 1.63,
+        "preferredShares": 0,
+        "totalShares": 1.63
+      },
+      {
+        "name": "Guilherme Ruggiero Passos",
+        "ordinaryShares": 0.85,
+        "preferredShares": 0,
+        "totalShares": 0.85
+      },
+      {
+        "name": "Patricia Ruggiero Passos",
+        "ordinaryShares": 0.85,
+        "preferredShares": 0,
+        "totalShares": 0.85
+      },
+      {
+        "name": "Fabricius Pinotti",
+        "ordinaryShares": 0.46,
+        "preferredShares": 0,
+        "totalShares": 0.46
+      },
+      {
+        "name": "Vinicius Pinotti",
+        "ordinaryShares": 0.46,
+        "preferredShares": 0,
+        "totalShares": 0.46
+      },
+      {
+        "name": "Kair�s Fundo de Investimento em A��es - Investimento no Exterior",
+        "ordinaryShares": 0.38,
+        "preferredShares": 0,
+        "totalShares": 0.38
+      },
+      {
+        "name": "Sirius III Multimercado Fundo de Investimento Cr�dito Privado Investimento no Exterior",
+        "ordinaryShares": 0.36,
+        "preferredShares": 0,
+        "totalShares": 0.36
+      },
+      {
+        "name": "F�bio Dalla Colletta de Mattos",
+        "ordinaryShares": 0.32,
+        "preferredShares": 0,
+        "totalShares": 0.32
+      },
+      {
+        "name": "Gustavo Dalla Colletta de Mattos",
+        "ordinaryShares": 0.32,
+        "preferredShares": 0,
+        "totalShares": 0.32
+      },
+      {
+        "name": "Pedro Luiz Barreiros Passos",
+        "ordinaryShares": 0.19,
+        "preferredShares": 0,
+        "totalShares": 0.19
+      },
+      {
+        "name": "RM Futura Multimercado Fundo de Investimento Cr�dito Privado Investimento no Exterior",
+        "ordinaryShares": 0.09,
+        "preferredShares": 0,
+        "totalShares": 0.09
+      },
+      {
+        "name": "Passos Participa��es S.A.",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Lucia Helena Rios Seabra",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1650423600000,
+      "amount": 0.1317,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

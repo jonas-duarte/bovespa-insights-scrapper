@@ -1,0 +1,134 @@
+{
+  "name": "ENAT3",
+  "business": "Explora��o, Refino e Distribui��o",
+  "currentState": {
+    "price": 14.05,
+    "priceToEarnings": 6.22,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Queiroz Galv�o S.A.",
+        "ordinaryShares": 44.68,
+        "preferredShares": 0,
+        "totalShares": 44.68
+      },
+      {
+        "name": "JIVE INVESTMENTS",
+        "ordinaryShares": 15.48,
+        "preferredShares": 0,
+        "totalShares": 15.48
+      },
+      {
+        "name": "Quantum Fundo de Investimento em A��es � FIA",
+        "ordinaryShares": 7,
+        "preferredShares": 0,
+        "totalShares": 7
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1682650800000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1650942000000,
+      "amount": 1.7084,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619751600000,
+      "amount": 0.1939,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1587006000000,
+      "amount": 1.1427,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1555556400000,
+      "amount": 1.9069,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1523415600000,
+      "amount": 1.5363,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1492570800000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1460430000000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1429239600000,
+      "amount": 0.15,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1397617200000,
+      "amount": 0.1551,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366340400000,
+      "amount": 0,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1334545200000,
+      "amount": 0,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1304046000000,
+      "amount": 0.0004,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

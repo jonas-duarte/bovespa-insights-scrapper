@@ -1,0 +1,240 @@
+{
+  "name": "EZTC3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 18.52,
+    "priceToEarnings": 15.6,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "SMM Participa��es Ltda.",
+        "ordinaryShares": 4.98,
+        "preferredShares": 0,
+        "totalShares": 4.98
+      },
+      {
+        "name": "EZ1 Participa��es Ltda.",
+        "ordinaryShares": 4.76,
+        "preferredShares": 0,
+        "totalShares": 4.76
+      },
+      {
+        "name": "EZ2 Participa��es Ltda.",
+        "ordinaryShares": 4.76,
+        "preferredShares": 0,
+        "totalShares": 4.76
+      },
+      {
+        "name": "EZ3 Participa��es Ltda.",
+        "ordinaryShares": 4.76,
+        "preferredShares": 0,
+        "totalShares": 4.76
+      },
+      {
+        "name": "EZ4 Participa��es Ltda.",
+        "ordinaryShares": 4.76,
+        "preferredShares": 0,
+        "totalShares": 4.76
+      },
+      {
+        "name": "EZ5 Participa��es Ltda.",
+        "ordinaryShares": 4.76,
+        "preferredShares": 0,
+        "totalShares": 4.76
+      },
+      {
+        "name": "EZ6 Participa��es Ltda.",
+        "ordinaryShares": 4.76,
+        "preferredShares": 0,
+        "totalShares": 4.76
+      },
+      {
+        "name": "Barolo Participa��es Ltda.",
+        "ordinaryShares": 3.06,
+        "preferredShares": 0,
+        "totalShares": 3.06
+      },
+      {
+        "name": "GAR Participa��es Ltda.",
+        "ordinaryShares": 3.06,
+        "preferredShares": 0,
+        "totalShares": 3.06
+      },
+      {
+        "name": "HPC Participa��es Ltda.",
+        "ordinaryShares": 3.06,
+        "preferredShares": 0,
+        "totalShares": 3.06
+      },
+      {
+        "name": "Mapeca Participa��es Ltda.",
+        "ordinaryShares": 3.06,
+        "preferredShares": 0,
+        "totalShares": 3.06
+      },
+      {
+        "name": "SZA Participa��es Ltda.",
+        "ordinaryShares": 3.06,
+        "preferredShares": 0,
+        "totalShares": 3.06
+      },
+      {
+        "name": "VJR Participa��es S.A.",
+        "ordinaryShares": 1.77,
+        "preferredShares": 0,
+        "totalShares": 1.77
+      },
+      {
+        "name": "Valey Participa��es S.A.",
+        "ordinaryShares": 0.5,
+        "preferredShares": 0,
+        "totalShares": 0.5
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1684378800000,
+      "amount": 0.046,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1679540400000,
+      "amount": 0.0343,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1668654000000,
+      "amount": 0.1148,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1660618800000,
+      "amount": 0.0905,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1652756400000,
+      "amount": 0.1125,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1647918000000,
+      "amount": 0.4603,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619665200000,
+      "amount": 0.424,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1588042800000,
+      "amount": 0.2941,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1556247600000,
+      "amount": 0.1404,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524798000000,
+      "amount": 0.5165,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1512525600000,
+      "amount": 2.67,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493348400000,
+      "amount": 1.0922,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.9898,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 1.1086,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1398826800000,
+      "amount": 0.9485,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1366945200000,
+      "amount": 0.5441,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1335495600000,
+      "amount": 0.5325,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1303786800000,
+      "amount": 0.3945,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1272510000000,
+      "amount": 0.2701,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1239937200000,
+      "amount": 0.1264,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1208228400000,
+      "amount": 0.0731,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

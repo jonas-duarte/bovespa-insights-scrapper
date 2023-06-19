@@ -1,0 +1,177 @@
+{
+  "name": "MRVE3",
+  "business": "Incorpora��es",
+  "currentState": {
+    "price": 11.7,
+    "priceToEarnings": -23.27,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Rubens Menin Teixeira de Souza",
+        "ordinaryShares": 36.22,
+        "preferredShares": 0,
+        "totalShares": 36.22
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1663729200000,
+      "amount": 0.1978,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1655953200000,
+      "amount": 0.1978,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1638759600000,
+      "amount": 0.1624,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1619665200000,
+      "amount": 0.2706,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1610938800000,
+      "amount": 0.2071,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1602558000000,
+      "amount": 0.3401,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1575946800000,
+      "amount": 0.3701,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1574046000000,
+      "amount": 0.3701,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1559790000000,
+      "amount": 0.371,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1544666400000,
+      "amount": 0.33,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1527476400000,
+      "amount": 0.35,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1524193200000,
+      "amount": 0.35,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1494817200000,
+      "amount": 0.2997,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1488510000000,
+      "amount": 0.34,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1463367600000,
+      "amount": 0.3538,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1430362800000,
+      "amount": 0.3877,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1400122800000,
+      "amount": 0.3006,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1368586800000,
+      "amount": 0.2624,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1337223600000,
+      "amount": 0.3771,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1305601200000,
+      "amount": 0.1802,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1293588000000,
+      "amount": 0.156,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1274238000000,
+      "amount": 0.1714,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1242356400000,
+      "amount": 0.3774,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1208142000000,
+      "amount": 0.0752,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

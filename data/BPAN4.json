@@ -1,0 +1,133 @@
+{
+  "name": "BPAN4",
+  "business": "Bancos",
+  "currentState": {
+    "price": 8.36,
+    "priceToEarnings": 15.59,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "Banco Sistema S.A.",
+        "ordinaryShares": 50.2,
+        "preferredShares": 0,
+        "totalShares": 25.93
+      },
+      {
+        "name": "BTG Pactual S.A.",
+        "ordinaryShares": 49.8,
+        "preferredShares": 46.13,
+        "totalShares": 48.03
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1672110000000,
+      "amount": 0.2513,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1652238000000,
+      "amount": 0.0273,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1640055600000,
+      "amount": 0.2167,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1620097200000,
+      "amount": 0.0073,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1608606000000,
+      "amount": 0.2042,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1588734000000,
+      "amount": 0.0027,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1581649200000,
+      "amount": 0.1643,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1558926000000,
+      "amount": 0.0759,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1522292400000,
+      "amount": 0.0611,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1454292000000,
+      "amount": 0.0034,
+      "type": "JUROS"
+    },
+    {
+      "date": 1423447200000,
+      "amount": 0.0019,
+      "type": "Juros"
+    },
+    {
+      "date": 1328839200000,
+      "amount": 0.0689,
+      "type": "Juros"
+    },
+    {
+      "date": 1272596400000,
+      "amount": 0.0066,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1262138400000,
+      "amount": 0.131,
+      "type": "Juros"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

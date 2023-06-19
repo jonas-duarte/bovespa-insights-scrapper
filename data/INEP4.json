@@ -1,0 +1,136 @@
+{
+  "name": "INEP4",
+  "business": "M�q. e Equip. Industriais",
+  "currentState": {
+    "price": 3.97,
+    "priceToEarnings": -0.39,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "INEPAR ADMINISTRA��O E PARTICIPA��O S.A.",
+        "ordinaryShares": 17.52,
+        "preferredShares": 0,
+        "totalShares": 11.49
+      },
+      {
+        "name": "PACTA - GEST�O EMPRESARIAL S.A.",
+        "ordinaryShares": 10.14,
+        "preferredShares": 0,
+        "totalShares": 6.65
+      },
+      {
+        "name": "COMPANHIA SIDERURGICA NACIONAL S/A.",
+        "ordinaryShares": 5.51,
+        "preferredShares": 1.13,
+        "totalShares": 4
+      },
+      {
+        "name": "MDC ASSESSORIA EMPRESARIAL S/A",
+        "ordinaryShares": 4.83,
+        "preferredShares": 2.07,
+        "totalShares": 3.88
+      },
+      {
+        "name": "QUIP S/A",
+        "ordinaryShares": 3.14,
+        "preferredShares": 0,
+        "totalShares": 2.06
+      },
+      {
+        "name": "DELFT ADMINISTRACAO E PARTICIPACOES S A",
+        "ordinaryShares": 2,
+        "preferredShares": 0,
+        "totalShares": 1.31
+      },
+      {
+        "name": "INSA ADMINISTRA��O E SERVI�OS LTDA",
+        "ordinaryShares": 1.76,
+        "preferredShares": 0,
+        "totalShares": 1.16
+      },
+      {
+        "name": "METROELETRO S/A",
+        "ordinaryShares": 0.45,
+        "preferredShares": 0,
+        "totalShares": 0.29
+      },
+      {
+        "name": "FABIO ROBERTO BAUMFELD ISAACK",
+        "ordinaryShares": 0,
+        "preferredShares": 3.64,
+        "totalShares": 1.25
+      },
+      {
+        "name": "ROBERTO VEIGA HINRICSHSEN",
+        "ordinaryShares": 0,
+        "preferredShares": 5,
+        "totalShares": 1.72
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1304305200000,
+      "amount": 0.1137,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 923626800000,
+      "amount": 0.0137,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 893905200000,
+      "amount": 0.0537,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 862369200000,
+      "amount": 0.11,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 830746800000,
+      "amount": 0.03,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

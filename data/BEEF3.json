@@ -1,0 +1,129 @@
+{
+  "name": "BEEF3",
+  "business": "Carnes e Derivados",
+  "currentState": {
+    "price": 11.16,
+    "priceToEarnings": 10.3,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "SALIC INTERNATIONAL INVESTMENT COMPANY",
+        "ordinaryShares": 30.55,
+        "preferredShares": 0,
+        "totalShares": 30.55
+      },
+      {
+        "name": "VDQ HOLDING S.A.",
+        "ordinaryShares": 22.36,
+        "preferredShares": 0,
+        "totalShares": 22.36
+      },
+      {
+        "name": "Compass Group L.L.C",
+        "ordinaryShares": 5.46,
+        "preferredShares": 0,
+        "totalShares": 5.46
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1681786800000,
+      "amount": 0.3566,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1660705200000,
+      "amount": 0.2192,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651028400000,
+      "amount": 0.3423,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1636513200000,
+      "amount": 0.3488,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1618196400000,
+      "amount": 0.7298,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1609297200000,
+      "amount": 0.0427,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1604631600000,
+      "amount": 0.2578,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1491188400000,
+      "amount": 0.2643,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1331002800000,
+      "amount": 0.2006,
+      "type": "JRS CAP PR�PRIO"
+    },
+    {
+      "date": 1331002800000,
+      "amount": 0.1147,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1299121200000,
+      "amount": 0.0635,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1209524400000,
+      "amount": 0.1225,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}

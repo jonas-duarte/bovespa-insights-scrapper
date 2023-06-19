@@ -1,0 +1,411 @@
+{
+  "name": "KLBN4",
+  "business": "Papel e Celulose",
+  "currentState": {
+    "price": 4.63,
+    "priceToEarnings": 5.34,
+    "debtByAnnualEquity": 56.87,
+    "holders": [
+      {
+        "name": "KLABIN IRM�OS S.A.",
+        "ordinaryShares": 45.41,
+        "preferredShares": 0,
+        "totalShares": 16.83
+      },
+      {
+        "name": "Niblak Participa��es S/A",
+        "ordinaryShares": 6.82,
+        "preferredShares": 0,
+        "totalShares": 2.53
+      },
+      {
+        "name": "Monteiro Aranha S/A",
+        "ordinaryShares": 3.27,
+        "preferredShares": 6.53,
+        "totalShares": 5.32
+      },
+      {
+        "name": "The Bank Of New York Department",
+        "ordinaryShares": 3.01,
+        "preferredShares": 7.09,
+        "totalShares": 5.58
+      },
+      {
+        "name": "BlackRock Inc",
+        "ordinaryShares": 2.51,
+        "preferredShares": 5.92,
+        "totalShares": 4.66
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1683255600000,
+      "amount": 0.0705,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1676257200000,
+      "amount": 0.0627,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1671505200000,
+      "amount": 0.0065,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1667185200000,
+      "amount": 0.0511,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1667185200000,
+      "amount": 0.0402,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1659322800000,
+      "amount": 0.0725,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1651806000000,
+      "amount": 0.0629,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1644807600000,
+      "amount": 0.0686,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1635476400000,
+      "amount": 0.0186,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1635476400000,
+      "amount": 0.0546,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1581303600000,
+      "amount": 0.0044,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1576810800000,
+      "amount": 0.0379,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1573009200000,
+      "amount": 0.019,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1573009200000,
+      "amount": 0.0368,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1565233200000,
+      "amount": 0.0364,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1557111600000,
+      "amount": 0.0381,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1549936800000,
+      "amount": 0.0038,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1545271200000,
+      "amount": 0.0475,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1541041200000,
+      "amount": 0.0503,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1541041200000,
+      "amount": 0.0142,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1533265200000,
+      "amount": 0.0336,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1525230000000,
+      "amount": 0.0289,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1517882400000,
+      "amount": 0.0325,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1509501600000,
+      "amount": 0.0328,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1501556400000,
+      "amount": 0.0221,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1501556400000,
+      "amount": 0.0039,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493866800000,
+      "amount": 0.0127,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1493089200000,
+      "amount": 0.0109,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1486346400000,
+      "amount": 0.0284,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1478138400000,
+      "amount": 0.0256,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1469761200000,
+      "amount": 0.0236,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1461898800000,
+      "amount": 0.0224,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1454464800000,
+      "amount": 0.0262,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1445911200000,
+      "amount": 0.0229,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1437966000000,
+      "amount": 0.0373,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1427079600000,
+      "amount": 0.0223,
+      "type": "Dividendo"
+    },
+    {
+      "date": 1415584800000,
+      "amount": 0.0197,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1407726000000,
+      "amount": 0.0332,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1395284400000,
+      "amount": 0.0983,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1384135200000,
+      "amount": 0.099,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1375671600000,
+      "amount": 0.163,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1365735600000,
+      "amount": 0.0886,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1352685600000,
+      "amount": 0.0873,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1341889200000,
+      "amount": 0.1397,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1334113200000,
+      "amount": 0.0933,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1317351600000,
+      "amount": 0.064,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1309748400000,
+      "amount": 0.0952,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1302490800000,
+      "amount": 0.0812,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1285729200000,
+      "amount": 0.0803,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1278558000000,
+      "amount": 0.0573,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1271905200000,
+      "amount": 0.0654,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1257472800000,
+      "amount": 0.0498,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1250823600000,
+      "amount": 0.0537,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1242356400000,
+      "amount": 0.0376,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1220410800000,
+      "amount": 0.1339,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1206327600000,
+      "amount": 0.1373,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1187838000000,
+      "amount": 0.198,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1174532400000,
+      "amount": 0.1256,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1158116400000,
+      "amount": 0.1363,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1143428400000,
+      "amount": 0.0802,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1127185200000,
+      "amount": 0.1131,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1112151600000,
+      "amount": 0.1013,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1095649200000,
+      "amount": 0.0844,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1080702000000,
+      "amount": 0.2253,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1064804400000,
+      "amount": 0.0743,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1010973600000,
+      "amount": 0.0337,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 1080034000
+      },
+      {
+        "period": 1580428800000,
+        "value": 996343000
+      },
+      {
+        "period": 1612051200000,
+        "value": 1177631000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1151538000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 0.2029625741608528
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.22627551392933534
+      },
+      {
+        "period": 1609372800000,
+        "value": 0.20758637860429552
+      },
+      {
+        "period": 1577750400000,
+        "value": 0.22868384310580148
+      }
+    ]
+  }
+}
