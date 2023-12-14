@@ -2,9 +2,9 @@
   "name": "SCAR3",
   "business": "Explora��o de Im�veis",
   "currentState": {
-    "price": 20.11,
-    "priceToEarnings": -25.6,
-    "debtByAnnualEquity": 56.87,
+    "price": 22.6,
+    "priceToEarnings": 34.46,
+    "debtByAnnualEquity": 119.504,
     "holders": [
       {
         "name": "ACO FIMM INV NO EXTERIOR",
@@ -267,37 +267,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 86352000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 87333000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 30441000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -80236000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.2794180126343356
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.11002996446915178
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.2553350115339748
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.43432687181241136
       }
     ]
   }

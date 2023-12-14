@@ -2,9 +2,9 @@
   "name": "REDE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 5.61,
-    "priceToEarnings": 8.88,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.34,
+    "priceToEarnings": 9.2,
+    "debtByAnnualEquity": 209.783,
     "holders": [
       {
         "name": "Denerge - Desenvolvimento Energ�tico S.A.",
@@ -21,6 +21,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1699930800000,
+      "amount": 0.2199,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1692068400000,
+      "amount": 0.143,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682564400000,
       "amount": 0.1339,
@@ -116,37 +126,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 711504000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 909867000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1486267000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.0982995838097791
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": null
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.08053399186133738
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.0635350223344663
       }
     ]
   }

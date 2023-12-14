@@ -2,15 +2,15 @@
   "name": "ENAT3",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 14.05,
-    "priceToEarnings": 6.22,
-    "debtByAnnualEquity": 56.87,
+    "price": 14.98,
+    "priceToEarnings": 57.58,
+    "debtByAnnualEquity": 68.378,
     "holders": [
       {
         "name": "Queiroz Galv�o S.A.",
-        "ordinaryShares": 44.68,
+        "ordinaryShares": 34.38,
         "preferredShares": 0,
-        "totalShares": 44.68
+        "totalShares": 34.38
       },
       {
         "name": "JIVE INVESTMENTS",
@@ -23,6 +23,12 @@
         "ordinaryShares": 7,
         "preferredShares": 0,
         "totalShares": 7
+      },
+      {
+        "name": "TRAVESSIA SECURITIZADORA DE CR�DITOS MERCANTIS XI S.A.",
+        "ordinaryShares": 6.12,
+        "preferredShares": 0,
+        "totalShares": 6.12
       }
     ]
   },
@@ -97,37 +103,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 183874000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 123953000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1444565000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 383375000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.17623495480984094
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.8003400668942274
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.13110531960577335
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.16540340208874935
       }
     ]
   }

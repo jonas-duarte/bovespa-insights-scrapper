@@ -2,9 +2,9 @@
   "name": "MYPK3",
   "business": "Autom�veis e Motocicletas",
   "currentState": {
-    "price": 12.99,
-    "priceToEarnings": 19.5,
-    "debtByAnnualEquity": 56.87,
+    "price": 12.75,
+    "priceToEarnings": -19.04,
+    "debtByAnnualEquity": 163.29,
     "holders": [
       {
         "name": "Alaska Investimentos",
@@ -17,6 +17,12 @@
         "ordinaryShares": 8.64,
         "preferredShares": 0,
         "totalShares": 8.64
+      },
+      {
+        "name": "BlackRock Inc.",
+        "ordinaryShares": 5.04,
+        "preferredShares": 0,
+        "totalShares": 5.04
       },
       {
         "name": "Dan Ioschpe",
@@ -264,37 +270,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 337435000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -491780000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 537221000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 278933000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.016458293370098624
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.03924653685863332
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.056135629561918816
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.0336882680844755
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "ECOR3",
   "business": "Explora��o de Rodovias",
   "currentState": {
-    "price": 6.99,
-    "priceToEarnings": 14.21,
-    "debtByAnnualEquity": 56.87,
+    "price": 9.55,
+    "priceToEarnings": 11.87,
+    "debtByAnnualEquity": 538.598,
     "holders": [
       {
         "name": "Igli do Brasil Participa��es Ltda",
@@ -51,6 +51,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1699930800000,
+      "amount": 0.0839,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1670209200000,
       "amount": 0.0076,
@@ -166,37 +171,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -185460000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -423988000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 372042000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 245695000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.04053483980163426
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.07997874353390039
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.10600267114290615
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.04691758356989027
       }
     ]
   }

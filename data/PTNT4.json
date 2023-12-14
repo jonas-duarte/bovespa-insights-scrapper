@@ -2,9 +2,9 @@
   "name": "PTNT4",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 6.55,
-    "priceToEarnings": 6.83,
-    "debtByAnnualEquity": 56.87,
+    "price": 8.3,
+    "priceToEarnings": 9.09,
+    "debtByAnnualEquity": 57.455,
     "holders": [
       {
         "name": "GLADIUM ADMINISTRA��O E PARTICIPA��ES LTDA",
@@ -16,24 +16,18 @@
         "name": "Santiago Santos Gottschall",
         "ordinaryShares": 0.1,
         "preferredShares": 0.78,
-        "totalShares": 0.56
+        "totalShares": 0.55
       },
       {
         "name": "RAUL WELSCH",
         "ordinaryShares": 0.01,
-        "preferredShares": 5.74,
-        "totalShares": 3.83
-      },
-      {
-        "name": "BRAZILIAN INDUSTRIAL IC",
-        "ordinaryShares": 0,
-        "preferredShares": 5.42,
-        "totalShares": 3.62
+        "preferredShares": 5.54,
+        "totalShares": 3.7
       },
       {
         "name": "Clube de Investimentos Sol",
         "ordinaryShares": 0,
-        "preferredShares": 32.2,
+        "preferredShares": 32.19,
         "totalShares": 21.46
       },
       {
@@ -45,8 +39,8 @@
       {
         "name": "TRIGONO HORIZON MICROCAP MASTER FIA",
         "ordinaryShares": 0,
-        "preferredShares": 2.39,
-        "totalShares": 1.59
+        "preferredShares": 2.55,
+        "totalShares": 1.7
       },
       {
         "name": "WALTER APPEL",
@@ -63,6 +57,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1699239600000,
+      "amount": 0.1061,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1699239600000,
+      "amount": 0.1061,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1667530800000,
       "amount": 0.3187,
@@ -177,38 +181,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -2183192
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 53106158
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 67507925
+      },
+      {
+        "period": 1675123200000,
+        "value": 48997920
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.2029625741608528
+        "period": 1688083200000,
+        "value": 0.058250609854494234
       },
       {
-        "period": 1640908800000,
-        "value": 0.22627551392933534
+        "period": 1656547200000,
+        "value": 0.07998445858111145
       },
       {
-        "period": 1609372800000,
-        "value": 0.20758637860429552
+        "period": 1625011200000,
+        "value": 0.07005183633154854
       },
       {
-        "period": 1577750400000,
-        "value": 0.22868384310580148
+        "period": 1593475200000,
+        "value": -0.004606957398874973
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "PTBL3",
   "business": "Produtos para Constru��o",
   "currentState": {
-    "price": 7.33,
-    "priceToEarnings": 10.3,
-    "debtByAnnualEquity": 56.87,
+    "price": 7.35,
+    "priceToEarnings": -25.73,
+    "debtByAnnualEquity": 417.375,
     "holders": [
       {
         "name": "C�sar Gomes J�nior",
@@ -306,37 +306,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 13128000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 128200000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 216173000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.11305368314970711
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.09626214539939029
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.01178171518726627
       }
     ]
   }

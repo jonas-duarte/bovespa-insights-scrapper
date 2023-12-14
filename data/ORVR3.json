@@ -2,9 +2,9 @@
   "name": "ORVR3",
   "business": "�gua e Saneamento",
   "currentState": {
-    "price": 37.68,
-    "priceToEarnings": -17.97,
-    "debtByAnnualEquity": 56.87,
+    "price": 36.72,
+    "priceToEarnings": -19.92,
+    "debtByAnnualEquity": 180.121,
     "holders": [
       {
         "name": "Milton Pil�o Junior",
@@ -19,12 +19,6 @@
         "totalShares": 9.7
       },
       {
-        "name": "VILA RICA SINGULAR 3 FUNDO DE INVESTIMENTO EM PARTICIPACOES MULTIESTRATEGIA",
-        "ordinaryShares": 7.59,
-        "preferredShares": 0,
-        "totalShares": 7.59
-      },
-      {
         "name": "C.I.M.S.P.E Empreendimentos e Participa��es Ltda.",
         "ordinaryShares": 7.19,
         "preferredShares": 0,
@@ -37,10 +31,22 @@
         "totalShares": 6.56
       },
       {
+        "name": "TPE Gestora de Recursos Ltda.",
+        "ordinaryShares": 5.07,
+        "preferredShares": 0,
+        "totalShares": 5.07
+      },
+      {
         "name": "HIX Investimentos Ltda.",
         "ordinaryShares": 5.07,
         "preferredShares": 0,
         "totalShares": 5.07
+      },
+      {
+        "name": "VOLT FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 3.8,
+        "preferredShares": 0,
+        "totalShares": 3.8
       },
       {
         "name": "Dalton Assum��o Canelhas",
@@ -49,10 +55,22 @@
         "totalShares": 3.47
       },
       {
-        "name": "DALTON ASSUM��O CANELHAS FILHO",
-        "ordinaryShares": 1.21,
+        "name": "PEXA FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 2.53,
         "preferredShares": 0,
-        "totalShares": 1.21
+        "totalShares": 2.53
+      },
+      {
+        "name": "EMERALDS FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 1.27,
+        "preferredShares": 0,
+        "totalShares": 1.27
+      },
+      {
+        "name": "DALTON ASSUM��O CANELHAS FILHO",
+        "ordinaryShares": 1.2,
+        "preferredShares": 0,
+        "totalShares": 1.2
       },
       {
         "name": "Fabio Vettori",
@@ -68,9 +86,9 @@
       },
       {
         "name": "Inovatec Participa��es S.A.",
-        "ordinaryShares": 0.25,
+        "ordinaryShares": 0.26,
         "preferredShares": 0,
-        "totalShares": 0.25
+        "totalShares": 0.26
       }
     ]
   },
@@ -79,37 +97,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -19487000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 20065000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -62028000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -120693000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.19273135491453539
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.14242415892871904
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.051190403298228424
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.05597251782980471
       }
     ]
   }

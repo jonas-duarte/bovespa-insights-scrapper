@@ -2,9 +2,8 @@
   "name": "HOOT4",
   "business": "Hotelaria",
   "currentState": {
-    "price": 2.71,
-    "priceToEarnings": 0.16,
-    "debtByAnnualEquity": 56.87,
+    "price": 2.8,
+    "priceToEarnings": 0.41,
     "holders": [
       {
         "name": "Othon L Bezerra de Mello Com. e Importa��o S.A.",
@@ -22,40 +21,23 @@
   },
   "events": [],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 1.9682991666583698
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.8659237256900029
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -2.5105512072351135
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -1.5019347037484885
       }
     ]
   }

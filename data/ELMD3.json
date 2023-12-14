@@ -2,27 +2,21 @@
   "name": "ELMD3",
   "business": "Publicidade e Propaganda",
   "currentState": {
-    "price": 17,
-    "priceToEarnings": 84.4,
-    "debtByAnnualEquity": 56.87,
+    "price": 15.5,
+    "priceToEarnings": 37.26,
+    "debtByAnnualEquity": 100.774,
     "holders": [
       {
         "name": "Vesuvius LBO � Fundo de Investimento em Participa��o Multiestrat�gia Investimento no Exterior",
-        "ordinaryShares": 55.32,
+        "ordinaryShares": 47.09,
         "preferredShares": 0,
-        "totalShares": 55.32
+        "totalShares": 47.09
       },
       {
         "name": "GLOBO COMUNICA��O E PARTICIPA��ES S.A",
-        "ordinaryShares": 10.67,
+        "ordinaryShares": 27.01,
         "preferredShares": 0,
-        "totalShares": 10.67
-      },
-      {
-        "name": "Equitas Administra��o de Fundos de Investimento Ltda.",
-        "ordinaryShares": 7.13,
-        "preferredShares": 0,
-        "totalShares": 7.13
+        "totalShares": 27.01
       }
     ]
   },
@@ -31,37 +25,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 13873000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -68154000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -11479000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 32190000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.04023860656168045
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.027613796554229273
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.2540187772779283
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.046826479086220396
       }
     ]
   }

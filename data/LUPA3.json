@@ -2,15 +2,15 @@
   "name": "LUPA3",
   "business": "Equipamentos e Servi�os",
   "currentState": {
-    "price": 3.44,
-    "priceToEarnings": 3.72,
-    "debtByAnnualEquity": 56.87,
+    "price": 2.28,
+    "priceToEarnings": 2.6,
+    "debtByAnnualEquity": 93.031,
     "holders": [
       {
         "name": "ARARA AZUL GESTAO DE BENS E DIREITOS S.A",
-        "ordinaryShares": 16.39,
+        "ordinaryShares": 12.12,
         "preferredShares": 0,
-        "totalShares": 16.39
+        "totalShares": 12.12
       }
     ]
   },
@@ -19,37 +19,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -26178000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 20578000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -41340000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.44188855515055636
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.3769831092221449
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.8011384502387073
       }
     ]
   }

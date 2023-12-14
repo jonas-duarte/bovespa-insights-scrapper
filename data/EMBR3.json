@@ -2,9 +2,9 @@
   "name": "EMBR3",
   "business": "Material Aeron�utico e de Defesa",
   "currentState": {
-    "price": 20.13,
-    "priceToEarnings": -12.95,
-    "debtByAnnualEquity": 56.87,
+    "price": 24.36,
+    "priceToEarnings": -441.65,
+    "debtByAnnualEquity": 105.26,
     "holders": [
       {
         "name": "BRANDES INVESTMENTS PARTNERS, L.P.",
@@ -17,6 +17,12 @@
         "ordinaryShares": 5.37,
         "preferredShares": 0,
         "totalShares": 5.37
+      },
+      {
+        "name": "BlackRock Inc",
+        "ordinaryShares": 5.04,
+        "preferredShares": 0,
+        "totalShares": 5.04
       }
     ]
   },
@@ -456,37 +462,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -1316797000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -3616014000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -274819000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -953656000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.04066976473948251
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.012122742664714869
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.1840982306884453
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.06039778323852202
       }
     ]
   }

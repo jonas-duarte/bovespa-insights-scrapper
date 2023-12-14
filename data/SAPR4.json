@@ -2,19 +2,30 @@
   "name": "SAPR4",
   "business": "�gua e Saneamento",
   "currentState": {
-    "price": 4.32,
-    "priceToEarnings": 5.54,
-    "debtByAnnualEquity": 56.87,
+    "price": 5.89,
+    "priceToEarnings": 5.98,
+    "debtByAnnualEquity": 59.777,
     "holders": [
       {
         "name": "ESTADO DO PARAN�",
         "ordinaryShares": 60.08,
         "preferredShares": 0,
         "totalShares": 20.03
+      },
+      {
+        "name": "BlackRock, Inc.",
+        "ordinaryShares": 2.18,
+        "preferredShares": 5.11,
+        "totalShares": 4.13
       }
     ]
   },
   "events": [
+    {
+      "date": 1688094000000,
+      "amount": 0.1835,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1672282800000,
       "amount": 0.19,

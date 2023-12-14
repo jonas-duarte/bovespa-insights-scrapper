@@ -2,9 +2,9 @@
   "name": "GGPS3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 15.86,
-    "priceToEarnings": 19.59,
-    "debtByAnnualEquity": 56.87,
+    "price": 19.58,
+    "priceToEarnings": 22.15,
+    "debtByAnnualEquity": 110.558,
     "holders": [
       {
         "name": "Jos� Caetano Paula de Lacerda",
@@ -60,37 +60,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 212266000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 282646000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 400000000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 517000000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.056079835123115304
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.06046863189720333
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.05719048210650105
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.04923852475101914
       }
     ]
   }

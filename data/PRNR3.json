@@ -2,27 +2,27 @@
   "name": "PRNR3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 9.15,
-    "priceToEarnings": 16.1,
-    "debtByAnnualEquity": 56.87,
+    "price": 11.88,
+    "priceToEarnings": -1.705,
+    "debtByAnnualEquity": 112.614,
     "holders": [
       {
         "name": "Leblon Equities Gest�o de Recursos Ltda.",
-        "ordinaryShares": 23.52,
+        "ordinaryShares": 23.34,
         "preferredShares": 0,
-        "totalShares": 23.52
+        "totalShares": 23.34
       },
       {
         "name": "Tobias Cepelowicz",
-        "ordinaryShares": 10.11,
+        "ordinaryShares": 10.51,
         "preferredShares": 0,
-        "totalShares": 10.11
+        "totalShares": 10.51
       },
       {
         "name": "Sul America Investimentos DTVM",
-        "ordinaryShares": 5.79,
+        "ordinaryShares": 4.44,
         "preferredShares": 0,
-        "totalShares": 5.79
+        "totalShares": 4.44
       }
     ]
   },
@@ -57,37 +57,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -6109000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -2136000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 14496000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 20235000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.024874184689745713
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.03346716196342531
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.008818684381102584
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.017523780019046965
       }
     ]
   }

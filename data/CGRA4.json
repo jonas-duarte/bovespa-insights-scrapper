@@ -2,33 +2,33 @@
   "name": "CGRA4",
   "business": "Tecidos, Vestu�rio e Cal�ados",
   "currentState": {
-    "price": 29,
-    "priceToEarnings": 5.3,
-    "debtByAnnualEquity": 56.87,
+    "price": 26.5,
+    "priceToEarnings": 6.2,
+    "debtByAnnualEquity": 15.901,
     "holders": [
       {
         "name": "V.R. Grazziotin S.A",
-        "ordinaryShares": 68.1,
-        "preferredShares": 16.44,
-        "totalShares": 37.94
+        "ordinaryShares": 68.77,
+        "preferredShares": 17.05,
+        "totalShares": 38.55
       },
       {
         "name": "Clique Master Fundo de Investimento em A��es",
-        "ordinaryShares": 6.42,
-        "preferredShares": 14.74,
-        "totalShares": 11.28
+        "ordinaryShares": 6.21,
+        "preferredShares": 14.23,
+        "totalShares": 10.9
       },
       {
         "name": "Ana Maria Grazziotin",
         "ordinaryShares": 0.26,
-        "preferredShares": 5.67,
-        "totalShares": 3.42
+        "preferredShares": 5.76,
+        "totalShares": 3.47
       },
       {
         "name": "FIA VOKIN ACONCAGUA MASTER LONG ONLY",
         "ordinaryShares": 0,
-        "preferredShares": 4.72,
-        "totalShares": 2.76
+        "preferredShares": 4.67,
+        "totalShares": 2.73
       },
       {
         "name": "Fia Vokin K2 Long Biased",
@@ -39,6 +39,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1687402800000,
+      "amount": 1.4278,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1671591600000,
       "amount": 0.6352,
@@ -274,37 +279,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 129450203
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 70997000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 174776000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 119071000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.1745010998738186
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.2848101059547826
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.15778338315202292
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.2694239200304272
       }
     ]
   }

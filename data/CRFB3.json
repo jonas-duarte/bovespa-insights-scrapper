@@ -2,31 +2,36 @@
   "name": "CRFB3",
   "business": "Alimentos",
   "currentState": {
-    "price": 10.79,
-    "priceToEarnings": 18.11,
-    "debtByAnnualEquity": 56.87,
+    "price": 11.69,
+    "priceToEarnings": 125.75,
+    "debtByAnnualEquity": 97.357,
     "holders": [
       {
         "name": "Carrefour Nederland B.V.",
-        "ordinaryShares": 36.57,
+        "ordinaryShares": 36.56,
         "preferredShares": 0,
-        "totalShares": 36.57
+        "totalShares": 36.56
       },
       {
         "name": "Carrefour S.A.",
-        "ordinaryShares": 30.91,
+        "ordinaryShares": 30.9,
         "preferredShares": 0,
-        "totalShares": 30.91
+        "totalShares": 30.9
       },
       {
         "name": "Pen�nsula II Fundo de Investimento em Participa��es",
-        "ordinaryShares": 7.31,
+        "ordinaryShares": 7.21,
         "preferredShares": 0,
-        "totalShares": 7.31
+        "totalShares": 7.21
       }
     ]
   },
   "events": [
+    {
+      "date": 1686798000000,
+      "amount": 0.0849,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1681354800000,
       "amount": 0.0629,
@@ -132,37 +137,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 1013000000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 2671000000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 3144000000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1739000000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.016901545339683157
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.04043677894818073
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.03751878748718237
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.016865343633457645
       }
     ]
   }

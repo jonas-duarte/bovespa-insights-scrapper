@@ -2,9 +2,9 @@
   "name": "MGLU3",
   "business": "Eletrodom�sticos",
   "currentState": {
-    "price": 3.71,
-    "priceToEarnings": -34.35,
-    "debtByAnnualEquity": 56.87,
+    "price": 2.53,
+    "priceToEarnings": -42.94,
+    "debtByAnnualEquity": 115.423,
     "holders": [
       {
         "name": "LTD Administra��o e Participa��es S.A.",
@@ -137,37 +137,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 921828000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 391709000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 590661000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -498975000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.013377703778776708
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.016742969798586377
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.013425214482323868
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.04635490445437087
       }
     ]
   }

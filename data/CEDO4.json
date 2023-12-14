@@ -2,9 +2,9 @@
   "name": "CEDO4",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 8.65,
-    "priceToEarnings": 9.2,
-    "debtByAnnualEquity": 56.87,
+    "price": 25.5,
+    "priceToEarnings": 3.98,
+    "debtByAnnualEquity": 145.09,
     "holders": [
       {
         "name": "Aroldo Teodoro Campos",
@@ -14,15 +14,15 @@
       },
       {
         "name": "Fabiano Soares Nogueira",
-        "ordinaryShares": 14.14,
-        "preferredShares": 3.29,
-        "totalShares": 9.48
+        "ordinaryShares": 15,
+        "preferredShares": 3.38,
+        "totalShares": 10.01
       },
       {
         "name": "Luiz C�sar Guimar�es",
-        "ordinaryShares": 5.27,
-        "preferredShares": 0.05,
-        "totalShares": 3.03
+        "ordinaryShares": 5.81,
+        "preferredShares": 0.14,
+        "totalShares": 3.38
       },
       {
         "name": "Paula Mascarenhas de Freitas Borges",
@@ -33,14 +33,14 @@
       {
         "name": "Luciana Freitas Borges Miranda",
         "ordinaryShares": 4.47,
-        "preferredShares": 0.5,
-        "totalShares": 2.77
+        "preferredShares": 0,
+        "totalShares": 2.55
       },
       {
         "name": "Victor Mascarenhas de Freitas Borges",
-        "ordinaryShares": 4.35,
+        "ordinaryShares": 4.29,
         "preferredShares": 0.54,
-        "totalShares": 2.71
+        "totalShares": 2.68
       },
       {
         "name": "Silvio Diniz Ferreira",
@@ -51,20 +51,14 @@
       {
         "name": "Am�lia Gonzaga Carvalho Silva",
         "ordinaryShares": 3.25,
-        "preferredShares": 0.35,
-        "totalShares": 2
-      },
-      {
-        "name": "L�cia Mattos de Magalh�es Mascarenhas",
-        "ordinaryShares": 2.51,
-        "preferredShares": 0.05,
-        "totalShares": 1.46
+        "preferredShares": 0,
+        "totalShares": 1.86
       },
       {
         "name": "F�bio Mascarenhas Alves",
-        "ordinaryShares": 2.16,
-        "preferredShares": 0.02,
-        "totalShares": 1.24
+        "ordinaryShares": 2.07,
+        "preferredShares": 0.01,
+        "totalShares": 1.19
       },
       {
         "name": "Maria Salome Pinto Gonzaga",
@@ -111,8 +105,8 @@
       {
         "name": "Cristiano Ratton Mascarenhas",
         "ordinaryShares": 0.65,
-        "preferredShares": 0.06,
-        "totalShares": 0.4
+        "preferredShares": 0.02,
+        "totalShares": 0.38
       },
       {
         "name": "Andr� Maur�cio Miranda",
@@ -121,10 +115,10 @@
         "totalShares": 0.35
       },
       {
-        "name": "Cl�udia Borba Mascarenhas",
-        "ordinaryShares": 0.56,
-        "preferredShares": 0.09,
-        "totalShares": 0.36
+        "name": "Jos� Claudio Pagano",
+        "ordinaryShares": 0,
+        "preferredShares": 5.24,
+        "totalShares": 2.25
       }
     ]
   },
@@ -264,37 +258,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -17553000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -41486000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1532000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -17950000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.01462144309977852
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.0016054055640087354
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.06706162861184077
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.025914836697995377
       }
     ]
   }

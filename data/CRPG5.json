@@ -2,21 +2,15 @@
   "name": "CRPG5",
   "business": "Qu�micos Diversos",
   "currentState": {
-    "price": 37.37,
-    "priceToEarnings": 10.96,
-    "debtByAnnualEquity": 56.87,
+    "price": 36.74,
+    "priceToEarnings": 16.02,
+    "debtByAnnualEquity": 1.1,
     "holders": [
       {
         "name": "Millenium Inorganic Chemicals Holdings Brasil Ltda.",
         "ordinaryShares": 99.02,
         "preferredShares": 56.9,
         "totalShares": 71.65
-      },
-      {
-        "name": "Trigono Capital Ltda",
-        "ordinaryShares": 0,
-        "preferredShares": 6.89,
-        "totalShares": 4.48
       }
     ]
   },
@@ -226,37 +220,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 109910000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 184422000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 276598000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 68355000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.08514340663310173
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.28865482331504616
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.25211862379338584
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.1864983413508446
       }
     ]
   }

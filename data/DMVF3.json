@@ -2,15 +2,21 @@
   "name": "DMVF3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 4.76,
-    "priceToEarnings": 14.22,
-    "debtByAnnualEquity": 56.87,
+    "price": 5.85,
+    "priceToEarnings": 19.65,
+    "debtByAnnualEquity": 32.853,
     "holders": [
       {
         "name": "Profarma Distribuidora de Produtos Farmac�uticos S.A.",
-        "ordinaryShares": 62.38,
+        "ordinaryShares": 65.52,
         "preferredShares": 0,
-        "totalShares": 62.38
+        "totalShares": 65.52
+      },
+      {
+        "name": "CLUBE DE INVESTIMENTOS TOV",
+        "ordinaryShares": 5.05,
+        "preferredShares": 0,
+        "totalShares": 5.05
       }
     ]
   },
@@ -19,37 +25,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -7487000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 123000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1979000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 11355000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.007656012751256112
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.0017338447547472651
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.0001224642190416926
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.006612725013270495
       }
     ]
   }

@@ -2,15 +2,21 @@
   "name": "MRVE3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 11.7,
-    "priceToEarnings": -23.27,
-    "debtByAnnualEquity": 56.87,
+    "price": 10.39,
+    "priceToEarnings": -24.63,
+    "debtByAnnualEquity": 102.772,
     "holders": [
       {
         "name": "Rubens Menin Teixeira de Souza",
-        "ordinaryShares": 36.22,
+        "ordinaryShares": 32.23,
         "preferredShares": 0,
-        "totalShares": 36.22
+        "totalShares": 32.23
+      },
+      {
+        "name": "GOVERNMENT OF SINGAPORE - GIC",
+        "ordinaryShares": 5.12,
+        "preferredShares": 0,
+        "totalShares": 5.12
       }
     ]
   },
@@ -140,37 +146,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 690245000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 550140000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 804945000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -202520000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.03053179168791118
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.11307948415374242
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.08277313939857898
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.11398227989990294
       }
     ]
   }

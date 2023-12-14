@@ -2,9 +2,9 @@
   "name": "VIVA3",
   "business": "Acess�rios",
   "currentState": {
-    "price": 27.88,
-    "priceToEarnings": 18.63,
-    "debtByAnnualEquity": 56.87,
+    "price": 32.86,
+    "priceToEarnings": 20.27,
+    "debtByAnnualEquity": 41.567,
     "holders": [
       {
         "name": "Nelson Kaufman",
@@ -14,21 +14,21 @@
       },
       {
         "name": "Marina Kaufman Bueno Netto",
-        "ordinaryShares": 14.75,
+        "ordinaryShares": 14,
         "preferredShares": 0,
-        "totalShares": 14.75
-      },
-      {
-        "name": "M�rcio Monteiro Kaufman",
-        "ordinaryShares": 10.45,
-        "preferredShares": 0,
-        "totalShares": 10.45
+        "totalShares": 14
       },
       {
         "name": "Paulo Kruglensky",
-        "ordinaryShares": 4.17,
+        "ordinaryShares": 4.05,
         "preferredShares": 0,
-        "totalShares": 4.17
+        "totalShares": 4.05
+      },
+      {
+        "name": "M�rcio Monteiro Kaufman",
+        "ordinaryShares": 2.28,
+        "preferredShares": 0,
+        "totalShares": 2.28
       }
     ]
   },
@@ -68,37 +68,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 442236650
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 146672109
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 298490271
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 360854417
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.1957192327427685
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.2035549240472101
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.14001481867581353
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.3441145905909531
       }
     ]
   }

@@ -2,15 +2,21 @@
   "name": "ZAMP3",
   "business": "Restaurante e Similares",
   "currentState": {
-    "price": 5.12,
-    "priceToEarnings": -17.72,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.5,
+    "priceToEarnings": -15.54,
+    "debtByAnnualEquity": 155.449,
     "holders": [
       {
-        "name": "JP MORGAN CHASE BANK, N.A.",
-        "ordinaryShares": 11.97,
+        "name": "MC BRAZIL HYDRO PARTICIPACOES S.A.",
+        "ordinaryShares": 30.1,
         "preferredShares": 0,
-        "totalShares": 11.97
+        "totalShares": 30.1
+      },
+      {
+        "name": "JP MORGAN CHASE BANK, N.A.",
+        "ordinaryShares": 20.1,
+        "preferredShares": 0,
+        "totalShares": 20.1
       },
       {
         "name": "Burger King do Brasil Assessoria a Restaurantes Ltda.",
@@ -20,27 +26,9 @@
       },
       {
         "name": "Mar Asset Management Gestora de Recurso Ltda.",
-        "ordinaryShares": 5.73,
+        "ordinaryShares": 6.39,
         "preferredShares": 0,
-        "totalShares": 5.73
-      },
-      {
-        "name": "CITIGROUP GLOBAL MARKETS LTD.",
-        "ordinaryShares": 5.48,
-        "preferredShares": 0,
-        "totalShares": 5.48
-      },
-      {
-        "name": "Morgan Stanley",
-        "ordinaryShares": 5.47,
-        "preferredShares": 0,
-        "totalShares": 5.47
-      },
-      {
-        "name": "Vinci Capital Partners II B Fundo de Investimento em Participa��es � Multiestrat�gia",
-        "ordinaryShares": 5.27,
-        "preferredShares": 0,
-        "totalShares": 5.27
+        "totalShares": 6.39
       }
     ]
   },
@@ -70,37 +58,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 48543000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -445607000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -273841000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -55786000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.015306170044289283
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.09945966403066589
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.19909817450037465
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.01692579123358171
       }
     ]
   }

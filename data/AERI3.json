@@ -2,9 +2,9 @@
   "name": "AERI3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 1.5,
-    "priceToEarnings": -9.89,
-    "debtByAnnualEquity": 56.87,
+    "price": 0.95,
+    "priceToEarnings": -10.79,
+    "debtByAnnualEquity": 216.811,
     "holders": [
       {
         "name": "Alexandre Funari Negr�o",
@@ -43,12 +43,6 @@
         "totalShares": 1.46
       },
       {
-        "name": "Daniel Henrique da Costa Mello",
-        "ordinaryShares": 1.46,
-        "preferredShares": 0,
-        "totalShares": 1.46
-      },
-      {
         "name": "Vitor de Araujo Santos",
         "ordinaryShares": 1.46,
         "preferredShares": 0,
@@ -67,10 +61,10 @@
         "totalShares": 1.41
       },
       {
-        "name": "Marcio Jos� Marzola",
-        "ordinaryShares": 1.23,
+        "name": "Daniel Henrique da Costa Mello",
+        "ordinaryShares": 1.4,
         "preferredShares": 0,
-        "totalShares": 1.23
+        "totalShares": 1.4
       },
       {
         "name": "Luiz Henrique Del Cistia Thonon",
@@ -91,37 +85,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 88742000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 113199000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 69193000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -92709000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.03755097444837425
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.027831385877762807
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.05125136845079146
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.10637224171390419
       }
     ]
   }

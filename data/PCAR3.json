@@ -2,39 +2,39 @@
   "name": "PCAR3",
   "business": "Alimentos",
   "currentState": {
-    "price": 17.43,
-    "priceToEarnings": -2.59,
-    "debtByAnnualEquity": 56.87,
+    "price": 4.12,
+    "priceToEarnings": -0.36,
+    "debtByAnnualEquity": 215.222,
     "holders": [
       {
         "name": "Segisor",
-        "ordinaryShares": 38.87,
+        "ordinaryShares": 36.88,
         "preferredShares": 0,
-        "totalShares": 38.87
+        "totalShares": 36.88
       },
       {
         "name": "NUVEEN LLC",
-        "ordinaryShares": 5.55,
+        "ordinaryShares": 5.26,
         "preferredShares": 0,
-        "totalShares": 5.55
+        "totalShares": 5.26
       },
       {
         "name": "BTG Pactual",
-        "ordinaryShares": 5.54,
+        "ordinaryShares": 5.26,
         "preferredShares": 0,
-        "totalShares": 5.54
-      },
-      {
-        "name": "MOERUS CAPITAL MANAGEMENT LLC",
-        "ordinaryShares": 5.36,
-        "preferredShares": 0,
-        "totalShares": 5.36
+        "totalShares": 5.26
       },
       {
         "name": "Geant International BV",
-        "ordinaryShares": 4.01,
+        "ordinaryShares": 3.8,
         "preferredShares": 0,
-        "totalShares": 4.01
+        "totalShares": 3.8
+      },
+      {
+        "name": "Helicco Participa��es LTDA.",
+        "ordinaryShares": 0.22,
+        "preferredShares": 0,
+        "totalShares": 0.22
       },
       {
         "name": "Casino Guichard Perrachon",
@@ -336,37 +336,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 790000000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 2179000000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 802000000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -172000000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.009930142601466428
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.049208491839489506
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.04251458451212612
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.02739441015326999
       }
     ]
   }

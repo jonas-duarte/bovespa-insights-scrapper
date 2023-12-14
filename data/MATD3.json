@@ -2,9 +2,9 @@
   "name": "MATD3",
   "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
   "currentState": {
-    "price": 10.53,
-    "priceToEarnings": 38.66,
-    "debtByAnnualEquity": 56.87,
+    "price": 8.52,
+    "priceToEarnings": 30.69,
+    "debtByAnnualEquity": 120.826,
     "holders": [
       {
         "name": "JSS Empreendimentos e Administra��o LTDA.",
@@ -38,9 +38,9 @@
       },
       {
         "name": "RENATO MORAES SALVADOR SILVA",
-        "ordinaryShares": 2.21,
+        "ordinaryShares": 2.16,
         "preferredShares": 0,
-        "totalShares": 2.21
+        "totalShares": 2.16
       },
       {
         "name": "FELIPE SALVADOR LIG�RIO",
@@ -97,13 +97,13 @@
         "totalShares": 0.22
       },
       {
-        "name": "JULIA DIAS SALVADOR",
-        "ordinaryShares": 0.19,
+        "name": "JOS� HENRIQUE DIAS SALVADOR",
+        "ordinaryShares": 0.18,
         "preferredShares": 0,
-        "totalShares": 0.19
+        "totalShares": 0.18
       },
       {
-        "name": "JOS� HENRIQUE DIAS SALVADOR",
+        "name": "JULIA DIAS SALVADOR",
         "ordinaryShares": 0.18,
         "preferredShares": 0,
         "totalShares": 0.18
@@ -126,37 +126,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 138104000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 72643000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 144919000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 103505000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.05870519053593265
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.14147921582563142
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.10119368512845801
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.1885021135920965
       }
     ]
   }

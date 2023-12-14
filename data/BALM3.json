@@ -3,8 +3,8 @@
   "business": "Equipamentos",
   "currentState": {
     "price": 11,
-    "priceToEarnings": 24.19,
-    "debtByAnnualEquity": 56.87,
+    "priceToEarnings": -29.56,
+    "debtByAnnualEquity": 14.925,
     "holders": [
       {
         "name": "Condustil Participa��es S/A",
@@ -27,6 +27,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1701745200000,
+      "amount": 0.1941,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1701745200000,
+      "amount": 0.1941,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1701745200000,
+      "amount": 0.1941,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1701745200000,
+      "amount": 0.1941,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.0275,
@@ -299,40 +319,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.03469588681446908
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.0757136451950381
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.10082038129015236
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.02808921036769138
       }
     ]
   }

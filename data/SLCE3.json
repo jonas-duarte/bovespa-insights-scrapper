@@ -2,51 +2,45 @@
   "name": "SLCE3",
   "business": "Agricultura",
   "currentState": {
-    "price": 36.36,
-    "priceToEarnings": 7.77,
-    "debtByAnnualEquity": 56.87,
+    "price": 38.53,
+    "priceToEarnings": 7.43,
+    "debtByAnnualEquity": 150.955,
     "holders": [
       {
         "name": "SLC PARTICIPA��ES S.A.",
-        "ordinaryShares": 48.55,
+        "ordinaryShares": 49.64,
         "preferredShares": 0,
-        "totalShares": 48.55
-      },
-      {
-        "name": "Odey Asset Management LLC",
-        "ordinaryShares": 9.29,
-        "preferredShares": 0,
-        "totalShares": 9.29
+        "totalShares": 49.64
       },
       {
         "name": "Ana Beatriz Logemann de Almeida",
+        "ordinaryShares": 1.13,
+        "preferredShares": 0,
+        "totalShares": 1.13
+      },
+      {
+        "name": "Elisabeth Silva Logemann",
         "ordinaryShares": 1.11,
         "preferredShares": 0,
         "totalShares": 1.11
       },
       {
-        "name": "Elisabeth Silva Logemann",
-        "ordinaryShares": 1.09,
-        "preferredShares": 0,
-        "totalShares": 1.09
-      },
-      {
         "name": "JORGE LUIZ SILVA LOGEMANN",
-        "ordinaryShares": 1.09,
+        "ordinaryShares": 1.11,
         "preferredShares": 0,
-        "totalShares": 1.09
+        "totalShares": 1.11
       },
       {
         "name": "Marcelo Silva Logemann",
-        "ordinaryShares": 1.09,
+        "ordinaryShares": 1.11,
         "preferredShares": 0,
-        "totalShares": 1.09
+        "totalShares": 1.11
       },
       {
         "name": "EDUARDO SILVA LOGEMANN",
-        "ordinaryShares": 0.83,
+        "ordinaryShares": 0.85,
         "preferredShares": 0,
-        "totalShares": 0.83
+        "totalShares": 0.85
       },
       {
         "name": "CAROLINE BERTUOL LOGEMANN",
@@ -228,37 +222,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 311514000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 488674000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1062116000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1267459000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.1719046731643988
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.24342536802033365
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.15776160942836379
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.1228413524954602
       }
     ]
   }

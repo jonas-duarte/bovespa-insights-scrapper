@@ -2,27 +2,21 @@
   "name": "LJQQ3",
   "business": "Produtos Diversos",
   "currentState": {
-    "price": 5.77,
-    "priceToEarnings": -35.09,
-    "debtByAnnualEquity": 56.87,
+    "price": 5.65,
+    "priceToEarnings": -28.67,
+    "debtByAnnualEquity": 341.529,
     "holders": [
       {
         "name": "Alaska Investimento Ltda",
-        "ordinaryShares": 20.26,
+        "ordinaryShares": 20.27,
         "preferredShares": 0,
-        "totalShares": 20.26
+        "totalShares": 20.27
       },
       {
         "name": "Wishbone Management LC",
         "ordinaryShares": 15.05,
         "preferredShares": 0,
         "totalShares": 15.05
-      },
-      {
-        "name": "GENESIS INVESTMENT MANAGEMENT, LLP",
-        "ordinaryShares": 6.3,
-        "preferredShares": 0,
-        "totalShares": 6.3
       },
       {
         "name": "ABSOLUTO PARTNERS GEST�O DE RECURSOS LTDA.",
@@ -59,37 +53,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 30122000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 67866000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 68227000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -18703000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.008087196259904145
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.03354976332681945
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.041862513601338296
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.022411668769791195
       }
     ]
   }

@@ -2,15 +2,15 @@
   "name": "AESB3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 12.24,
-    "priceToEarnings": 58.21,
-    "debtByAnnualEquity": 56.87,
+    "price": 11.89,
+    "priceToEarnings": 45.36,
+    "debtByAnnualEquity": 214.587,
     "holders": [
       {
         "name": "AES Holdings Brasil S.A.",
-        "ordinaryShares": 29.05,
+        "ordinaryShares": 29.04,
         "preferredShares": 0,
-        "totalShares": 29.05
+        "totalShares": 29.04
       },
       {
         "name": "AES HOLDINGS BRASIL II S.A.",
@@ -20,15 +20,15 @@
       },
       {
         "name": "BNDES PARTICIPA��ES S.A.",
-        "ordinaryShares": 6.99,
+        "ordinaryShares": 6.98,
         "preferredShares": 0,
-        "totalShares": 6.99
+        "totalShares": 6.98
       },
       {
-        "name": "Centrais El�tricas Brasileiras S.A.",
-        "ordinaryShares": 6.77,
+        "name": "Luiz Barsi Filho",
+        "ordinaryShares": 5.02,
         "preferredShares": 0,
-        "totalShares": 6.77
+        "totalShares": 5.02
       }
     ]
   },
@@ -52,38 +52,22 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 374284000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 149700000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.0526175749730146
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.20758637860429552
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.19144853916422977
       }
     ]
   }

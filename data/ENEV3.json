@@ -2,9 +2,9 @@
   "name": "ENEV3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 12.05,
-    "priceToEarnings": 46.13,
-    "debtByAnnualEquity": 56.87,
+    "price": 13.26,
+    "priceToEarnings": 63.32,
+    "debtByAnnualEquity": 179.397,
     "holders": [
       {
         "name": "Banco BTG Pactual S.A.",
@@ -49,37 +49,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 600798000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 1007606000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1173300000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 375774000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.06131478903104019
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.22896155892906173
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.310672217787451
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.19149739797900725
       }
     ]
   }

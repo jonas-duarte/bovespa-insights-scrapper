@@ -2,61 +2,59 @@
   "name": "RAIZ4",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 3.95,
-    "priceToEarnings": 16.75,
-    "debtByAnnualEquity": 56.87,
+    "price": 3.6,
+    "priceToEarnings": 11,
+    "debtByAnnualEquity": 216.597,
     "holders": [
       {
         "name": "Shell Brazil Holding BV",
         "ordinaryShares": 50,
-        "preferredShares": 4.48,
-        "totalShares": 44.02
+        "preferredShares": 4.26,
+        "totalShares": 43.73
       },
       {
         "name": "Cosan Nove Participa��es S.A.",
         "ordinaryShares": 44.92,
         "preferredShares": 0,
-        "totalShares": 39.02
+        "totalShares": 38.77
       },
       {
         "name": "Cosan S.A.",
         "ordinaryShares": 5.08,
-        "preferredShares": 4.48,
-        "totalShares": 5
+        "preferredShares": 4.26,
+        "totalShares": 4.97
+      },
+      {
+        "name": " GIC Private Limited ",
+        "ordinaryShares": 0,
+        "preferredShares": 4.82,
+        "totalShares": 0.66
       },
       {
         "name": "BAILLIE GIFFORD OVERSEAS LIMITED",
         "ordinaryShares": 0,
-        "preferredShares": 9.92,
-        "totalShares": 1.3
+        "preferredShares": 9.85,
+        "totalShares": 1.35
       },
       {
-        "name": "GIC Private Ltd.",
+        "name": "Nuveen, LLC",
         "ordinaryShares": 0,
-        "preferredShares": 5.1,
-        "totalShares": 0.67
-      },
-      {
-        "name": "Morgan Stanley S.A.",
-        "ordinaryShares": 0,
-        "preferredShares": 5.2,
-        "totalShares": 0.68
-      },
-      {
-        "name": "SPX Gest�o de Recursos Ltda.",
-        "ordinaryShares": 0,
-        "preferredShares": 7.29,
-        "totalShares": 0.96
-      },
-      {
-        "name": "Wellignton Management LLC.",
-        "ordinaryShares": 0,
-        "preferredShares": 5.08,
-        "totalShares": 0.67
+        "preferredShares": 5.37,
+        "totalShares": 0.74
       }
     ]
   },
   "events": [
+    {
+      "date": 1697511600000,
+      "amount": 0.0242,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1690340400000,
+      "amount": 0.0242,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1678935600000,
       "amount": 0.0891,
@@ -91,38 +89,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 2056092000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 996486000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 3149018000
+      },
+      {
+        "period": 1675123200000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.2029625741608528
+        "period": 1680220800000,
+        "value": null
       },
       {
-        "period": 1640908800000,
-        "value": 0.22627551392933534
+        "period": 1648684800000,
+        "value": 0.01646374274288485
       },
       {
-        "period": 1609372800000,
-        "value": 0.20758637860429552
+        "period": 1617148800000,
+        "value": 0.01114446719309627
       },
       {
-        "period": 1577750400000,
-        "value": 0.22868384310580148
+        "period": 1585612800000,
+        "value": 0.02036920645469288
       }
     ]
   }

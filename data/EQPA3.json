@@ -2,20 +2,20 @@
   "name": "EQPA3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 5.99,
-    "priceToEarnings": 7.94,
-    "debtByAnnualEquity": 56.87,
+    "price": 7.54,
+    "priceToEarnings": 7.89,
+    "debtByAnnualEquity": 119.741,
     "holders": [
       {
         "name": "Equatorial Distribui��o S.A.",
         "ordinaryShares": 97.59,
-        "preferredShares": 14.18,
-        "totalShares": 97.46
+        "preferredShares": 10.5,
+        "totalShares": 97.41
       },
       {
         "name": "Victor Adler",
         "ordinaryShares": 0.49,
-        "preferredShares": 10.3,
+        "preferredShares": 8.6,
         "totalShares": 0.5
       }
     ]
@@ -151,37 +151,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 469117000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 718544000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1025545000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1556399000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.18282138067114895
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.12630612724719284
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.1223085052909445
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.08384066026371945
       }
     ]
   }

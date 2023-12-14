@@ -2,9 +2,8 @@
   "name": "BRIV4",
   "business": "Bancos",
   "currentState": {
-    "price": 10.07,
-    "priceToEarnings": 8.34,
-    "debtByAnnualEquity": 56.87,
+    "price": 10.38,
+    "priceToEarnings": 13.69,
     "holders": [
       {
         "name": "BAI PARTICIPA��ES S.A",
@@ -31,20 +30,19 @@
         "totalShares": 12.63
       },
       {
-        "name": "Admnistradora Fortaleza Ltda.",
+        "name": "BANCO SAFRA S.A",
         "ordinaryShares": 0.02,
         "preferredShares": 0,
         "totalShares": 0.01
-      },
-      {
-        "name": "Aloysio de Andrade Faria",
-        "ordinaryShares": 0.01,
-        "preferredShares": 0.03,
-        "totalShares": 0.02
       }
     ]
   },
   "events": [
+    {
+      "date": 1692068400000,
+      "amount": 0.3273,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1674615600000,
       "amount": 0.3102,
@@ -340,37 +338,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 67152000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 73684000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 73882000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 119514000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.27493317261020195
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.2264707324848574
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.24801828396013342
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.22023475702746048
       }
     ]
   }

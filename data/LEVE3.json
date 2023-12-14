@@ -2,9 +2,9 @@
   "name": "LEVE3",
   "business": "Autom�veis e Motocicletas",
   "currentState": {
-    "price": 44.37,
-    "priceToEarnings": 9.06,
-    "debtByAnnualEquity": 56.87,
+    "price": 33.88,
+    "priceToEarnings": 6.4,
+    "debtByAnnualEquity": 31.173,
     "holders": [
       {
         "name": "MAHLE Ind�stria e Com�rcio Ltda.",
@@ -45,6 +45,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1699585200000,
+      "amount": 0.651,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1698807600000,
+      "amount": 5.54,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682564400000,
       "amount": 1.9027,
@@ -395,37 +405,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 259032000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 124527000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 566858000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 565240000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.13381533748576596
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.15680302819067599
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.051830575323673155
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.10253665727457191
       }
     ]
   }

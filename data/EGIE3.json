@@ -2,9 +2,9 @@
   "name": "EGIE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 45.2,
-    "priceToEarnings": 12.72,
-    "debtByAnnualEquity": 56.87,
+    "price": 44.33,
+    "priceToEarnings": 10.73,
+    "debtByAnnualEquity": 200.85,
     "holders": [
       {
         "name": "ENGIE Brasil Participa��es Ltda.",
@@ -21,6 +21,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1692586800000,
+      "amount": 0.9403,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1683514800000,
       "amount": 1.7834,
@@ -376,37 +381,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 2309925000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 2797091000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1563725000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 2663079000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.22366400833822908
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.12469227129995336
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.22816336748711719
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.2355989783443851
       }
     ]
   }

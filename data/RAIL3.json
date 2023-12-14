@@ -2,27 +2,27 @@
   "name": "RAIL3",
   "business": "Transporte Ferrovi�rio",
   "currentState": {
-    "price": 21.87,
-    "priceToEarnings": 61.91,
-    "debtByAnnualEquity": 56.87,
+    "price": 22.34,
+    "priceToEarnings": 43.06,
+    "debtByAnnualEquity": 139.706,
     "holders": [
       {
         "name": "Cosan S.A.",
-        "ordinaryShares": 30.34,
+        "ordinaryShares": 30.37,
         "preferredShares": 0,
-        "totalShares": 30.34
+        "totalShares": 30.37
       },
       {
         "name": "Capital Research Global Investors ",
-        "ordinaryShares": 7.97,
+        "ordinaryShares": 7.71,
         "preferredShares": 0,
-        "totalShares": 7.97
+        "totalShares": 7.71
       },
       {
         "name": "Blackrock",
-        "ordinaryShares": 5.22,
+        "ordinaryShares": 4.88,
         "preferredShares": 0,
-        "totalShares": 5.22
+        "totalShares": 4.88
       },
       {
         "name": "Julia Dora Antonia Koranyi Arduini",
@@ -48,37 +48,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 778237000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 297163000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 150538000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 514940000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.05232328216366841
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.020234603001868908
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.042658084605878215
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.10979889500891668
       }
     ]
   }

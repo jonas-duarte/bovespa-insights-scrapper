@@ -2,21 +2,50 @@
   "name": "PDGR3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 6.34,
-    "priceToEarnings": -0.06,
-    "debtByAnnualEquity": 56.87,
+    "price": 0.54,
+    "priceToEarnings": -0.05,
     "holders": [
       {
-        "name": "VKR - Fundo de Investimento Multimercado Cr�dito Privado Longo Prazo",
-        "ordinaryShares": 17.33,
+        "name": "VKR - FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+        "ordinaryShares": 22.37,
         "preferredShares": 0,
-        "totalShares": 17.33
+        "totalShares": 22.37
       },
       {
-        "name": "Vagner Nascimento Soldera",
-        "ordinaryShares": 5.37,
+        "name": "D7 - FI EM DIREITOS CREDITORIOS N�O PADRONIZADOS",
+        "ordinaryShares": 13.1,
         "preferredShares": 0,
-        "totalShares": 5.37
+        "totalShares": 13.1
+      },
+      {
+        "name": "Breof Empreendimentos Residenciais II LTDA",
+        "ordinaryShares": 8.73,
+        "preferredShares": 0,
+        "totalShares": 8.73
+      },
+      {
+        "name": "GUILHERME DE LIMA CARDOSO DE OLIVEIRA",
+        "ordinaryShares": 6.55,
+        "preferredShares": 0,
+        "totalShares": 6.55
+      },
+      {
+        "name": "PAULO VICTOR TEIXEIRA SAMPAIO",
+        "ordinaryShares": 6.55,
+        "preferredShares": 0,
+        "totalShares": 6.55
+      },
+      {
+        "name": "REYNALDO QUARTIM BARBOSA FIGUEIREDO",
+        "ordinaryShares": 6.55,
+        "preferredShares": 0,
+        "totalShares": 6.55
+      },
+      {
+        "name": "SARKIS ABDALLA DE AZEVEDO",
+        "ordinaryShares": 6.55,
+        "preferredShares": 0,
+        "totalShares": 6.55
       }
     ]
   },
@@ -66,37 +95,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -900046000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -454615000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -127235000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.2938744494256935
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -2.183612399973102
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -2.997934861535797
       }
     ]
   }

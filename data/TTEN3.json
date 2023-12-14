@@ -2,9 +2,9 @@
   "name": "TTEN3",
   "business": "Agricultura",
   "currentState": {
-    "price": 12.43,
-    "priceToEarnings": 10,
-    "debtByAnnualEquity": 56.87,
+    "price": 10.78,
+    "priceToEarnings": 8.58,
+    "debtByAnnualEquity": 40.396,
     "holders": [
       {
         "name": "ALD Participa��es Ltda.",
@@ -96,37 +96,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 120819000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 246263000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 430306000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 571437000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.08298727286536906
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.0805919558625195
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.07912219323816466
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.05430018606574323
       }
     ]
   }

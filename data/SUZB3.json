@@ -2,9 +2,9 @@
   "name": "SUZB3",
   "business": "Papel e Celulose",
   "currentState": {
-    "price": 48.3,
-    "priceToEarnings": 3.49,
-    "debtByAnnualEquity": 56.87,
+    "price": 51.85,
+    "priceToEarnings": 4.03,
+    "debtByAnnualEquity": 202.829,
     "holders": [
       {
         "name": "Suzano Holding S.A.",
@@ -45,6 +45,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1701918000000,
+      "amount": 1.1634,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1671159600000,
       "amount": 1.7948,
@@ -225,37 +230,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -2817518000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -10724828000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 8626386000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 23381617000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.4692188063216781
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.21057720593736703
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.3520922675785253
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.10831212915105745
       }
     ]
   }

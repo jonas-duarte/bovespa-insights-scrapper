@@ -2,9 +2,9 @@
   "name": "LUXM4",
   "business": "Transporte Hidrovi�rio",
   "currentState": {
-    "price": 21.49,
-    "priceToEarnings": 41.62,
-    "debtByAnnualEquity": 56.87,
+    "price": 16,
+    "priceToEarnings": 21.03,
+    "debtByAnnualEquity": 5.839,
     "holders": [
       {
         "name": "Glarus S. A.",
@@ -233,37 +233,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 12980000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 8003000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.07652222137229404
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.1146389931552219
       }
     ]
   }

@@ -2,31 +2,53 @@
   "name": "CPLE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 7.61,
-    "priceToEarnings": 19.39,
-    "debtByAnnualEquity": 56.87,
+    "price": 9.14,
+    "priceToEarnings": 13.62,
+    "debtByAnnualEquity": 65.492,
     "holders": [
       {
         "name": "Estado do Paran�",
-        "ordinaryShares": 69.66,
-        "preferredShares": 7.25,
-        "totalShares": 32.05
+        "ordinaryShares": 27.57,
+        "preferredShares": 6.9,
+        "totalShares": 15.91
       },
       {
         "name": "BNDES Participa��es S.A. - BNDESPAR",
-        "ordinaryShares": 12.44,
-        "preferredShares": 32.82,
-        "totalShares": 24.72
+        "ordinaryShares": 10.09,
+        "preferredShares": 31.18,
+        "totalShares": 21.99
+      },
+      {
+        "name": "GQG Partners LLC.",
+        "ordinaryShares": 4.53,
+        "preferredShares": 0,
+        "totalShares": 1.97
       },
       {
         "name": "Victor Adler",
-        "ordinaryShares": 0.41,
-        "preferredShares": 0.34,
-        "totalShares": 0.37
+        "ordinaryShares": 0.31,
+        "preferredShares": 0.27,
+        "totalShares": 0.28
+      },
+      {
+        "name": "RADAR GESTORA DE RECURSOS LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 5.93,
+        "totalShares": 3.35
       }
     ]
   },
   "events": [
+    {
+      "date": 1695956400000,
+      "amount": 0.159,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1695956400000,
+      "amount": 0.145,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1668999600000,
       "amount": 0.2066,
@@ -304,40 +326,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.206492400628795
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.2095287837349246
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.12539638779286602
       }
     ]
   }

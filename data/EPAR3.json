@@ -2,9 +2,9 @@
   "name": "EPAR3",
   "business": "Material de Transporte",
   "currentState": {
-    "price": 12.4,
-    "priceToEarnings": 2.99,
-    "debtByAnnualEquity": 56.87,
+    "price": 10.42,
+    "priceToEarnings": 4.89,
+    "debtByAnnualEquity": 0.75,
     "holders": [
       {
         "name": "Alian�a Battistella Agro Pastoril Adm.de Bens S/A",
@@ -42,40 +42,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.05839691494942616
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.07834003182623428
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.03502992428582761
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.02054074264482509
       }
     ]
   }

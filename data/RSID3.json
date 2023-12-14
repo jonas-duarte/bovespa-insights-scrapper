@@ -2,9 +2,8 @@
   "name": "RSID3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 4.7,
-    "priceToEarnings": 0,
-    "debtByAnnualEquity": 56.87,
+    "price": 4.22,
+    "priceToEarnings": -0.16,
     "holders": [
       {
         "name": "Lagro do Brasil Participa��es Ltda.",
@@ -13,22 +12,28 @@
         "totalShares": 22.8
       },
       {
-        "name": "EWZ Investmentos",
-        "ordinaryShares": 12.45,
+        "name": "Aperoama Participa��es Ltda.",
+        "ordinaryShares": 12.33,
         "preferredShares": 0,
-        "totalShares": 12.45
+        "totalShares": 12.33
       },
       {
-        "name": "Aperoama Participa��es Ltda.",
-        "ordinaryShares": 12.26,
+        "name": "EWZ INVESTMENTS LLC - SOCOPA SOC CORRETORA PAULISTA S.A.",
+        "ordinaryShares": 7.98,
         "preferredShares": 0,
-        "totalShares": 12.26
+        "totalShares": 7.98
       },
       {
         "name": "LAB Fundo de Investimento em A��es - Investimento no Exterior",
         "ordinaryShares": 6.6,
         "preferredShares": 0,
         "totalShares": 6.6
+      },
+      {
+        "name": "EWZ BRASIL FIA",
+        "ordinaryShares": 4.72,
+        "preferredShares": 0,
+        "totalShares": 4.72
       },
       {
         "name": "RCR Servi�os de Economia EIRELI",
@@ -44,15 +49,15 @@
       },
       {
         "name": "Fundo de Investimento em A��es Mistyque � Investimento no Exterior",
-        "ordinaryShares": 1.69,
+        "ordinaryShares": 1.86,
         "preferredShares": 0,
-        "totalShares": 1.69
+        "totalShares": 1.86
       },
       {
         "name": "FHS Fundo de Investimento em A��es - Investimento no Exterior",
-        "ordinaryShares": 1.69,
+        "ordinaryShares": 1.5,
         "preferredShares": 0,
-        "totalShares": 1.69
+        "totalShares": 1.5
       },
       {
         "name": "Mistyque Teens Fundo de Investimento em A��es - Investimento no Exterior",
@@ -139,37 +144,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -311109000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 14944000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -190684000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -426506000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 11.402989065048258
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -3.2093038912077554
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.14270299175905501
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -5.117850268963135
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "SBSP3",
   "business": "�gua e Saneamento",
   "currentState": {
-    "price": 53.77,
-    "priceToEarnings": 12.7,
-    "debtByAnnualEquity": 56.87,
+    "price": 71.45,
+    "priceToEarnings": 16.39,
+    "debtByAnnualEquity": 64.212,
     "holders": [
       {
         "name": "Governo do Estado de S�o Paulo",
@@ -241,37 +241,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 3367517000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 973318000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 2305869000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 3121267000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.14151734788073117
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.11830392403984576
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.05468834149616512
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.18725432551137827
       }
     ]
   }

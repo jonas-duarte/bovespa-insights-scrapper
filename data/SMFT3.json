@@ -2,9 +2,9 @@
   "name": "SMFT3",
   "business": "Atividades Esportivas",
   "currentState": {
-    "price": 21.2,
-    "priceToEarnings": 148.36,
-    "debtByAnnualEquity": 56.87,
+    "price": 25.82,
+    "priceToEarnings": 33.48,
+    "debtByAnnualEquity": 155.1,
     "holders": [
       {
         "name": "P�tria Private Equity Co-Investimento Smartfit - FIP Multiestrat�gia",
@@ -62,42 +62,53 @@
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "date": 1702263600000,
+      "amount": 0.1013,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1696993200000,
+      "amount": 0.3524,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
   "history": {
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -347980000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -598584000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -634581000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -89431000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.0305179635262715
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.371784649040836
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.47648705187845675
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.17539783068801737
       }
     ]
   }

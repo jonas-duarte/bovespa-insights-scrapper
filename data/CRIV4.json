@@ -2,9 +2,9 @@
   "name": "CRIV4",
   "business": "Soc. Cr�dito e Financiamento",
   "currentState": {
-    "price": 5.45,
-    "priceToEarnings": 16.46,
-    "debtByAnnualEquity": 56.87,
+    "price": 5.7,
+    "priceToEarnings": 16.74,
+    "debtByAnnualEquity": 0.144,
     "holders": [
       {
         "name": "FASA Participa��es S.A.",
@@ -31,13 +31,7 @@
         "totalShares": 3.99
       },
       {
-        "name": "Administradora Fortaleza Ltda.",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
-      },
-      {
-        "name": "Aloysio de Andrade Faria",
+        "name": "BANCO SAFRA S.A",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
@@ -45,6 +39,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1692068400000,
+      "amount": 0.2428,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1674615600000,
       "amount": 0.237,
@@ -322,40 +321,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.02523749750191683
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.09317054872260638
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.0901654926758985
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.08215400387287845
       }
     ]
   }

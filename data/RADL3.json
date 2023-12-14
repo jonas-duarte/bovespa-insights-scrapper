@@ -2,15 +2,15 @@
   "name": "RADL3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 28.5,
-    "priceToEarnings": 46.73,
-    "debtByAnnualEquity": 56.87,
+    "price": 29.56,
+    "priceToEarnings": 47.05,
+    "debtByAnnualEquity": 121.422,
     "holders": [
       {
         "name": "WELLS HOLDING LIMITED",
-        "ordinaryShares": 11.76,
+        "ordinaryShares": 11.63,
         "preferredShares": 0,
-        "totalShares": 11.76
+        "totalShares": 11.63
       },
       {
         "name": "Gl Investimentos e Participacoes Ltda",
@@ -19,43 +19,37 @@
         "totalShares": 5.65
       },
       {
-        "name": "JPMorgan Asset Management Holdings Inc. (Gestor/Administrador - Vide item 6.6 a seguir)",
-        "ordinaryShares": 5.12,
-        "preferredShares": 0,
-        "totalShares": 5.12
-      },
-      {
-        "name": "Cristiana Almeida Pipponzi",
-        "ordinaryShares": 1,
-        "preferredShares": 0,
-        "totalShares": 1
-      },
-      {
         "name": "Antonio Carlos Pipponzi",
         "ordinaryShares": 1,
         "preferredShares": 0,
         "totalShares": 1
       },
       {
+        "name": "Cristiana Almeida Pipponzi",
+        "ordinaryShares": 0.96,
+        "preferredShares": 0,
+        "totalShares": 0.96
+      },
+      {
         "name": "Marta Almeida Pipponzi",
-        "ordinaryShares": 0.93,
+        "ordinaryShares": 0.82,
         "preferredShares": 0,
-        "totalShares": 0.93
-      },
-      {
-        "name": "Marcello De Zagottis",
-        "ordinaryShares": 0.87,
-        "preferredShares": 0,
-        "totalShares": 0.87
-      },
-      {
-        "name": "Andre Almeida Pipponzi",
-        "ordinaryShares": 0.84,
-        "preferredShares": 0,
-        "totalShares": 0.84
+        "totalShares": 0.82
       },
       {
         "name": "Eugenio De Zagottis",
+        "ordinaryShares": 0.81,
+        "preferredShares": 0,
+        "totalShares": 0.81
+      },
+      {
+        "name": "Andre Almeida Pipponzi",
+        "ordinaryShares": 0.81,
+        "preferredShares": 0,
+        "totalShares": 0.81
+      },
+      {
+        "name": "Marcello De Zagottis",
         "ordinaryShares": 0.81,
         "preferredShares": 0,
         "totalShares": 0.81
@@ -68,15 +62,9 @@
       },
       {
         "name": "Rosalia Pipponzi Raia De Almeida Prado",
-        "ordinaryShares": 0.6,
+        "ordinaryShares": 0.59,
         "preferredShares": 0,
-        "totalShares": 0.6
-      },
-      {
-        "name": "Rodrigo Wright Pipponzi",
-        "ordinaryShares": 0.42,
-        "preferredShares": 0,
-        "totalShares": 0.42
+        "totalShares": 0.59
       },
       {
         "name": "Bruno Wright Pipponzi",
@@ -91,16 +79,22 @@
         "totalShares": 0.4
       },
       {
-        "name": "Alexandre De Zagottis",
-        "ordinaryShares": 0.36,
+        "name": "Rodrigo Wright Pipponzi",
+        "ordinaryShares": 0.4,
         "preferredShares": 0,
-        "totalShares": 0.36
+        "totalShares": 0.4
       },
       {
-        "name": "Alberto Wright Pipponzi",
+        "name": "Alexandre De Zagottis",
         "ordinaryShares": 0.3,
         "preferredShares": 0,
         "totalShares": 0.3
+      },
+      {
+        "name": "Alberto Wright Pipponzi",
+        "ordinaryShares": 0.29,
+        "preferredShares": 0,
+        "totalShares": 0.29
       },
       {
         "name": "FUNDO DE INVEST DE ACOES ARAUCARIA SEGUNDO",
@@ -111,6 +105,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1701831600000,
+      "amount": 0.0508,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1696388400000,
+      "amount": 0.0531,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1688526000000,
+      "amount": 0.0595,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682305200000,
       "amount": 0.0479,
@@ -581,37 +590,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 772240000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 484444000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 751934000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 996112000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.034269067249955106
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.031165662439121115
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.0241415190433571
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.043963200801566696
       }
     ]
   }

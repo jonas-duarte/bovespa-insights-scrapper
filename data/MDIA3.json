@@ -2,9 +2,9 @@
   "name": "MDIA3",
   "business": "Alimentos Diversos",
   "currentState": {
-    "price": 40.98,
-    "priceToEarnings": 27.03,
-    "debtByAnnualEquity": 56.87,
+    "price": 38,
+    "priceToEarnings": 22.91,
+    "debtByAnnualEquity": 35.62,
     "holders": [
       {
         "name": "DIBRA FUNDO DE INVESTIMENTO EM A��ES.",
@@ -21,6 +21,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1694746800000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1686884400000,
+      "amount": 0.05,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1679022000000,
       "amount": 0.05,
@@ -166,37 +176,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 556884000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 763844000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 504986000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 481839000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.0475692811035022
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.06462541940500478
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.10532112682426145
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.09123849369094476
       }
     ]
   }

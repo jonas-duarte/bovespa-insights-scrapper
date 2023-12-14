@@ -2,9 +2,9 @@
   "name": "POSI3",
   "business": "Computadores e Equipamentos",
   "currentState": {
-    "price": 8.96,
-    "priceToEarnings": 4.49,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.95,
+    "priceToEarnings": 5.16,
+    "debtByAnnualEquity": 89.848,
     "holders": [
       {
         "name": "H�lio Bruck Rotenberg",
@@ -17,12 +17,6 @@
         "ordinaryShares": 6.78,
         "preferredShares": 0,
         "totalShares": 6.78
-      },
-      {
-        "name": "Zenith Asset Management Ltda.",
-        "ordinaryShares": 5.08,
-        "preferredShares": 0,
-        "totalShares": 5.08
       },
       {
         "name": "Lucas Raduy Guimar�es",
@@ -202,37 +196,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 16459000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 190971000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 200258000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 303117000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.060705534588297964
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.059503424021545764
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.08711493116647272
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.008593395944673128
       }
     ]
   }

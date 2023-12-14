@@ -2,9 +2,8 @@
   "name": "ABCB4",
   "business": "Bancos",
   "currentState": {
-    "price": 17.69,
-    "priceToEarnings": 4.96,
-    "debtByAnnualEquity": 56.87,
+    "price": 23.41,
+    "priceToEarnings": 6.48,
     "holders": [
       {
         "name": "MARSAU URUGUAY HOLDINGS S.A.",
@@ -17,16 +16,15 @@
         "ordinaryShares": 0,
         "preferredShares": 5.31,
         "totalShares": 2.65
-      },
-      {
-        "name": "Una Capital Ltda.",
-        "ordinaryShares": 0,
-        "preferredShares": 5.02,
-        "totalShares": 2.5
       }
     ]
   },
   "events": [
+    {
+      "date": 1688094000000,
+      "amount": 0.836,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1672282800000,
       "amount": 0.37,
@@ -247,37 +245,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 528399000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 322076000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 572173000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 800234000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.4051255673896381
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.4155368136365254
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.7676701227505661
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.48802110944660665
       }
     ]
   }

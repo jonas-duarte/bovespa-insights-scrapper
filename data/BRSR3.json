@@ -2,25 +2,28 @@
   "name": "BRSR3",
   "business": "Bancos",
   "currentState": {
-    "price": 14.2,
-    "priceToEarnings": 7.6,
-    "debtByAnnualEquity": 56.87,
+    "price": 12.89,
+    "priceToEarnings": 6.45,
     "holders": [
       {
         "name": "Governo do Estado do Rio Grande do Sul",
         "ordinaryShares": 98.13,
         "preferredShares": 0.37,
         "totalShares": 49.39
-      },
-      {
-        "name": "Vokin Administra��o de Recursos",
-        "ordinaryShares": 0,
-        "preferredShares": 5.29,
-        "totalShares": 2.64
       }
     ]
   },
   "events": [
+    {
+      "date": 1694574000000,
+      "amount": 0.1716,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1686711600000,
+      "amount": 0.3426,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1683082800000,
       "amount": 0.0363,
@@ -573,40 +576,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.1468607497020734
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.1814767947320937
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.11695584517975702
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.19053121841410536
       }
     ]
   }

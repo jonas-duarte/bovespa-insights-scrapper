@@ -2,9 +2,8 @@
   "name": "FRIO3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 22.21,
-    "priceToEarnings": -0.44,
-    "debtByAnnualEquity": 56.87,
+    "price": 162,
+    "priceToEarnings": -6.43,
     "holders": [
       {
         "name": "Almond Tree LLC",
@@ -68,37 +67,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 21791000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -152148000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -63042000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -208746000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.10488004256578429
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.030805676782277133
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.10527495703147703
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.014715932727164675
       }
     ]
   }

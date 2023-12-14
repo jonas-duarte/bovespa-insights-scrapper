@@ -2,9 +2,8 @@
   "name": "BPAN4",
   "business": "Bancos",
   "currentState": {
-    "price": 8.36,
-    "priceToEarnings": 15.59,
-    "debtByAnnualEquity": 56.87,
+    "price": 8.25,
+    "priceToEarnings": 15.18,
     "holders": [
       {
         "name": "Banco Sistema S.A.",
@@ -15,7 +14,7 @@
       {
         "name": "BTG Pactual S.A.",
         "ordinaryShares": 49.8,
-        "preferredShares": 46.13,
+        "preferredShares": 46.14,
         "totalShares": 48.03
       }
     ]
@@ -96,37 +95,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 515935000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 655569000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 774576000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 706108000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.08700916500119711
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.10558502952546606
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.10183774876358995
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.1070182756727392
       }
     ]
   }

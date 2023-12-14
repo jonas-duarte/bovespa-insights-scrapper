@@ -2,9 +2,9 @@
   "name": "RDOR3",
   "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
   "currentState": {
-    "price": 33.23,
-    "priceToEarnings": 59.81,
-    "debtByAnnualEquity": 56.87,
+    "price": 28.28,
+    "priceToEarnings": 38.55,
+    "debtByAnnualEquity": 164.082,
     "holders": [
       {
         "name": "PACIFIC MEZZ PTE LIMITED",
@@ -20,15 +20,15 @@
       },
       {
         "name": "DELTA FM&B FUNDO DE INVESTIMENTO EM A��ES",
-        "ordinaryShares": 11.54,
+        "ordinaryShares": 12.53,
         "preferredShares": 0,
-        "totalShares": 11.54
+        "totalShares": 12.53
       },
       {
         "name": "HPT FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA",
-        "ordinaryShares": 4.41,
+        "ordinaryShares": 2.99,
         "preferredShares": 0,
-        "totalShares": 4.41
+        "totalShares": 2.99
       },
       {
         "name": "Alice Junqueira Moll",
@@ -80,21 +80,15 @@
       },
       {
         "name": "HPT II FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA",
-        "ordinaryShares": 1.16,
+        "ordinaryShares": 0.79,
         "preferredShares": 0,
-        "totalShares": 1.16
+        "totalShares": 0.79
       },
       {
         "name": "RDSL INVESTIMENTO SECUNDARIO FUNDO DE INVESTIMENTO EM PARTICIPA��ES � MULTIESTRAT�GIA",
-        "ordinaryShares": 1.12,
+        "ordinaryShares": 0.76,
         "preferredShares": 0,
-        "totalShares": 1.12
-      },
-      {
-        "name": "CHARDONNAY FUNDO DE INVESTIMENTO EM A��ES INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 0.97,
-        "preferredShares": 0,
-        "totalShares": 0.97
+        "totalShares": 0.76
       },
       {
         "name": "Patrick Antonio Claude de Larragoiti Lucas",
@@ -107,6 +101,12 @@
         "ordinaryShares": 0.38,
         "preferredShares": 0,
         "totalShares": 0.38
+      },
+      {
+        "name": "Figeac Fundo de Investimento Multimercado Cr�dito Privado Investimento no Exterior",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0,
+        "totalShares": 0.2
       },
       {
         "name": "Videiras Fundo de Investimento em A��es Investimento no Exterior",
@@ -151,12 +151,6 @@
         "totalShares": 0.03
       },
       {
-        "name": "Figeac Fundo de Investimento Multimercado Cr�dito Privado Investimento no Exterior",
-        "ordinaryShares": 0.03,
-        "preferredShares": 0,
-        "totalShares": 0.03
-      },
-      {
         "name": "Sophie Marie Antoinette de S�gur",
         "ordinaryShares": 0,
         "preferredShares": 0,
@@ -171,6 +165,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1697425200000,
+      "amount": 0.1846,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1671418800000,
       "amount": 0.0802,
@@ -226,37 +225,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 1167071000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 428329000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1575306000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1194966000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.05198342416770756
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.07728952226837922
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.03053079645270848
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.08761902831378918
       }
     ]
   }

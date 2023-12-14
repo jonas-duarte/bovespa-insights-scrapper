@@ -2,12 +2,12 @@
   "name": "SYNE3",
   "business": "Explora��o de Im�veis",
   "currentState": {
-    "price": 3.9,
-    "priceToEarnings": -9.77,
-    "debtByAnnualEquity": 56.87,
+    "price": 4.35,
+    "priceToEarnings": -16.93,
+    "debtByAnnualEquity": 55.025,
     "holders": [
       {
-        "name": "ELIE HORN",
+        "name": "Elie Horn",
         "ordinaryShares": 23.58,
         "preferredShares": 0,
         "totalShares": 23.58
@@ -23,6 +23,12 @@
         "ordinaryShares": 9.2,
         "preferredShares": 0,
         "totalShares": 9.2
+      },
+      {
+        "name": "Real Investor Gest�o de Recursos LTDA",
+        "ordinaryShares": 5.02,
+        "preferredShares": 0,
+        "totalShares": 5.02
       },
       {
         "name": "Eirenor S.A",
@@ -124,37 +130,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 32810000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 50658000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1286686000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -57001000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.12084624810783537
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.5562589868341529
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.10283340979493405
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.06928284547454842
       }
     ]
   }

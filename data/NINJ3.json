@@ -2,57 +2,27 @@
   "name": "NINJ3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 3.06,
-    "priceToEarnings": -10.9,
-    "debtByAnnualEquity": 56.87,
+    "price": 5.08,
+    "priceToEarnings": 86.36,
+    "debtByAnnualEquity": 0.509,
     "holders": [
       {
+        "name": "REAG INVESTIMENTOS S/A",
+        "ordinaryShares": 32.15,
+        "preferredShares": 0,
+        "totalShares": 32.15
+      },
+      {
         "name": "Eduardo Orlando L�Hotellier",
-        "ordinaryShares": 18.05,
+        "ordinaryShares": 24.59,
         "preferredShares": 0,
-        "totalShares": 18.05
+        "totalShares": 24.59
       },
       {
-        "name": "OCEANA INVESTIMENTOS",
-        "ordinaryShares": 11.85,
+        "name": "ARC CAPITAL LTDA",
+        "ordinaryShares": 23.49,
         "preferredShares": 0,
-        "totalShares": 11.85
-      },
-      {
-        "name": "Indie Capital Investimentos Ltda.",
-        "ordinaryShares": 9.14,
-        "preferredShares": 0,
-        "totalShares": 9.14
-      },
-      {
-        "name": "Kinderhook 2 Lp - Banco BTG Pactual S/A",
-        "ordinaryShares": 9.09,
-        "preferredShares": 0,
-        "totalShares": 9.09
-      },
-      {
-        "name": "FIP DEVELOPMENT FUND WAREHOUSE",
-        "ordinaryShares": 6.31,
-        "preferredShares": 0,
-        "totalShares": 6.31
-      },
-      {
-        "name": "KV GN Holdings LLC",
-        "ordinaryShares": 5.94,
-        "preferredShares": 0,
-        "totalShares": 5.94
-      },
-      {
-        "name": "ALPHA KEY CAPITAL MANAGEMENT INVESTIMENTOS LTDA",
-        "ordinaryShares": 5.87,
-        "preferredShares": 0,
-        "totalShares": 5.87
-      },
-      {
-        "name": "R6 CAPITAL II LLC",
-        "ordinaryShares": 5.5,
-        "preferredShares": 0,
-        "totalShares": 5.5
+        "totalShares": 23.49
       }
     ]
   },
@@ -61,37 +31,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -3001000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -890000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -41004000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -15843000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.27781089990881674
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.6567470168975734
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.021288810218628905
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.13622951563847654
       }
     ]
   }

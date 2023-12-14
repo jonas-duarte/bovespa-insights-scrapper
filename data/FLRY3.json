@@ -2,9 +2,9 @@
   "name": "FLRY3",
   "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
   "currentState": {
-    "price": 15.65,
-    "priceToEarnings": 29.4,
-    "debtByAnnualEquity": 56.87,
+    "price": 18.25,
+    "priceToEarnings": 26.74,
+    "debtByAnnualEquity": 78.523,
     "holders": [
       {
         "name": "Bradesco Diagn�stico em Sa�de S.A.",
@@ -26,9 +26,9 @@
       },
       {
         "name": "�urea Maria Pardini",
-        "ordinaryShares": 6.58,
+        "ordinaryShares": 5.93,
         "preferredShares": 0,
-        "totalShares": 6.58
+        "totalShares": 5.93
       },
       {
         "name": "Rui Monteiro de Barros Maciel",
@@ -44,9 +44,9 @@
       },
       {
         "name": "Celso Francisco Hernandes Granato",
-        "ordinaryShares": 0.9,
+        "ordinaryShares": 0.82,
         "preferredShares": 0,
-        "totalShares": 0.9
+        "totalShares": 0.82
       },
       {
         "name": "M�rcio Pinheiro Mendes",
@@ -73,16 +73,16 @@
         "totalShares": 0.64
       },
       {
-        "name": "Ewaldo M�rio Kuhlmann Russo",
-        "ordinaryShares": 0.64,
-        "preferredShares": 0,
-        "totalShares": 0.64
-      },
-      {
         "name": "Alexandre da Costa Pereira",
         "ordinaryShares": 0.62,
         "preferredShares": 0,
         "totalShares": 0.62
+      },
+      {
+        "name": "Ewaldo M�rio Kuhlmann Russo",
+        "ordinaryShares": 0.61,
+        "preferredShares": 0,
+        "totalShares": 0.61
       },
       {
         "name": "Fernanda da Costa Pereira",
@@ -92,9 +92,9 @@
       },
       {
         "name": "Jose Gilberto Henriques Vieira",
-        "ordinaryShares": 0.6,
+        "ordinaryShares": 0.59,
         "preferredShares": 0,
-        "totalShares": 0.6
+        "totalShares": 0.59
       },
       {
         "name": "Gilberto Alonso",
@@ -104,27 +104,21 @@
       },
       {
         "name": "Adagmar Andriolo",
-        "ordinaryShares": 0.46,
+        "ordinaryShares": 0.42,
         "preferredShares": 0,
-        "totalShares": 0.46
+        "totalShares": 0.42
       },
       {
         "name": "Maria de Lourdes Lopes Ferrari Chauffaille",
-        "ordinaryShares": 0.46,
+        "ordinaryShares": 0.39,
         "preferredShares": 0,
-        "totalShares": 0.46
-      },
-      {
-        "name": "M�rio Endsfeldz Camargo",
-        "ordinaryShares": 0.37,
-        "preferredShares": 0,
-        "totalShares": 0.37
+        "totalShares": 0.39
       },
       {
         "name": "Paulo Guilherme Leser",
-        "ordinaryShares": 0.24,
+        "ordinaryShares": 0.21,
         "preferredShares": 0,
-        "totalShares": 0.24
+        "totalShares": 0.21
       },
       {
         "name": "FADHAU LLC",
@@ -146,9 +140,9 @@
       },
       {
         "name": "S�rgio Luis Ramos Martins",
-        "ordinaryShares": 0.1,
+        "ordinaryShares": 0.09,
         "preferredShares": 0,
-        "totalShares": 0.1
+        "totalShares": 0.09
       },
       {
         "name": "Augusto Lange Vieira",
@@ -164,6 +158,30 @@
       },
       {
         "name": "Juliana Renofio Martins Schlaad",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "ALVARO BRAGHETTA CAMARGO",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "MARCELO BRAGHETTA CAMARGO",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "MARIA CECILIA CAMARGO KNIRSCH",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "RENATO BRAGHETTA CAMARGO",
         "ordinaryShares": 0.08,
         "preferredShares": 0,
         "totalShares": 0.08
@@ -194,9 +212,9 @@
       },
       {
         "name": "Guilherme Pasetto Leser",
-        "ordinaryShares": 0.05,
+        "ordinaryShares": 0.04,
         "preferredShares": 0,
-        "totalShares": 0.05
+        "totalShares": 0.04
       },
       {
         "name": "Roberto Teixeira Mendes",
@@ -229,14 +247,43 @@
         "totalShares": 0.03
       },
       {
+        "name": "ANA SOFIA MEZA CAMARGO",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "ISABEL MEZA CAMARGO",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "PEDRO MEZA CAMARGO",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
         "name": "Arthur teixeira mendes neto",
         "ordinaryShares": 0.02,
         "preferredShares": 0,
         "totalShares": 0.02
+      },
+      {
+        "name": "M�rio Endsfeldz Camargo",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
       }
     ]
   },
   "events": [
+    {
+      "date": 1693796400000,
+      "amount": 0.1692,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1671418800000,
       "amount": 0.2945,
@@ -412,37 +459,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 312317000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 256961000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 349926000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 307908000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.06899064314906432
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.0903582584642923
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.08647180523997718
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.10750619512465462
       }
     ]
   }

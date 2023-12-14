@@ -2,9 +2,8 @@
   "name": "TEKA4",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 15.13,
-    "priceToEarnings": -0.05,
-    "debtByAnnualEquity": 56.87,
+    "price": 16.94,
+    "priceToEarnings": -0.06,
     "holders": [
       {
         "name": "MONTE CLARO PARTICIPA��ES E SERVI�OS S.A",
@@ -39,14 +38,26 @@
       {
         "name": "DONALDO PORTELA RODRIGUES",
         "ordinaryShares": 0,
-        "preferredShares": 5.49,
-        "totalShares": 3.66
+        "preferredShares": 6.26,
+        "totalShares": 4.17
+      },
+      {
+        "name": "EDEMIR CARVALHO NETO",
+        "ordinaryShares": 0,
+        "preferredShares": 5.43,
+        "totalShares": 3.62
       },
       {
         "name": "MARCIO BARREIRA CAMPELLO",
         "ordinaryShares": 0,
-        "preferredShares": 5.97,
-        "totalShares": 3.98
+        "preferredShares": 6.71,
+        "totalShares": 4.47
+      },
+      {
+        "name": "PAULO SERGIO DA SILVA",
+        "ordinaryShares": 0,
+        "preferredShares": 4.95,
+        "totalShares": 3.3
       }
     ]
   },
@@ -76,37 +87,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -129030000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -115783000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -80118000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.3512976677497007
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.8764865744630921
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.8675743822491175
       }
     ]
   }

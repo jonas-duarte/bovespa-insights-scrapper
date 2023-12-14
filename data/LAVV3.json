@@ -2,9 +2,9 @@
   "name": "LAVV3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 6.5,
-    "priceToEarnings": 10.86,
-    "debtByAnnualEquity": 56.87,
+    "price": 8.5,
+    "priceToEarnings": 9.65,
+    "debtByAnnualEquity": 18.33,
     "holders": [
       {
         "name": "Cyrela Brazil Realty S.A. Emprendimentos e Parts",
@@ -58,6 +58,16 @@
   },
   "events": [
     {
+      "date": 1700103600000,
+      "amount": 0.059,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1692068400000,
+      "amount": 0.084,
+      "type": "DIVIDENDO"
+    },
+    {
       "date": 1684206000000,
       "amount": 0.0311,
       "type": "DIVIDENDO"
@@ -102,37 +112,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 44236000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 93524000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 177732000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 114889000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.2068853126176109
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.2917130336304102
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.26014514321000703
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.22825122288497657
       }
     ]
   }

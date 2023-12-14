@@ -2,9 +2,9 @@
   "name": "GOAU4",
   "business": "Siderurgia",
   "currentState": {
-    "price": 12.17,
-    "priceToEarnings": 3.25,
-    "debtByAnnualEquity": 56.87,
+    "price": 10.48,
+    "priceToEarnings": 3.94,
+    "debtByAnnualEquity": 24.849,
     "holders": [
       {
         "name": "INDAC � INVESTIMENTOS E PARTICIPA��ES S.A.",
@@ -31,12 +31,6 @@
         "totalShares": 3.21
       },
       {
-        "name": "Dynamo Administra��o de Recursos Ltda.",
-        "ordinaryShares": 0,
-        "preferredShares": 5.05,
-        "totalShares": 3.27
-      },
-      {
         "name": "FMR LLC",
         "ordinaryShares": 0,
         "preferredShares": 10.96,
@@ -51,6 +45,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1700190000000,
+      "amount": 0.93,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1692327600000,
+      "amount": 0.26,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1684119600000,
       "amount": 0.25,
@@ -526,37 +530,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 425084000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 872951000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 5063330000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 3744624000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.045437733073776326
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.06462856295981109
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.019923719140495004
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.0107225278169388
       }
     ]
   }

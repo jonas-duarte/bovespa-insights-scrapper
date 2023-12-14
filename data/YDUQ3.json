@@ -2,9 +2,9 @@
   "name": "YDUQ3",
   "business": "Servi�os Educacionais",
   "currentState": {
-    "price": 18.61,
-    "priceToEarnings": 395.66,
-    "debtByAnnualEquity": 56.87,
+    "price": 22.38,
+    "priceToEarnings": 36.78,
+    "debtByAnnualEquity": 164.294,
     "holders": [
       {
         "name": "Rose Fundo de Investimento em Participa��es Multiestrat�gia",
@@ -19,20 +19,19 @@
         "totalShares": 10.79
       },
       {
-        "name": "Wellington Management Group LLP",
-        "ordinaryShares": 5.13,
+        "name": "BlackRock, In",
+        "ordinaryShares": 5.01,
         "preferredShares": 0,
-        "totalShares": 5.13
-      },
-      {
-        "name": "FMR LLC (�Fidelity�)",
-        "ordinaryShares": 5.05,
-        "preferredShares": 0,
-        "totalShares": 5.05
+        "totalShares": 5.01
       }
     ]
   },
   "events": [
+    {
+      "date": 1692327600000,
+      "amount": 0.2749,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1651114800000,
       "amount": 0.1265,
@@ -128,37 +127,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 646140000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 98181000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 158171000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -58244000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.01275898478402783
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.0360185345010154
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.025476829373670285
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.1812436115652128
       }
     ]
   }

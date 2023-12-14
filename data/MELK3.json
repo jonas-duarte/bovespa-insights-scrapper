@@ -2,15 +2,15 @@
   "name": "MELK3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 4.2,
-    "priceToEarnings": 10.52,
-    "debtByAnnualEquity": 56.87,
+    "price": 4.49,
+    "priceToEarnings": 12.8,
+    "debtByAnnualEquity": 25.373,
     "holders": [
       {
         "name": "EVEN CONSTRUTORA E INCORPORADORA S.A",
-        "ordinaryShares": 44.51,
+        "ordinaryShares": 37.56,
         "preferredShares": 0,
-        "totalShares": 44.51
+        "totalShares": 37.56
       },
       {
         "name": "Melnick Participa��es S.A.",
@@ -19,14 +19,25 @@
         "totalShares": 20.44
       },
       {
-        "name": "Real Investor Gest�o de Recursos LTDA",
-        "ordinaryShares": 8.52,
+        "name": "PURAS HOLLAND PARK LLC",
+        "ordinaryShares": 9.17,
         "preferredShares": 0,
-        "totalShares": 8.52
+        "totalShares": 9.17
+      },
+      {
+        "name": "Real Investor Gest�o de Recursos LTDA",
+        "ordinaryShares": 9.05,
+        "preferredShares": 0,
+        "totalShares": 9.05
       }
     ]
   },
   "events": [
+    {
+      "date": 1696388400000,
+      "amount": 0.1963,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.2785,
@@ -72,37 +83,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 45458000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 42513000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 82936000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 84378000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.1074552453360179
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.0731156128912424
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.08075779943968037
       }
     ]
   }

@@ -2,43 +2,48 @@
   "name": "DIRR3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 19.02,
-    "priceToEarnings": 11.88,
-    "debtByAnnualEquity": 56.87,
+    "price": 21.1,
+    "priceToEarnings": 12.62,
+    "debtByAnnualEquity": 63.923,
     "holders": [
       {
         "name": "Filadelphia Participa��es Ltda.",
-        "ordinaryShares": 29.67,
+        "ordinaryShares": 25.65,
         "preferredShares": 0,
-        "totalShares": 29.67
+        "totalShares": 25.65
       },
       {
         "name": "ALLIANCA FIM IE",
-        "ordinaryShares": 10.15,
+        "ordinaryShares": 8.77,
         "preferredShares": 0,
-        "totalShares": 10.15
+        "totalShares": 8.77
       },
       {
         "name": "Ricardo Ribeiro Valadares Gontijo",
-        "ordinaryShares": 1.85,
+        "ordinaryShares": 1.58,
         "preferredShares": 0,
-        "totalShares": 1.85
+        "totalShares": 1.58
       },
       {
         "name": "Ana L�cia Ribeiro Valadares Gontijo",
-        "ordinaryShares": 0.96,
+        "ordinaryShares": 0.66,
         "preferredShares": 0,
-        "totalShares": 0.96
+        "totalShares": 0.66
       },
       {
         "name": "Ricardo Valadares Gontijo",
-        "ordinaryShares": 0.45,
+        "ordinaryShares": 0.3,
         "preferredShares": 0,
-        "totalShares": 0.45
+        "totalShares": 0.3
       }
     ]
   },
   "events": [
+    {
+      "date": 1701745200000,
+      "amount": 0.47,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1671159600000,
       "amount": 0.7,
@@ -124,37 +129,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 100476000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 113073000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 159504000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 208844000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.09657007994022054
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.08979159864443419
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.07534568338061054
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.06890280532262445
       }
     ]
   }

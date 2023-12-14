@@ -2,9 +2,8 @@
   "name": "BBAS3",
   "business": "Bancos",
   "currentState": {
-    "price": 49.49,
-    "priceToEarnings": 4.38,
-    "debtByAnnualEquity": 56.87,
+    "price": 52.98,
+    "priceToEarnings": 4.54,
     "holders": [
       {
         "name": "Minist�rio da Economia / Secretaria do Tesouro Nacional",
@@ -15,6 +14,36 @@
     ]
   },
   "events": [
+    {
+      "date": 1702263600000,
+      "amount": 0.3423,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1700535600000,
+      "amount": 0.6862,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1700535600000,
+      "amount": 0.102,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1694401200000,
+      "amount": 0.3342,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1692586800000,
+      "amount": 0.6547,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1692586800000,
+      "amount": 0.1437,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1686538800000,
       "amount": 0.3386,
@@ -835,37 +864,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 18162067000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 11851616000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 18344326000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 31011487000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.34456318804752617
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.24229252948165853
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.19094173786036728
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.29414225361369156
       }
     ]
   }

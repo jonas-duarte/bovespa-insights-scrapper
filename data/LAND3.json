@@ -1,0 +1,69 @@
+{
+  "name": "LAND3",
+  "business": "Agricultura",
+  "currentState": {
+    "price": 16.48,
+    "priceToEarnings": 11.28,
+    "debtByAnnualEquity": 14.85,
+    "holders": [
+      {
+        "name": "Silvio Tini de Ara�jo",
+        "ordinaryShares": 26.34,
+        "preferredShares": 0,
+        "totalShares": 26.34
+      },
+      {
+        "name": "Laplace Investimentos Gest�o de Recursos LTDA.",
+        "ordinaryShares": 23.05,
+        "preferredShares": 0,
+        "totalShares": 23.05
+      },
+      {
+        "name": "Bonsucex Holding S.A.",
+        "ordinaryShares": 18.68,
+        "preferredShares": 0,
+        "totalShares": 18.68
+      },
+      {
+        "name": "Gavea Investimentos",
+        "ordinaryShares": 8.48,
+        "preferredShares": 0,
+        "totalShares": 8.48
+      }
+    ]
+  },
+  "events": [
+    {
+      "date": 1679022000000,
+      "amount": 0.8835,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1679022000000,
+      "amount": 0.471,
+      "type": "DIVIDENDO"
+    }
+  ],
+  "history": {
+    "earningsPerShare": [
+      {
+        "period": 1612051200000,
+        "value": 38024000
+      },
+      {
+        "period": 1643587200000,
+        "value": 137168000
+      }
+    ],
+    "netMargin": [
+      {
+        "period": 1672444800000,
+        "value": 1.4437065181926303
+      },
+      {
+        "period": 1640908800000,
+        "value": 0.36467914105133936
+      }
+    ]
+  }
+}

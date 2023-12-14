@@ -2,9 +2,8 @@
   "name": "PLAS3",
   "business": "Autom�veis e Motocicletas",
   "currentState": {
-    "price": 9.2,
-    "priceToEarnings": -0.97,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.81,
+    "priceToEarnings": 5.89,
     "holders": [
       {
         "name": "P�dua IV Participa��es S.A.",
@@ -52,37 +51,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -6825000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -117013000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -122230000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -97121000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.11450382579374904
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.19949925246946223
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.31694692135172325
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.01674641148325359
       }
     ]
   }

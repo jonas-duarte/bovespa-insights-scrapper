@@ -2,27 +2,26 @@
   "name": "FRTA3",
   "business": "Agricultura",
   "currentState": {
-    "price": 2.36,
-    "priceToEarnings": -0.65,
-    "debtByAnnualEquity": 56.87,
+    "price": 2.02,
+    "priceToEarnings": -0.73,
     "holders": [
       {
         "name": "EDGAR RAFAEL SAFDI�",
-        "ordinaryShares": 37,
+        "ordinaryShares": 37.01,
         "preferredShares": 0,
-        "totalShares": 37
+        "totalShares": 37.01
+      },
+      {
+        "name": "Eduardo Jaime Smejoff",
+        "ordinaryShares": 13.93,
+        "preferredShares": 0,
+        "totalShares": 13.93
       },
       {
         "name": "EFC PARTICIPA��ES SA",
-        "ordinaryShares": 8.76,
+        "ordinaryShares": 8.77,
         "preferredShares": 0,
-        "totalShares": 8.76
-      },
-      {
-        "name": "FERNANDO HENRIQUE POLIMENI MASSI",
-        "ordinaryShares": 5.08,
-        "preferredShares": 0,
-        "totalShares": 5.08
+        "totalShares": 8.77
       }
     ]
   },
@@ -37,37 +36,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 597000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 2159000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 288000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -5200000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.9102047960791178
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.01834862385321101
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.1694396484068435
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.06254583551597695
       }
     ]
   }

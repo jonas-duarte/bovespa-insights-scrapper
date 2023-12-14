@@ -2,9 +2,9 @@
   "name": "ARZZ3",
   "business": "Tecidos, Vestu�rio e Cal�ados",
   "currentState": {
-    "price": 75,
-    "priceToEarnings": 21.36,
-    "debtByAnnualEquity": 56.87,
+    "price": 66.82,
+    "priceToEarnings": 19.28,
+    "debtByAnnualEquity": 54.86,
     "holders": [
       {
         "name": "Alexandre Caf� Birman",
@@ -51,6 +51,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1699585200000,
+      "amount": 0.4053,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1699585200000,
+      "amount": 0.38,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1699585200000,
+      "amount": 0.2974,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1688094000000,
+      "amount": 0.8498,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1671159600000,
       "amount": 0.7452,
@@ -331,37 +351,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 162139000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 48584000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 345234000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 424709000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.10031565576043419
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.11807606948017102
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.0305369228757907
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.09655527665871662
       }
     ]
   }

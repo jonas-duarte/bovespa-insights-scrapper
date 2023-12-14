@@ -2,19 +2,24 @@
   "name": "BRPR3",
   "business": "Explora��o de Im�veis",
   "currentState": {
-    "price": 70,
-    "priceToEarnings": -0.53,
-    "debtByAnnualEquity": 56.87,
+    "price": 131.17,
+    "priceToEarnings": -0.57,
+    "debtByAnnualEquity": 65.268,
     "holders": [
       {
         "name": "SLABS INVESTMENTOS LTDA.",
-        "ordinaryShares": 94.32,
+        "ordinaryShares": 100,
         "preferredShares": 0,
-        "totalShares": 94.32
+        "totalShares": 100
       }
     ]
   },
   "events": [
+    {
+      "date": 1693364400000,
+      "amount": 63.0533,
+      "type": "REST CAP DIN"
+    },
     {
       "date": 1680577200000,
       "amount": 109.898,
@@ -125,37 +130,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 311352000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 206269000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 32016000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -1523240000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -5.119738642054564
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.0981092758863727
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.6577686079549985
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.8209633700020039
       }
     ]
   }

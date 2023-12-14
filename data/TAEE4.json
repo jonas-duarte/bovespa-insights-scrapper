@@ -2,9 +2,9 @@
   "name": "TAEE4",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 12.68,
-    "priceToEarnings": 8.67,
-    "debtByAnnualEquity": 56.87,
+    "price": 12.28,
+    "priceToEarnings": 11.09,
+    "debtByAnnualEquity": 152.788,
     "holders": [
       {
         "name": "Companhia Energ�tica de Minas Gerais",
@@ -27,6 +27,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1699844400000,
+      "amount": 0.194,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1699844400000,
+      "amount": 0.0039,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1691377200000,
+      "amount": 0.2092,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1691377200000,
+      "amount": 0.094,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1683082800000,
       "amount": 0.0252,
@@ -409,40 +429,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.6375814396628618
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.6354241136488336
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.6009059831846912
       }
     ]
   }

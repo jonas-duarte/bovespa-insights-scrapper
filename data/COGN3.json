@@ -2,9 +2,9 @@
   "name": "COGN3",
   "business": "Servi�os Educacionais",
   "currentState": {
-    "price": 3.22,
-    "priceToEarnings": -13.1,
-    "debtByAnnualEquity": 56.87,
+    "price": 3.37,
+    "priceToEarnings": -21.15,
+    "debtByAnnualEquity": 56.26,
     "holders": [
       {
         "name": "Alaska Investimentos Ltda.",
@@ -14,9 +14,9 @@
       },
       {
         "name": "BlackRock, Inc.",
-        "ordinaryShares": 11.34,
+        "ordinaryShares": 9.26,
         "preferredShares": 0,
-        "totalShares": 11.34
+        "totalShares": 9.26
       }
     ]
   },
@@ -176,37 +176,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 235244000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -5805835000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -489125000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -528930000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.10387058486682185
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.10236901736417126
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -1.1018554436925618
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.03701606262726809
       }
     ]
   }

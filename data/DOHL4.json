@@ -2,9 +2,9 @@
   "name": "DOHL4",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 5.76,
-    "priceToEarnings": 2.673,
-    "debtByAnnualEquity": 56.87,
+    "price": 5.33,
+    "priceToEarnings": -43.22,
+    "debtByAnnualEquity": 17.578,
     "holders": [
       {
         "name": "Cesar Pereira D�hler",
@@ -229,37 +229,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 31867000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 84016000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 77349000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 3482000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.0054787450810089575
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.11470326541507252
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.16099552939237677
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.06379205076619723
       }
     ]
   }

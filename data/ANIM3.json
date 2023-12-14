@@ -2,21 +2,15 @@
   "name": "ANIM3",
   "business": "Servi�os Educacionais",
   "currentState": {
-    "price": 4.13,
-    "priceToEarnings": -18.67,
-    "debtByAnnualEquity": 56.87,
+    "price": 4.54,
+    "priceToEarnings": -19.65,
+    "debtByAnnualEquity": 170.086,
     "holders": [
       {
         "name": "Daniel Faccini Castanho",
         "ordinaryShares": 10.63,
         "preferredShares": 0,
         "totalShares": 10.63
-      },
-      {
-        "name": "GUEPARDO INVESTIMENTOS LTDA.",
-        "ordinaryShares": 9.68,
-        "preferredShares": 0,
-        "totalShares": 9.68
       },
       {
         "name": "Marcelo Battistella Bueno",
@@ -29,18 +23,6 @@
         "ordinaryShares": 4.58,
         "preferredShares": 0,
         "totalShares": 4.58
-      },
-      {
-        "name": "Dynamo Administra��o de Recursos Ltda.",
-        "ordinaryShares": 3.93,
-        "preferredShares": 0,
-        "totalShares": 3.93
-      },
-      {
-        "name": "Dynamo Internacional Gest�o de Recursos Ltda.",
-        "ordinaryShares": 3.01,
-        "preferredShares": 0,
-        "totalShares": 3.01
       },
       {
         "name": "Maur�cio Nogueira Escobar",
@@ -62,9 +44,9 @@
       },
       {
         "name": "Ricardo Can�ado Gon�alves de Souza",
-        "ordinaryShares": 0.76,
+        "ordinaryShares": 0.77,
         "preferredShares": 0,
-        "totalShares": 0.76
+        "totalShares": 0.77
       },
       {
         "name": "Gabriel Ralston Correa Ribeiro",
@@ -128,37 +110,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -9593000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -41108000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -87665000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -102250000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.028695866195596074
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.03307108595313499
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.02890880309200704
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.008119346694326445
       }
     ]
   }

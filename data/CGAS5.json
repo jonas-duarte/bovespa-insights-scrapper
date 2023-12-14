@@ -2,9 +2,9 @@
   "name": "CGAS5",
   "business": "G�s",
   "currentState": {
-    "price": 129.74,
-    "priceToEarnings": 31.29,
-    "debtByAnnualEquity": 56.87,
+    "price": 127.57,
+    "priceToEarnings": 48.06,
+    "debtByAnnualEquity": 1823.365,
     "holders": [
       {
         "name": "Compass G�s e Energia S.A.",
@@ -15,6 +15,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1695697200000,
+      "amount": 0.0211,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1679626800000,
       "amount": 3.25,
@@ -380,37 +385,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 1367179000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 1150613000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 2119121000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1811479000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.10402337684755612
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.1809712159469664
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.13833322252533786
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.14369845479746005
       }
     ]
   }

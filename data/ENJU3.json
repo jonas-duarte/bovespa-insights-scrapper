@@ -2,63 +2,63 @@
   "name": "ENJU3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 1.34,
-    "priceToEarnings": -6.04,
-    "debtByAnnualEquity": 56.87,
+    "price": 1.54,
+    "priceToEarnings": -7.08,
+    "debtByAnnualEquity": 1.32,
     "holders": [
       {
         "name": "Ana Luiza McLaren Moreira Maia e Lima",
-        "ordinaryShares": 8.38,
+        "ordinaryShares": 8.28,
         "preferredShares": 0,
-        "totalShares": 8.38
+        "totalShares": 8.28
       },
       {
         "name": "Vokin Administra��o de Recursos Ltda.",
-        "ordinaryShares": 6.69,
+        "ordinaryShares": 6.61,
         "preferredShares": 0,
-        "totalShares": 6.69
+        "totalShares": 6.61
       },
       {
         "name": "Ti� Lima",
-        "ordinaryShares": 6.45,
+        "ordinaryShares": 6.37,
         "preferredShares": 0,
-        "totalShares": 6.45
+        "totalShares": 6.37
       },
       {
         "name": "ABSOLUTO PARTNERS GEST�O DE RECURSOS LTDA.",
-        "ordinaryShares": 6.39,
+        "ordinaryShares": 6.32,
         "preferredShares": 0,
-        "totalShares": 6.39
+        "totalShares": 6.32
       },
       {
         "name": "ARAM, LLC",
-        "ordinaryShares": 6.34,
+        "ordinaryShares": 6.26,
         "preferredShares": 0,
-        "totalShares": 6.34
-      },
-      {
-        "name": "Oceana Investimentos Administradora de Carteira de Valores",
-        "ordinaryShares": 5.86,
-        "preferredShares": 0,
-        "totalShares": 5.86
+        "totalShares": 6.26
       },
       {
         "name": "BESSEMER VENTURE PARTNERS",
-        "ordinaryShares": 5.43,
+        "ordinaryShares": 5.37,
         "preferredShares": 0,
-        "totalShares": 5.43
+        "totalShares": 5.37
       },
       {
         "name": "ARNALDO GOLDEMBERG",
-        "ordinaryShares": 5.26,
-        "preferredShares": 0,
-        "totalShares": 5.26
-      },
-      {
-        "name": "Sharp Capital Gestora de Recursos Ltda.",
         "ordinaryShares": 5.2,
         "preferredShares": 0,
         "totalShares": 5.2
+      },
+      {
+        "name": "Sharp Capital Gestora de Recursos Ltda.",
+        "ordinaryShares": 5.14,
+        "preferredShares": 0,
+        "totalShares": 5.14
+      },
+      {
+        "name": "S�O PEDRO CAPITAL INVESTIMENTOS LTDA",
+        "ordinaryShares": 5,
+        "preferredShares": 0,
+        "totalShares": 5
       }
     ]
   },
@@ -67,37 +67,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -20757000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -31125000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -118785000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -66515000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.4788662428636223
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -1.119135104578858
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.39098320499453565
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.3867019393781322
       }
     ]
   }

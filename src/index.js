@@ -7,7 +7,7 @@ const fs = require("fs");
 
 const SYMBOLS = require("./symbols.json");
 
-const DATA_PATH = './data'
+const DATA_PATH = "./data";
 
 async function getAllSymbols() {
   return SYMBOLS;
@@ -22,13 +22,21 @@ async function getSymbolDetails(symbol) {
   const details = {};
 
   details.price = parseFloat(
-    $("body > div.center > div.conteudo.clearfix > table:nth-child(2) > tbody > tr:nth-child(1) > td.data.destaque.w3 > span")
+    $(
+      "body > div.center > div.conteudo.clearfix > table:nth-child(2) > tbody > tr:nth-child(1) > td.data.destaque.w3 > span"
+    )
       .text()
       .replace(",", ".")
   );
-  details.business = $("body > div.center > div.conteudo.clearfix > table:nth-child(2) > tbody > tr:nth-child(5) > td:nth-child(2)").text();
+  details.business = $(
+    "body > div.center > div.conteudo.clearfix > table:nth-child(2) > tbody > tr:nth-child(5) > td:nth-child(2)"
+  ).text();
   details.priceToEarnings = parseFloat(
-    $("body > div.center > div.conteudo.clearfix > table:nth-child(4) > tbody > tr:nth-child(2) > td:nth-child(4) > span").text().replace(",", ".")
+    $(
+      "body > div.center > div.conteudo.clearfix > table:nth-child(4) > tbody > tr:nth-child(2) > td:nth-child(4) > span"
+    )
+      .text()
+      .replace(",", ".")
   );
 
   return details;
@@ -49,9 +57,15 @@ async function getHolders(symbol) {
       .remove() //remove all the children
       .end() //again go back to selected element
       .text();
-    holder.ordinaryShares = parseFloat($(el).find("table td:nth-child(1)").text().replace(",", ".").replace("%", ""));
-    holder.preferredShares = parseFloat($(el).find("table td:nth-child(2)").text().replace(",", ".").replace("%", ""));
-    holder.totalShares = parseFloat($(el).find("table td:nth-child(3)").text().replace(",", ".").replace("%", ""));
+    holder.ordinaryShares = parseFloat(
+      $(el).find("table td:nth-child(1)").text().replace(",", ".").replace("%", "")
+    );
+    holder.preferredShares = parseFloat(
+      $(el).find("table td:nth-child(2)").text().replace(",", ".").replace("%", "")
+    );
+    holder.totalShares = parseFloat(
+      $(el).find("table td:nth-child(3)").text().replace(",", ".").replace("%", "")
+    );
 
     holders.push(holder);
   });
@@ -59,7 +73,9 @@ async function getHolders(symbol) {
 }
 
 async function getEvents(symbol) {
-  const response = await axios.get(`https://fundamentus.com.br/proventos.php?papel=${symbol}&tipo=2`);
+  const response = await axios.get(
+    `https://fundamentus.com.br/proventos.php?papel=${symbol}&tipo=2`
+  );
 
   const $ = cheerio.load(response.data);
 
@@ -81,12 +97,15 @@ async function getEvents(symbol) {
 }
 
 async function getHistory(symbol) {
-  const result = await yahooFinance.quoteSummary("SAPR4.SA", { modules: ["earnings", "incomeStatementHistory", "financialData"] });
+  const result = await yahooFinance.quoteSummary(`${symbol}.SA`, {
+    modules: ["earnings", "incomeStatementHistory", "financialData"],
+  });
 
-  const earningsPerShare = result.earnings.financialsChart.yearly.map((item) => ({
-    period: new Date(`${item.date}-01-31`).getTime(),
-    value: item.earnings,
-  }));
+  const earningsPerShare =
+    result.earnings?.financialsChart?.yearly.map((item) => ({
+      period: new Date(`${item.date}-01-31`).getTime(),
+      value: item.earnings,
+    })) ?? [];
 
   const netMargin = result.incomeStatementHistory.incomeStatementHistory.map((incomeStatement) => ({
     period: new Date(incomeStatement.endDate).getTime(),
@@ -124,7 +143,11 @@ async function scrapper() {
           price: details.price,
           priceToEarnings: details.priceToEarnings,
           debtByAnnualEquity,
-          holders: holders.filter((holder) => holder.name.toUpperCase() !== "OUTROS" && holder.name.toUpperCase() !== "ACOESTESOURARIA"),
+          holders: holders.filter(
+            (holder) =>
+              holder.name.toUpperCase() !== "OUTROS" &&
+              holder.name.toUpperCase() !== "ACOESTESOURARIA"
+          ),
         },
         events,
         history: {
@@ -136,7 +159,7 @@ async function scrapper() {
       fs.writeFile(`${DATA_PATH}/${symbol}.json`, JSON.stringify(data, null, 2), (err) => {
         if (err) throw err;
       });
-      
+
       console.log(`[info] success processing ${symbol}...`);
     } catch (error) {
       console.log(`[error] failed to process ${symbol}:`, error);

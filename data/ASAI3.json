@@ -2,15 +2,15 @@
   "name": "ASAI3",
   "business": "Alimentos",
   "currentState": {
-    "price": 13.51,
-    "priceToEarnings": 16.92,
-    "debtByAnnualEquity": 56.87,
+    "price": 12.94,
+    "priceToEarnings": 21.36,
+    "debtByAnnualEquity": 532.462,
     "holders": [
       {
-        "name": "Wilkes Participa��es S.A.",
-        "ordinaryShares": 6.61,
+        "name": "BlackRock Inc",
+        "ordinaryShares": 10.71,
         "preferredShares": 0,
-        "totalShares": 6.61
+        "totalShares": 10.71
       },
       {
         "name": "Orbis Invest",
@@ -19,40 +19,10 @@
         "totalShares": 5.87
       },
       {
-        "name": "BlackRock Inc",
-        "ordinaryShares": 5.02,
-        "preferredShares": 0,
-        "totalShares": 5.02
-      },
-      {
         "name": "Conifer Management LLC",
         "ordinaryShares": 5.01,
         "preferredShares": 0,
         "totalShares": 5.01
-      },
-      {
-        "name": "Geant International BV",
-        "ordinaryShares": 2.99,
-        "preferredShares": 0,
-        "totalShares": 2.99
-      },
-      {
-        "name": "Segisor",
-        "ordinaryShares": 2.07,
-        "preferredShares": 0,
-        "totalShares": 2.07
-      },
-      {
-        "name": "Casino Guichard Perrachon",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
-      },
-      {
-        "name": "Jean-Charles Henri Naouri",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
       }
     ]
   },
@@ -87,37 +57,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 1047000000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 1398000000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1610000000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1220000000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.022377109317681585
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.03842665521027257
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.0387870044113975
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.037283669254326614
       }
     ]
   }

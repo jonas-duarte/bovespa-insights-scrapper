@@ -2,9 +2,9 @@
   "name": "TOTS3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 29.88,
-    "priceToEarnings": 35.96,
-    "debtByAnnualEquity": 56.87,
+    "price": 33.95,
+    "priceToEarnings": 27.4,
+    "debtByAnnualEquity": 34.099,
     "holders": [
       {
         "name": "LC EH Participa��es e Empreendimentos S/A",
@@ -32,9 +32,9 @@
       },
       {
         "name": "La�rcio Jos� de Lucena Cosentino",
-        "ordinaryShares": 0.89,
+        "ordinaryShares": 0.62,
         "preferredShares": 0,
-        "totalShares": 0.89
+        "totalShares": 0.62
       },
       {
         "name": "HG SENTA PUA FIA",
@@ -45,6 +45,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1701658800000,
+      "amount": 0.21,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1690426800000,
+      "amount": 0.23,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1672282800000,
       "amount": 0.21,
@@ -250,37 +260,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 209796000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 294959000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 368491000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 498136000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.13133269987439797
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.12376633688373943
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.11361720010616018
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.09193014928198467
       }
     ]
   }

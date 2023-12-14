@@ -2,9 +2,9 @@
   "name": "PLPL3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 9.2,
-    "priceToEarnings": 12.33,
-    "debtByAnnualEquity": 56.87,
+    "price": 12.02,
+    "priceToEarnings": 10.09,
+    "debtByAnnualEquity": 74.747,
     "holders": [
       {
         "name": "Cyrela Brazil Realty S.A. Empreendimentos e Participa��es",
@@ -59,37 +59,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 102224000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 132204000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 135086000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 133679000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.08958487607265758
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.10626150433428252
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.14673811701400297
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.1422531957707005
       }
     ]
   }

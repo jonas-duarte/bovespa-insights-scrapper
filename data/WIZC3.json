@@ -2,9 +2,9 @@
   "name": "WIZC3",
   "business": "Corretoras de Seguros",
   "currentState": {
-    "price": 6.33,
-    "priceToEarnings": 8.95,
-    "debtByAnnualEquity": 56.87,
+    "price": 7.25,
+    "priceToEarnings": 11.92,
+    "debtByAnnualEquity": 38.21,
     "holders": [
       {
         "name": "Integra Participa��es S.A.",
@@ -126,37 +126,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 213893000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 194726000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 188035000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 134683000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.14193831912014535
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.23022090971755438
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.24249028051395596
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.31365599360642876
       }
     ]
   }

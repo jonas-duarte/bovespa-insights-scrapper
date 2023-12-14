@@ -2,9 +2,9 @@
   "name": "CEBR3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 12.7,
-    "priceToEarnings": 4.37,
-    "debtByAnnualEquity": 56.87,
+    "price": 15.7,
+    "priceToEarnings": 5.81,
+    "debtByAnnualEquity": 0.278,
     "holders": [
       {
         "name": "DISTRITO FEDERAL",
@@ -15,6 +15,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1698807600000,
+      "amount": 0.7298,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1698807600000,
+      "amount": 0.4305,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682996400000,
       "amount": 1.4914,
@@ -160,37 +170,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 103517000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 432619000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 1250457000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 3.644712143823159
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 1.695361669109406
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.339692915530441
       }
     ]
   }

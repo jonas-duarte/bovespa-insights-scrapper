@@ -2,61 +2,71 @@
   "name": "RENT3",
   "business": "Aluguel de carros",
   "currentState": {
-    "price": 65.08,
-    "priceToEarnings": 34.93,
-    "debtByAnnualEquity": 56.87,
+    "price": 62.92,
+    "priceToEarnings": 43.18,
+    "debtByAnnualEquity": 151.92,
     "holders": [
       {
         "name": "Eug�nio Pacelli Mattar",
-        "ordinaryShares": 4.25,
+        "ordinaryShares": 4.03,
         "preferredShares": 0,
-        "totalShares": 4.25
+        "totalShares": 4.03
       },
       {
         "name": "Ant�nio Cl�udio Brand�o Resende",
-        "ordinaryShares": 4.1,
+        "ordinaryShares": 3.93,
         "preferredShares": 0,
-        "totalShares": 4.1
+        "totalShares": 3.93
       },
       {
         "name": "Jos� Salim Mattar J�nior",
-        "ordinaryShares": 3.39,
+        "ordinaryShares": 3.3,
         "preferredShares": 0,
-        "totalShares": 3.39
+        "totalShares": 3.3
       },
       {
         "name": "Fl�vio Brand�o Resende",
-        "ordinaryShares": 2.97,
+        "ordinaryShares": 2.95,
         "preferredShares": 0,
-        "totalShares": 2.97
+        "totalShares": 2.95
       },
       {
         "name": "S�rgio Augusto Guerra de Resende",
-        "ordinaryShares": 2.04,
+        "ordinaryShares": 1.87,
         "preferredShares": 0,
-        "totalShares": 2.04
+        "totalShares": 1.87
       },
       {
         "name": "Luis Fernando Memoria Porto",
-        "ordinaryShares": 1.86,
+        "ordinaryShares": 1.75,
         "preferredShares": 0,
-        "totalShares": 1.86
+        "totalShares": 1.75
       },
       {
         "name": "Dirley Pingnatti Ricci",
-        "ordinaryShares": 1.33,
+        "ordinaryShares": 1.35,
         "preferredShares": 0,
-        "totalShares": 1.33
+        "totalShares": 1.35
       },
       {
         "name": "RCC Participa��es sociais Ltda.",
-        "ordinaryShares": 0.45,
+        "ordinaryShares": 0.42,
         "preferredShares": 0,
-        "totalShares": 0.45
+        "totalShares": 0.42
       }
     ]
   },
   "events": [
+    {
+      "date": 1695783600000,
+      "amount": 0.4064,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1688094000000,
+      "amount": 0.3492,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1679972400000,
       "amount": 0.3692,
@@ -502,37 +512,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 833938000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 1048180000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 2043677000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1844306000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.10370843466283032
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.18747032473817887
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.10168986715161557
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.08179361426853467
       }
     ]
   }

@@ -2,31 +2,36 @@
   "name": "EVEN3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 6.59,
-    "priceToEarnings": 9.61,
-    "debtByAnnualEquity": 56.87,
+    "price": 7.5,
+    "priceToEarnings": 9.44,
+    "debtByAnnualEquity": 40.647,
     "holders": [
       {
         "name": "Nova Milano Investimentos",
-        "ordinaryShares": 48.44,
+        "ordinaryShares": 46.29,
         "preferredShares": 0,
-        "totalShares": 48.44
+        "totalShares": 46.29
       },
       {
         "name": "Nebraska Capital Gest�o de Recursos LTDA",
-        "ordinaryShares": 5.14,
+        "ordinaryShares": 5.4,
         "preferredShares": 0,
-        "totalShares": 5.14
+        "totalShares": 5.4
       },
       {
         "name": "Real Investor Gest�o de Recursos LTDA",
-        "ordinaryShares": 5.08,
+        "ordinaryShares": 5.33,
         "preferredShares": 0,
-        "totalShares": 5.08
+        "totalShares": 5.33
       }
     ]
   },
   "events": [
+    {
+      "date": 1695178800000,
+      "amount": 0.2518,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1668740400000,
       "amount": 0.15,
@@ -107,37 +112,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 119191000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 14684000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 231212000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 104384000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.04503316743861781
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.10159842231815178
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.008787447187945087
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.06456923596149607
       }
     ]
   }

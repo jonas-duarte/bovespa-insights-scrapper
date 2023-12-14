@@ -2,9 +2,9 @@
   "name": "CPFE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 32,
-    "priceToEarnings": 6.59,
-    "debtByAnnualEquity": 56.87,
+    "price": 37.59,
+    "priceToEarnings": 8.07,
+    "debtByAnnualEquity": 147.43,
     "holders": [
       {
         "name": "State Grid Brazil Power Participa��es S.A.",
@@ -21,6 +21,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1692241200000,
+      "amount": 0.7834,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 1.2344,
@@ -196,37 +201,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 2702671000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 3643149000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 4748049000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 5099586000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.12958162548037713
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.12109235088834656
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.11790714604592889
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.090292269192316
       }
     ]
   }

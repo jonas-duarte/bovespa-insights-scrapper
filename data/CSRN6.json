@@ -2,19 +2,34 @@
   "name": "CSRN6",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 22.28,
-    "priceToEarnings": 6.25,
-    "debtByAnnualEquity": 56.87,
+    "price": 27,
+    "priceToEarnings": 6.92,
+    "debtByAnnualEquity": 208.811,
     "holders": [
       {
         "name": "Neoenergia S.A",
-        "ordinaryShares": 93.15,
-        "preferredShares": 92.74,
-        "totalShares": 93.05
+        "ordinaryShares": 93.18,
+        "preferredShares": 92.78,
+        "totalShares": 93.09
       }
     ]
   },
   "events": [
+    {
+      "date": 1696388400000,
+      "amount": 0.1487,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1690772400000,
+      "amount": 1.2414,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1688353200000,
+      "amount": 0.1599,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1681873200000,
       "amount": 1.0563,
@@ -520,37 +535,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 273000000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 342000000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 533000000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 581000000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.1639390519187359
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.1474004424778761
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.1224051539012169
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.10407929851315288
       }
     ]
   }

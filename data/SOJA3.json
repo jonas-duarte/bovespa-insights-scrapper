@@ -2,37 +2,42 @@
   "name": "SOJA3",
   "business": "Agricultura",
   "currentState": {
-    "price": 10.94,
-    "priceToEarnings": 8.15,
-    "debtByAnnualEquity": 56.87,
+    "price": 15.69,
+    "priceToEarnings": 9.56,
+    "debtByAnnualEquity": 58.19,
     "holders": [
       {
         "name": "Camila Stefani Colpo Koch",
-        "ordinaryShares": 30.17,
+        "ordinaryShares": 30.19,
         "preferredShares": 0,
-        "totalShares": 30.17
+        "totalShares": 30.19
       },
       {
         "name": "Marino Stefani Colpo",
-        "ordinaryShares": 30.17,
+        "ordinaryShares": 30.19,
         "preferredShares": 0,
-        "totalShares": 30.17
+        "totalShares": 30.19
       },
       {
         "name": "HIX Investimentos Ltda.",
-        "ordinaryShares": 7.88,
+        "ordinaryShares": 6.3,
         "preferredShares": 0,
-        "totalShares": 7.88
+        "totalShares": 6.3
       },
       {
         "name": "TRUXT Investimentos Ltda.",
-        "ordinaryShares": 4.87,
+        "ordinaryShares": 3.17,
         "preferredShares": 0,
-        "totalShares": 4.87
+        "totalShares": 3.17
       }
     ]
   },
   "events": [
+    {
+      "date": 1698634800000,
+      "amount": 0.1323,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682564400000,
       "amount": 0.0136,
@@ -53,37 +58,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 26664000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 70207000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 127819000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.12239260161480596
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.11929314812454866
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.06593602247324379
       }
     ]
   }

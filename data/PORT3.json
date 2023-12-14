@@ -2,9 +2,9 @@
   "name": "PORT3",
   "business": "Servi�os de Apoio e Armazenagem",
   "currentState": {
-    "price": 12.92,
-    "priceToEarnings": 21.01,
-    "debtByAnnualEquity": 56.87,
+    "price": 15.95,
+    "priceToEarnings": 17.68,
+    "debtByAnnualEquity": 116.248,
     "holders": [
       {
         "name": "OW Overseas (Investments) Limited",
@@ -28,6 +28,11 @@
   },
   "events": [
     {
+      "date": 1696388400000,
+      "amount": 0.3212,
+      "type": "DIVIDENDO"
+    },
+    {
       "date": 1682564400000,
       "amount": 0.312,
       "type": "DIVIDENDO"
@@ -47,37 +52,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 30454000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 115861000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 215064000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 327064000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.14396106857192156
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.10055757779788331
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.06381406067295549
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.07498621124374581
       }
     ]
   }

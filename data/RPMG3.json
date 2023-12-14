@@ -2,9 +2,8 @@
   "name": "RPMG3",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 2.22,
-    "priceToEarnings": -0.17,
-    "debtByAnnualEquity": 56.87,
+    "price": 2.21,
+    "priceToEarnings": -0.18,
     "holders": [
       {
         "name": "XOROQUE PARTICIPA��ES S.A.",
@@ -13,7 +12,7 @@
         "totalShares": 65.01
       },
       {
-        "name": "Postalis Instituto de Previd�ncia Complementar",
+        "name": "PLANO POSTALPREV",
         "ordinaryShares": 15.58,
         "preferredShares": 0,
         "totalShares": 15.58
@@ -161,37 +160,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -228360000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -412911000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -361756000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -935854000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.16360469780780124
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.2760849535368556
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.1926904860549163
       }
     ]
   }

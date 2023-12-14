@@ -2,9 +2,8 @@
   "name": "JFEN3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 2.45,
-    "priceToEarnings": -1.16,
-    "debtByAnnualEquity": 56.87,
+    "price": 2.39,
+    "priceToEarnings": -1.14,
     "holders": [
       {
         "name": "Gaster Participacoes SA",
@@ -126,37 +125,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -374183000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -168657000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -188918000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -44.503651354534746
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -5.818969086392492
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -2.1411739797202958
       }
     ]
   }

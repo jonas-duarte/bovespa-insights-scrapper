@@ -2,9 +2,9 @@
   "name": "PNVL3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 12.34,
-    "priceToEarnings": 22.1,
-    "debtByAnnualEquity": 56.87,
+    "price": 12.78,
+    "priceToEarnings": 21.83,
+    "debtByAnnualEquity": 94.347,
     "holders": [
       {
         "name": "JULIO RICARDO ANDRIGHETTO MOTTIN",
@@ -213,6 +213,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1701313200000,
+      "amount": 0.0799,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1692673200000,
+      "amount": 0.0537,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1672023600000,
       "amount": 0.0561,
@@ -598,37 +608,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 76755000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 56151000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 79426000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 86345000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.021637774951603506
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.024625101692561064
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.019917988301272387
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.0281702805467064
       }
     ]
   }

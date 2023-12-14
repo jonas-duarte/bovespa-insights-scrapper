@@ -2,9 +2,9 @@
   "name": "GRND3",
   "business": "Cal�ados",
   "currentState": {
-    "price": 7.38,
-    "priceToEarnings": 11.77,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.84,
+    "priceToEarnings": 11.93,
+    "debtByAnnualEquity": 2.661,
     "holders": [
       {
         "name": "Alexandre Grendene Bartelle",
@@ -51,6 +51,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1700535600000,
+      "amount": 0.0354,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1700535600000,
+      "amount": 0.0222,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1692586800000,
+      "amount": 0.019,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1684724400000,
       "amount": 0.0755,
@@ -461,37 +476,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 819217000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 405206000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 601005000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 568027000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.2260663616507791
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.2565605968890259
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.21362779650830221
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.3955594162143161
       }
     ]
   }

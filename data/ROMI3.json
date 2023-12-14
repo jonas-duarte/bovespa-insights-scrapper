@@ -2,9 +2,9 @@
   "name": "ROMI3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 17.64,
-    "priceToEarnings": 7.09,
-    "debtByAnnualEquity": 56.87,
+    "price": 13.25,
+    "priceToEarnings": 5.88,
+    "debtByAnnualEquity": 69.337,
     "holders": [
       {
         "name": "Fenix Empreendimentos S.A.",
@@ -99,6 +99,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1695006000000,
+      "amount": 0.2014,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1686625200000,
       "amount": 0.21,
@@ -409,37 +414,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 129664000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 174477000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 203774000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 215027000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.13504159386849982
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.14728886685136744
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.17929096233879668
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.16938338824254806
       }
     ]
   }

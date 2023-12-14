@@ -2,9 +2,9 @@
   "name": "ALPK3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 3.98,
-    "priceToEarnings": -5.74,
-    "debtByAnnualEquity": 56.87,
+    "price": 4.34,
+    "priceToEarnings": -8.7,
+    "debtByAnnualEquity": 367.893,
     "holders": [
       {
         "name": "Fundo de Investimento em Participa��es Maranello - Multiestrat�gia",
@@ -37,37 +37,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -43540000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -170960000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -223357000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -160871000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.14454350968903618
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.26751551924650063
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.26327258167594497
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.04028929825925062
       }
     ]
   }

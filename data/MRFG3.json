@@ -2,27 +2,27 @@
   "name": "MRFG3",
   "business": "Carnes e Derivados",
   "currentState": {
-    "price": 7.23,
-    "priceToEarnings": 1.39,
-    "debtByAnnualEquity": 56.87,
+    "price": 9.81,
+    "priceToEarnings": -4.23,
+    "debtByAnnualEquity": 215.652,
     "holders": [
       {
         "name": "MMS PARTICIPA��ES LTDA.",
-        "ordinaryShares": 38.69,
+        "ordinaryShares": 51.88,
         "preferredShares": 0,
-        "totalShares": 38.69
+        "totalShares": 51.88
       },
       {
         "name": "Marcos Antonio Molina dos Santos",
-        "ordinaryShares": 9.04,
+        "ordinaryShares": 6.2,
         "preferredShares": 0,
-        "totalShares": 9.04
+        "totalShares": 6.2
       },
       {
         "name": "Marcia Ap. Pascoal Mar�al dos Santos",
-        "ordinaryShares": 5.38,
+        "ordinaryShares": 3.71,
         "preferredShares": 0,
-        "totalShares": 5.38
+        "totalShares": 3.71
       }
     ]
   },
@@ -87,37 +87,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 218088000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 3301755000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 4341997000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 4176776000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.03197367940493034
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.05084992273195486
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.04892827566511086
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.0044725855717196615
       }
     ]
   }

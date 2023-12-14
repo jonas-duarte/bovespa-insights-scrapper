@@ -2,15 +2,15 @@
   "name": "AMAR3",
   "business": "Tecidos, Vestu�rio e Cal�ados",
   "currentState": {
-    "price": 0.83,
-    "priceToEarnings": -0.48,
-    "debtByAnnualEquity": 56.87,
+    "price": 3.9,
+    "priceToEarnings": -0.37,
+    "debtByAnnualEquity": 1227.454,
     "holders": [
       {
         "name": "ZAP FIA IE",
-        "ordinaryShares": 6.71,
+        "ordinaryShares": 6.67,
         "preferredShares": 0,
-        "totalShares": 6.71
+        "totalShares": 6.67
       },
       {
         "name": "Marcio Luiz Goldfarb",
@@ -19,7 +19,7 @@
         "totalShares": 5.71
       },
       {
-        "name": "MOBYDICK FUNDO DE INVESTIMENTO EM A��ES",
+        "name": "ALLIGATOR FIA IE",
         "ordinaryShares": 4.36,
         "preferredShares": 0,
         "totalShares": 4.36
@@ -32,9 +32,9 @@
       },
       {
         "name": "Marina Goldfarb",
-        "ordinaryShares": 3.87,
+        "ordinaryShares": 3.88,
         "preferredShares": 0,
-        "totalShares": 3.87
+        "totalShares": 3.88
       },
       {
         "name": "Renata Goldfarb",
@@ -56,9 +56,9 @@
       },
       {
         "name": "Marcelo Goldfarb",
-        "ordinaryShares": 3.59,
+        "ordinaryShares": 3.6,
         "preferredShares": 0,
-        "totalShares": 3.59
+        "totalShares": 3.6
       },
       {
         "name": "Denise Golfarb Terpins",
@@ -175,37 +175,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -112361000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -432196000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -71754000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -390963000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.1421724478630477
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.028412384654128695
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.20201578280438082
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.038981453791290796
       }
     ]
   }

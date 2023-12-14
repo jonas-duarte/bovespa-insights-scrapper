@@ -2,9 +2,8 @@
   "name": "CTKA4",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 10.65,
-    "priceToEarnings": 10.94,
-    "debtByAnnualEquity": 56.87,
+    "price": 16.5,
+    "priceToEarnings": 2.67,
     "holders": [
       {
         "name": "Kasavii Participa��es S.A.",
@@ -100,37 +99,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -12431000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 80509000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 57485000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -21146000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.034519460251852
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.10457959856424773
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.21177383504530928
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.03685333965788148
       }
     ]
   }

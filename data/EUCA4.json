@@ -2,69 +2,69 @@
   "name": "EUCA4",
   "business": "Madeira",
   "currentState": {
-    "price": 11.1,
-    "priceToEarnings": 4.13,
-    "debtByAnnualEquity": 56.87,
+    "price": 16,
+    "priceToEarnings": 5.39,
+    "debtByAnnualEquity": 46.24,
     "holders": [
       {
         "name": "IFF Holding S.A.",
         "ordinaryShares": 39.97,
-        "preferredShares": 8,
-        "totalShares": 18.79
+        "preferredShares": 4.99,
+        "totalShares": 13.43
       },
       {
         "name": "Pasama Participa��es SC Ltda",
         "ordinaryShares": 34.34,
         "preferredShares": 0,
-        "totalShares": 11.59
+        "totalShares": 8.29
       },
       {
         "name": "Brascorp Participa��es Ltda",
         "ordinaryShares": 11.77,
         "preferredShares": 0,
-        "totalShares": 3.97
+        "totalShares": 2.84
       },
       {
         "name": "Flavio Maluf",
         "ordinaryShares": 6.5,
-        "preferredShares": 0.14,
-        "totalShares": 2.29
+        "preferredShares": 0.09,
+        "totalShares": 1.64
       },
       {
         "name": "Otavio Maluf",
         "ordinaryShares": 4.55,
-        "preferredShares": 0.07,
-        "totalShares": 1.58
+        "preferredShares": 0.04,
+        "totalShares": 1.13
       },
       {
         "name": "Paulo Salim Maluf",
         "ordinaryShares": 0.97,
-        "preferredShares": 0.13,
-        "totalShares": 0.41
+        "preferredShares": 0.08,
+        "totalShares": 0.29
       },
       {
         "name": "Economico Agro Pastoril Industrial S/A",
         "ordinaryShares": 0,
-        "preferredShares": 50.34,
-        "totalShares": 33.35
+        "preferredShares": 31.44,
+        "totalShares": 23.85
       },
       {
         "name": "Grandfood Ind. e Com�rcio Ltda",
         "ordinaryShares": 0,
-        "preferredShares": 0.8,
-        "totalShares": 0.53
+        "preferredShares": 0.5,
+        "totalShares": 0.38
       },
       {
         "name": "Grandfood Ind. e Comercio Ltda",
         "ordinaryShares": 0,
-        "preferredShares": 6.6,
-        "totalShares": 4.37
+        "preferredShares": 4.12,
+        "totalShares": 3.13
       },
       {
         "name": "UBS Ag Zurich",
         "ordinaryShares": 0,
-        "preferredShares": 9.82,
-        "totalShares": 6.51
+        "preferredShares": 6.13,
+        "totalShares": 4.65
       }
     ]
   },
@@ -154,37 +154,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 65683000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 144175000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 427971000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 257503000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.10256439873865184
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.17472204859969978
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.08020460727974678
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.0430488012688592
       }
     ]
   }

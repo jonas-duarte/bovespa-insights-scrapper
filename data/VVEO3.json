@@ -2,33 +2,87 @@
   "name": "VVEO3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 20.43,
-    "priceToEarnings": 29.28,
-    "debtByAnnualEquity": 56.87,
+    "price": 14.96,
+    "priceToEarnings": 29.84,
+    "debtByAnnualEquity": 146.543,
     "holders": [
       {
         "name": "Genoma VI Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 40.55,
+        "ordinaryShares": 21.61,
         "preferredShares": 0,
-        "totalShares": 40.55
+        "totalShares": 21.61
       },
       {
         "name": "FUNDO DE INVESTIMENTOS EM PARTICIPA��ES MULTIESTRAT�GIA GENOMA I",
-        "ordinaryShares": 17.58,
+        "ordinaryShares": 15.58,
         "preferredShares": 0,
-        "totalShares": 17.58
+        "totalShares": 15.58
       },
       {
         "name": "GIC Private Limited",
-        "ordinaryShares": 10,
+        "ordinaryShares": 12.22,
         "preferredShares": 0,
-        "totalShares": 10
+        "totalShares": 12.22
       },
       {
         "name": "Dynamo Administra��o de Recursos LTDA",
-        "ordinaryShares": 5.52,
+        "ordinaryShares": 7.63,
         "preferredShares": 0,
-        "totalShares": 5.52
+        "totalShares": 7.63
+      },
+      {
+        "name": "1122P2 FUNDO DE INVESTIMENTO MULTIMERCADO - CREDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 2.09,
+        "preferredShares": 0,
+        "totalShares": 2.09
+      },
+      {
+        "name": "ALDEBARAN S A R L SPF",
+        "ordinaryShares": 2.09,
+        "preferredShares": 0,
+        "totalShares": 2.09
+      },
+      {
+        "name": "DARWIN FUNDO DE INVESTIMENTO MULTIMERCADO - CREDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0.12,
+        "preferredShares": 0,
+        "totalShares": 0.12
+      },
+      {
+        "name": "HENRIQUE LOURENCO GROSSI",
+        "ordinaryShares": 0.07,
+        "preferredShares": 0,
+        "totalShares": 0.07
+      },
+      {
+        "name": "DIAMANTINA FIC DE FIM CP IE",
+        "ordinaryShares": 0.06,
+        "preferredShares": 0,
+        "totalShares": 0.06
+      },
+      {
+        "name": "RAYAS FIC FIM CP IE",
+        "ordinaryShares": 0.06,
+        "preferredShares": 0,
+        "totalShares": 0.06
+      },
+      {
+        "name": "ILLUSIO FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0.05,
+        "preferredShares": 0,
+        "totalShares": 0.05
+      },
+      {
+        "name": "DINA FIM CP IE",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "DNA CAPITAL CONSULTORIA LTDA",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
       }
     ]
   },
@@ -53,37 +107,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 35747000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 121766000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 395155000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 259733000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.029695544439275412
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.06354242060192396
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.027589935335876635
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.011902978092020573
       }
     ]
   }

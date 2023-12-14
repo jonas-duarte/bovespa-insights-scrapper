@@ -2,9 +2,9 @@
   "name": "CIEL3",
   "business": "Servi�os Financeiros Diversos",
   "currentState": {
-    "price": 4.52,
-    "priceToEarnings": 6.73,
-    "debtByAnnualEquity": 56.87,
+    "price": 4.51,
+    "priceToEarnings": 5.86,
+    "debtByAnnualEquity": 43.58,
     "holders": [
       {
         "name": "Quixaba Empreendimentos e Participa��es Ltda",
@@ -21,6 +21,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1699326000000,
+      "amount": 0.0711,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1691463600000,
+      "amount": 0.073,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1683169200000,
       "amount": 0.0729,
@@ -331,37 +341,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 1547392000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 490249000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -505074000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 1411468000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.1319979433477981
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.043222505956130024
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.04382696497849591
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.13628796314058272
       }
     ]
   }

@@ -2,9 +2,8 @@
   "name": "HETA4",
   "business": "Utens�lios Dom�sticos",
   "currentState": {
-    "price": 5.68,
-    "priceToEarnings": 0.01,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.83,
+    "priceToEarnings": 0.02,
     "holders": [
       {
         "name": "HERCULES PARTICIPA��ES SOCIEDADES SIMPLES LTDA",
@@ -23,6 +22,12 @@
         "ordinaryShares": 12.87,
         "preferredShares": 1.12,
         "totalShares": 5.06
+      },
+      {
+        "name": "Francisco Asclepio Barroso Aguiar",
+        "ordinaryShares": 0,
+        "preferredShares": 5.33,
+        "totalShares": 3.54
       },
       {
         "name": "GILBERTO ALVES MENDES",
@@ -49,37 +54,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 3436000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -172049000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 443000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 203660000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 68.06818181818181
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.16927779900649598
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -109.58535031847134
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 3.126478616924477
       }
     ]
   }

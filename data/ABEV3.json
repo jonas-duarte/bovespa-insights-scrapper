@@ -2,9 +2,9 @@
   "name": "ABEV3",
   "business": "Cervejas e Refrigerantes",
   "currentState": {
-    "price": 15.07,
-    "priceToEarnings": 16.1,
-    "debtByAnnualEquity": 56.87,
+    "price": 14.7,
+    "priceToEarnings": 15.36,
+    "debtByAnnualEquity": 4.062,
     "holders": [
       {
         "name": "Interbrew International BV",
@@ -182,37 +182,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 11779965000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 11379394000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 12670968000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 14457943000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.18138446573802924
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.1739219283890608
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.19492274575812757
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.22651548539836078
       }
     ]
   }

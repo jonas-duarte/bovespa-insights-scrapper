@@ -2,9 +2,9 @@
   "name": "SHOW3",
   "business": "Produ��o de Eventos e Shows",
   "currentState": {
-    "price": 2.74,
-    "priceToEarnings": -33.34,
-    "debtByAnnualEquity": 56.87,
+    "price": 2.13,
+    "priceToEarnings": 9.12,
+    "debtByAnnualEquity": 10.481,
     "holders": [
       {
         "name": "894 FIM CP IE",
@@ -69,37 +69,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -70789000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -108548000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -64091000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -11065000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.033684332295253146
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -2.0467203167912116
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -2.714582239227749
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.17980715987543625
       }
     ]
   }

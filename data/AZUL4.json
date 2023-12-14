@@ -2,15 +2,14 @@
   "name": "AZUL4",
   "business": "Transporte A�reo",
   "currentState": {
-    "price": 20.61,
-    "priceToEarnings": -1.74,
-    "debtByAnnualEquity": 56.87,
+    "price": 16.84,
+    "priceToEarnings": -4.8,
     "holders": [
       {
         "name": "David Gary Neeleman",
         "ordinaryShares": 67,
         "preferredShares": 2.07,
-        "totalShares": 49.77
+        "totalShares": 49.76
       },
       {
         "name": "Trip Participa��es S.A.",
@@ -43,12 +42,6 @@
         "totalShares": 2.14
       },
       {
-        "name": "FMR LLC",
-        "ordinaryShares": 0,
-        "preferredShares": 5.19,
-        "totalShares": 1.38
-      },
-      {
         "name": "Saleb II Founder 1 LLC",
         "ordinaryShares": 0,
         "preferredShares": 0.12,
@@ -61,37 +54,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -2403086000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -10834709000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -4213208000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -722367000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.04529495643578623
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.42234587567485044
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -1.886224118342808
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.2100174291622929
       }
     ]
   }

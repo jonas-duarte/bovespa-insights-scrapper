@@ -2,9 +2,8 @@
   "name": "AMER3",
   "business": "Produtos Diversos",
   "currentState": {
-    "price": 1.19,
-    "priceToEarnings": 25.04,
-    "debtByAnnualEquity": 56.87,
+    "price": 0.93,
+    "priceToEarnings": -0.07,
     "holders": [
       {
         "name": "S-Velame S.�.r.l.",
@@ -78,38 +77,38 @@
   "history": {
     "earningsPerShare": [
       {
+        "period": 1517356800000,
+        "value": -397427000
+      },
+      {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -318238000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -210758000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
+        "value": 543795000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.2029625741608528
-      },
-      {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.023960095631533875
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.020816947502885864
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.04702110614360381
+      },
+      {
+        "period": 1546214400000,
+        "value": -0.061251237386670175
       }
     ]
   }

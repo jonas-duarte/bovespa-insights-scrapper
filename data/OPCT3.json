@@ -2,9 +2,9 @@
   "name": "OPCT3",
   "business": "Equipamentos e Servi�os",
   "currentState": {
-    "price": 3.99,
-    "priceToEarnings": -8.93,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.23,
+    "priceToEarnings": -18.55,
+    "debtByAnnualEquity": 157.595,
     "holders": [
       {
         "name": "Flavio Nogueira Pinheiro de Andrade",
@@ -19,16 +19,16 @@
         "totalShares": 14.82
       },
       {
-        "name": "Leblon Equities Gest�o de Investimentos",
-        "ordinaryShares": 7.89,
-        "preferredShares": 0,
-        "totalShares": 7.89
-      },
-      {
         "name": "TOTAL RETURNINVESTMENT LLC",
         "ordinaryShares": 5.73,
         "preferredShares": 0,
         "totalShares": 5.73
+      },
+      {
+        "name": "HIX INVESTIMENTOS LTDA",
+        "ordinaryShares": 5.31,
+        "preferredShares": 0,
+        "totalShares": 5.31
       },
       {
         "name": "HAROLDO NOGUEIRA SOLBER",
@@ -205,37 +205,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 9616000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -22810000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": -47378000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": -92975000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": -0.07741742626921697
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": -0.05370175790570172
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.03549741511589182
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.02169601660593617
       }
     ]
   }

@@ -2,43 +2,48 @@
   "name": "CSED3",
   "business": "Servi�os Educacionais",
   "currentState": {
-    "price": 3.6,
-    "priceToEarnings": 87.02,
-    "debtByAnnualEquity": 56.87,
+    "price": 4.98,
+    "priceToEarnings": 23.26,
+    "debtByAnnualEquity": 154.298,
     "holders": [
       {
-        "name": "ARCHY LLC � CITIBANK DTVM S.A.",
-        "ordinaryShares": 36.16,
+        "name": "ARCHY LLC - CITIBANK DTVM SA",
+        "ordinaryShares": 36.4,
         "preferredShares": 0,
-        "totalShares": 36.16
+        "totalShares": 36.4
       },
       {
         "name": "D2HFP FUNDO DE INVESTIMENTO EM PARTICIPA��ES",
-        "ordinaryShares": 23.34,
+        "ordinaryShares": 23.5,
         "preferredShares": 0,
-        "totalShares": 23.34
+        "totalShares": 23.5
       },
       {
         "name": "GAMA 1 FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO - INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 11.67,
+        "ordinaryShares": 11.75,
         "preferredShares": 0,
-        "totalShares": 11.67
+        "totalShares": 11.75
       },
       {
         "name": "REDMOND FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO - INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 11.67,
+        "ordinaryShares": 11.75,
         "preferredShares": 0,
-        "totalShares": 11.67
+        "totalShares": 11.75
       },
       {
         "name": "Government of Singapore",
-        "ordinaryShares": 4.17,
+        "ordinaryShares": 4.2,
         "preferredShares": 0,
-        "totalShares": 4.17
+        "totalShares": 4.2
       }
     ]
   },
   "events": [
+    {
+      "date": 1699930800000,
+      "amount": 0.1646,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.0688,
@@ -59,37 +64,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 120871000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -34793000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 82955000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 6606000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.04556427361084029
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.019319055085931566
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.0819881851708904
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "CLSC4",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 56,
+    "price": 64.2,
     "priceToEarnings": 4.33,
-    "debtByAnnualEquity": 56.87,
+    "debtByAnnualEquity": 77.323,
     "holders": [
       {
         "name": "ESTADO DE SANTA CATARINA",
@@ -45,6 +45,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1695956400000,
+      "amount": 0.656,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1688094000000,
+      "amount": 0.6226,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.3078,
@@ -195,37 +205,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 283575000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 518685000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 563172000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.04974500442842648
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.0585949811783456
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.03539669134085151
       }
     ]
   }

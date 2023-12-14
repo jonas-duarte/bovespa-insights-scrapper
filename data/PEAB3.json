@@ -2,21 +2,27 @@
   "name": "PEAB3",
   "business": "Holdings Diversificadas",
   "currentState": {
-    "price": 31.6,
-    "priceToEarnings": 28.23,
-    "debtByAnnualEquity": 56.87,
+    "price": 34.5,
+    "priceToEarnings": 19.65,
+    "debtByAnnualEquity": 16.291,
     "holders": [
-      {
-        "name": "ESP�LIO - PAULO S�RGIO FREIRE DE CARVALHO GON�ALVES TOURINHO",
-        "ordinaryShares": 32.31,
-        "preferredShares": 0.62,
-        "totalShares": 16.44
-      },
       {
         "name": "FUNDA��O MARIA EMILIA PEDREIRA FREIRE DE CARVALHO",
         "ordinaryShares": 17.05,
         "preferredShares": 1.42,
-        "totalShares": 9.22
+        "totalShares": 9.23
+      },
+      {
+        "name": "JOS� RENATO DE ALMEIDA GON�ALVES TOURINHO",
+        "ordinaryShares": 16.16,
+        "preferredShares": 0.17,
+        "totalShares": 8.16
+      },
+      {
+        "name": "THEREZA DE ALMEIDA GON�ALVES TOURINHO",
+        "ordinaryShares": 15.95,
+        "preferredShares": 0.14,
+        "totalShares": 8.05
       },
       {
         "name": "PATRIMONIAL MUNDO NOVO LTDA",
@@ -27,14 +33,14 @@
       {
         "name": "Cia de Seguros Alian�a da Bahia",
         "ordinaryShares": 2.74,
-        "preferredShares": 9.16,
-        "totalShares": 5.95
+        "preferredShares": 9.19,
+        "totalShares": 5.96
       },
       {
         "name": "ADRECOR ADMINISTRA��O LTDA",
         "ordinaryShares": 0.07,
-        "preferredShares": 60.68,
-        "totalShares": 30.43
+        "preferredShares": 60.89,
+        "totalShares": 30.48
       },
       {
         "name": "SOCIEDADE AGR�COLA SANTA TEREZA LTDA",
@@ -45,6 +51,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1692759600000,
+      "amount": 0.2965,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1668654000000,
       "amount": 0.2627,
@@ -207,40 +218,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.9512200839173953
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 4.507186926796732
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 21.832991688718273
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.11220977579203499
       }
     ]
   }

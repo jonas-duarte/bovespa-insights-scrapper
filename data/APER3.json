@@ -2,9 +2,9 @@
   "name": "APER3",
   "business": "Corretoras de Seguros",
   "currentState": {
-    "price": 28,
-    "priceToEarnings": 25.48,
-    "debtByAnnualEquity": 56.87,
+    "price": 43.06,
+    "priceToEarnings": 56.88,
+    "debtByAnnualEquity": 13.104,
     "holders": [
       {
         "name": "Stirling FI Em Participa��es Multiestrategia",
@@ -13,10 +13,10 @@
         "totalShares": 16.8
       },
       {
-        "name": "Cesar Augusto Antunes da Silva",
-        "ordinaryShares": 15.23,
+        "name": "CAAS MULT FUNDO DE INVESTIMENTO MULTIMERCADO",
+        "ordinaryShares": 13.5,
         "preferredShares": 0,
-        "totalShares": 15.23
+        "totalShares": 13.5
       },
       {
         "name": "Credit Suisse Securities (Europe) Ltd.",
@@ -104,37 +104,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 2501000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -694000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 4441000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 26661000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.10953619365732808
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.030183370261122514
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.006669229290793773
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.027444611484818224
       }
     ]
   }

@@ -2,87 +2,86 @@
   "name": "BMEB4",
   "business": "Bancos",
   "currentState": {
-    "price": 10.47,
-    "priceToEarnings": 4.95,
-    "debtByAnnualEquity": 56.87,
+    "price": 15.49,
+    "priceToEarnings": 4.84,
     "holders": [
       {
         "name": "CONSUELO ANDRADE DE ARA�JO (PROPRIEDADE PLENA E USUFRUTO - VIDE ITEM 6.6).",
-        "ordinaryShares": 30.25,
-        "preferredShares": 14.43,
-        "totalShares": 24.19
+        "ordinaryShares": 30.28,
+        "preferredShares": 14.85,
+        "totalShares": 24.44
       },
       {
         "name": "Pedro Henrique de Oliveira",
-        "ordinaryShares": 11.18,
-        "preferredShares": 7.42,
-        "totalShares": 9.74
+        "ordinaryShares": 11.19,
+        "preferredShares": 7.56,
+        "totalShares": 9.82
       },
       {
         "name": "Sociedade Agr�cola Santa Luzia Ltda",
-        "ordinaryShares": 5.89,
+        "ordinaryShares": 5.9,
         "preferredShares": 0,
-        "totalShares": 3.64
+        "totalShares": 3.67
       },
       {
         "name": "Luiz Henrique Andrade de Ara�jo",
-        "ordinaryShares": 5.05,
-        "preferredShares": 3.25,
-        "totalShares": 4.36
+        "ordinaryShares": 5.06,
+        "preferredShares": 3.35,
+        "totalShares": 4.41
       },
       {
         "name": "Maur�cio de Faria Ara�jo",
-        "ordinaryShares": 4.39,
+        "ordinaryShares": 4.4,
         "preferredShares": 0,
-        "totalShares": 2.71
+        "totalShares": 2.73
       },
       {
         "name": "Sapil Ltda.",
         "ordinaryShares": 4.24,
         "preferredShares": 0,
-        "totalShares": 2.62
+        "totalShares": 2.64
       },
       {
         "name": "Renato Augusto de Ara�jo",
         "ordinaryShares": 4.02,
-        "preferredShares": 0.55,
-        "totalShares": 2.69
+        "preferredShares": 0.56,
+        "totalShares": 2.71
       },
       {
         "name": "Lance Empreendimentos e Participa��es Ltda.",
         "ordinaryShares": 3.95,
         "preferredShares": 0,
-        "totalShares": 2.44
+        "totalShares": 2.46
       },
       {
         "name": "Paulo Henrique Brant de Ara�jo",
         "ordinaryShares": 3.11,
         "preferredShares": 0.11,
-        "totalShares": 1.96
+        "totalShares": 1.98
       },
       {
         "name": "Marco Ant�nio Andrade de Ara�jo",
         "ordinaryShares": 2.65,
-        "preferredShares": 6.4,
-        "totalShares": 4.08
+        "preferredShares": 6.25,
+        "totalShares": 4.01
       },
       {
         "name": "Yehuda Waisberg",
         "ordinaryShares": 1.09,
-        "preferredShares": 8.87,
-        "totalShares": 4.07
+        "preferredShares": 9.13,
+        "totalShares": 4.13
       },
       {
         "name": "Gustavo Henrique Diniz de Ara�jo",
         "ordinaryShares": 1.03,
-        "preferredShares": 2.01,
-        "totalShares": 1.4
+        "preferredShares": 2.05,
+        "totalShares": 1.41
       },
       {
         "name": "Jose Ribeiro Vianna Neto",
         "ordinaryShares": 1,
-        "preferredShares": 0.03,
-        "totalShares": 0.63
+        "preferredShares": 0,
+        "totalShares": 0.62
       },
       {
         "name": "Ana Carolina Andrade de Ara�jo Lima",
@@ -100,31 +99,31 @@
         "name": "Cristiana Nogueira de Ara�jo",
         "ordinaryShares": 0.7,
         "preferredShares": 0,
-        "totalShares": 0.43
+        "totalShares": 0.44
       },
       {
         "name": "Clarissa Nogueira de Araujo",
         "ordinaryShares": 0.45,
-        "preferredShares": 0.19,
-        "totalShares": 0.35
+        "preferredShares": 0.2,
+        "totalShares": 0.36
       },
       {
         "name": "MB A��es Mercantil do Brasil FI",
         "ordinaryShares": 0.27,
-        "preferredShares": 1.8,
-        "totalShares": 0.86
+        "preferredShares": 1.86,
+        "totalShares": 0.87
       },
       {
         "name": "MB Fundo de Investimento em A��es Institui��es Financeiras",
         "ordinaryShares": 0.16,
-        "preferredShares": 3.45,
-        "totalShares": 1.42
+        "preferredShares": 3.38,
+        "totalShares": 1.38
       },
       {
         "name": "Maria �ngela de Moura",
         "ordinaryShares": 0.1,
-        "preferredShares": 1.88,
-        "totalShares": 0.78
+        "preferredShares": 1.93,
+        "totalShares": 0.79
       },
       {
         "name": "Daniela de Araujo Coelho",
@@ -135,24 +134,29 @@
       {
         "name": "MB Fundo de Investimentos em A��es",
         "ordinaryShares": 0.02,
-        "preferredShares": 0.18,
+        "preferredShares": 0.19,
         "totalShares": 0.09
-      },
-      {
-        "name": "Pedro Ribeiro de Oliveira Neto",
-        "ordinaryShares": 0,
-        "preferredShares": 0.03,
-        "totalShares": 0.01
       },
       {
         "name": "MB Clube de Inv dos Func do Grupo Merc do Brasil",
         "ordinaryShares": 0,
         "preferredShares": 0.01,
         "totalShares": 0
+      },
+      {
+        "name": "Pedro Ribeiro de Oliveira Neto",
+        "ordinaryShares": 0,
+        "preferredShares": 0.02,
+        "totalShares": 0.01
       }
     ]
   },
   "events": [
+    {
+      "date": 1691722800000,
+      "amount": 0.4936,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1678417200000,
       "amount": 0.3086,
@@ -423,37 +427,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 121400000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 151048000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 184487000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 200571000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.07794026099384703
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.08230052649282261
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.0835973746590062
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.0729399861329911
       }
     ]
   }

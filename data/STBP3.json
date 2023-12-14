@@ -2,9 +2,9 @@
   "name": "STBP3",
   "business": "Servi�os de Apoio e Armazenagem",
   "currentState": {
-    "price": 10.09,
-    "priceToEarnings": 22.88,
-    "debtByAnnualEquity": 56.87,
+    "price": 9.12,
+    "priceToEarnings": 19.59,
+    "debtByAnnualEquity": 89.383,
     "holders": [
       {
         "name": "The Bank of New York ADR Department",
@@ -31,16 +31,28 @@
         "totalShares": 5.02
       },
       {
+        "name": "COHEN & STEERS",
+        "ordinaryShares": 5.02,
+        "preferredShares": 0,
+        "totalShares": 5.02
+      },
+      {
         "name": "OPPORTUNITY LOGICA MASTER FIA",
         "ordinaryShares": 1.42,
         "preferredShares": 0,
         "totalShares": 1.42
       },
       {
-        "name": "OPP I FIA BDR NIVEL I INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 1.14,
+        "name": "OPEG II FUNDO DE INVESTIMENTO EM AES INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0.6,
         "preferredShares": 0,
-        "totalShares": 1.14
+        "totalShares": 0.6
+      },
+      {
+        "name": "OPP I FIA BDR NIVEL I INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0.54,
+        "preferredShares": 0,
+        "totalShares": 0.54
       },
       {
         "name": "OPPORTUNITY HOLDING FDO DE INVEST PART",
@@ -69,6 +81,41 @@
     ]
   },
   "events": [
+    {
+      "date": 1698634800000,
+      "amount": 0.0854,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1698634800000,
+      "amount": 0.0408,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1698634800000,
+      "amount": 0.0266,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1691636400000,
+      "amount": 0.0613,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1691636400000,
+      "amount": 0.0425,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1689303600000,
+      "amount": 0.043,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1689303600000,
+      "amount": 0.0074,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1683082800000,
       "amount": 0.015,
@@ -139,37 +186,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 15375000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -13761000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.014803730355016281
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.015808240643063808
       }
     ]
   }

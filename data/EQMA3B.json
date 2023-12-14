@@ -2,9 +2,9 @@
   "name": "EQMA3B",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 24.1,
-    "priceToEarnings": 5.85,
-    "debtByAnnualEquity": 56.87,
+    "price": 28.99,
+    "priceToEarnings": 5.14,
+    "debtByAnnualEquity": 74.224,
     "holders": [
       {
         "name": "Equatorial Distribui��o S.A.",
@@ -63,40 +63,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.13383915141833633
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.17504362532226148
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.17050743195631646
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.17057205926467975
       }
     ]
   }

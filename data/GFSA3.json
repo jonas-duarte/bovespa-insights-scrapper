@@ -2,27 +2,33 @@
   "name": "GFSA3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 7.22,
-    "priceToEarnings": -3.72,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.2,
+    "priceToEarnings": -1.8,
+    "debtByAnnualEquity": 116.206,
     "holders": [
       {
         "name": "MAM ASSET MANAGEMENT GESTORA DE RECURSOS LTDA.",
-        "ordinaryShares": 23.01,
+        "ordinaryShares": 19.46,
         "preferredShares": 0,
-        "totalShares": 23.01
+        "totalShares": 19.46
       },
       {
         "name": "ESH THETA MASTER FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO",
-        "ordinaryShares": 12.91,
+        "ordinaryShares": 9.49,
         "preferredShares": 0,
-        "totalShares": 12.91
+        "totalShares": 9.49
       },
       {
         "name": "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "ordinaryShares": 9.43,
+        "ordinaryShares": 9.4,
         "preferredShares": 0,
-        "totalShares": 9.43
+        "totalShares": 9.4
+      },
+      {
+        "name": "PEDRO CARDOSO NOVELLINO",
+        "ordinaryShares": 9.17,
+        "preferredShares": 0,
+        "totalShares": 9.17
       }
     ]
   },
@@ -87,37 +93,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -8739000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -74181000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 81254000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.09929513092869677
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -0.08391088688924206
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -0.021822131771815266
       }
     ]
   }

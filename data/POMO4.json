@@ -2,9 +2,9 @@
   "name": "POMO4",
   "business": "Material Rodovi�rio",
   "currentState": {
-    "price": 5.19,
-    "priceToEarnings": 8.33,
-    "debtByAnnualEquity": 56.87,
+    "price": 6.71,
+    "priceToEarnings": 7.97,
+    "debtByAnnualEquity": 74.277,
     "holders": [
       {
         "name": "BELLPART PARTICIPA��ES LTDA",
@@ -14,15 +14,15 @@
       },
       {
         "name": "Alaska Investimentos Ltda",
-        "ordinaryShares": 18.11,
-        "preferredShares": 0.72,
-        "totalShares": 7
+        "ordinaryShares": 20.01,
+        "preferredShares": 0.26,
+        "totalShares": 7.38
       },
       {
         "name": "G5 HUBBLE FIA IE",
-        "ordinaryShares": 6.22,
+        "ordinaryShares": 6.81,
         "preferredShares": 0,
-        "totalShares": 2.24
+        "totalShares": 2.46
       },
       {
         "name": "VATE PARTICIPA��ES E ADMINISTRA��O LTDA",
@@ -50,9 +50,9 @@
       },
       {
         "name": "VIVIANE MARIA PINTO BADO",
-        "ordinaryShares": 1.46,
+        "ordinaryShares": 0.53,
         "preferredShares": 0.08,
-        "totalShares": 0.58
+        "totalShares": 0.24
       },
       {
         "name": "FUND PETROBRAS SEG SOC PETROS",
@@ -69,6 +69,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1696474800000,
+      "amount": 0.07,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1689044400000,
+      "amount": 0.07,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1678071600000,
       "amount": 0.092,
@@ -399,37 +409,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 201387000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 103863000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 366623000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 449114000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.08292940897973232
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.1047662211000106
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.028933921912425182
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.04611121580045331
       }
     ]
   }

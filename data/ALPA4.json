@@ -2,9 +2,9 @@
   "name": "ALPA4",
   "business": "Cal�ados",
   "currentState": {
-    "price": 11.15,
-    "priceToEarnings": -68.6,
-    "debtByAnnualEquity": 56.87,
+    "price": 9.24,
+    "priceToEarnings": -22.41,
+    "debtByAnnualEquity": 31.817,
     "holders": [
       {
         "name": "Ita�sa S.A.",
@@ -27,8 +27,8 @@
       {
         "name": "Silvio Tini de Ara�jo",
         "ordinaryShares": 5.46,
-        "preferredShares": 0.79,
-        "totalShares": 3.11
+        "preferredShares": 0.78,
+        "totalShares": 3.1
       },
       {
         "name": "Bonsucex Holding S.A.",
@@ -38,15 +38,21 @@
       },
       {
         "name": "FUNDOS GERIDOS PELA DYNAMO ADMINISTRA��O DE RECURSOS LTDA.",
-        "ordinaryShares": 0.16,
-        "preferredShares": 15.43,
-        "totalShares": 7.84
+        "ordinaryShares": 0.21,
+        "preferredShares": 10.21,
+        "totalShares": 5.24
       },
       {
-        "name": "FUNDOS GERIDOS PELA ATMOS CAPITAL GESTORA DE RECURSOS LTDA.",
+        "name": "BlackRock, Inc",
         "ordinaryShares": 0,
-        "preferredShares": 5.11,
-        "totalShares": 2.57
+        "preferredShares": 5.22,
+        "totalShares": 2.63
+      },
+      {
+        "name": "MS ALPA PARTICIPA��ES LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 9.64,
+        "totalShares": 4.85
       }
     ]
   },
@@ -496,37 +502,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 274105000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 140195000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 689608000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 121462000
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.02904492874711911
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.17464792870111415
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.04460132879796087
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.08357494212213061
       }
     ]
   }

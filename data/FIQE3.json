@@ -2,9 +2,9 @@
   "name": "FIQE3",
   "business": "Telecomunica��es",
   "currentState": {
-    "price": 4.16,
-    "priceToEarnings": 12.19,
-    "debtByAnnualEquity": 56.87,
+    "price": 3.77,
+    "priceToEarnings": 10.63,
+    "debtByAnnualEquity": 38.521,
     "holders": [
       {
         "name": "Unit� Participa��es S.A.",
@@ -46,6 +46,16 @@
   },
   "events": [
     {
+      "date": 1696820400000,
+      "amount": 0.0283,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1689303600000,
+      "amount": 0.0425,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
       "date": 1678417200000,
       "amount": 0.084,
       "type": "JRS CAP PROPRIO"
@@ -70,37 +80,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": 36587000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": 50449000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 80539000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 0.17585548840134152
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.1763655050900548
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.22389968667384705
       }
     ]
   }

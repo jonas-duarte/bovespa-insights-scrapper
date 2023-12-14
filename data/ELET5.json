@@ -2,9 +2,9 @@
   "name": "ELET5",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 70.51,
-    "priceToEarnings": 114.91,
-    "debtByAnnualEquity": 56.87,
+    "price": 85,
+    "priceToEarnings": 61.25,
+    "debtByAnnualEquity": 65.604,
     "holders": [
       {
         "name": "Uni�o Federal",
@@ -13,10 +13,10 @@
         "totalShares": 28.95
       },
       {
-        "name": "GIC Private Limited",
-        "ordinaryShares": 6.8,
-        "preferredShares": 3.12,
-        "totalShares": 6.35
+        "name": "GIC Private",
+        "ordinaryShares": 6.48,
+        "preferredShares": 2.57,
+        "totalShares": 6
       },
       {
         "name": "BANCO NACIONAL DE DESENVOLVIMENTO ECON�MICO E SOCIAL � BNDES",
@@ -31,34 +31,34 @@
         "totalShares": 3.93
       },
       {
-        "name": "FND",
+        "name": "Fundo Nacional de Desenvolvimento - FND",
         "ordinaryShares": 2.25,
         "preferredShares": 0,
         "totalShares": 1.98
       },
       {
-        "name": "Caixa Econ�mica Federal D.T.V.M.",
-        "ordinaryShares": 2.08,
-        "preferredShares": 0.12,
-        "totalShares": 1.84
+        "name": "Caixa D.T.V.M.",
+        "ordinaryShares": 1.99,
+        "preferredShares": 0.1,
+        "totalShares": 1.76
       },
       {
-        "name": "BANCO DO BRASIL D.T.V.M.",
-        "ordinaryShares": 1.11,
-        "preferredShares": 0.57,
-        "totalShares": 1.04
+        "name": "BB GEST�O DE RECURSOS DTVM S.A",
+        "ordinaryShares": 1.13,
+        "preferredShares": 0.78,
+        "totalShares": 1.08
       },
       {
-        "name": "PREVI",
-        "ordinaryShares": 0.95,
-        "preferredShares": 0.39,
-        "totalShares": 0.89
+        "name": "Caixa de Previd�ncia dos Func. do Banco do Brasil",
+        "ordinaryShares": 0.94,
+        "preferredShares": 0.38,
+        "totalShares": 0.88
       },
       {
         "name": "Petros",
-        "ordinaryShares": 0.23,
-        "preferredShares": 0,
-        "totalShares": 0.2
+        "ordinaryShares": 0.25,
+        "preferredShares": 0.02,
+        "totalShares": 0.22
       },
       {
         "name": "3G Radar Gestora de Recursos Ltda.",
@@ -67,10 +67,10 @@
         "totalShares": 1.5
       },
       {
-        "name": "GERACAO FUTURO L.PAR FUNDO DE INVESTIMENTO EM ACOES",
-        "ordinaryShares": 0.07,
-        "preferredShares": 5.85,
-        "totalShares": 0.77
+        "name": "Gera��o Futuro L. Par FIA",
+        "ordinaryShares": 0.08,
+        "preferredShares": 7.78,
+        "totalShares": 1.01
       },
       {
         "name": "Banco do Nordeste",
@@ -79,7 +79,7 @@
         "totalShares": 0.06
       },
       {
-        "name": "FGHAB",
+        "name": "Fundo de Investimento Caixa FGHab Multimercado",
         "ordinaryShares": 0.05,
         "preferredShares": 0,
         "totalShares": 0.04
@@ -216,40 +216,23 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 1080034000
-      },
-      {
-        "period": 1580428800000,
-        "value": 996343000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1177631000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1151538000
-      }
-    ],
+    "earningsPerShare": [],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": 0.10668991434084518
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": null
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": 0.21797029509073654
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": 0.37675632820654753
       }
     ]
   }

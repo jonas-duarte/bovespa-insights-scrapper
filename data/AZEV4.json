@@ -2,39 +2,45 @@
   "name": "AZEV4",
   "business": "Constru��o Pesada",
   "currentState": {
-    "price": 1.76,
-    "priceToEarnings": -1.22,
-    "debtByAnnualEquity": 56.87,
+    "price": 2.36,
+    "priceToEarnings": -9.41,
+    "debtByAnnualEquity": 30.731,
     "holders": [
       {
         "name": "NEMESIS BRASIL PARTICIPA��ES S.A.",
-        "ordinaryShares": 25.75,
-        "preferredShares": 8.47,
-        "totalShares": 14.41
+        "ordinaryShares": 22.32,
+        "preferredShares": 2.82,
+        "totalShares": 9.49
       },
       {
         "name": "ROCKET EMPREENDIMENTOS E PARTICIPA��ES S.A.",
-        "ordinaryShares": 16.5,
-        "preferredShares": 1.86,
-        "totalShares": 6.89
+        "ordinaryShares": 10.82,
+        "preferredShares": 9.67,
+        "totalShares": 10.07
+      },
+      {
+        "name": "MAM ASSET MANAGEMENT GESTORA DE RECURSOS LTDA",
+        "ordinaryShares": 9.35,
+        "preferredShares": 2.76,
+        "totalShares": 5.01
       },
       {
         "name": "Guilherme Pimentel Mendes de Carvalho",
-        "ordinaryShares": 7.7,
-        "preferredShares": 2.98,
-        "totalShares": 4.6
+        "ordinaryShares": 2.56,
+        "preferredShares": 0,
+        "totalShares": 0.88
       },
       {
         "name": "Bernardo Negredo Mendon�a de Araujo",
-        "ordinaryShares": 1.55,
-        "preferredShares": 0.12,
-        "totalShares": 0.61
+        "ordinaryShares": 1.28,
+        "preferredShares": 0.09,
+        "totalShares": 0.49
       },
       {
         "name": "Gabriel Ant�nio Soares Freire Junior",
-        "ordinaryShares": 0.01,
+        "ordinaryShares": 0.02,
         "preferredShares": 0.01,
-        "totalShares": 0.01
+        "totalShares": 0.02
       }
     ]
   },
@@ -74,37 +80,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 1080034000
+        "value": -35784000
       },
       {
         "period": 1580428800000,
-        "value": 996343000
+        "value": -36869000
       },
       {
         "period": 1612051200000,
-        "value": 1177631000
+        "value": 190136000
       },
       {
         "period": 1643587200000,
-        "value": 1151538000
+        "value": 0
       }
     ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.2029625741608528
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.22627551392933534
+        "value": 2.473699959668501
       },
       {
         "period": 1609372800000,
-        "value": 0.20758637860429552
+        "value": -1.4438048245614035
       },
       {
         "period": 1577750400000,
-        "value": 0.22868384310580148
+        "value": -20.413006274957215
       }
     ]
   }
