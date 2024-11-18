@@ -143,6 +143,7 @@ async function scrapper() {
       const data = {
         name: symbol,
         business: details.business,
+        lastUpdate: new Date().getTime(),
         currentState: {
           price: details.price,
           priceToEarnings: details.priceToEarnings,
