@@ -2,8 +2,8 @@
   "name": "OSXB3",
   "business": "Equipamentos e Servi�os",
   "currentState": {
-    "price": 4.18,
-    "priceToEarnings": -0.04,
+    "price": 4.5,
+    "priceToEarnings": -0.01,
     "holders": [
       {
         "name": "Centennial Asset Mining Fund LLC",
@@ -35,38 +35,30 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -567548000
+        "period": 1264896000000,
+        "value": -46231260
       },
       {
-        "period": 1580428800000,
-        "value": -870235000
+        "period": 1296432000000,
+        "value": 4152030
       },
       {
-        "period": 1612051200000,
-        "value": 122560000
-      },
-      {
-        "period": 1643587200000,
-        "value": 0
+        "period": 1327968000000,
+        "value": -13326920
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0
+        "period": 1356912000000,
+        "value": -0.06070915847362949
       },
       {
-        "period": 1640908800000,
-        "value": 4.641369385745664
+        "period": 1325289600000,
+        "value": 0.05244984614443992
       },
       {
-        "period": 1609372800000,
-        "value": -78.72580061516193
-      },
-      {
-        "period": 1577750400000,
-        "value": -42.875878220140514
+        "period": 1293753600000,
+        "value": -8.726056847116025
       }
     ]
   }

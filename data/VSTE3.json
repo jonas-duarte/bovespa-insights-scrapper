@@ -2,20 +2,14 @@
   "name": "VSTE3",
   "business": "Tecidos, Vestu�rio e Cal�ados",
   "currentState": {
-    "price": 16.11,
-    "priceToEarnings": 7.68,
+    "price": 9.5,
+    "priceToEarnings": -666.47,
     "holders": [
       {
         "name": "Fundos sob gest�o da WNT Gestora de Recursos",
-        "ordinaryShares": 30.44,
+        "ordinaryShares": 38.36,
         "preferredShares": 0,
-        "totalShares": 30.44
-      },
-      {
-        "name": "Banco BTG Pactual S.A.",
-        "ordinaryShares": 18.17,
-        "preferredShares": 0,
-        "totalShares": 18.17
+        "totalShares": 38.36
       },
       {
         "name": "Gerib� Participa��es 11 S.A.",
@@ -24,20 +18,31 @@
         "totalShares": 18.09
       },
       {
-        "name": "Banco XP S.A.",
-        "ordinaryShares": 11.29,
+        "name": "Banco BTG Pactual S.A.",
+        "ordinaryShares": 12.93,
         "preferredShares": 0,
-        "totalShares": 11.29
+        "totalShares": 12.93
+      },
+      {
+        "name": "Banco XP S.A.",
+        "ordinaryShares": 11.23,
+        "preferredShares": 0,
+        "totalShares": 11.23
       },
       {
         "name": "Porto Empreendimentos E Participa��es S.A.",
-        "ordinaryShares": 9.52,
+        "ordinaryShares": 9.36,
         "preferredShares": 0,
-        "totalShares": 9.52
+        "totalShares": 9.36
       }
     ]
   },
   "events": [
+    {
+      "date": 1714100400000,
+      "amount": 0.0475,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1683169200000,
       "amount": 0.1157,
@@ -107,10 +112,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1517356800000,
-        "value": 103463000
-      },
-      {
         "period": 1548892800000,
         "value": -192996000
       },
@@ -119,14 +120,22 @@
         "value": -2005084000
       },
       {
-        "period": 1612051200000,
-        "value": -804313000
+        "period": 1643587200000,
+        "value": 55275000
+      },
+      {
+        "period": 1675123200000,
+        "value": 22779000
       }
     ],
     "netMargin": [
       {
-        "period": 1640908800000,
-        "value": -0.9182504318321671
+        "period": 1703980800000,
+        "value": 0.020524876016377373
+      },
+      {
+        "period": 1672444800000,
+        "value": null
       },
       {
         "period": 1609372800000,
@@ -135,10 +144,6 @@
       {
         "period": 1577750400000,
         "value": -0.20228428763535247
-      },
-      {
-        "period": 1546214400000,
-        "value": 0.08315992107029326
       }
     ]
   }

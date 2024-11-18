@@ -2,20 +2,20 @@
   "name": "SANB4",
   "business": "Bancos",
   "currentState": {
-    "price": 16.66,
-    "priceToEarnings": 14.89,
+    "price": 13.54,
+    "priceToEarnings": 8.73,
     "holders": [
       {
         "name": "Sterrebeeck B.V",
-        "ordinaryShares": 47.45,
-        "preferredShares": 47.18,
-        "totalShares": 47.32
+        "ordinaryShares": 47.43,
+        "preferredShares": 47.15,
+        "totalShares": 47.29
       },
       {
         "name": "Grupo Empresarial Santander, S.L",
-        "ordinaryShares": 42.69,
-        "preferredShares": 41.91,
-        "totalShares": 42.31
+        "ordinaryShares": 42.67,
+        "preferredShares": 41.88,
+        "totalShares": 42.28
       },
       {
         "name": "Banco Santander S/A Espanha",
@@ -26,6 +26,31 @@
     ]
   },
   "events": [
+    {
+      "date": 1729134000000,
+      "amount": 0.1827,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1729134000000,
+      "amount": 0.0281,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1721358000000,
+      "amount": 0.2108,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713495600000,
+      "amount": 0.2108,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1705633200000,
+      "amount": 0.211,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1697684400000,
       "amount": 0.1578,
@@ -480,38 +505,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 16406932000
-      },
-      {
         "period": 1580428800000,
-        "value": 13418529000
+        "value": 13849000000
       },
       {
         "period": 1612051200000,
-        "value": 15528052000
+        "value": 14987716000
       },
       {
         "period": 1643587200000,
-        "value": 14287093000
+        "value": 12570191000
+      },
+      {
+        "period": 1675123200000,
+        "value": 8974000000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.12077411714039621
+      },
+      {
         "period": 1672444800000,
-        "value": 0.34198247917898694
+        "value": 0.17670894777535673
       },
       {
         "period": 1640908800000,
-        "value": 0.33147098552047877
+        "value": 0.201188198024055
       },
       {
         "period": 1609372800000,
-        "value": 0.431470655959062
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.36123059159124704
+        "value": 0.1990742737217359
       }
     ]
   }

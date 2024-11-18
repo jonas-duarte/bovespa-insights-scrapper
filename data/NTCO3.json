@@ -2,9 +2,9 @@
   "name": "NTCO3",
   "business": "Produtos de Uso Pessoal",
   "currentState": {
-    "price": 17.25,
-    "priceToEarnings": 5.04,
-    "debtByAnnualEquity": 29.728,
+    "price": 14.38,
+    "priceToEarnings": -1.79,
+    "debtByAnnualEquity": 49.81,
     "holders": [
       {
         "name": "Antonio Luiz da Cunha Seabra",
@@ -14,9 +14,9 @@
       },
       {
         "name": "Guilherme Peirao Leal",
-        "ordinaryShares": 7.16,
+        "ordinaryShares": 7.17,
         "preferredShares": 0,
-        "totalShares": 7.16
+        "totalShares": 7.17
       },
       {
         "name": "Dynamo Administra��o de Recursos Ltda / Dynamo Internacional Gest�o de Recursos Ltda.",
@@ -25,10 +25,10 @@
         "totalShares": 5.11
       },
       {
-        "name": "BlackRock Inc",
-        "ordinaryShares": 5.05,
+        "name": "Aikya Investment Management Limited",
+        "ordinaryShares": 5.06,
         "preferredShares": 0,
-        "totalShares": 5.05
+        "totalShares": 5.06
       },
       {
         "name": "Felipe Pedroso Leal",
@@ -43,10 +43,16 @@
         "totalShares": 3.27
       },
       {
-        "name": "Norma Regina Pinotti",
-        "ordinaryShares": 2.74,
+        "name": "Fabricius Pinotti",
+        "ordinaryShares": 1.82,
         "preferredShares": 0,
-        "totalShares": 2.74
+        "totalShares": 1.82
+      },
+      {
+        "name": "Vinicius Pinotti",
+        "ordinaryShares": 1.82,
+        "preferredShares": 0,
+        "totalShares": 1.82
       },
       {
         "name": "Maria Heli Dalla Colletta de Mattos",
@@ -73,25 +79,13 @@
         "totalShares": 0.85
       },
       {
-        "name": "Fabricius Pinotti",
-        "ordinaryShares": 0.46,
-        "preferredShares": 0,
-        "totalShares": 0.46
-      },
-      {
-        "name": "Vinicius Pinotti",
-        "ordinaryShares": 0.46,
-        "preferredShares": 0,
-        "totalShares": 0.46
-      },
-      {
         "name": "Kair�s Fundo de Investimento em A��es - Investimento no Exterior",
         "ordinaryShares": 0.38,
         "preferredShares": 0,
         "totalShares": 0.38
       },
       {
-        "name": "Sirius III Multimercado Fundo de Investimento Cr�dito Privado Investimento no Exterior",
+        "name": "SIRIUS FUNDO DE INVESTIMENTO FINANCEIRO EM A��ES � RESPONSABILIDADE LIMITADA",
         "ordinaryShares": 0.36,
         "preferredShares": 0,
         "totalShares": 0.36
@@ -131,10 +125,26 @@
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
+      },
+      {
+        "name": "Norma Regina Pinotti",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
       }
     ]
   },
   "events": [
+    {
+      "date": 1712545200000,
+      "amount": 0.0324,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1710817200000,
+      "amount": 0.7079,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1650423600000,
       "amount": 0.1317,
@@ -143,10 +153,6 @@
   ],
   "history": {
     "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 155467000
-      },
       {
         "period": 1580428800000,
         "value": -650196000
@@ -158,24 +164,28 @@
       {
         "period": 1643587200000,
         "value": -2859629000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2973731000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.11122041335772524
+      },
       {
         "period": 1672444800000,
         "value": -0.07867011440531309
       },
       {
         "period": 1640908800000,
-        "value": 0.02609157641387819
+        "value": 0.026133665835411473
       },
       {
         "period": 1609372800000,
         "value": -0.017609998163695448
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.010762917030410483
       }
     ]
   }

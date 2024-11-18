@@ -2,19 +2,49 @@
   "name": "TIMS3",
   "business": "Telecomunica��es",
   "currentState": {
-    "price": 18.24,
-    "priceToEarnings": 19.26,
-    "debtByAnnualEquity": 68.205,
+    "price": 16.48,
+    "priceToEarnings": 24.9,
+    "debtByAnnualEquity": 60.216,
     "holders": [
       {
         "name": "TIM Brasil Servi�os e Participa��es S.A.",
-        "ordinaryShares": 66.6,
+        "ordinaryShares": 66.59,
         "preferredShares": 0,
-        "totalShares": 66.6
+        "totalShares": 66.59
       }
     ]
   },
   "events": [
+    {
+      "date": 1727060400000,
+      "amount": 0.1239,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718938800000,
+      "amount": 0.1241,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712631600000,
+      "amount": 0.1804,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712631600000,
+      "amount": 0.1804,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711076400000,
+      "amount": 0.0826,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.2706,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695265200000,
       "amount": 0.1756,
@@ -89,10 +119,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 3622127000
-      },
-      {
         "period": 1580428800000,
         "value": 1843690000
       },
@@ -103,9 +129,17 @@
       {
         "period": 1643587200000,
         "value": 1670755000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2837422000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.11904987573788302
+      },
       {
         "period": 1672444800000,
         "value": 0.07759836710208784
@@ -117,10 +151,6 @@
       {
         "period": 1609372800000,
         "value": 0.10677033083288143
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.20844142040423788
       }
     ]
   }

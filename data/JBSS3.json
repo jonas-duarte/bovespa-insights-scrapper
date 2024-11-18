@@ -2,15 +2,21 @@
   "name": "JBSS3",
   "business": "Carnes e Derivados",
   "currentState": {
-    "price": 24.35,
-    "priceToEarnings": 44.78,
-    "debtByAnnualEquity": 265.803,
+    "price": 35.2,
+    "priceToEarnings": 10.72,
+    "debtByAnnualEquity": 230.425,
     "holders": [
       {
-        "name": "J&F INVESTIMENTOS S.A.",
-        "ordinaryShares": 41.16,
+        "name": "JBS PARTICIPA��ES SOCIET�RIAS S.A.",
+        "ordinaryShares": 24.79,
         "preferredShares": 0,
-        "totalShares": 41.16
+        "totalShares": 24.79
+      },
+      {
+        "name": "J&F INVESTIMENTOS S.A.",
+        "ordinaryShares": 23.69,
+        "preferredShares": 0,
+        "totalShares": 23.69
       },
       {
         "name": "BNDES Participa��es S.A. - BNDESPAR",
@@ -19,14 +25,19 @@
         "totalShares": 20.81
       },
       {
-        "name": "Fundo de Investimento em Participa��es Multiestrategia Formosa",
-        "ordinaryShares": 7.68,
+        "name": "Capital Research and Management Company",
+        "ordinaryShares": 5.07,
         "preferredShares": 0,
-        "totalShares": 7.68
+        "totalShares": 5.07
       }
     ]
   },
   "events": [
+    {
+      "date": 1724036400000,
+      "amount": 2,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1687402800000,
       "amount": 1,
@@ -116,38 +127,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 6068368000
-      },
-      {
         "period": 1580428800000,
-        "value": 4598311000
+        "value": 4598300000
       },
       {
         "period": 1612051200000,
-        "value": 20486561000
+        "value": 20486600000
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 15457800000
+      },
+      {
+        "period": 1675123200000,
+        "value": -1061000000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.002916305335244553
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.04123711890252036
       },
       {
         "period": 1640908800000,
-        "value": 0.058416938445365725
+        "value": 0.058417043156515226
       },
       {
         "period": 1609372800000,
-        "value": 0.01701791014271828
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.029670750670185576
+        "value": 0.01701787018854629
       }
     ]
   }

@@ -2,61 +2,66 @@
   "name": "CAMB3",
   "business": "Cal�ados",
   "currentState": {
-    "price": 9.14,
-    "priceToEarnings": 5.03,
-    "debtByAnnualEquity": 13.002,
+    "price": 11.59,
+    "priceToEarnings": 6.57,
+    "debtByAnnualEquity": 1.256,
     "holders": [
       {
         "name": "ROBERTO ESTEFANO",
-        "ordinaryShares": 25.97,
+        "ordinaryShares": 26.68,
         "preferredShares": 0,
-        "totalShares": 25.97
+        "totalShares": 26.68
       },
       {
         "name": "Eduardo Estefano Filho",
-        "ordinaryShares": 21.12,
+        "ordinaryShares": 21.45,
         "preferredShares": 0,
-        "totalShares": 21.12
-      },
-      {
-        "name": "RIVALE REPRESENTA��ES",
-        "ordinaryShares": 9.17,
-        "preferredShares": 0,
-        "totalShares": 9.17
+        "totalShares": 21.45
       },
       {
         "name": "SUELI VIZINTAS ESTEFANO",
         "ordinaryShares": 3.85,
         "preferredShares": 0,
         "totalShares": 3.85
-      },
-      {
-        "name": "BRZ Small Cap Fi de a��es",
-        "ordinaryShares": 2.04,
-        "preferredShares": 0,
-        "totalShares": 2.04
-      },
-      {
-        "name": "MARIA APARECIDA C ESTEFANO",
-        "ordinaryShares": 1.92,
-        "preferredShares": 0,
-        "totalShares": 1.92
-      },
-      {
-        "name": "MARA ELIANA CARLETTI ESTEFANO",
-        "ordinaryShares": 1.9,
-        "preferredShares": 0,
-        "totalShares": 1.9
-      },
-      {
-        "name": "Juliana Vizintas Estefano",
-        "ordinaryShares": 1.84,
-        "preferredShares": 0,
-        "totalShares": 1.84
       }
     ]
   },
   "events": [
+    {
+      "date": 1731380400000,
+      "amount": 0.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1731380400000,
+      "amount": 0.0854,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1723431600000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1723431600000,
+      "amount": 0.0836,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718074800000,
+      "amount": 0.0271,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1716433200000,
+      "amount": 0.1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712026800000,
+      "amount": 0.0203,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701658800000,
       "amount": 0.0809,
@@ -100,23 +105,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.1255937729902544
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.11446992478071454
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.14063987629313926
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0919367164613621
-      }
-    ]
+    "netMargin": []
   }
 }

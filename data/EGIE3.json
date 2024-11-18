@@ -2,9 +2,9 @@
   "name": "EGIE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 44.33,
-    "priceToEarnings": 10.73,
-    "debtByAnnualEquity": 200.85,
+    "price": 39.42,
+    "priceToEarnings": 7.73,
+    "debtByAnnualEquity": 201.501,
     "holders": [
       {
         "name": "ENGIE Brasil Participa��es Ltda.",
@@ -21,6 +21,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1724209200000,
+      "amount": 1.1433,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714964400000,
+      "amount": 1.2188,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.1777,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1692586800000,
       "amount": 0.9403,
@@ -380,12 +395,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 2309925000
-      },
-      {
         "period": 1580428800000,
-        "value": 2797091000
+        "value": 2797268000
       },
       {
         "period": 1612051200000,
@@ -394,9 +405,17 @@
       {
         "period": 1643587200000,
         "value": 2663079000
+      },
+      {
+        "period": 1675123200000,
+        "value": 3429060000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.3190480940070995
+      },
       {
         "period": 1672444800000,
         "value": 0.22366400833822908
@@ -407,11 +426,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.22816336748711719
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.2355989783443851
+        "value": 0.2281778056716615
       }
     ]
   }

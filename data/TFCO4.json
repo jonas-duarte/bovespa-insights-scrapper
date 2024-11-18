@@ -2,9 +2,9 @@
   "name": "TFCO4",
   "business": "Vestu�rio",
   "currentState": {
-    "price": 14.59,
-    "priceToEarnings": 20.48,
-    "debtByAnnualEquity": 25.738,
+    "price": 9.3,
+    "priceToEarnings": 13.21,
+    "debtByAnnualEquity": 26.219,
     "holders": [
       {
         "name": "Alberto Dominguez Von Ihering Azevedo",
@@ -15,7 +15,7 @@
       {
         "name": "Frederico Wagner",
         "ordinaryShares": 33.33,
-        "preferredShares": 6.55,
+        "preferredShares": 6.58,
         "totalShares": 31.3
       },
       {
@@ -27,8 +27,8 @@
       {
         "name": "BC Gest�o de Recursos Ltda",
         "ordinaryShares": 0,
-        "preferredShares": 22.41,
-        "totalShares": 1.7
+        "preferredShares": 25.34,
+        "totalShares": 1.92
       },
       {
         "name": "Compass Group L.L.C.",
@@ -39,6 +39,31 @@
     ]
   },
   "events": [
+    {
+      "date": 1727319600000,
+      "amount": 0.0442,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719457200000,
+      "amount": 0.0439,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 0.0463,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711508400000,
+      "amount": 0.0401,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703646000000,
+      "amount": 0.0323,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695610800000,
       "amount": 0.0376,
@@ -93,10 +118,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 23443000
-      },
-      {
         "period": 1580428800000,
         "value": 25831000
       },
@@ -107,9 +128,17 @@
       {
         "period": 1643587200000,
         "value": 96460000
+      },
+      {
+        "period": 1675123200000,
+        "value": 114410000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.16734192397139055
+      },
       {
         "period": 1672444800000,
         "value": 0.16999573512669494
@@ -121,10 +150,6 @@
       {
         "period": 1609372800000,
         "value": 0.09662950770612
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.10748147740610328
       }
     ]
   }

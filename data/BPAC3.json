@@ -2,8 +2,8 @@
   "name": "BPAC3",
   "business": "Bancos",
   "currentState": {
-    "price": 17.5,
-    "priceToEarnings": 22.77,
+    "price": 16.7,
+    "priceToEarnings": 16.87,
     "holders": [
       {
         "name": "BTG Pactual Holding Financeira Ltda",
@@ -12,10 +12,16 @@
         "totalShares": 62.66
       },
       {
+        "name": "Government of Singapore",
+        "ordinaryShares": 3.99,
+        "preferredShares": 3.39,
+        "totalShares": 3.77
+      },
+      {
         "name": "Ve�culos de investimento vinculados a integrantes do Partnership",
-        "ordinaryShares": 1.89,
-        "preferredShares": 6.42,
-        "totalShares": 3.57
+        "ordinaryShares": 1.92,
+        "preferredShares": 6.52,
+        "totalShares": 3.62
       },
       {
         "name": "BTG Pactual Holding S.A.",
@@ -26,6 +32,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1719975600000,
+      "amount": 0.1356,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1704250800000,
+      "amount": 0.0494,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701658800000,
       "amount": 0.077,
@@ -195,38 +211,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 3828312000
-      },
-      {
         "period": 1580428800000,
-        "value": 3976382000
+        "value": 0
       },
       {
         "period": 1612051200000,
-        "value": 6342154000
+        "value": 6342000000
       },
       {
         "period": 1643587200000,
-        "value": 7841837000
+        "value": 7842000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 9924566000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.4603444501136416
+      },
+      {
         "period": 1672444800000,
-        "value": 0.2943709967743521
+        "value": 0.45468513547205036
       },
       {
         "period": 1640908800000,
-        "value": 0.376116438836691
+        "value": 0.45623929902306376
       },
       {
         "period": 1609372800000,
-        "value": 0.4146169723252032
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.5533367039603712
+        "value": 0
       }
     ]
   }

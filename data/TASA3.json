@@ -2,27 +2,27 @@
   "name": "TASA3",
   "business": "Armas e Muni��es",
   "currentState": {
-    "price": 14.6,
-    "priceToEarnings": 7.99,
-    "debtByAnnualEquity": 48.876,
+    "price": 9.49,
+    "priceToEarnings": 15.29,
+    "debtByAnnualEquity": 51.887,
     "holders": [
       {
         "name": "BYK Participa��es S.A.",
-        "ordinaryShares": 69.68,
+        "ordinaryShares": 50.57,
         "preferredShares": 5.24,
-        "totalShares": 28.88
+        "totalShares": 21.87
       },
       {
         "name": "Gibraltar Incorpora��es e Participa��es Ltda",
-        "ordinaryShares": 11.66,
+        "ordinaryShares": 30.77,
         "preferredShares": 8.51,
-        "totalShares": 9.67
+        "totalShares": 16.68
       },
       {
         "name": "Luiz Barsi Filho",
-        "ordinaryShares": 2.93,
-        "preferredShares": 7.73,
-        "totalShares": 5.97
+        "ordinaryShares": 3.44,
+        "preferredShares": 10,
+        "totalShares": 7.6
       },
       {
         "name": "CBC Brasil Com�rcio e Distribui��o Ltda",
@@ -33,6 +33,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.3035,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1692586800000,
       "amount": 0.1,
@@ -180,23 +185,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1548892800000,
+        "value": 0
+      },
+      {
+        "period": 1580428800000,
+        "value": 263603000
+      },
+      {
+        "period": 1612051200000,
+        "value": 635060000
+      },
+      {
+        "period": 1643587200000,
+        "value": 0
+      }
+    ],
     "netMargin": [
       {
         "period": 1672444800000,
-        "value": 0.20471641769890878
+        "value": 0
       },
       {
         "period": 1640908800000,
-        "value": 0.23173448000046706
+        "value": null
       },
       {
         "period": 1609372800000,
-        "value": 0.14177234932825628
+        "value": null
       },
       {
         "period": 1577750400000,
-        "value": 0.04344420312110774
+        "value": 0
       }
     ]
   }

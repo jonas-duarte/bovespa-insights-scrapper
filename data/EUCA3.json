@@ -2,73 +2,83 @@
   "name": "EUCA3",
   "business": "Madeira",
   "currentState": {
-    "price": 17.2,
-    "priceToEarnings": 5.8,
-    "debtByAnnualEquity": 46.24,
+    "price": 16,
+    "priceToEarnings": 3.76,
+    "debtByAnnualEquity": 46.516,
     "holders": [
       {
         "name": "IFF Holding S.A.",
         "ordinaryShares": 39.97,
-        "preferredShares": 4.99,
-        "totalShares": 13.43
+        "preferredShares": 8,
+        "totalShares": 18.79
       },
       {
-        "name": "Pasama Participa��es SC Ltda",
+        "name": "APOLLO PARTICIPA��ES S.A.",
         "ordinaryShares": 34.34,
         "preferredShares": 0,
-        "totalShares": 8.29
+        "totalShares": 11.59
       },
       {
         "name": "Brascorp Participa��es Ltda",
         "ordinaryShares": 11.77,
         "preferredShares": 0,
-        "totalShares": 2.84
+        "totalShares": 3.97
       },
       {
         "name": "Flavio Maluf",
         "ordinaryShares": 6.5,
-        "preferredShares": 0.09,
-        "totalShares": 1.64
+        "preferredShares": 0.14,
+        "totalShares": 2.29
       },
       {
         "name": "Otavio Maluf",
         "ordinaryShares": 4.55,
-        "preferredShares": 0.04,
-        "totalShares": 1.13
+        "preferredShares": 0.07,
+        "totalShares": 1.58
       },
       {
         "name": "Paulo Salim Maluf",
         "ordinaryShares": 0.97,
-        "preferredShares": 0.08,
-        "totalShares": 0.29
+        "preferredShares": 0.13,
+        "totalShares": 0.41
       },
       {
         "name": "Economico Agro Pastoril Industrial S/A",
         "ordinaryShares": 0,
-        "preferredShares": 31.44,
-        "totalShares": 23.85
+        "preferredShares": 50.34,
+        "totalShares": 33.35
       },
       {
         "name": "Grandfood Ind. e Com�rcio Ltda",
         "ordinaryShares": 0,
-        "preferredShares": 0.5,
-        "totalShares": 0.38
+        "preferredShares": 0.8,
+        "totalShares": 0.53
       },
       {
         "name": "Grandfood Ind. e Comercio Ltda",
         "ordinaryShares": 0,
-        "preferredShares": 4.12,
-        "totalShares": 3.13
+        "preferredShares": 6.6,
+        "totalShares": 4.37
       },
       {
         "name": "UBS Ag Zurich",
         "ordinaryShares": 0,
-        "preferredShares": 6.13,
-        "totalShares": 4.65
+        "preferredShares": 9.82,
+        "totalShares": 6.51
       }
     ]
   },
   "events": [
+    {
+      "date": 1703559600000,
+      "amount": 0.2456,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702609200000,
+      "amount": 0.5909,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1672628400000,
       "amount": 0.7183,
@@ -151,23 +161,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1327968000000,
+        "value": 88400000
+      },
+      {
+        "period": 1359590400000,
+        "value": 88862000
+      },
+      {
+        "period": 1391126400000,
+        "value": 27382000
+      },
+      {
+        "period": 1485820800000,
+        "value": 41900000
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.10256439873865184
+        "period": 1514678400000,
+        "value": 0.03477178423236515
       },
       {
-        "period": 1640908800000,
-        "value": 0.17472204859969978
+        "period": 1419984000000,
+        "value": 0.024565162003394734
       },
       {
-        "period": 1609372800000,
-        "value": 0.08020460727974678
+        "period": 1388448000000,
+        "value": 0.07946168291156219
       },
       {
-        "period": 1577750400000,
-        "value": 0.0430488012688592
+        "period": 1356912000000,
+        "value": 0.09174883238194084
       }
     ]
   }

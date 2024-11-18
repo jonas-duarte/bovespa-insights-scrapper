@@ -2,8 +2,8 @@
   "name": "MAPT3",
   "business": "Outros",
   "currentState": {
-    "price": 30.05,
-    "priceToEarnings": -189.15,
+    "price": 4.21,
+    "priceToEarnings": -22.11,
     "holders": [
       {
         "name": "CEMISA PARTICIPA��ES LTDA",
@@ -28,23 +28,6 @@
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": null
-      },
-      {
-        "period": 1609372800000,
-        "value": null
-      },
-      {
-        "period": 1577750400000,
-        "value": null
-      }
-    ]
+    "netMargin": []
   }
 }

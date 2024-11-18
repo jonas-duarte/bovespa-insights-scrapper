@@ -2,45 +2,39 @@
   "name": "SEQL3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 0.45,
-    "priceToEarnings": -0.29,
-    "debtByAnnualEquity": 801.323,
+    "price": 3.37,
+    "priceToEarnings": -0.09,
+    "debtByAnnualEquity": 92.169,
     "holders": [
       {
         "name": "JGB III FUNDO DE INVESTIMENTO MULTIMERCADO",
-        "ordinaryShares": 27.41,
+        "ordinaryShares": 19.79,
         "preferredShares": 0,
-        "totalShares": 27.41
+        "totalShares": 19.79
       },
       {
-        "name": "NEWFOUNDLAND MALIBU GESTORA DE RECURSOS LTDA",
-        "ordinaryShares": 5.45,
+        "name": "NEWFOUNDLAND CAPITAL MANAGEMENT US, LLC",
+        "ordinaryShares": 8.48,
         "preferredShares": 0,
-        "totalShares": 5.45
+        "totalShares": 8.48
       },
       {
-        "name": "Fourth Sail Capital LP (geridos pela Tordesilhas Capital Gestora de Recursos Ltda)",
-        "ordinaryShares": 3.24,
+        "name": "Victor Adler",
+        "ordinaryShares": 4.93,
         "preferredShares": 0,
-        "totalShares": 3.24
+        "totalShares": 4.93
       },
       {
-        "name": "Fram Capital Sherman FIA Investimento no Exterior",
-        "ordinaryShares": 2.78,
+        "name": "Fram Capital Sherman FIP Multiestrat�gia",
+        "ordinaryShares": 2.09,
         "preferredShares": 0,
-        "totalShares": 2.78
-      },
-      {
-        "name": "Fram Capital Sherman II FIP Multiestrat�gia",
-        "ordinaryShares": 0.97,
-        "preferredShares": 0,
-        "totalShares": 0.97
+        "totalShares": 2.09
       },
       {
         "name": "Armando Marchesan Neto",
-        "ordinaryShares": 0.08,
+        "ordinaryShares": 0.71,
         "preferredShares": 0,
-        "totalShares": 0.08
+        "totalShares": 0.71
       }
     ]
   },
@@ -48,38 +42,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -7146000
-      },
-      {
         "period": 1580428800000,
         "value": 7028000
       },
       {
         "period": 1612051200000,
-        "value": -17861000
+        "value": -17862000
       },
       {
         "period": 1643587200000,
         "value": -106872000
+      },
+      {
+        "period": 1675123200000,
+        "value": -822222000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -1.1040375110273235
+      },
       {
         "period": 1672444800000,
         "value": -0.05923108002281188
       },
       {
         "period": 1640908800000,
-        "value": -0.01174789868432217
+        "value": -0.011748556424576596
       },
       {
         "period": 1609372800000,
         "value": 0.007041315126904977
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.013553008650331997
       }
     ]
   }

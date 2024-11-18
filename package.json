@@ -1,5 +1,5 @@
 {
-  "name": "mongodb-fundamentus-scrapper",
+  "name": "bovespa-insights-scrapper",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,10 +10,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.24.0",
+    "axios": "^1.7.7",
     "cheerio": "^1.0.0-rc.10",
     "dotenv": "^11.0.0",
-    "mongodb": "^4.3.0",
-    "yahoo-finance2": "^2.4.1"
+    "yahoo-finance2": "^2.13.2"
   }
 }

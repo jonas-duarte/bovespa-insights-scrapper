@@ -2,9 +2,9 @@
   "name": "ESPA3",
   "business": "Produtos Diversos",
   "currentState": {
-    "price": 1.3,
-    "priceToEarnings": -23.29,
-    "debtByAnnualEquity": 103.697,
+    "price": 0.96,
+    "priceToEarnings": -16.53,
+    "debtByAnnualEquity": 98.779,
     "holders": [
       {
         "name": "Ygor Alessandro de Moura",
@@ -26,15 +26,21 @@
       },
       {
         "name": "FOURTH SAIL LP",
-        "ordinaryShares": 7.93,
+        "ordinaryShares": 8.64,
         "preferredShares": 0,
-        "totalShares": 7.93
+        "totalShares": 8.64
       },
       {
         "name": "Neo Future Master Fundo De Investimento Em A��es",
-        "ordinaryShares": 7.28,
+        "ordinaryShares": 5.86,
         "preferredShares": 0,
-        "totalShares": 7.28
+        "totalShares": 5.86
+      },
+      {
+        "name": "Una Capital Ltda.",
+        "ordinaryShares": 5.01,
+        "preferredShares": 0,
+        "totalShares": 5.01
       },
       {
         "name": "SMZXP Participa��es Ltda.",
@@ -70,38 +76,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 51033000
-      },
-      {
         "period": 1580428800000,
-        "value": 62096000
+        "value": 0
       },
       {
         "period": 1612051200000,
-        "value": 0
+        "value": 179142000
       },
       {
         "period": 1643587200000,
         "value": -50198000
+      },
+      {
+        "period": 1675123200000,
+        "value": -25515000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.025351558502335444
+      },
+      {
         "period": 1672444800000,
-        "value": -0.055374704224419896
+        "value": -0.053891681992053346
       },
       {
         "period": 1640908800000,
-        "value": 0
+        "value": 0.21350804072744956
       },
       {
         "period": 1609372800000,
-        "value": 0.11897859588548962
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.07880388205591457
+        "value": 0
       }
     ]
   }

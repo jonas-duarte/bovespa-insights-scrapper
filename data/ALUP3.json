@@ -2,9 +2,9 @@
   "name": "ALUP3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 10.49,
-    "priceToEarnings": 12.88,
-    "debtByAnnualEquity": 106.98,
+    "price": 9.85,
+    "priceToEarnings": 9.39,
+    "debtByAnnualEquity": 110.807,
     "holders": [
       {
         "name": "Guarupart Participa��es Ltda.",
@@ -19,20 +19,40 @@
         "totalShares": 8.4
       },
       {
+        "name": "Sharp Capital Gestora de Recursos Ltda.",
+        "ordinaryShares": 2.46,
+        "preferredShares": 9.67,
+        "totalShares": 4.77
+      },
+      {
         "name": "CIME Administra��o e Participa��es S.A.",
         "ordinaryShares": 1.83,
         "preferredShares": 0,
         "totalShares": 1.24
-      },
-      {
-        "name": "Sharp Capital Gestora de Recursos Ltda.",
-        "ordinaryShares": 1.8,
-        "preferredShares": 7.63,
-        "totalShares": 3.67
       }
     ]
   },
   "events": [
+    {
+      "date": 1731553200000,
+      "amount": 0.08,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1723777200000,
+      "amount": 0.06,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715828400000,
+      "amount": 0.07,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1713495600000,
+      "amount": 0.26,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700103600000,
       "amount": 0.04,
@@ -140,23 +160,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 222420000
+      },
+      {
+        "period": 1612051200000,
+        "value": 369450000
+      },
+      {
+        "period": 1643587200000,
+        "value": 522925000
+      },
+      {
+        "period": 1675123200000,
+        "value": 694063000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.2095992578323062
+      },
+      {
         "period": 1672444800000,
-        "value": 0.23957641009696096
+        "value": 0.17835886311466742
       },
       {
         "period": 1640908800000,
-        "value": 0.21309833311935636
+        "value": 0.14559101004576
       },
       {
         "period": 1609372800000,
-        "value": 0.15341591289004836
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.19387299794712615
+        "value": 0.1173459616623431
       }
     ]
   }

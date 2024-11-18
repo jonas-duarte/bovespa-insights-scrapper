@@ -2,9 +2,9 @@
   "name": "SHUL4",
   "business": "Motores, Compressores e Outros",
   "currentState": {
-    "price": 6.91,
-    "priceToEarnings": 7.98,
-    "debtByAnnualEquity": 57.195,
+    "price": 5.82,
+    "priceToEarnings": 7.65,
+    "debtByAnnualEquity": 57.037,
     "holders": [
       {
         "name": "WALDIR CARLOS SCHULZ",
@@ -27,44 +27,86 @@
       {
         "name": "OVANDI ROSENSTOCK",
         "ordinaryShares": 18.31,
-        "preferredShares": 4.18,
-        "totalShares": 10.22
+        "preferredShares": 4.2,
+        "totalShares": 10.23
       },
       {
         "name": "DORIANE BRAATZ",
         "ordinaryShares": 18.29,
-        "preferredShares": 0.67,
-        "totalShares": 8.2
+        "preferredShares": 0.46,
+        "totalShares": 8.08
       },
       {
         "name": "ALEXANDRE EDUARDO ROSENSTOCK",
         "ordinaryShares": 0,
-        "preferredShares": 0.69,
-        "totalShares": 0.4
+        "preferredShares": 0.39,
+        "totalShares": 0.22
       },
       {
         "name": "Clube de Investimentos Sol",
         "ordinaryShares": 0,
-        "preferredShares": 13.17,
-        "totalShares": 7.54
-      },
-      {
-        "name": "HELGA DE LOYOLA",
-        "ordinaryShares": 0,
-        "preferredShares": 1,
-        "totalShares": 0.57
+        "preferredShares": 11.65,
+        "totalShares": 6.67
       },
       {
         "name": "NORD AT MASTER FUNDO DE INVESTIMENTO EM ACOES",
         "ordinaryShares": 0,
-        "preferredShares": 1.27,
-        "totalShares": 0.73
+        "preferredShares": 1.11,
+        "totalShares": 0.64
+      },
+      {
+        "name": "RATIONAL INVESTOR FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 0,
+        "preferredShares": 0.22,
+        "totalShares": 0.13
+      },
+      {
+        "name": "REAL INVESTOR 100 ICATU PREV MASTER FIA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.21,
+        "totalShares": 0.12
+      },
+      {
+        "name": "REAL INVESTOR 100 PREV MASTER FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 0,
+        "preferredShares": 0.35,
+        "totalShares": 0.2
+      },
+      {
+        "name": "REAL INVESTOR 70 PREVIDENCIA FIM",
+        "ordinaryShares": 0,
+        "preferredShares": 0.25,
+        "totalShares": 0.14
+      },
+      {
+        "name": "REAL INVESTOR ALOCACAO FUNDO DE INVESTIMENTO MULTIMERCADO",
+        "ordinaryShares": 0,
+        "preferredShares": 0.01,
+        "totalShares": 0.01
+      },
+      {
+        "name": "REAL INVESTOR ICATU PREV MASTER FIM",
+        "ordinaryShares": 0,
+        "preferredShares": 0.16,
+        "totalShares": 0.09
+      },
+      {
+        "name": "REAL INVESTOR INSTITUCIONAL MASTER FI EM A��ES - BDR NIVEL I",
+        "ordinaryShares": 0,
+        "preferredShares": 0.41,
+        "totalShares": 0.24
       },
       {
         "name": "REAL INVESTOR MASTER FIA - BDR NIVEL I",
         "ordinaryShares": 0,
-        "preferredShares": 2.32,
-        "totalShares": 1.33
+        "preferredShares": 3.14,
+        "totalShares": 1.8
+      },
+      {
+        "name": "REAL INVESTOR MASTER FUNDO DE INVESTIMENTO MULTIMERCADO",
+        "ordinaryShares": 0,
+        "preferredShares": 1.51,
+        "totalShares": 0.86
       },
       {
         "name": "S�RGIO EDUARDO FERREIRA RODARTE",
@@ -75,30 +117,44 @@
       {
         "name": "TRIGONO FLAGSHIP SMALL CAPS MASTER FIA",
         "ordinaryShares": 0,
-        "preferredShares": 10.7,
-        "totalShares": 6.13
+        "preferredShares": 9.75,
+        "totalShares": 5.58
       },
       {
         "name": "TRIGONO ICATU 100 FUNDO DE INVESTIMENTO EM A��ES PREVID�NCIA",
-        "ordinaryShares": 0,
-        "preferredShares": 2.61,
-        "totalShares": 1.5
-      },
-      {
-        "name": "TRIGONO VERBIER MASTER FUNDO DE INVESTIMENTO EM A��ES",
         "ordinaryShares": 0,
         "preferredShares": 2.44,
         "totalShares": 1.4
       },
       {
-        "name": "WERNER MUELLER ROGER",
+        "name": "TRIGONO VERBIER MASTER FUNDO DE INVESTIMENTO EM A��ES",
         "ordinaryShares": 0,
-        "preferredShares": 0.77,
-        "totalShares": 0.44
+        "preferredShares": 2.2,
+        "totalShares": 1.26
       }
     ]
   },
   "events": [
+    {
+      "date": 1727319600000,
+      "amount": 0.1311,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719370800000,
+      "amount": 0.1107,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711422000000,
+      "amount": 0.1335,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703646000000,
+      "amount": 0.062,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695956400000,
       "amount": 0.0634,
@@ -341,41 +397,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 97153000
-      },
-      {
-        "period": 1580428800000,
-        "value": 141819000
-      },
-      {
-        "period": 1612051200000,
-        "value": 192716000
-      },
-      {
-        "period": 1643587200000,
-        "value": 269981000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.1289900135592378
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.11298551302420749
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.13491396819386955
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.09161885470066125
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

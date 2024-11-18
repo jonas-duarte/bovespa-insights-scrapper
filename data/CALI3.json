@@ -2,9 +2,9 @@
   "name": "CALI3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 20,
-    "priceToEarnings": 5.29,
-    "debtByAnnualEquity": 283.274,
+    "price": 25,
+    "priceToEarnings": -567.23,
+    "debtByAnnualEquity": 417.483,
     "holders": [
       {
         "name": "Lindenberg Investimentos Ltda.",
@@ -17,10 +17,27 @@
         "ordinaryShares": 6.09,
         "preferredShares": 0,
         "totalShares": 6.09
+      },
+      {
+        "name": "JOSE OSWALDO MORALES JUNIOR",
+        "ordinaryShares": 3.11,
+        "preferredShares": 0,
+        "totalShares": 3.11
+      },
+      {
+        "name": "Helenice Honorio Morales",
+        "ordinaryShares": 1.12,
+        "preferredShares": 0,
+        "totalShares": 1.12
       }
     ]
   },
   "events": [
+    {
+      "date": 1713150000000,
+      "amount": 0.6178,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682305200000,
       "amount": 0.4468,
@@ -74,23 +91,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.046919091378281826
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.10228346780269304
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.06468257931355904
-      },
-      {
-        "period": 1577750400000,
-        "value": -6.051521099116782
-      }
-    ]
+    "netMargin": []
   }
 }

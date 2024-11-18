@@ -2,44 +2,44 @@
   "name": "RSID3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 4.22,
-    "priceToEarnings": -0.16,
+    "price": 3.2,
+    "priceToEarnings": 0.23,
     "holders": [
       {
         "name": "Lagro do Brasil Participa��es Ltda.",
-        "ordinaryShares": 22.8,
+        "ordinaryShares": 22.78,
         "preferredShares": 0,
-        "totalShares": 22.8
+        "totalShares": 22.78
       },
       {
         "name": "Aperoama Participa��es Ltda.",
-        "ordinaryShares": 12.33,
+        "ordinaryShares": 12.32,
         "preferredShares": 0,
-        "totalShares": 12.33
-      },
-      {
-        "name": "EWZ INVESTMENTS LLC - SOCOPA SOC CORRETORA PAULISTA S.A.",
-        "ordinaryShares": 7.98,
-        "preferredShares": 0,
-        "totalShares": 7.98
+        "totalShares": 12.32
       },
       {
         "name": "LAB Fundo de Investimento em A��es - Investimento no Exterior",
-        "ordinaryShares": 6.6,
+        "ordinaryShares": 8.28,
         "preferredShares": 0,
-        "totalShares": 6.6
+        "totalShares": 8.28
       },
       {
-        "name": "EWZ BRASIL FIA",
-        "ordinaryShares": 4.72,
+        "name": "MARCELO ZELADA",
+        "ordinaryShares": 7.62,
         "preferredShares": 0,
-        "totalShares": 4.72
+        "totalShares": 7.62
+      },
+      {
+        "name": "XMZ FUNDO DE INVESTIMENTO FINANCEIRO - MULTIMERCADO CR�DITO PRIVADO RESPONSABILIDADE LIMITADA",
+        "ordinaryShares": 5.32,
+        "preferredShares": 0,
+        "totalShares": 5.32
       },
       {
         "name": "RCR Servi�os de Economia EIRELI",
-        "ordinaryShares": 3.69,
+        "ordinaryShares": 3.83,
         "preferredShares": 0,
-        "totalShares": 3.69
+        "totalShares": 3.83
       },
       {
         "name": "X LAB Fundo de Investimento em A��es - Investimento no Exterior",
@@ -64,12 +64,6 @@
         "ordinaryShares": 0.25,
         "preferredShares": 0,
         "totalShares": 0.25
-      },
-      {
-        "name": "Renata Rossi Cuppoloni Rodrigues",
-        "ordinaryShares": 0.15,
-        "preferredShares": 0,
-        "totalShares": 0.15
       }
     ]
   },
@@ -143,38 +137,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -311109000
+        "period": 1391126400000,
+        "value": -619429000
       },
       {
-        "period": 1580428800000,
-        "value": 14944000
+        "period": 1422662400000,
+        "value": -558066000
       },
       {
-        "period": 1612051200000,
-        "value": -190684000
+        "period": 1454198400000,
+        "value": -514373000
       },
       {
-        "period": 1643587200000,
-        "value": -426506000
+        "period": 1485820800000,
+        "value": -338891000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 11.402989065048258
+        "period": 1514678400000,
+        "value": -1.0394536665562466
       },
       {
-        "period": 1640908800000,
-        "value": -3.2093038912077554
+        "period": 1483142400000,
+        "value": -0.9560800889216026
       },
       {
-        "period": 1609372800000,
-        "value": 0.14270299175905501
+        "period": 1451520000000,
+        "value": -0.45514015109192174
       },
       {
-        "period": 1577750400000,
-        "value": -5.117850268963135
+        "period": 1419984000000,
+        "value": -0.383063261846793
       }
     ]
   }

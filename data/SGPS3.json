@@ -2,9 +2,8 @@
   "name": "SGPS3",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 1.33,
-    "priceToEarnings": -0.09,
-    "debtByAnnualEquity": 803.825,
+    "price": 1.64,
+    "priceToEarnings": -0.02,
     "holders": [
       {
         "name": "COMPANHIA DE TECIDOS NORTE DE MINAS COTEMINAS",
@@ -30,38 +29,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 45724000
+        "period": 1201737600000,
+        "value": 0
       },
       {
-        "period": 1580428800000,
-        "value": -320940000
+        "period": 1233360000000,
+        "value": 0
       },
       {
-        "period": 1612051200000,
-        "value": -153576000
+        "period": 1485820800000,
+        "value": 0
       },
       {
-        "period": 1643587200000,
-        "value": -630785000
+        "period": 1517356800000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -0.5181219685488873
+        "period": 1546214400000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": -0.08925085559965201
+        "period": 1514678400000,
+        "value": 0
       },
       {
-        "period": 1609372800000,
-        "value": -0.2090706732357097
+        "period": 1262217600000,
+        "value": 0
       },
       {
-        "period": 1577750400000,
-        "value": 0.032143025355760246
+        "period": 1230681600000,
+        "value": 0
       }
     ]
   }

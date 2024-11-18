@@ -2,19 +2,30 @@
   "name": "NGRD3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 1.29,
-    "priceToEarnings": 33.23,
-    "debtByAnnualEquity": 10.723,
+    "price": 27.46,
+    "priceToEarnings": -20.89,
+    "debtByAnnualEquity": 3.956,
     "holders": [
       {
-        "name": "ZAPHIRA FUNDO DE INVESTIM. EM PARTICIP. MULTIESTRAT�GIA",
-        "ordinaryShares": 50.94,
+        "name": "YAFO - FUNDO DE INVESTIMENTO EM A��ES",
+        "ordinaryShares": 54.14,
         "preferredShares": 0,
-        "totalShares": 50.94
+        "totalShares": 54.14
+      },
+      {
+        "name": "L4 VENTURE BUILDER GEST�O DE CAPITAL LTDA.",
+        "ordinaryShares": 6.16,
+        "preferredShares": 0,
+        "totalShares": 6.16
       }
     ]
   },
   "events": [
+    {
+      "date": 1713495600000,
+      "amount": 0.0054,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.0148,
@@ -34,38 +45,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 8654000
-      },
-      {
         "period": 1580428800000,
-        "value": 12359000
+        "value": 0
       },
       {
         "period": 1612051200000,
-        "value": 14610000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": 14231000
+        "value": 0
+      },
+      {
+        "period": 1675123200000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0
+      },
+      {
         "period": 1672444800000,
-        "value": 0.05355093378288372
+        "value": 0
       },
       {
         "period": 1640908800000,
-        "value": 0.059486001856647285
+        "value": 0
       },
       {
         "period": 1609372800000,
-        "value": 0.058137839223637106
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.041786778304096106
+        "value": 0
       }
     ]
   }

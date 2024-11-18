@@ -2,9 +2,9 @@
   "name": "MDIA3",
   "business": "Alimentos Diversos",
   "currentState": {
-    "price": 38,
-    "priceToEarnings": 22.91,
-    "debtByAnnualEquity": 35.62,
+    "price": 25.4,
+    "priceToEarnings": 10.61,
+    "debtByAnnualEquity": 31.749,
     "holders": [
       {
         "name": "DIBRA FUNDO DE INVESTIMENTO EM A��ES.",
@@ -21,6 +21,31 @@
     ]
   },
   "events": [
+    {
+      "date": 1726455600000,
+      "amount": 0.06,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718334000000,
+      "amount": 0.06,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1710385200000,
+      "amount": 0.06,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703559600000,
+      "amount": 0.4204,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702522800000,
+      "amount": 0.06,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1694746800000,
       "amount": 0.05,
@@ -175,38 +200,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 556884000
-      },
-      {
         "period": 1580428800000,
-        "value": 763844000
+        "value": 763800000
       },
       {
         "period": 1612051200000,
-        "value": 504986000
+        "value": 505000000
       },
       {
         "period": 1643587200000,
         "value": 481839000
+      },
+      {
+        "period": 1675123200000,
+        "value": 888700000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.08198112598359825
+      },
+      {
         "period": 1672444800000,
-        "value": 0.0475692811035022
+        "value": 0.04756930458476484
       },
       {
         "period": 1640908800000,
-        "value": 0.06462541940500478
+        "value": 0.06462759150243154
       },
       {
         "period": 1609372800000,
-        "value": 0.10532112682426145
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.09123849369094476
+        "value": 0.10531540847983455
       }
     ]
   }

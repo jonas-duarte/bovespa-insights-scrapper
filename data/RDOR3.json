@@ -2,15 +2,15 @@
   "name": "RDOR3",
   "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
   "currentState": {
-    "price": 28.28,
-    "priceToEarnings": 38.55,
-    "debtByAnnualEquity": 164.082,
+    "price": 29.5,
+    "priceToEarnings": 18.3,
+    "debtByAnnualEquity": 163.078,
     "holders": [
       {
         "name": "PACIFIC MEZZ PTE LIMITED",
-        "ordinaryShares": 18.99,
+        "ordinaryShares": 18.5,
         "preferredShares": 0,
-        "totalShares": 18.99
+        "totalShares": 18.5
       },
       {
         "name": "Jorge Neval Moll Filho",
@@ -20,15 +20,9 @@
       },
       {
         "name": "DELTA FM&B FUNDO DE INVESTIMENTO EM A��ES",
-        "ordinaryShares": 12.53,
+        "ordinaryShares": 13.45,
         "preferredShares": 0,
-        "totalShares": 12.53
-      },
-      {
-        "name": "HPT FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA",
-        "ordinaryShares": 2.99,
-        "preferredShares": 0,
-        "totalShares": 2.99
+        "totalShares": 13.45
       },
       {
         "name": "Alice Junqueira Moll",
@@ -67,97 +61,73 @@
         "totalShares": 2.73
       },
       {
-        "name": "Sulasapar Participa��es S.A.",
-        "ordinaryShares": 1.79,
+        "name": "CHARDONNAY FUNDO DE INVESTIMENTO EM A��ES INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0.83,
         "preferredShares": 0,
-        "totalShares": 1.79
+        "totalShares": 0.83
       },
       {
-        "name": "Lako Participa��es S.A.",
-        "ordinaryShares": 1.2,
+        "name": "SULEMISA LUX S.A.R.L",
+        "ordinaryShares": 0.72,
         "preferredShares": 0,
-        "totalShares": 1.2
+        "totalShares": 0.72
       },
       {
-        "name": "HPT II FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA",
-        "ordinaryShares": 0.79,
+        "name": "SULTASO LUX S.A.R.L",
+        "ordinaryShares": 0.72,
         "preferredShares": 0,
-        "totalShares": 0.79
-      },
-      {
-        "name": "RDSL INVESTIMENTO SECUNDARIO FUNDO DE INVESTIMENTO EM PARTICIPA��ES � MULTIESTRAT�GIA",
-        "ordinaryShares": 0.76,
-        "preferredShares": 0,
-        "totalShares": 0.76
+        "totalShares": 0.72
       },
       {
         "name": "Patrick Antonio Claude de Larragoiti Lucas",
-        "ordinaryShares": 0.68,
+        "ordinaryShares": 0.62,
         "preferredShares": 0,
-        "totalShares": 0.68
+        "totalShares": 0.62
       },
       {
-        "name": "Fundo Brasil de Internacionaliza��o de Empresas Fundo de Invest. em Particip. Multiestrat�gia II",
-        "ordinaryShares": 0.38,
+        "name": "SULARIS S.A.R.L",
+        "ordinaryShares": 0.6,
         "preferredShares": 0,
-        "totalShares": 0.38
+        "totalShares": 0.6
       },
       {
-        "name": "Figeac Fundo de Investimento Multimercado Cr�dito Privado Investimento no Exterior",
-        "ordinaryShares": 0.2,
+        "name": "SULAVER S.A.R.L",
+        "ordinaryShares": 0.6,
         "preferredShares": 0,
-        "totalShares": 0.2
+        "totalShares": 0.6
       },
       {
-        "name": "Videiras Fundo de Investimento em A��es Investimento no Exterior",
-        "ordinaryShares": 0.13,
+        "name": "Sulasapar Participa��es S.A.",
+        "ordinaryShares": 0.35,
         "preferredShares": 0,
-        "totalShares": 0.13
+        "totalShares": 0.35
       },
       {
-        "name": "Fundo Brasil de Internacionaliza��o de Empresas Fundo de Invest. em Particip. Multiestrat�gia",
-        "ordinaryShares": 0.09,
+        "name": "VIDEIRAS FUNDO DE INVESTIMENTO EM A��ES",
+        "ordinaryShares": 0.19,
         "preferredShares": 0,
-        "totalShares": 0.09
-      },
-      {
-        "name": "Chantal de Larragoiti Lucas",
-        "ordinaryShares": 0.06,
-        "preferredShares": 0,
-        "totalShares": 0.06
-      },
-      {
-        "name": "Riesling Fundo de Investimento Multimercado Cr�dito Privado Investimento no Exterior",
-        "ordinaryShares": 0.06,
-        "preferredShares": 0,
-        "totalShares": 0.06
+        "totalShares": 0.19
       },
       {
         "name": "Christiane Claude de Larragoiti Lucas",
-        "ordinaryShares": 0.05,
+        "ordinaryShares": 0.02,
         "preferredShares": 0,
-        "totalShares": 0.05
+        "totalShares": 0.02
       },
       {
-        "name": "Fundo de Investimento em A��es Lafite Investimento no Exterior",
-        "ordinaryShares": 0.04,
-        "preferredShares": 0,
-        "totalShares": 0.04
-      },
-      {
-        "name": "Isabelle Rose Marie de S�gur Lamoignon",
-        "ordinaryShares": 0.03,
-        "preferredShares": 0,
-        "totalShares": 0.03
-      },
-      {
-        "name": "Sophie Marie Antoinette de S�gur",
+        "name": "Fundo de Investimento de A��es Piemonte Investimento no Exterior",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
       },
       {
-        "name": "Fundo de Investimento de A��es Piemonte Investimento no Exterior",
+        "name": "Isabelle Rose Marie de S�gur Lamoignon",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Sophie Marie Antoinette de S�gur",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
@@ -165,6 +135,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1727319600000,
+      "amount": 0.1561,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719543600000,
+      "amount": 0.1557,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711422000000,
+      "amount": 0.133,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702868400000,
+      "amount": 0.1846,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1697425200000,
       "amount": 0.1846,
@@ -224,12 +214,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1167071000
-      },
-      {
         "period": 1580428800000,
-        "value": 428329000
+        "value": 428300000
       },
       {
         "period": 1612051200000,
@@ -238,9 +224,17 @@
       {
         "period": 1643587200000,
         "value": 1194966000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2094600000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.04503683189775654
+      },
       {
         "period": 1672444800000,
         "value": 0.05198342416770756
@@ -251,11 +245,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.03053079645270848
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.08761902831378918
+        "value": 0.030528746774630418
       }
     ]
   }

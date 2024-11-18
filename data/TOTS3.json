@@ -2,21 +2,21 @@
   "name": "TOTS3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 33.95,
-    "priceToEarnings": 27.4,
-    "debtByAnnualEquity": 34.099,
+    "price": 30,
+    "priceToEarnings": 27.66,
+    "debtByAnnualEquity": 31.829,
     "holders": [
       {
         "name": "LC EH Participa��es e Empreendimentos S/A",
-        "ordinaryShares": 13.01,
+        "ordinaryShares": 8.21,
         "preferredShares": 0,
-        "totalShares": 13.01
+        "totalShares": 8.21
       },
       {
         "name": "GIC Private Limited",
-        "ordinaryShares": 6.09,
+        "ordinaryShares": 5.77,
         "preferredShares": 0,
-        "totalShares": 6.09
+        "totalShares": 5.77
       },
       {
         "name": "Canada Pension Plan Investment Board",
@@ -32,9 +32,9 @@
       },
       {
         "name": "La�rcio Jos� de Lucena Cosentino",
-        "ordinaryShares": 0.62,
+        "ordinaryShares": 0.14,
         "preferredShares": 0,
-        "totalShares": 0.62
+        "totalShares": 0.14
       },
       {
         "name": "HG SENTA PUA FIA",
@@ -45,6 +45,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1722913200000,
+      "amount": 0.23,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701658800000,
       "amount": 0.21,
@@ -259,10 +264,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 209796000
-      },
-      {
         "period": 1580428800000,
         "value": 294959000
       },
@@ -273,24 +274,28 @@
       {
         "period": 1643587200000,
         "value": 498136000
+      },
+      {
+        "period": 1675123200000,
+        "value": 734800000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.16339782076940182
+      },
+      {
         "period": 1672444800000,
-        "value": 0.13133269987439797
+        "value": 0.11846796625583617
       },
       {
         "period": 1640908800000,
-        "value": 0.12376633688373943
+        "value": 0.11307348605940169
       },
       {
         "period": 1609372800000,
         "value": 0.11361720010616018
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.09193014928198467
       }
     ]
   }

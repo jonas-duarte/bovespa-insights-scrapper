@@ -2,36 +2,34 @@
   "name": "RPAD5",
   "business": "Bancos",
   "currentState": {
-    "price": 7.58,
-    "priceToEarnings": 19.2,
+    "price": 8.2,
+    "priceToEarnings": -8.58,
     "holders": [
       {
-        "name": "Admnistradora Fortaleza Ltda.",
-        "ordinaryShares": 89.18,
-        "preferredShares": 22.22,
-        "totalShares": 58.6
-      },
-      {
-        "name": "Alaska Poland Fundo de Investimento em A��es",
-        "ordinaryShares": 3.84,
-        "preferredShares": 32.1,
-        "totalShares": 16.75
+        "name": "BANCO SAFRA S.A",
+        "ordinaryShares": 94.05,
+        "preferredShares": 64.28,
+        "totalShares": 80.45
       },
       {
         "name": "Mario Slerca Junior",
         "ordinaryShares": 2.1,
         "preferredShares": 23.23,
         "totalShares": 11.75
-      },
-      {
-        "name": "Luiz Alves Paes de Barros",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
       }
     ]
   },
   "events": [
+    {
+      "date": 1724036400000,
+      "amount": 0.0805,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1706065200000,
+      "amount": 0.5304,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1692068400000,
       "amount": 0.0793,
@@ -360,23 +358,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 8.548931238732939
-      },
-      {
-        "period": 1640908800000,
-        "value": 14.2143906020558
-      },
-      {
-        "period": 1609372800000,
-        "value": 350.03092783505156
-      },
-      {
-        "period": 1577750400000,
-        "value": 146
-      }
-    ]
+    "netMargin": []
   }
 }

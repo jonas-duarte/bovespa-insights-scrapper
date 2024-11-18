@@ -2,15 +2,15 @@
   "name": "GMAT3",
   "business": "Alimentos",
   "currentState": {
-    "price": 6.7,
-    "priceToEarnings": 12.95,
-    "debtByAnnualEquity": 43.565,
+    "price": 7.24,
+    "priceToEarnings": 12.12,
+    "debtByAnnualEquity": 41.956,
     "holders": [
       {
         "name": "Ilson Mateus Rodrigues",
-        "ordinaryShares": 41.67,
+        "ordinaryShares": 41.45,
         "preferredShares": 0,
-        "totalShares": 41.67
+        "totalShares": 41.45
       },
       {
         "name": "Maria Barros Pinheiro",
@@ -44,42 +44,63 @@
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "date": 1731294000000,
+      "amount": 0.0436,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727319600000,
+      "amount": 0.0454,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718334000000,
+      "amount": 0.061,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711594800000,
+      "amount": 0.0436,
+      "type": "JRS CAP PROPRIO"
+    }
+  ],
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 337601000
-      },
-      {
         "period": 1580428800000,
-        "value": 725808000
+        "value": 726269000
       },
       {
         "period": 1612051200000,
-        "value": 758931000
+        "value": 768791000
       },
       {
         "period": 1643587200000,
-        "value": 1052419000
+        "value": 1064795000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1234638000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.04611403194178023
+      },
+      {
         "period": 1672444800000,
-        "value": 0.04834600969098573
+        "value": 0.048914538210459095
       },
       {
         "period": 1640908800000,
-        "value": 0.047801085567502434
+        "value": 0.04842167915853121
       },
       {
         "period": 1609372800000,
-        "value": 0.05854688837769151
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.04201345397231924
+        "value": 0.05858407467977431
       }
     ]
   }

@@ -2,9 +2,8 @@
   "name": "RCSL4",
   "business": "Material Rodovi�rio",
   "currentState": {
-    "price": 0.9,
-    "priceToEarnings": -8.28,
-    "debtByAnnualEquity": 1540.708,
+    "price": 1.64,
+    "priceToEarnings": -4.14,
     "holders": [
       {
         "name": "Portocapital Investimentos e Participa��es Ltda",
@@ -64,41 +63,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -3458000
-      },
-      {
-        "period": 1580428800000,
-        "value": -1366000
-      },
-      {
-        "period": 1612051200000,
-        "value": -1635000
-      },
-      {
-        "period": 1643587200000,
-        "value": -12844000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.027450848709726163
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.047904611607925654
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.18531618435155411
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

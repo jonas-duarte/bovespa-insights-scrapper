@@ -2,8 +2,8 @@
   "name": "ITUB3",
   "business": "Bancos",
   "currentState": {
-    "price": 27.82,
-    "priceToEarnings": 8.77,
+    "price": 29.88,
+    "priceToEarnings": 7.81,
     "holders": [
       {
         "name": "IUPAR - Ita� Unibanco Participa��es S.A.",
@@ -26,12 +26,87 @@
       {
         "name": "GQG Partners LLC",
         "ordinaryShares": 0,
-        "preferredShares": 5.23,
-        "totalShares": 2.59
+        "preferredShares": 5,
+        "totalShares": 2.47
       }
     ]
   },
   "events": [
+    {
+      "date": 1730343600000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727665200000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1726714800000,
+      "amount": 0.273,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1724986800000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1722394800000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719543600000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718852400000,
+      "amount": 0.251,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1717124400000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714446000000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711594800000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1710990000000,
+      "amount": 0.2418,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709175600000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1708484400000,
+      "amount": 1.1251,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1706670000000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.0177,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701831600000,
       "amount": 0.2472,
@@ -2189,23 +2264,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 18896000000
+      },
+      {
+        "period": 1612051200000,
+        "value": 26760000000
+      },
+      {
+        "period": 1643587200000,
+        "value": 29702000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 33368000000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.2128061224489796
+      },
+      {
         "period": 1672444800000,
-        "value": 0.2570044129099247
+        "value": 0.20811233105149207
       },
       {
         "period": 1640908800000,
-        "value": 0.2389392383588553
+        "value": 0.21584300567031514
       },
       {
         "period": 1609372800000,
-        "value": 0.25459787924924887
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.2752253532564561
+        "value": 0.16462081282397525
       }
     ]
   }

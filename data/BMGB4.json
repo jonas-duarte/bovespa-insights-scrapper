@@ -2,8 +2,8 @@
   "name": "BMGB4",
   "business": "Bancos",
   "currentState": {
-    "price": 2.7,
-    "priceToEarnings": 10.29,
+    "price": 4,
+    "priceToEarnings": 5.24,
     "holders": [
       {
         "name": "BMG Participa��es S.A.",
@@ -12,25 +12,25 @@
         "totalShares": 26.48
       },
       {
-        "name": "S�o Judas Tadeu Participa��es Ltda.",
+        "name": "S�O JUDAS TADEU PARTICIPA��ES S.A.",
         "ordinaryShares": 13.85,
         "preferredShares": 4.28,
         "totalShares": 10.39
       },
       {
-        "name": "�gua Boa Participa��es Ltda.",
+        "name": "�GUA BOA PARTICIPA��ES S.A.",
         "ordinaryShares": 13.84,
         "preferredShares": 4.28,
         "totalShares": 10.39
       },
       {
-        "name": "Rivage Participa��es Ltda.",
+        "name": "RIVAGE PARTICIPA��ES S.A.",
         "ordinaryShares": 13.84,
         "preferredShares": 4.28,
         "totalShares": 10.39
       },
       {
-        "name": "Noma Participa��es Ltda.",
+        "name": "Antonio Mour�o Guimar�es Neto",
         "ordinaryShares": 5.31,
         "preferredShares": 4.28,
         "totalShares": 4.93
@@ -48,6 +48,12 @@
         "totalShares": 8.68
       },
       {
+        "name": "�ngela Annes Guimar�es",
+        "ordinaryShares": 0,
+        "preferredShares": 0.37,
+        "totalShares": 0.13
+      },
+      {
         "name": "Esp�lio Flavio Pentagna Guimar�es",
         "ordinaryShares": 0,
         "preferredShares": 2.31,
@@ -56,6 +62,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1729479600000,
+      "amount": 0.084,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1721617200000,
+      "amount": 0.084,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713754800000,
+      "amount": 0.084,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.3356,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1698030000000,
       "amount": 0.02,
@@ -100,33 +126,33 @@
       },
       {
         "period": 1580428800000,
-        "value": 329044000
+        "value": 313677000
       },
       {
         "period": 1612051200000,
-        "value": 169662000
+        "value": 0
       },
       {
-        "period": 1643587200000,
-        "value": 60342000
+        "period": 1675123200000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.02990072732570297
+        "period": 1703980800000,
+        "value": 0
       },
       {
         "period": 1640908800000,
-        "value": 0.07997639295918121
+        "value": 0
       },
       {
         "period": 1609372800000,
-        "value": 0.14113174237507972
+        "value": 0.10406921558173383
       },
       {
         "period": 1577750400000,
-        "value": 0.19666527736812367
+        "value": 0.17461189593826032
       }
     ]
   }

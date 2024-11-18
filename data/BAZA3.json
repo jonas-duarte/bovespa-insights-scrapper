@@ -2,8 +2,8 @@
   "name": "BAZA3",
   "business": "Bancos",
   "currentState": {
-    "price": 86.98,
-    "priceToEarnings": 4.08,
+    "price": 89.51,
+    "priceToEarnings": 3.85,
     "holders": [
       {
         "name": "Uni�o",
@@ -26,6 +26,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714100400000,
+      "amount": 6.3861,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682305200000,
       "amount": 4.2037,
@@ -238,41 +243,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 275348000
-      },
-      {
-        "period": 1580428800000,
-        "value": 265568000
-      },
-      {
-        "period": 1612051200000,
-        "value": 737839000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1122314000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.5418545165567007
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.5247340198560578
-      },
-      {
-        "period": 1609372800000,
-        "value": null
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1299142847302071
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

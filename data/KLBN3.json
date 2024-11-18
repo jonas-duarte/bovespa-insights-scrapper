@@ -2,39 +2,27 @@
   "name": "KLBN3",
   "business": "Papel e Celulose",
   "currentState": {
-    "price": 4.37,
-    "priceToEarnings": 8.52,
-    "debtByAnnualEquity": 228.298,
+    "price": 4.12,
+    "priceToEarnings": 12.34,
+    "debtByAnnualEquity": 321.237,
     "holders": [
       {
         "name": "KLABIN IRM�OS S.A.",
-        "ordinaryShares": 45.41,
+        "ordinaryShares": 52.24,
         "preferredShares": 0,
-        "totalShares": 16.83
-      },
-      {
-        "name": "Niblak Participa��es S/A",
-        "ordinaryShares": 6.82,
-        "preferredShares": 0,
-        "totalShares": 2.53
+        "totalShares": 19.36
       },
       {
         "name": "The Bank Of New York Department",
-        "ordinaryShares": 3.02,
+        "ordinaryShares": 3.01,
         "preferredShares": 7.1,
-        "totalShares": 5.59
+        "totalShares": 5.58
       },
       {
         "name": "T. Rowe Price Associates",
         "ordinaryShares": 2.79,
         "preferredShares": 6.56,
         "totalShares": 5.16
-      },
-      {
-        "name": "Monteiro Aranha S/A",
-        "ordinaryShares": 2.61,
-        "preferredShares": 4.98,
-        "totalShares": 4.1
       },
       {
         "name": "BlackRock Inc",
@@ -45,6 +33,31 @@
     ]
   },
   "events": [
+    {
+      "date": 1731294000000,
+      "amount": 0.0699,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1722826800000,
+      "amount": 0.0674,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714705200000,
+      "amount": 0.0597,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1707966000000,
+      "amount": 0.0348,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.031,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1698375600000,
       "amount": 0.0578,
@@ -387,11 +400,32 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": -2487870000
+      },
+      {
+        "period": 1612051200000,
+        "value": 3019870000
+      },
+      {
+        "period": 1643587200000,
+        "value": 4691729000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2694538000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.1494993078299082
+      },
+      {
         "period": 1672444800000,
-        "value": 0.22269839925214271
+        "value": 0.23420353892403614
       },
       {
         "period": 1640908800000,
@@ -400,10 +434,6 @@
       {
         "period": 1609372800000,
         "value": -0.2082109709147216
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06579396347625775
       }
     ]
   }

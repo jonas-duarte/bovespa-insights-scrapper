@@ -2,9 +2,9 @@
   "name": "PFRM3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 5.39,
-    "priceToEarnings": 14.34,
-    "debtByAnnualEquity": 69.007,
+    "price": 7.05,
+    "priceToEarnings": 8.12,
+    "debtByAnnualEquity": 72.333,
     "holders": [
       {
         "name": "BPL Brazil Holding Company",
@@ -51,6 +51,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1731294000000,
+      "amount": 0.1448,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.27,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701313200000,
       "amount": 0.1157,
@@ -115,38 +125,38 @@
   "history": {
     "earningsPerShare": [
       {
+        "period": 1454198400000,
+        "value": -48963000
+      },
+      {
+        "period": 1485820800000,
+        "value": 0
+      },
+      {
+        "period": 1517356800000,
+        "value": 0
+      },
+      {
         "period": 1548892800000,
-        "value": 11978000
-      },
-      {
-        "period": 1580428800000,
-        "value": 52334000
-      },
-      {
-        "period": 1612051200000,
-        "value": 78192000
-      },
-      {
-        "period": 1643587200000,
-        "value": 80874000
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.010346947846132234
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.012192355172512189
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.009547663610054546
-      },
-      {
         "period": 1577750400000,
-        "value": 0.0024947451644265753
+        "value": 0
+      },
+      {
+        "period": 1546214400000,
+        "value": 0
+      },
+      {
+        "period": 1514678400000,
+        "value": 0
+      },
+      {
+        "period": 1483142400000,
+        "value": -0.011987017797525331
       }
     ]
   }

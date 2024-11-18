@@ -2,9 +2,9 @@
   "name": "STBP3",
   "business": "Servi�os de Apoio e Armazenagem",
   "currentState": {
-    "price": 9.12,
-    "priceToEarnings": 19.59,
-    "debtByAnnualEquity": 89.383,
+    "price": 12.84,
+    "priceToEarnings": 14.59,
+    "debtByAnnualEquity": 179.923,
     "holders": [
       {
         "name": "The Bank of New York ADR Department",
@@ -13,7 +13,7 @@
         "totalShares": 23.02
       },
       {
-        "name": "Opportunity Global FIP Multiestrat�gia IE",
+        "name": "OPPORTUNITY GLOBAL II FIP MULT IE",
         "ordinaryShares": 10.49,
         "preferredShares": 0,
         "totalShares": 10.49
@@ -25,13 +25,13 @@
         "totalShares": 6.8
       },
       {
-        "name": "OPPORTUNITY ACOES FIA BDR NIVEL I IE",
-        "ordinaryShares": 5.02,
+        "name": "COHEN & STEERS",
+        "ordinaryShares": 5.18,
         "preferredShares": 0,
-        "totalShares": 5.02
+        "totalShares": 5.18
       },
       {
-        "name": "COHEN & STEERS",
+        "name": "OPPORTUNITY ACOES FIA BDR NIVEL I IE",
         "ordinaryShares": 5.02,
         "preferredShares": 0,
         "totalShares": 5.02
@@ -43,25 +43,31 @@
         "totalShares": 1.42
       },
       {
-        "name": "OPEG II FUNDO DE INVESTIMENTO EM AES INVESTIMENTO NO EXTERIOR",
+        "name": "OPEG SPECTRUM FI FINANCEIRO DE A��ES - RESP LTDA",
         "ordinaryShares": 0.6,
         "preferredShares": 0,
         "totalShares": 0.6
       },
       {
         "name": "OPP I FIA BDR NIVEL I INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 0.54,
+        "ordinaryShares": 0.55,
         "preferredShares": 0,
-        "totalShares": 0.54
+        "totalShares": 0.55
       },
       {
-        "name": "OPPORTUNITY HOLDING FDO DE INVEST PART",
-        "ordinaryShares": 0.01,
+        "name": "BB NICTHEROY FI MM LP CP INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0,
         "preferredShares": 0,
-        "totalShares": 0.01
+        "totalShares": 0
       },
       {
         "name": "Opportunity Invest II LTDA",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "TG II FUNDO DE INVEST MULTIMERCADO INVESTIMENTO NO EXTERIOR",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
@@ -77,10 +83,72 @@
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
+      },
+      {
+        "name": "OPPORTUNITY LOG II FIA - BDR NIVEL I - IE",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "OPPORTUNITY SLQ FIA BDR NIVEL I - INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
       }
     ]
   },
   "events": [
+    {
+      "date": 1730084400000,
+      "amount": 0.1467,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1730084400000,
+      "amount": 0.0427,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1729047600000,
+      "amount": 1.8523,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1723431600000,
+      "amount": 0.2011,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1723431600000,
+      "amount": 0.0412,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1716778800000,
+      "amount": 0.0687,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1716778800000,
+      "amount": 0.0403,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711076400000,
+      "amount": 0.1637,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703214000000,
+      "amount": 0.0456,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703214000000,
+      "amount": 0.0382,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1698634800000,
       "amount": 0.0854,
@@ -185,38 +253,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 15375000
-      },
-      {
         "period": 1580428800000,
         "value": -13761000
       },
       {
         "period": 1612051200000,
-        "value": 0
+        "value": 271732000
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 429450000
+      },
+      {
+        "period": 1675123200000,
+        "value": 504304000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.2362162605243744
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.22230090364579694
       },
       {
         "period": 1640908800000,
-        "value": 0
+        "value": 0.17711306460769546
       },
       {
         "period": 1609372800000,
         "value": -0.014803730355016281
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.015808240643063808
       }
     ]
   }

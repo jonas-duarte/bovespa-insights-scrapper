@@ -2,37 +2,48 @@
   "name": "DESK3",
   "business": "Telecomunica��es",
   "currentState": {
-    "price": 15.23,
-    "priceToEarnings": 19.68,
-    "debtByAnnualEquity": 70.301,
+    "price": 13.54,
+    "priceToEarnings": 16.76,
+    "debtByAnnualEquity": 140.542,
     "holders": [
       {
         "name": "Makalu Brasil Partners I J - Fundo de Investimento em Partic. Multiestrat�gia Invest. no Exterior",
-        "ordinaryShares": 38.13,
+        "ordinaryShares": 38.01,
         "preferredShares": 0,
-        "totalShares": 38.13
+        "totalShares": 38.01
       },
       {
         "name": "Denio Alves Lindo",
-        "ordinaryShares": 14.62,
+        "ordinaryShares": 14.67,
         "preferredShares": 0,
-        "totalShares": 14.62
+        "totalShares": 14.67
       },
       {
         "name": "Del Castilho Participa��es S.A.",
-        "ordinaryShares": 14.16,
+        "ordinaryShares": 14.11,
         "preferredShares": 0,
-        "totalShares": 14.16
+        "totalShares": 14.11
       },
       {
-        "name": "JGP Gest�o de Recursos Ltda.",
-        "ordinaryShares": 5.01,
+        "name": "NAVI CAPITAL ADMINISTRADORA E GESTORA DE RECURSOS FINANCEIROS LTDA.,",
+        "ordinaryShares": 5.4,
         "preferredShares": 0,
-        "totalShares": 5.01
+        "totalShares": 5.4
+      },
+      {
+        "name": "JGP Gest�o de Recursos LTDA",
+        "ordinaryShares": 5.1,
+        "preferredShares": 0,
+        "totalShares": 5.1
       }
     ]
   },
   "events": [
+    {
+      "date": 1713495600000,
+      "amount": 0.0421,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.0198,
@@ -47,23 +58,23 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 21831000
-      },
-      {
-        "period": 1580428800000,
-        "value": 26825000
-      },
-      {
         "period": 1612051200000,
         "value": 25787000
       },
       {
         "period": 1643587200000,
         "value": 47979000
+      },
+      {
+        "period": 1675123200000,
+        "value": 116978000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.11859191740395036
+      },
       {
         "period": 1672444800000,
         "value": 0.06750332388342138
@@ -71,14 +82,6 @@
       {
         "period": 1640908800000,
         "value": 0.0739039223216384
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.1605460660976982
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.19215568914981823
       }
     ]
   }

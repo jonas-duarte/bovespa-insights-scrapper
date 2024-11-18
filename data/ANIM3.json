@@ -2,9 +2,9 @@
   "name": "ANIM3",
   "business": "Servi�os Educacionais",
   "currentState": {
-    "price": 4.54,
-    "priceToEarnings": -19.65,
-    "debtByAnnualEquity": 170.086,
+    "price": 2.32,
+    "priceToEarnings": -18.34,
+    "debtByAnnualEquity": 195.926,
     "holders": [
       {
         "name": "Daniel Faccini Castanho",
@@ -14,9 +14,21 @@
       },
       {
         "name": "Marcelo Battistella Bueno",
-        "ordinaryShares": 6.94,
+        "ordinaryShares": 6.93,
         "preferredShares": 0,
-        "totalShares": 6.94
+        "totalShares": 6.93
+      },
+      {
+        "name": "XP Gest�o de Recursos Ltda",
+        "ordinaryShares": 6.51,
+        "preferredShares": 0,
+        "totalShares": 6.51
+      },
+      {
+        "name": "ORGANON CAPITAL GEST�O DE INVESTIMENTOS",
+        "ordinaryShares": 5.18,
+        "preferredShares": 0,
+        "totalShares": 5.18
       },
       {
         "name": "R�mulo Faccini Castanho",
@@ -32,15 +44,15 @@
       },
       {
         "name": "Ign�cio Dauden Martinez",
-        "ordinaryShares": 1.27,
+        "ordinaryShares": 1.26,
         "preferredShares": 0,
-        "totalShares": 1.27
+        "totalShares": 1.26
       },
       {
         "name": "�tila Sim�es da Cunha",
-        "ordinaryShares": 1.19,
+        "ordinaryShares": 1.18,
         "preferredShares": 0,
-        "totalShares": 1.19
+        "totalShares": 1.18
       },
       {
         "name": "Ricardo Can�ado Gon�alves de Souza",
@@ -76,6 +88,11 @@
   },
   "events": [
     {
+      "date": 1723518000000,
+      "amount": 0.4713,
+      "type": "DIVIDENDO"
+    },
+    {
       "date": 1556161200000,
       "amount": 0.0069,
       "type": "DIVIDENDO"
@@ -109,12 +126,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -9593000
-      },
-      {
         "period": 1580428800000,
-        "value": -41108000
+        "value": -41100000
       },
       {
         "period": 1612051200000,
@@ -123,9 +136,17 @@
       {
         "period": 1643587200000,
         "value": -102250000
+      },
+      {
+        "period": 1675123200000,
+        "value": -329630000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.0883030533574073
+      },
       {
         "period": 1672444800000,
         "value": -0.028695866195596074
@@ -136,11 +157,7 @@
       },
       {
         "period": 1609372800000,
-        "value": -0.02890880309200704
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.008119346694326445
+        "value": -0.028911086100168824
       }
     ]
   }

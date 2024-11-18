@@ -2,24 +2,34 @@
   "name": "ABCB4",
   "business": "Bancos",
   "currentState": {
-    "price": 23.41,
-    "priceToEarnings": 6.48,
+    "price": 20.72,
+    "priceToEarnings": 5.28,
     "holders": [
       {
         "name": "MARSAU URUGUAY HOLDINGS S.A.",
         "ordinaryShares": 100,
-        "preferredShares": 24.09,
-        "totalShares": 62.18
+        "preferredShares": 24.75,
+        "totalShares": 62.57
       },
       {
-        "name": "Compass Group LLC",
+        "name": "CHARLES RIVER ADMINISTRADORA DE RECURSOS FINANCEIROS LTDA.",
         "ordinaryShares": 0,
-        "preferredShares": 5.31,
-        "totalShares": 2.65
+        "preferredShares": 5.08,
+        "totalShares": 2.53
       }
     ]
   },
   "events": [
+    {
+      "date": 1719543600000,
+      "amount": 0.785,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.741,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1688094000000,
       "amount": 0.836,
@@ -244,10 +254,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 528399000
-      },
-      {
         "period": 1580428800000,
         "value": 322076000
       },
@@ -257,25 +263,29 @@
       },
       {
         "period": 1643587200000,
-        "value": 800234000
+        "value": 800200000
+      },
+      {
+        "period": 1675123200000,
+        "value": 851582000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.32391860022822366
+      },
+      {
         "period": 1672444800000,
-        "value": 0.4051255673896381
+        "value": 0.3324055996344452
       },
       {
         "period": 1640908800000,
-        "value": 0.4155368136365254
+        "value": 0.31884814711618836
       },
       {
         "period": 1609372800000,
-        "value": 0.7676701227505661
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.48802110944660665
+        "value": 0.2300707193370955
       }
     ]
   }

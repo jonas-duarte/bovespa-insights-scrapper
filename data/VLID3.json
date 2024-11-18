@@ -2,31 +2,45 @@
   "name": "VLID3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 21.06,
-    "priceToEarnings": 8.51,
-    "debtByAnnualEquity": 52.86,
+    "price": 24.51,
+    "priceToEarnings": 5.68,
+    "debtByAnnualEquity": 35.359,
     "holders": [
       {
         "name": "Alaska Asset Management",
-        "ordinaryShares": 28.84,
+        "ordinaryShares": 30.17,
         "preferredShares": 0,
-        "totalShares": 28.84
+        "totalShares": 30.17
       },
       {
         "name": "BTG Pactual WM Gest�o de Recursos Ltda",
-        "ordinaryShares": 10.81,
+        "ordinaryShares": 11.29,
         "preferredShares": 0,
-        "totalShares": 10.81
-      },
-      {
-        "name": "4UM Gest�o de Recursos Ltda",
-        "ordinaryShares": 5.55,
-        "preferredShares": 0,
-        "totalShares": 5.55
+        "totalShares": 11.29
       }
     ]
   },
   "events": [
+    {
+      "date": 1730948400000,
+      "amount": 0.53,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1723172400000,
+      "amount": 0.44,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1716778800000,
+      "amount": 0.34,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713754800000,
+      "amount": 0.3074,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1701831600000,
       "amount": 0.307,
@@ -406,38 +420,38 @@
   "history": {
     "earningsPerShare": [
       {
+        "period": 1485820800000,
+        "value": 27700000
+      },
+      {
+        "period": 1517356800000,
+        "value": 100100000
+      },
+      {
         "period": 1548892800000,
         "value": 54281000
       },
       {
         "period": 1580428800000,
-        "value": -202455000
-      },
-      {
-        "period": 1612051200000,
-        "value": 59687000
-      },
-      {
-        "period": 1643587200000,
-        "value": 24479000
+        "value": -202400000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.013024645146392243
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.03692558770561732
-      },
-      {
         "period": 1609372800000,
-        "value": -0.10440442216196648
+        "value": -0.10437831983910062
       },
       {
         "period": 1577750400000,
         "value": 0.027032882096374333
+      },
+      {
+        "period": 1546214400000,
+        "value": 0.057717811220665396
+      },
+      {
+        "period": 1514678400000,
+        "value": 0.01759400406504065
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "EKTR3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 33.5,
-    "priceToEarnings": 7.25,
-    "debtByAnnualEquity": 209.574,
+    "price": 40.03,
+    "priceToEarnings": 7.73,
+    "debtByAnnualEquity": 354.25,
     "holders": [
       {
         "name": "Neoenergia S.A",
@@ -15,6 +15,51 @@
     ]
   },
   "events": [
+    {
+      "date": 1729738800000,
+      "amount": 1.0248,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1727665200000,
+      "amount": 0.0952,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1721876400000,
+      "amount": 2.1084,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1719284400000,
+      "amount": 0.1111,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 1.3257,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712890800000,
+      "amount": 2.4516,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712890800000,
+      "amount": 2.0558,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711335600000,
+      "amount": 0.1852,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1704337200000,
+      "amount": 0.4418,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1690772400000,
       "amount": 1.7652,
@@ -313,23 +358,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.11754887935145446
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.09664902998236331
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.08663837260354164
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0730843053299867
-      }
-    ]
+    "netMargin": []
   }
 }

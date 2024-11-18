@@ -2,9 +2,9 @@
   "name": "HBTS5",
   "business": "Explora��o de Im�veis",
   "currentState": {
-    "price": 52,
-    "priceToEarnings": 4.45,
-    "debtByAnnualEquity": 38.643,
+    "price": 30.99,
+    "priceToEarnings": 1.57,
+    "debtByAnnualEquity": 36.008,
     "holders": [
       {
         "name": "CIA. Comercial de Im�veis",
@@ -27,6 +27,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714014000000,
+      "amount": 3.0399,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682391600000,
       "amount": 2.3902,
@@ -120,23 +125,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.35781314470969644
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.7109929875033714
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.014507977405608958
-      },
-      {
-        "period": 1577750400000,
-        "value": 8.319890083245777
-      }
-    ]
+    "netMargin": []
   }
 }

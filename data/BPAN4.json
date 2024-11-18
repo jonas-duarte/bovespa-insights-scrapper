@@ -2,24 +2,29 @@
   "name": "BPAN4",
   "business": "Bancos",
   "currentState": {
-    "price": 8.25,
-    "priceToEarnings": 15.18,
+    "price": 7.64,
+    "priceToEarnings": 12.79,
     "holders": [
       {
         "name": "Banco Sistema S.A.",
         "ordinaryShares": 50.2,
         "preferredShares": 0,
-        "totalShares": 25.93
+        "totalShares": 26.01
       },
       {
-        "name": "BTG Pactual S.A.",
+        "name": "Banco BTG Pactual S.A.",
         "ordinaryShares": 49.8,
-        "preferredShares": 46.14,
-        "totalShares": 48.03
+        "preferredShares": 46.78,
+        "totalShares": 48.34
       }
     ]
   },
   "events": [
+    {
+      "date": 1703646000000,
+      "amount": 0.2151,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1672110000000,
       "amount": 0.2513,
@@ -94,10 +99,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 515935000
-      },
-      {
         "period": 1580428800000,
         "value": 655569000
       },
@@ -108,24 +109,28 @@
       {
         "period": 1643587200000,
         "value": 706108000
+      },
+      {
+        "period": 1675123200000,
+        "value": 590017000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.06822390765107922
+      },
+      {
         "period": 1672444800000,
-        "value": 0.08700916500119711
+        "value": 0.08282237048990619
       },
       {
         "period": 1640908800000,
-        "value": 0.10558502952546606
+        "value": 0.10459597842603967
       },
       {
         "period": 1609372800000,
-        "value": 0.10183774876358995
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1070182756727392
+        "value": 0.11198650495387769
       }
     ]
   }

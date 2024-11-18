@@ -2,9 +2,9 @@
   "name": "MLAS3",
   "business": "Computadores e Equipamentos",
   "currentState": {
-    "price": 2.13,
-    "priceToEarnings": -2.44,
-    "debtByAnnualEquity": 29.274,
+    "price": 1.46,
+    "priceToEarnings": -2.69,
+    "debtByAnnualEquity": 23.768,
     "holders": [
       {
         "name": "Alexandre Ostrowiecki",
@@ -13,16 +13,16 @@
         "totalShares": 41.05
       },
       {
-        "name": "Dragon Gem LLC",
+        "name": "Renato Feder",
         "ordinaryShares": 28.16,
         "preferredShares": 0,
         "totalShares": 28.16
       },
       {
         "name": "Edward James Feder",
-        "ordinaryShares": 6.06,
+        "ordinaryShares": 6.02,
         "preferredShares": 0,
-        "totalShares": 6.06
+        "totalShares": 6.02
       }
     ]
   },
@@ -36,10 +36,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 231373000
-      },
-      {
         "period": 1580428800000,
         "value": 444302000
       },
@@ -50,9 +46,17 @@
       {
         "period": 1643587200000,
         "value": 89967000
+      },
+      {
+        "period": 1675123200000,
+        "value": -836178000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.23897088348105316
+      },
       {
         "period": 1672444800000,
         "value": 0.020522395294541664
@@ -63,11 +67,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.15620565755148821
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1211775390023526
+        "value": 0.1443890968036304
       }
     ]
   }

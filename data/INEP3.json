@@ -2,68 +2,62 @@
   "name": "INEP3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 4.42,
-    "priceToEarnings": -0.53,
+    "price": 1.38,
+    "priceToEarnings": 0.12,
     "holders": [
       {
-        "name": "INEPAR ADMINISTRA��O E PARTICIPA��O S.A.",
-        "ordinaryShares": 17.52,
+        "name": "IRB-BRASIL RESSEGUROS S.A.",
+        "ordinaryShares": 17,
         "preferredShares": 0,
-        "totalShares": 11.49
+        "totalShares": 12.19
+      },
+      {
+        "name": "INEPAR ADMINISTRA��O E PARTICIPA��O S.A.",
+        "ordinaryShares": 13.18,
+        "preferredShares": 0,
+        "totalShares": 9.45
       },
       {
         "name": "PACTA - GEST�O EMPRESARIAL S.A.",
-        "ordinaryShares": 10.14,
+        "ordinaryShares": 7.63,
         "preferredShares": 0,
-        "totalShares": 6.65
+        "totalShares": 5.47
       },
       {
         "name": "COMPANHIA SIDERURGICA NACIONAL S/A.",
-        "ordinaryShares": 5.51,
+        "ordinaryShares": 4.15,
         "preferredShares": 1.13,
-        "totalShares": 4
+        "totalShares": 3.29
       },
       {
         "name": "MDC ASSESSORIA EMPRESARIAL S/A",
-        "ordinaryShares": 4.83,
-        "preferredShares": 2.07,
-        "totalShares": 3.88
-      },
-      {
-        "name": "QUIP S/A",
-        "ordinaryShares": 3.14,
-        "preferredShares": 0,
-        "totalShares": 2.06
-      },
-      {
-        "name": "DELFT ADMINISTRACAO E PARTICIPACOES S A",
-        "ordinaryShares": 2,
-        "preferredShares": 0,
-        "totalShares": 1.31
+        "ordinaryShares": 3.39,
+        "preferredShares": 0.3,
+        "totalShares": 2.52
       },
       {
         "name": "INSA ADMINISTRA��O E SERVI�OS LTDA",
-        "ordinaryShares": 1.76,
+        "ordinaryShares": 1.33,
         "preferredShares": 0,
-        "totalShares": 1.16
+        "totalShares": 0.95
       },
       {
-        "name": "METROELETRO S/A",
-        "ordinaryShares": 0.45,
+        "name": "DELFT ADMINISTRACAO E PARTICIPACOES S A",
+        "ordinaryShares": 0.9,
         "preferredShares": 0,
-        "totalShares": 0.29
+        "totalShares": 0.65
       },
       {
         "name": "FABIO ROBERTO BAUMFELD ISAACK",
         "ordinaryShares": 0,
-        "preferredShares": 3.64,
-        "totalShares": 1.25
+        "preferredShares": 4.99,
+        "totalShares": 1.41
       },
       {
         "name": "ROBERTO VEIGA HINRICSHSEN",
         "ordinaryShares": 0,
-        "preferredShares": 5,
-        "totalShares": 1.72
+        "preferredShares": 5.01,
+        "totalShares": 1.42
       }
     ]
   },
@@ -95,23 +89,24 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1327968000000,
+        "value": 0
+      },
+      {
+        "period": 1359590400000,
+        "value": 0
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1388448000000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": 52.77908550338323
-      },
-      {
-        "period": 1609372800000,
-        "value": -70.66605910688712
-      },
-      {
-        "period": 1577750400000,
-        "value": -35.30936620254128
+        "period": 1356912000000,
+        "value": 0
       }
     ]
   }

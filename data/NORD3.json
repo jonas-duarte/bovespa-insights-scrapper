@@ -2,8 +2,8 @@
   "name": "NORD3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 3.75,
-    "priceToEarnings": -3.31,
+    "price": 7.5,
+    "priceToEarnings": -5.76,
     "holders": [
       {
         "name": "Elizabeth do Rocio de Freitas",
@@ -27,41 +27,7 @@
   },
   "events": [],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -330000
-      },
-      {
-        "period": 1580428800000,
-        "value": -677000
-      },
-      {
-        "period": 1612051200000,
-        "value": -7679000
-      },
-      {
-        "period": 1643587200000,
-        "value": 0
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0
-      },
-      {
-        "period": 1640908800000,
-        "value": -3.868513853904282
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.41635916359163594
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.24300441826215022
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

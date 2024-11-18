@@ -2,9 +2,9 @@
   "name": "COCE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 50.01,
-    "priceToEarnings": 7.24,
-    "debtByAnnualEquity": 141.269,
+    "price": 28.51,
+    "priceToEarnings": 7.62,
+    "debtByAnnualEquity": 109.248,
     "holders": [
       {
         "name": "Enel Brasil S.A.",
@@ -19,32 +19,37 @@
         "totalShares": 7.1
       },
       {
+        "name": "BANCARD INVERSIONES LIMITADA",
+        "ordinaryShares": 0,
+        "preferredShares": 11.28,
+        "totalShares": 4.32
+      },
+      {
         "name": "FOURTH SAIL DISCOVERY LLC",
         "ordinaryShares": 0,
-        "preferredShares": 2.54,
-        "totalShares": 0.97
+        "preferredShares": 2.52,
+        "totalShares": 0.96
       },
       {
         "name": "FOURTH SAIL LONG SHORT LLC",
         "ordinaryShares": 0,
-        "preferredShares": 7.05,
-        "totalShares": 2.7
-      },
-      {
-        "name": "INVERSIONES ODISEA",
-        "ordinaryShares": 0,
-        "preferredShares": 5.17,
-        "totalShares": 1.98
+        "preferredShares": 6.97,
+        "totalShares": 2.67
       },
       {
         "name": "UNA CAPITAL LTDA",
         "ordinaryShares": 0,
-        "preferredShares": 6.95,
-        "totalShares": 2.66
+        "preferredShares": 7.85,
+        "totalShares": 3
       }
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.9646,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682391600000,
       "amount": 0.308,
@@ -307,23 +312,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1264896000000,
+        "value": 471903000
+      },
+      {
+        "period": 1296432000000,
+        "value": 471182000
+      },
+      {
+        "period": 1327968000000,
+        "value": 0
+      },
+      {
+        "period": 1359590400000,
+        "value": 0
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.07476041933152698
+        "period": 1388448000000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": 0.060248668630534505
+        "period": 1356912000000,
+        "value": 0
       },
       {
-        "period": 1609372800000,
-        "value": 0.044247984002840614
+        "period": 1325289600000,
+        "value": 0.1793467752126589
       },
       {
-        "period": 1577750400000,
-        "value": 0.0753020646719398
+        "period": 1293753600000,
+        "value": 0.16559708264642037
       }
     ]
   }

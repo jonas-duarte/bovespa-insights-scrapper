@@ -2,39 +2,39 @@
   "name": "SHOW3",
   "business": "Produ��o de Eventos e Shows",
   "currentState": {
-    "price": 2.13,
-    "priceToEarnings": 9.12,
-    "debtByAnnualEquity": 10.481,
+    "price": 0.84,
+    "priceToEarnings": -3.08,
+    "debtByAnnualEquity": 47.764,
     "holders": [
       {
         "name": "894 FIM CP IE",
-        "ordinaryShares": 32.72,
+        "ordinaryShares": 33.26,
         "preferredShares": 0,
-        "totalShares": 32.72
+        "totalShares": 33.26
       },
       {
         "name": "Loyall Investimentos LTDA.",
-        "ordinaryShares": 11.05,
+        "ordinaryShares": 9.58,
         "preferredShares": 0,
-        "totalShares": 11.05
+        "totalShares": 9.58
       },
       {
         "name": "F.A. Com�rcio e Participa��es S.A.",
-        "ordinaryShares": 8.57,
+        "ordinaryShares": 8.71,
         "preferredShares": 0,
-        "totalShares": 8.57
+        "totalShares": 8.71
       },
       {
         "name": "CIE Internacional S.A. de CV",
-        "ordinaryShares": 5.67,
+        "ordinaryShares": 5.76,
         "preferredShares": 0,
-        "totalShares": 5.67
+        "totalShares": 5.76
       },
       {
         "name": "Fernando Luiz Alt�rio",
-        "ordinaryShares": 2.64,
+        "ordinaryShares": 2.68,
         "preferredShares": 0,
-        "totalShares": 2.64
+        "totalShares": 2.68
       }
     ]
   },
@@ -68,38 +68,38 @@
   "history": {
     "earningsPerShare": [
       {
+        "period": 1454198400000,
+        "value": 26592000
+      },
+      {
+        "period": 1485820800000,
+        "value": 44354000
+      },
+      {
+        "period": 1517356800000,
+        "value": 10623000
+      },
+      {
         "period": 1548892800000,
         "value": -70789000
-      },
-      {
-        "period": 1580428800000,
-        "value": -108548000
-      },
-      {
-        "period": 1612051200000,
-        "value": -64091000
-      },
-      {
-        "period": 1643587200000,
-        "value": -11065000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -0.033684332295253146
-      },
-      {
-        "period": 1640908800000,
-        "value": -2.0467203167912116
-      },
-      {
-        "period": 1609372800000,
-        "value": -2.714582239227749
-      },
-      {
         "period": 1577750400000,
         "value": -0.17980715987543625
+      },
+      {
+        "period": 1546214400000,
+        "value": 0.01775284391434917
+      },
+      {
+        "period": 1514678400000,
+        "value": 0.0679343539160202
+      },
+      {
+        "period": 1483142400000,
+        "value": 0.0335565218927534
       }
     ]
   }

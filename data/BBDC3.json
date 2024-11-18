@@ -2,8 +2,8 @@
   "name": "BBDC3",
   "business": "Bancos",
   "currentState": {
-    "price": 14.96,
-    "priceToEarnings": 10.72,
+    "price": 12.02,
+    "priceToEarnings": 8.07,
     "holders": [
       {
         "name": "Cidade de Deus Cia Cial Participa��es",
@@ -26,6 +26,81 @@
     ]
   },
   "events": [
+    {
+      "date": 1730430000000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727751600000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727665200000,
+      "amount": 0.1796,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1725246000000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1722481200000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719802800000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718593200000,
+      "amount": 0.3591,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1717383600000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711940400000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709262000000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1706756400000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1704164400000,
+      "amount": 0.0172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.4473,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.179,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701399600000,
       "amount": 0.0172,
@@ -2068,23 +2143,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 16546000000
+      },
+      {
+        "period": 1612051200000,
+        "value": 21945000000
+      },
+      {
+        "period": 1643587200000,
+        "value": 20732000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 15122000000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.12737855572495935
+      },
+      {
         "period": 1672444800000,
-        "value": 0.24434404862946918
+        "value": 0.17744378921060966
       },
       {
         "period": 1640908800000,
-        "value": 0.24959346031997906
+        "value": 0.2003560668310052
       },
       {
         "period": 1609372800000,
-        "value": 0.2530508657923923
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.24752808630644876
+        "value": 0.15320937812511576
       }
     ]
   }

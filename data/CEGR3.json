@@ -2,9 +2,9 @@
   "name": "CEGR3",
   "business": "G�s",
   "currentState": {
-    "price": 85,
-    "priceToEarnings": 57.3,
-    "debtByAnnualEquity": 90.274,
+    "price": 70,
+    "priceToEarnings": 57.32,
+    "debtByAnnualEquity": 79.459,
     "holders": [
       {
         "name": "Naturgy Distribuci�n Latinoamerica S/A",
@@ -27,6 +27,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1714359600000,
+      "amount": 0.7328,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.3207,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.1577,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1702609200000,
+      "amount": 0.2946,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.5095,
@@ -310,23 +330,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.044661052705715715
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.10758472491944582
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.11054191361922215
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.08052450469779181
-      }
-    ]
+    "netMargin": []
   }
 }

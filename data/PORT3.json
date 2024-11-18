@@ -2,31 +2,56 @@
   "name": "PORT3",
   "business": "Servi�os de Apoio e Armazenagem",
   "currentState": {
-    "price": 15.95,
-    "priceToEarnings": 17.68,
-    "debtByAnnualEquity": 116.248,
+    "price": 15.8,
+    "priceToEarnings": 14.58,
+    "debtByAnnualEquity": 102.729,
     "holders": [
       {
         "name": "OW Overseas (Investments) Limited",
-        "ordinaryShares": 56.52,
+        "ordinaryShares": 56.47,
         "preferredShares": 0,
-        "totalShares": 56.52
-      },
-      {
-        "name": "3G RADAR GEST�O DE RECURSOS LTDA",
-        "ordinaryShares": 11.94,
-        "preferredShares": 0,
-        "totalShares": 11.94
+        "totalShares": 56.47
       },
       {
         "name": "TPE GESTORA DE RECURSOS LTDA",
-        "ordinaryShares": 10.02,
+        "ordinaryShares": 12.11,
         "preferredShares": 0,
-        "totalShares": 10.02
+        "totalShares": 12.11
+      },
+      {
+        "name": "3G RADAR GEST�O DE RECURSOS LTDA",
+        "ordinaryShares": 9.62,
+        "preferredShares": 0,
+        "totalShares": 9.62
       }
     ]
   },
   "events": [
+    {
+      "date": 1729047600000,
+      "amount": 0.3422,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1721012400000,
+      "amount": 0.2471,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1716778800000,
+      "amount": 0.1727,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714100400000,
+      "amount": 0.1717,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1705892400000,
+      "amount": 0.1345,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1696388400000,
       "amount": 0.3212,
@@ -51,38 +76,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 30454000
-      },
-      {
         "period": 1580428800000,
-        "value": 115861000
+        "value": 19491000
       },
       {
         "period": 1612051200000,
-        "value": 215064000
+        "value": 40067000
       },
       {
         "period": 1643587200000,
-        "value": 327064000
+        "value": 64302520
+      },
+      {
+        "period": 1675123200000,
+        "value": 81377810
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.16681032528355855
+      },
+      {
         "period": 1672444800000,
-        "value": 0.14396106857192156
+        "value": 0.14917029882882707
       },
       {
         "period": 1640908800000,
-        "value": 0.10055757779788331
+        "value": 0.10108280479744082
       },
       {
         "period": 1609372800000,
-        "value": 0.06381406067295549
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.07498621124374581
+        "value": null
       }
     ]
   }

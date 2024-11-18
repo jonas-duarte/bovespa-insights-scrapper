@@ -2,10 +2,22 @@
   "name": "EZTC3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 18.45,
-    "priceToEarnings": 21.67,
-    "debtByAnnualEquity": 17.506,
+    "price": 14.38,
+    "priceToEarnings": 8.81,
+    "debtByAnnualEquity": 22.096,
     "holders": [
+      {
+        "name": "BlackRock Inc.",
+        "ordinaryShares": 5.18,
+        "preferredShares": 0,
+        "totalShares": 5.18
+      },
+      {
+        "name": "NAVI HOLDING PARTICIPA��ES S.A.",
+        "ordinaryShares": 5.11,
+        "preferredShares": 0,
+        "totalShares": 5.11
+      },
       {
         "name": "SMM Participa��es Ltda.",
         "ordinaryShares": 4.98,
@@ -49,12 +61,6 @@
         "totalShares": 4.76
       },
       {
-        "name": "Barolo Participa��es Ltda.",
-        "ordinaryShares": 3.06,
-        "preferredShares": 0,
-        "totalShares": 3.06
-      },
-      {
         "name": "GAR Participa��es Ltda.",
         "ordinaryShares": 3.06,
         "preferredShares": 0,
@@ -85,14 +91,207 @@
         "totalShares": 1.77
       },
       {
+        "name": "Fl�vio Ernesto Zarzur",
+        "ordinaryShares": 1,
+        "preferredShares": 0,
+        "totalShares": 1
+      },
+      {
+        "name": "Silvio Ernesto Zarzur",
+        "ordinaryShares": 0.67,
+        "preferredShares": 0,
+        "totalShares": 0.67
+      },
+      {
+        "name": "GEMINI FIA IE",
+        "ordinaryShares": 0.66,
+        "preferredShares": 0,
+        "totalShares": 0.66
+      },
+      {
+        "name": "LIBANUS FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 0.6,
+        "preferredShares": 0,
+        "totalShares": 0.6
+      },
+      {
+        "name": "PROSPEX FIA IE",
+        "ordinaryShares": 0.58,
+        "preferredShares": 0,
+        "totalShares": 0.58
+      },
+      {
+        "name": "Samir Zakkhour El Tayar",
+        "ordinaryShares": 0.57,
+        "preferredShares": 0,
+        "totalShares": 0.57
+      },
+      {
         "name": "Valey Participa��es S.A.",
         "ordinaryShares": 0.5,
         "preferredShares": 0,
         "totalShares": 0.5
+      },
+      {
+        "name": "Barolo Participa��es Ltda.",
+        "ordinaryShares": 0.45,
+        "preferredShares": 0,
+        "totalShares": 0.45
+      },
+      {
+        "name": "CEDRUS FIA IE",
+        "ordinaryShares": 0.32,
+        "preferredShares": 0,
+        "totalShares": 0.32
+      },
+      {
+        "name": "Marcio El Tayar",
+        "ordinaryShares": 0.24,
+        "preferredShares": 0,
+        "totalShares": 0.24
+      },
+      {
+        "name": "Marcos Ernesto Zarzur",
+        "ordinaryShares": 0.17,
+        "preferredShares": 0,
+        "totalShares": 0.17
+      },
+      {
+        "name": "Alexandre Ernesto Zarif Zarzur",
+        "ordinaryShares": 0.11,
+        "preferredShares": 0,
+        "totalShares": 0.11
+      },
+      {
+        "name": "Giovanna Zarif Zarzur Tchalian",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "Rafael Ernesto Zarif Zarzur",
+        "ordinaryShares": 0.1,
+        "preferredShares": 0,
+        "totalShares": 0.1
+      },
+      {
+        "name": "Cesar Ernesto Gon�alves Zarzur",
+        "ordinaryShares": 0.09,
+        "preferredShares": 0,
+        "totalShares": 0.09
+      },
+      {
+        "name": "Henrique Ernesto Gon�alves Zarzur",
+        "ordinaryShares": 0.09,
+        "preferredShares": 0,
+        "totalShares": 0.09
+      },
+      {
+        "name": "Priscilla Zarzur Graco",
+        "ordinaryShares": 0.09,
+        "preferredShares": 0,
+        "totalShares": 0.09
+      },
+      {
+        "name": "Eduardo Zarzur Alberto",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "Felipe Zarzur Alberto",
+        "ordinaryShares": 0.08,
+        "preferredShares": 0,
+        "totalShares": 0.08
+      },
+      {
+        "name": "GENEPI FIM CP IE",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Marcelo Ernesto Zarzur",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "Mauro Alberto",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "Maur�cio Ernesto Grandjean Zarzur",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Anna Lucia Zarzur Maalouli",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Camila Luftalla Zarzur",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Manoela Luftalla Zarzur",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Pedro Ernesto Luftalla Zarzur",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Roberto Mounir Maalouli",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Silvana Zarzur Alberto",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
       }
     ]
   },
   "events": [
+    {
+      "date": 1730775600000,
+      "amount": 0.6877,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1730775600000,
+      "amount": 0.1444,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1723086000000,
+      "amount": 0.0965,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715223600000,
+      "amount": 0.0617,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1710990000000,
+      "amount": 0.0902,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700103600000,
       "amount": 0.0426,
@@ -212,10 +411,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 281083000
-      },
-      {
         "period": 1580428800000,
         "value": 405212000
       },
@@ -226,9 +421,17 @@
       {
         "period": 1643587200000,
         "value": 324707000
+      },
+      {
+        "period": 1675123200000,
+        "value": 239467000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.22107938536077373
+      },
       {
         "period": 1672444800000,
         "value": 0.28959117421472275
@@ -240,10 +443,6 @@
       {
         "period": 1609372800000,
         "value": 0.4326285355552044
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.3494362187496115
       }
     ]
   }

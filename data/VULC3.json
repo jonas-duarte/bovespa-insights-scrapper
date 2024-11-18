@@ -2,85 +2,113 @@
   "name": "VULC3",
   "business": "Cal�ados",
   "currentState": {
-    "price": 21.02,
-    "priceToEarnings": 9.16,
-    "debtByAnnualEquity": 19.69,
+    "price": 16.1,
+    "priceToEarnings": 8.11,
+    "debtByAnnualEquity": 18.263,
     "holders": [
       {
-        "name": "Gianpega Neg�cios e Participa��es S/A.",
-        "ordinaryShares": 31.81,
+        "name": "Gianpega Neg�cios e Participa��es S.A.",
+        "ordinaryShares": 28.48,
         "preferredShares": 0,
-        "totalShares": 31.81
+        "totalShares": 28.48
       },
       {
-        "name": "Gold Neg�cios e Participa��es S/A.",
-        "ordinaryShares": 15.23,
+        "name": "Gold Neg�cios e Participa��es S.A.",
+        "ordinaryShares": 13.64,
         "preferredShares": 0,
-        "totalShares": 15.23
+        "totalShares": 13.64
       },
       {
-        "name": "GUEPARDO INVESTIMENTOS LTDA",
-        "ordinaryShares": 10.03,
+        "name": "GUEPARDO INVESTIMENTOS LTDA.",
+        "ordinaryShares": 10.01,
         "preferredShares": 0,
-        "totalShares": 10.03
-      },
-      {
-        "name": "Maria Cristina Nunes de Camargo",
-        "ordinaryShares": 5.89,
-        "preferredShares": 0,
-        "totalShares": 5.89
-      },
-      {
-        "name": "Pedro Bartelle",
-        "ordinaryShares": 4.23,
-        "preferredShares": 0,
-        "totalShares": 4.23
+        "totalShares": 10.01
       },
       {
         "name": "Pedro Grendene Bartelle",
-        "ordinaryShares": 4.11,
+        "ordinaryShares": 5.85,
         "preferredShares": 0,
-        "totalShares": 4.11
-      },
-      {
-        "name": "Giovana Bartelle Velloso",
-        "ordinaryShares": 3.07,
-        "preferredShares": 0,
-        "totalShares": 3.07
-      },
-      {
-        "name": "BARTELLE FUNDO DE INVESTIMENTO DE A��ES - INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 1.79,
-        "preferredShares": 0,
-        "totalShares": 1.79
+        "totalShares": 5.85
       },
       {
         "name": "Andre de Camargo Bartelle",
-        "ordinaryShares": 1.56,
+        "ordinaryShares": 4.18,
         "preferredShares": 0,
-        "totalShares": 1.56
+        "totalShares": 4.18
       },
       {
-        "name": "FUNDO DE INVESTIMENTO DE A��ES INVESTIMENTO NO EXTERIOR PGB",
-        "ordinaryShares": 0.84,
+        "name": "Pedro Bartelle",
+        "ordinaryShares": 3.9,
         "preferredShares": 0,
-        "totalShares": 0.84
+        "totalShares": 3.9
       },
       {
         "name": "Gabriella de Camargo Bartelle",
-        "ordinaryShares": 0.77,
+        "ordinaryShares": 3.46,
         "preferredShares": 0,
-        "totalShares": 0.77
+        "totalShares": 3.46
       },
       {
-        "name": "L4E FUNDO DE INVESTIMENTO DE A��ES - INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 0.65,
+        "name": "Giovana Bartelle Velloso",
+        "ordinaryShares": 2.82,
         "preferredShares": 0,
-        "totalShares": 0.65
+        "totalShares": 2.82
+      },
+      {
+        "name": "BARTELLE FUNDO DE INVESTIMENTO DE A��ES � INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 1.67,
+        "preferredShares": 0,
+        "totalShares": 1.67
+      },
+      {
+        "name": "L4E FUNDO DE INVESTIMENTO DE A��ES � INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 0.63,
+        "preferredShares": 0,
+        "totalShares": 0.63
       }
     ]
   },
   "events": [
+    {
+      "date": 1729134000000,
+      "amount": 0.125,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1726714800000,
+      "amount": 0.125,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1724036400000,
+      "amount": 0.125,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1723431600000,
+      "amount": 0.125,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715655600000,
+      "amount": 0.15,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1710298800000,
+      "amount": 0.75,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1706151600000,
+      "amount": 1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1706151600000,
+      "amount": 0.5,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1699412400000,
       "amount": 0.15,
@@ -145,12 +173,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 143065000
-      },
-      {
         "period": 1580428800000,
-        "value": 31590000
+        "value": 0
       },
       {
         "period": 1612051200000,
@@ -158,13 +182,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 465582000
+        "value": 469900000
+      },
+      {
+        "period": 1675123200000,
+        "value": 494892000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.1756381759597172
+      },
+      {
         "period": 1672444800000,
-        "value": 0.18352138169823756
+        "value": 0.18522343488365492
       },
       {
         "period": 1640908800000,
@@ -172,11 +204,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.026788735332552598
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.10519601319132196
+        "value": 0
       }
     ]
   }

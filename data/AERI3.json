@@ -2,75 +2,81 @@
   "name": "AERI3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 0.95,
-    "priceToEarnings": -10.79,
-    "debtByAnnualEquity": 216.811,
+    "price": 5.49,
+    "priceToEarnings": -2.48,
+    "debtByAnnualEquity": 141.935,
     "holders": [
       {
-        "name": "Alexandre Funari Negr�o",
-        "ordinaryShares": 50.18,
+        "name": "BANCO BTG PACTUAL S/A",
+        "ordinaryShares": 37.09,
         "preferredShares": 0,
-        "totalShares": 50.18
-      },
-      {
-        "name": "Alexandre Sarnes Negr�o",
-        "ordinaryShares": 3.53,
-        "preferredShares": 0,
-        "totalShares": 3.53
+        "totalShares": 37.09
       },
       {
         "name": "Vera Sarnes Negr�o",
-        "ordinaryShares": 3.53,
+        "ordinaryShares": 16.56,
         "preferredShares": 0,
-        "totalShares": 3.53
+        "totalShares": 16.56
       },
       {
-        "name": "Bruno Vilela Cunha",
-        "ordinaryShares": 1.95,
+        "name": "Alexandre Sarnes Negr�o",
+        "ordinaryShares": 6.32,
         "preferredShares": 0,
-        "totalShares": 1.95
-      },
-      {
-        "name": "Bruno Lolli",
-        "ordinaryShares": 1.46,
-        "preferredShares": 0,
-        "totalShares": 1.46
-      },
-      {
-        "name": "C�ssio Cancela E Penna",
-        "ordinaryShares": 1.46,
-        "preferredShares": 0,
-        "totalShares": 1.46
-      },
-      {
-        "name": "Vitor de Araujo Santos",
-        "ordinaryShares": 1.46,
-        "preferredShares": 0,
-        "totalShares": 1.46
+        "totalShares": 6.32
       },
       {
         "name": "Fernanda Sarnes Negr�o",
-        "ordinaryShares": 1.41,
+        "ordinaryShares": 5.01,
         "preferredShares": 0,
-        "totalShares": 1.41
+        "totalShares": 5.01
       },
       {
         "name": "Gisela Sarnes Negr�o Assis",
-        "ordinaryShares": 1.41,
+        "ordinaryShares": 5.01,
         "preferredShares": 0,
-        "totalShares": 1.41
+        "totalShares": 5.01
+      },
+      {
+        "name": "BERNARDO ROMANO NEGRAO",
+        "ordinaryShares": 4.14,
+        "preferredShares": 0,
+        "totalShares": 4.14
+      },
+      {
+        "name": "Vitor de Araujo Santos",
+        "ordinaryShares": 0.91,
+        "preferredShares": 0,
+        "totalShares": 0.91
+      },
+      {
+        "name": "C�ssio Cancela E Penna",
+        "ordinaryShares": 0.9,
+        "preferredShares": 0,
+        "totalShares": 0.9
+      },
+      {
+        "name": "Bruno Vilela Cunha",
+        "ordinaryShares": 0.74,
+        "preferredShares": 0,
+        "totalShares": 0.74
+      },
+      {
+        "name": "Bruno Lolli",
+        "ordinaryShares": 0.69,
+        "preferredShares": 0,
+        "totalShares": 0.69
       },
       {
         "name": "Daniel Henrique da Costa Mello",
-        "ordinaryShares": 1.4,
+        "ordinaryShares": 0.61,
         "preferredShares": 0,
-        "totalShares": 1.4
+        "totalShares": 0.61
       },
       {
         "name": "Luiz Henrique Del Cistia Thonon",
-        "ordinaryShares": 0.72,
+        "ordinaryShares": 0.54,
         "preferredShares": 0,
-        "totalShares": 0.72
+        "totalShares": 0.54
       }
     ]
   },
@@ -84,10 +90,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 88742000
-      },
-      {
         "period": 1580428800000,
         "value": 113199000
       },
@@ -98,9 +100,17 @@
       {
         "period": 1643587200000,
         "value": -92709000
+      },
+      {
+        "period": 1675123200000,
+        "value": -106567000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.03763071984858302
+      },
       {
         "period": 1672444800000,
         "value": -0.03755097444837425
@@ -112,10 +122,6 @@
       {
         "period": 1609372800000,
         "value": 0.05125136845079146
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.10637224171390419
       }
     ]
   }

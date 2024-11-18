@@ -2,8 +2,8 @@
   "name": "MNPR3",
   "business": "Carnes e Derivados",
   "currentState": {
-    "price": 18.5,
-    "priceToEarnings": -32.57,
+    "price": 20.51,
+    "priceToEarnings": 44.97,
     "holders": [
       {
         "name": "Serra do Roncador Participa��es Ltda.",
@@ -18,16 +18,70 @@
         "totalShares": 23.67
       },
       {
+        "name": "Francisco Asclepio Barroso Aguiar",
+        "ordinaryShares": 8.03,
+        "preferredShares": 0,
+        "totalShares": 8.03
+      },
+      {
+        "name": "WELLINGTON ARAUJO DE OLIVEIRA",
+        "ordinaryShares": 6.33,
+        "preferredShares": 0,
+        "totalShares": 6.33
+      },
+      {
+        "name": "JOSE OSWALDO MORALES JUNIOR",
+        "ordinaryShares": 5.51,
+        "preferredShares": 0,
+        "totalShares": 5.51
+      },
+      {
         "name": "LIVIA TOSHIE SUGUITA CHAO",
         "ordinaryShares": 4.16,
         "preferredShares": 0,
         "totalShares": 4.16
       },
       {
+        "name": "J.O.M. Participa��es e Empreendimentos Imobili�rios Ltda.",
+        "ordinaryShares": 2.66,
+        "preferredShares": 0,
+        "totalShares": 2.66
+      },
+      {
+        "name": "Helenice Honorio Morales",
+        "ordinaryShares": 2.28,
+        "preferredShares": 0,
+        "totalShares": 2.28
+      },
+      {
+        "name": "Ana Cristina Ribeiro Morales",
+        "ordinaryShares": 0.78,
+        "preferredShares": 0,
+        "totalShares": 0.78
+      },
+      {
+        "name": "Maria Antonia Ribeiro Morales",
+        "ordinaryShares": 0.25,
+        "preferredShares": 0,
+        "totalShares": 0.25
+      },
+      {
+        "name": "Maria Clara Ribeiro Morales",
+        "ordinaryShares": 0.25,
+        "preferredShares": 0,
+        "totalShares": 0.25
+      },
+      {
         "name": "Chao En Ming",
         "ordinaryShares": 0.25,
         "preferredShares": 0,
         "totalShares": 0.25
+      },
+      {
+        "name": "Maria Beatriz Ribeiro Morales",
+        "ordinaryShares": 0.24,
+        "preferredShares": 0,
+        "totalShares": 0.24
       }
     ]
   },
@@ -44,41 +98,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -32998000
-      },
-      {
-        "period": 1580428800000,
-        "value": 16553000
-      },
-      {
-        "period": 1612051200000,
-        "value": 33774000
-      },
-      {
-        "period": 1643587200000,
-        "value": 6534000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.017865150106633126
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.1056612981942411
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.06371120767629025
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.1400689350719913
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

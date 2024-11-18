@@ -2,73 +2,51 @@
   "name": "ENJU3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 1.54,
-    "priceToEarnings": -7.08,
-    "debtByAnnualEquity": 1.32,
+    "price": 1.16,
+    "priceToEarnings": -6.48,
+    "debtByAnnualEquity": 3.516,
     "holders": [
       {
-        "name": "Ana Luiza McLaren Moreira Maia e Lima",
-        "ordinaryShares": 8.28,
+        "name": "S�O PEDRO CAPITAL INVESTIMENTOS LTDA",
+        "ordinaryShares": 10.93,
         "preferredShares": 0,
-        "totalShares": 8.28
+        "totalShares": 10.93
+      },
+      {
+        "name": "Ana Luiza McLaren Moreira Maia e Lima",
+        "ordinaryShares": 8.68,
+        "preferredShares": 0,
+        "totalShares": 8.68
       },
       {
         "name": "Vokin Administra��o de Recursos Ltda.",
-        "ordinaryShares": 6.61,
+        "ordinaryShares": 8.44,
         "preferredShares": 0,
-        "totalShares": 6.61
+        "totalShares": 8.44
       },
       {
         "name": "Ti� Lima",
-        "ordinaryShares": 6.37,
+        "ordinaryShares": 6.78,
         "preferredShares": 0,
-        "totalShares": 6.37
-      },
-      {
-        "name": "ABSOLUTO PARTNERS GEST�O DE RECURSOS LTDA.",
-        "ordinaryShares": 6.32,
-        "preferredShares": 0,
-        "totalShares": 6.32
+        "totalShares": 6.78
       },
       {
         "name": "ARAM, LLC",
-        "ordinaryShares": 6.26,
+        "ordinaryShares": 6.19,
         "preferredShares": 0,
-        "totalShares": 6.26
-      },
-      {
-        "name": "BESSEMER VENTURE PARTNERS",
-        "ordinaryShares": 5.37,
-        "preferredShares": 0,
-        "totalShares": 5.37
+        "totalShares": 6.19
       },
       {
         "name": "ARNALDO GOLDEMBERG",
-        "ordinaryShares": 5.2,
+        "ordinaryShares": 4.99,
         "preferredShares": 0,
-        "totalShares": 5.2
-      },
-      {
-        "name": "Sharp Capital Gestora de Recursos Ltda.",
-        "ordinaryShares": 5.14,
-        "preferredShares": 0,
-        "totalShares": 5.14
-      },
-      {
-        "name": "S�O PEDRO CAPITAL INVESTIMENTOS LTDA",
-        "ordinaryShares": 5,
-        "preferredShares": 0,
-        "totalShares": 5
+        "totalShares": 4.99
       }
     ]
   },
   "events": [],
   "history": {
     "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -20757000
-      },
       {
         "period": 1580428800000,
         "value": -31125000
@@ -80,9 +58,17 @@
       {
         "period": 1643587200000,
         "value": -66515000
+      },
+      {
+        "period": 1675123200000,
+        "value": -52970000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.2722623422682532
+      },
       {
         "period": 1672444800000,
         "value": -0.4788662428636223
@@ -94,10 +80,6 @@
       {
         "period": 1609372800000,
         "value": -0.39098320499453565
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.3867019393781322
       }
     ]
   }

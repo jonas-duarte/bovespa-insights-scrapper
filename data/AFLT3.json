@@ -2,9 +2,8 @@
   "name": "AFLT3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 8.71,
-    "priceToEarnings": 19.91,
-    "debtByAnnualEquity": 0.071,
+    "price": 7.21,
+    "priceToEarnings": 20.13,
     "holders": [
       {
         "name": "Neoenergia S.A",
@@ -21,6 +20,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1719284400000,
+      "amount": 0.1272,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712718000000,
+      "amount": 0.3414,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712718000000,
+      "amount": 0.1138,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1681959600000,
       "amount": 0.3316,
@@ -148,41 +162,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 25257000
-      },
-      {
-        "period": 1580428800000,
-        "value": 18709000
-      },
-      {
-        "period": 1612051200000,
-        "value": 99808000
-      },
-      {
-        "period": 1643587200000,
-        "value": 37490000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.5202753337589164
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.8295281709455697
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.5207069301419427
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.6539706377359468
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

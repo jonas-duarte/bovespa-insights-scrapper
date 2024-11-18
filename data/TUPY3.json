@@ -2,9 +2,9 @@
   "name": "TUPY3",
   "business": "Material Rodovi�rio",
   "currentState": {
-    "price": 26,
-    "priceToEarnings": 9.2,
-    "debtByAnnualEquity": 103.688,
+    "price": 22.31,
+    "priceToEarnings": 9.62,
+    "debtByAnnualEquity": 129.882,
     "holders": [
       {
         "name": "BNDES Participa��es S.A. BNDESPAR",
@@ -27,6 +27,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1716951600000,
+      "amount": 0.1535,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1705892400000,
+      "amount": 0.2554,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1698202800000,
       "amount": 0.263,
@@ -261,10 +271,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 278932000
-      },
-      {
         "period": 1580428800000,
         "value": -76210000
       },
@@ -274,13 +280,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 508272000
+        "value": 502221000
+      },
+      {
+        "period": 1675123200000,
+        "value": 508140000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.04469840845376441
+      },
+      {
         "period": 1672444800000,
-        "value": 0.0499362572722514
+        "value": 0.04934176398370827
       },
       {
         "period": 1640908800000,
@@ -289,10 +303,6 @@
       {
         "period": 1609372800000,
         "value": -0.017899772547700626
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.05401905846422592
       }
     ]
   }

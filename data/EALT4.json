@@ -2,9 +2,9 @@
   "name": "EALT4",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 9.04,
-    "priceToEarnings": 6.02,
-    "debtByAnnualEquity": 51.441,
+    "price": 14.49,
+    "priceToEarnings": 4.8,
+    "debtByAnnualEquity": 46.738,
     "holders": [
       {
         "name": "WERNER S.A. AGRICULTURA COM�RCIO E IND�STRIA",
@@ -15,8 +15,8 @@
       {
         "name": "UW28 PARTICIPA��ES LTDA",
         "ordinaryShares": 10.97,
-        "preferredShares": 0.18,
-        "totalShares": 4.86
+        "preferredShares": 0,
+        "totalShares": 4.75
       },
       {
         "name": "BEATRIZ ELOISA WERNER OLINGER",
@@ -27,14 +27,14 @@
       {
         "name": "Luiz Fernando Werner",
         "ordinaryShares": 1.8,
-        "preferredShares": 6.43,
-        "totalShares": 4.43
+        "preferredShares": 6.3,
+        "totalShares": 4.35
       },
       {
         "name": "Marco Ant�nio Werner",
         "ordinaryShares": 1.8,
-        "preferredShares": 6.28,
-        "totalShares": 4.34
+        "preferredShares": 6.09,
+        "totalShares": 4.23
       },
       {
         "name": "ESPOLIO BERNARDO H. W. WERNER",
@@ -47,6 +47,12 @@
         "ordinaryShares": 0.11,
         "preferredShares": 3.45,
         "totalShares": 2
+      },
+      {
+        "name": "Jos� Claudio Pagano",
+        "ordinaryShares": 0.01,
+        "preferredShares": 3.92,
+        "totalShares": 2.23
       },
       {
         "name": "BANRISUL FUNDO DE INVESTIMENTO EM ACOES",
@@ -63,18 +69,42 @@
       {
         "name": "GURGUEIA FUNDO DE INVESTIMENTO MULTIMERCADO",
         "ordinaryShares": 0,
-        "preferredShares": 17.69,
-        "totalShares": 10.02
-      },
-      {
-        "name": "Jos� Claudio Pagano",
-        "ordinaryShares": 0,
-        "preferredShares": 3.37,
-        "totalShares": 1.91
+        "preferredShares": 21.29,
+        "totalShares": 12.06
       }
     ]
   },
   "events": [
+    {
+      "date": 1714100400000,
+      "amount": 0.1515,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714100400000,
+      "amount": 0.1515,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714100400000,
+      "amount": 0.1515,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714100400000,
+      "amount": 0.0177,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714100400000,
+      "amount": 0.0177,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714100400000,
+      "amount": 0.0177,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682478000000,
       "amount": 0.1025,
@@ -252,41 +282,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 16850000
-      },
-      {
-        "period": 1580428800000,
-        "value": 25242000
-      },
-      {
-        "period": 1612051200000,
-        "value": 36313000
-      },
-      {
-        "period": 1643587200000,
-        "value": 0
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.09394127538481438
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.10025777392948354
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.056317974290928295
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

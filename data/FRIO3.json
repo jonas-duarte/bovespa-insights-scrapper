@@ -2,32 +2,45 @@
   "name": "FRIO3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 162,
-    "priceToEarnings": -6.43,
+    "price": 160,
+    "priceToEarnings": 52.41,
+    "debtByAnnualEquity": 199.633,
     "holders": [
       {
-        "name": "Almond Tree LLC",
-        "ordinaryShares": 41.52,
+        "name": "FUNDOS SOB GEST�O DISCRICION�RIA  DA WNT GESTORA DE RECURSOS LTDA.",
+        "ordinaryShares": 30.04,
         "preferredShares": 0,
-        "totalShares": 41.52
+        "totalShares": 30.04
+      },
+      {
+        "name": "Almond Tree LLC",
+        "ordinaryShares": 27.13,
+        "preferredShares": 0,
+        "totalShares": 27.13
       },
       {
         "name": "Rio Verde Consultoria e Participa��es Ltda",
-        "ordinaryShares": 35.44,
+        "ordinaryShares": 23.15,
         "preferredShares": 0,
-        "totalShares": 35.44
+        "totalShares": 23.15
       },
       {
         "name": "Peach Tree LLC",
-        "ordinaryShares": 15.87,
+        "ordinaryShares": 10.37,
         "preferredShares": 0,
-        "totalShares": 15.87
+        "totalShares": 10.37
+      },
+      {
+        "name": "TAIGA FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA (COM GEST�O DISCRICION�RIA)",
+        "ordinaryShares": 5.6,
+        "preferredShares": 0,
+        "totalShares": 5.6
       },
       {
         "name": "Marcelo Faria de Lima",
-        "ordinaryShares": 1.09,
+        "ordinaryShares": 0.71,
         "preferredShares": 0,
-        "totalShares": 1.09
+        "totalShares": 0.71
       }
     ]
   },
@@ -66,38 +79,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 21791000
+        "period": 1233360000000,
+        "value": 34800000
       },
       {
-        "period": 1580428800000,
-        "value": -152148000
+        "period": 1264896000000,
+        "value": 66900000
       },
       {
-        "period": 1612051200000,
-        "value": -63042000
+        "period": 1327968000000,
+        "value": 13000000
       },
       {
-        "period": 1643587200000,
-        "value": -208746000
+        "period": 1359590400000,
+        "value": -23400000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -0.10488004256578429
+        "period": 1388448000000,
+        "value": -0.028778748001475833
       },
       {
-        "period": 1640908800000,
-        "value": -0.030805676782277133
+        "period": 1356912000000,
+        "value": 0.018523795953263037
       },
       {
-        "period": 1609372800000,
-        "value": -0.10527495703147703
+        "period": 1293753600000,
+        "value": 0.08538608806636885
       },
       {
-        "period": 1577750400000,
-        "value": 0.014715932727164675
+        "period": 1262217600000,
+        "value": 0.054104477611940295
       }
     ]
   }

@@ -2,21 +2,15 @@
   "name": "GGBR3",
   "business": "Siderurgia",
   "currentState": {
-    "price": 21.16,
-    "priceToEarnings": 4.57,
-    "debtByAnnualEquity": 25.34,
+    "price": 19.26,
+    "priceToEarnings": 8.29,
+    "debtByAnnualEquity": 24.909,
     "holders": [
       {
         "name": "Metal�rgica Gerdau S.A.",
         "ordinaryShares": 97.55,
         "preferredShares": 0,
         "totalShares": 33.34
-      },
-      {
-        "name": "Capital International Investors",
-        "ordinaryShares": 0,
-        "preferredShares": 9.71,
-        "totalShares": 6.39
       },
       {
         "name": "Gerval Investimentos Ltda.",
@@ -27,6 +21,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1723172400000,
+      "amount": 0.12,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715742000000,
+      "amount": 0.28,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1709262000000,
+      "amount": 0.1,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700190000000,
       "amount": 0.47,
@@ -511,38 +520,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1203736000
-      },
-      {
         "period": 1580428800000,
-        "value": 2365763000
+        "value": 2388000000
       },
       {
         "period": 1612051200000,
-        "value": 15494111000
+        "value": 15558938000
       },
       {
         "period": 1643587200000,
         "value": 11425512000
+      },
+      {
+        "period": 1675123200000,
+        "value": 7537000000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.10936431473317247
+      },
       {
         "period": 1672444800000,
         "value": 0.13863858280223282
       },
       {
         "period": 1640908800000,
-        "value": 0.1977675024677044
+        "value": 0.19859495709756175
       },
       {
         "period": 1609372800000,
-        "value": 0.05399478042292739
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.03036362870456344
+        "value": 0.05450230460530095
       }
     ]
   }

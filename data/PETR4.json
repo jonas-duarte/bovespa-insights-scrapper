@@ -2,9 +2,9 @@
   "name": "PETR4",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 34.57,
-    "priceToEarnings": 3.29,
-    "debtByAnnualEquity": 78.828,
+    "price": 37.27,
+    "priceToEarnings": 5.74,
+    "debtByAnnualEquity": 81.548,
     "holders": [
       {
         "name": "Uni�o Federal",
@@ -14,21 +14,21 @@
       },
       {
         "name": "GQG Partners LLC",
-        "ordinaryShares": 5.64,
-        "preferredShares": 5.2,
-        "totalShares": 5.45
+        "ordinaryShares": 5.73,
+        "preferredShares": 5.14,
+        "totalShares": 5.48
+      },
+      {
+        "name": "BlackRock Inc",
+        "ordinaryShares": 2.67,
+        "preferredShares": 5.03,
+        "totalShares": 3.68
       },
       {
         "name": "Banco Nacional de Desenvolvimento Econ�mico e Social - BNDES",
         "ordinaryShares": 0,
         "preferredShares": 2.41,
         "totalShares": 1.04
-      },
-      {
-        "name": "BlackRock Inc",
-        "ordinaryShares": 0,
-        "preferredShares": 5.01,
-        "totalShares": 2.15
       },
       {
         "name": "BNDES Participa��es - BNDESPar",
@@ -39,6 +39,56 @@
     ]
   },
   "events": [
+    {
+      "date": 1724209200000,
+      "amount": 0.5266,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1724209200000,
+      "amount": 0.4128,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1724209200000,
+      "amount": 0.1138,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1718074800000,
+      "amount": 0.5208,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718074800000,
+      "amount": 0.4474,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1718074800000,
+      "amount": 0.0734,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 0.8496,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 0.8496,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714014000000,
+      "amount": 0.5502,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714014000000,
+      "amount": 0.5502,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700535600000,
       "amount": 0.6722,
@@ -523,12 +573,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 40137000000
-      },
-      {
         "period": 1580428800000,
-        "value": 7108000000
+        "value": 6178743200
       },
       {
         "period": 1612051200000,
@@ -537,9 +583,17 @@
       {
         "period": 1643587200000,
         "value": 188328000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 123919831600
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.24298645626849202
+      },
       {
         "period": 1672444800000,
         "value": 0.2936861409483888
@@ -550,11 +604,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.026125725459350387
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.15213378463917643
+        "value": 0.021254400834528623
       }
     ]
   }

@@ -2,12 +2,12 @@
   "name": "CEBR6",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 16.94,
-    "priceToEarnings": 6.27,
-    "debtByAnnualEquity": 0.278,
+    "price": 18.13,
+    "priceToEarnings": 7.59,
+    "debtByAnnualEquity": 0.225,
     "holders": [
       {
-        "name": "DISTRITO FEDERAL",
+        "name": "SECRETARIA DE ESTADO DE PLANEJAMENTO, OR�AMENTO E ADMINISTRA��O DO DISTRITO FEDERAL",
         "ordinaryShares": 93.2,
         "preferredShares": 67.19,
         "totalShares": 80.15
@@ -15,6 +15,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.8114,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1698807600000,
       "amount": 0.8027,
@@ -133,23 +138,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 3.644712143823159
-      },
-      {
-        "period": 1609372800000,
-        "value": 1.695361669109406
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.339692915530441
-      }
-    ]
+    "netMargin": []
   }
 }

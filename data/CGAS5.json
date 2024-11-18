@@ -2,9 +2,9 @@
   "name": "CGAS5",
   "business": "G�s",
   "currentState": {
-    "price": 127.57,
-    "priceToEarnings": 48.06,
-    "debtByAnnualEquity": 1823.365,
+    "price": 129.97,
+    "priceToEarnings": 6.11,
+    "debtByAnnualEquity": 1008.013,
     "holders": [
       {
         "name": "Compass G�s e Energia S.A.",
@@ -15,6 +15,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1731380400000,
+      "amount": 3.6562,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1723518000000,
+      "amount": 6.4999,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712026800000,
+      "amount": 12.0218,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703646000000,
+      "amount": 0.0601,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695697200000,
       "amount": 0.0211,
@@ -384,38 +404,38 @@
   "history": {
     "earningsPerShare": [
       {
+        "period": 1454198400000,
+        "value": 0
+      },
+      {
+        "period": 1485820800000,
+        "value": 0
+      },
+      {
+        "period": 1517356800000,
+        "value": 0
+      },
+      {
         "period": 1548892800000,
         "value": 1367179000
-      },
-      {
-        "period": 1580428800000,
-        "value": 1150613000
-      },
-      {
-        "period": 1612051200000,
-        "value": 2119121000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1811479000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.10402337684755612
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.1809712159469664
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.13833322252533786
-      },
-      {
         "period": 1577750400000,
         "value": 0.14369845479746005
+      },
+      {
+        "period": 1546214400000,
+        "value": 0
+      },
+      {
+        "period": 1514678400000,
+        "value": 0
+      },
+      {
+        "period": 1483142400000,
+        "value": 0
       }
     ]
   }

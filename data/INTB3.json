@@ -2,9 +2,9 @@
   "name": "INTB3",
   "business": "Computadores e Equipamentos",
   "currentState": {
-    "price": 22.6,
-    "priceToEarnings": 14.21,
-    "debtByAnnualEquity": 37.647,
+    "price": 16.4,
+    "priceToEarnings": 9.16,
+    "debtByAnnualEquity": 34.096,
     "holders": [
       {
         "name": "Antonia de Freitas Tonin",
@@ -26,9 +26,9 @@
       },
       {
         "name": "Jorge Luiz Savi de Freitas",
-        "ordinaryShares": 6.5,
+        "ordinaryShares": 6.53,
         "preferredShares": 0,
-        "totalShares": 6.5
+        "totalShares": 6.53
       },
       {
         "name": "Jadna Savi de Freitas",
@@ -50,9 +50,9 @@
       },
       {
         "name": "Pedro Horn de Freitas",
-        "ordinaryShares": 4.89,
+        "ordinaryShares": 4.9,
         "preferredShares": 0,
-        "totalShares": 4.89
+        "totalShares": 4.9
       },
       {
         "name": "Ant�nio de Freitas Aiquel",
@@ -71,52 +71,30 @@
         "ordinaryShares": 4.84,
         "preferredShares": 0,
         "totalShares": 4.84
-      },
-      {
-        "name": "Altair Angelo Silvestri",
-        "ordinaryShares": 0.72,
-        "preferredShares": 0,
-        "totalShares": 0.72
-      },
-      {
-        "name": "Rafael Boeing",
-        "ordinaryShares": 0.1,
-        "preferredShares": 0,
-        "totalShares": 0.1
-      },
-      {
-        "name": "Gilberto Heinzelmann",
-        "ordinaryShares": 0.01,
-        "preferredShares": 0,
-        "totalShares": 0.01
-      },
-      {
-        "name": "HENRIQUE FERNANDEZ",
-        "ordinaryShares": 0.01,
-        "preferredShares": 0,
-        "totalShares": 0.01
-      },
-      {
-        "name": "Mateus Affonso Bandeira",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
-      },
-      {
-        "name": "MARCIO FERREIRA DA SILVA",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
-      },
-      {
-        "name": "PAULO DANIEL CORREA",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
       }
     ]
   },
   "events": [
+    {
+      "date": 1722481200000,
+      "amount": 0.1859,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711076400000,
+      "amount": 0.1232,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709521200000,
+      "amount": 0.1787,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703559600000,
+      "amount": 0.1603,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1690858800000,
       "amount": 0.1656,
@@ -171,38 +149,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 189393000
-      },
-      {
         "period": 1580428800000,
-        "value": 327956000
+        "value": 0
       },
       {
         "period": 1612051200000,
-        "value": 364443000
+        "value": 363509000
       },
       {
         "period": 1643587200000,
-        "value": 480262000
+        "value": 479248000
+      },
+      {
+        "period": 1675123200000,
+        "value": 545558000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.13294373142519048
+      },
+      {
         "period": 1672444800000,
-        "value": 0.11346675572097964
+        "value": 0.11322718796358665
       },
       {
         "period": 1640908800000,
-        "value": 0.11805075972443388
+        "value": 0.11774821746245431
       },
       {
         "period": 1609372800000,
-        "value": 0.15365427647237412
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.11154175962156852
+        "value": 0
       }
     ]
   }

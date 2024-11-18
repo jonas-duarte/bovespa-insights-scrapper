@@ -2,8 +2,8 @@
   "name": "AZUL4",
   "business": "Transporte A�reo",
   "currentState": {
-    "price": 16.84,
-    "priceToEarnings": -4.8,
+    "price": 5.33,
+    "priceToEarnings": -0.39,
     "holders": [
       {
         "name": "David Gary Neeleman",
@@ -14,14 +14,14 @@
       {
         "name": "Trip Participa��es S.A.",
         "ordinaryShares": 21.78,
-        "preferredShares": 3.11,
-        "totalShares": 16.83
+        "preferredShares": 1.77,
+        "totalShares": 16.47
       },
       {
         "name": "Trip Investimentos Ltda.",
         "ordinaryShares": 8.58,
-        "preferredShares": 0.9,
-        "totalShares": 6.54
+        "preferredShares": 0.01,
+        "totalShares": 6.3
       },
       {
         "name": "Rio Novo Loca��es Ltda.",
@@ -30,16 +30,10 @@
         "totalShares": 1.94
       },
       {
-        "name": "BlackRock, Inc.",
-        "ordinaryShares": 0,
-        "preferredShares": 5.02,
-        "totalShares": 1.33
-      },
-      {
         "name": "Calfinco, INC.",
         "ordinaryShares": 0,
-        "preferredShares": 8.04,
-        "totalShares": 2.14
+        "preferredShares": 5.55,
+        "totalShares": 1.47
       },
       {
         "name": "Saleb II Founder 1 LLC",
@@ -53,38 +47,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -2403086000
-      },
-      {
         "period": 1580428800000,
-        "value": -10834709000
+        "value": -10179700000
       },
       {
         "period": 1612051200000,
-        "value": -4213208000
+        "value": -4767700000
       },
       {
         "period": 1643587200000,
-        "value": -722367000
+        "value": -1379600000
+      },
+      {
+        "period": 1675123200000,
+        "value": -700300000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.03746001519155264
+      },
+      {
         "period": 1672444800000,
-        "value": -0.04529495643578623
+        "value": -0.08650560254826593
       },
       {
         "period": 1640908800000,
-        "value": -0.42234587567485044
+        "value": -0.47793137323696583
       },
       {
         "period": 1609372800000,
-        "value": -1.886224118342808
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.2100174291622929
+        "value": -0.8896550518689424
       }
     ]
   }

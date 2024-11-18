@@ -2,9 +2,9 @@
   "name": "CMIN3",
   "business": "Minerais Met�licos",
   "currentState": {
-    "price": 7.3,
-    "priceToEarnings": 13,
-    "debtByAnnualEquity": 74.922,
+    "price": 5.28,
+    "priceToEarnings": 7.48,
+    "debtByAnnualEquity": 76.857,
     "holders": [
       {
         "name": "Companhia Sider�rgica Nacional - CSN",
@@ -33,6 +33,31 @@
     ]
   },
   "events": [
+    {
+      "date": 1727924400000,
+      "amount": 0.4369,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1727924400000,
+      "amount": 0.0855,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727924400000,
+      "amount": 0.0294,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715655600000,
+      "amount": 0.1869,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.0793,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1700449200000,
       "amount": 0.2488,
@@ -92,10 +117,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 3664263000
-      },
-      {
         "period": 1580428800000,
         "value": 4030710000
       },
@@ -106,24 +127,28 @@
       {
         "period": 1643587200000,
         "value": 2950298000
+      },
+      {
+        "period": 1675123200000,
+        "value": 3568737000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.1890178219495683
+      },
+      {
         "period": 1672444800000,
-        "value": 0.22228546044306133
+        "value": 0.22228544369532188
       },
       {
         "period": 1640908800000,
-        "value": 0.33461184346321693
+        "value": 0.3346118610374893
       },
       {
         "period": 1609372800000,
         "value": 0.2923021819958924
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.3198568673420772
       }
     ]
   }

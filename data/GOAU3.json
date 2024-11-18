@@ -2,21 +2,21 @@
   "name": "GOAU3",
   "business": "Siderurgia",
   "currentState": {
-    "price": 10.48,
-    "priceToEarnings": 3.94,
-    "debtByAnnualEquity": 24.849,
+    "price": 10.51,
+    "priceToEarnings": 6.48,
+    "debtByAnnualEquity": 24.792,
     "holders": [
       {
         "name": "INDAC � INVESTIMENTOS E PARTICIPA��ES S.A.",
         "ordinaryShares": 43.29,
         "preferredShares": 0,
-        "totalShares": 15.29
+        "totalShares": 15.3
       },
       {
         "name": "Grupo Gerdau Empreendimentos Ltda",
         "ordinaryShares": 31.8,
         "preferredShares": 0,
-        "totalShares": 11.23
+        "totalShares": 11.24
       },
       {
         "name": "Bonsucex Holding S.A.",
@@ -27,24 +27,39 @@
       {
         "name": "BlackRock, Inc.",
         "ordinaryShares": 0,
-        "preferredShares": 4.96,
+        "preferredShares": 4.97,
         "totalShares": 3.21
       },
       {
         "name": "FMR LLC",
         "ordinaryShares": 0,
-        "preferredShares": 10.96,
-        "totalShares": 7.09
+        "preferredShares": 10.98,
+        "totalShares": 7.1
       },
       {
         "name": "Gerval Investimentos Ltda.",
         "ordinaryShares": 0,
-        "preferredShares": 2.63,
+        "preferredShares": 2.64,
         "totalShares": 1.7
       }
     ]
   },
   "events": [
+    {
+      "date": 1723172400000,
+      "amount": 0.08,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715742000000,
+      "amount": 0.19,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1709262000000,
+      "amount": 0.05,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700190000000,
       "amount": 0.93,
@@ -527,23 +542,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 872951000
+      },
+      {
+        "period": 1612051200000,
+        "value": 5063330000
+      },
+      {
+        "period": 1643587200000,
+        "value": 3744624000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2560346000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": null
+      },
+      {
         "period": 1672444800000,
-        "value": 0.045437733073776326
+        "value": null
       },
       {
         "period": 1640908800000,
-        "value": 0.06462856295981109
+        "value": null
       },
       {
         "period": 1609372800000,
-        "value": 0.019923719140495004
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0107225278169388
+        "value": null
       }
     ]
   }

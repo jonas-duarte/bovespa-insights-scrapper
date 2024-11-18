@@ -2,9 +2,9 @@
   "name": "ODPV3",
   "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
   "currentState": {
-    "price": 11.45,
-    "priceToEarnings": 12.86,
-    "debtByAnnualEquity": 1.677,
+    "price": 10.32,
+    "priceToEarnings": 10.58,
+    "debtByAnnualEquity": 1.576,
     "holders": [
       {
         "name": "Bradesco Sa�de S/A",
@@ -13,14 +13,59 @@
         "totalShares": 52.89
       },
       {
-        "name": "1832 Asset Management L.P.",
-        "ordinaryShares": 5.31,
+        "name": "SPRUCEGROVE INVESTMENT MANAGEMENT",
+        "ordinaryShares": 5.01,
         "preferredShares": 0,
-        "totalShares": 5.31
+        "totalShares": 5.01
       }
     ]
   },
   "events": [
+    {
+      "date": 1731034800000,
+      "amount": 0.2257,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1727751600000,
+      "amount": 0.0336,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1724382000000,
+      "amount": 0.1561,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1719198000000,
+      "amount": 0.0395,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1715742000000,
+      "amount": 0.1333,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712890800000,
+      "amount": 0.4137,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712890800000,
+      "amount": 0.3641,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711940400000,
+      "amount": 0.0414,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702868400000,
+      "amount": 0.0354,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695351600000,
       "amount": 0.0372,
@@ -545,10 +590,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 284763000
-      },
-      {
         "period": 1580428800000,
         "value": 361128000
       },
@@ -559,24 +600,28 @@
       {
         "period": 1643587200000,
         "value": 452171000
+      },
+      {
+        "period": 1675123200000,
+        "value": 511394000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.23866859259017265
+      },
+      {
         "period": 1672444800000,
-        "value": 0.2156367151490931
+        "value": 0.23050132921442534
       },
       {
         "period": 1640908800000,
-        "value": 0.19077175090067114
+        "value": 0.206443758636673
       },
       {
         "period": 1609372800000,
-        "value": 0.1918288621887405
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.14828085376712508
+        "value": 0.20456592448584918
       }
     ]
   }

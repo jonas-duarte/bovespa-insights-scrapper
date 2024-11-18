@@ -2,18 +2,30 @@
   "name": "SBSP3",
   "business": "�gua e Saneamento",
   "currentState": {
-    "price": 71.45,
-    "priceToEarnings": 16.39,
-    "debtByAnnualEquity": 64.212,
+    "price": 96.31,
+    "priceToEarnings": 7.05,
+    "debtByAnnualEquity": 62.933,
     "holders": [
       {
-        "name": "Governo do Estado de S�o Paulo",
-        "ordinaryShares": 50.26,
-        "preferredShares": 0,
-        "totalShares": 50.26
+        "name": "Secretaria da Fazenda do Estado de S�o Paulo",
+        "ordinaryShares": 18,
+        "preferredShares": 100,
+        "totalShares": 18
       },
       {
-        "name": "Companhia Paulista de Parcerias - CPP",
+        "name": "EQUATORIAL PARTICIPA��ES E INVESTIMENTOS IV S.A.",
+        "ordinaryShares": 15,
+        "preferredShares": 0,
+        "totalShares": 15
+      },
+      {
+        "name": "BlackRock, Inc",
+        "ordinaryShares": 5.17,
+        "preferredShares": 0,
+        "totalShares": 5.17
+      },
+      {
+        "name": "COMPANHIA PAULISTA DE PARCERIAS � CPP",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
@@ -21,6 +33,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714014000000,
+      "amount": 1.4404,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682650800000,
       "amount": 1.276,
@@ -240,12 +257,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 3367517000
-      },
-      {
         "period": 1580428800000,
-        "value": 973318000
+        "value": 973300000
       },
       {
         "period": 1612051200000,
@@ -254,9 +267,17 @@
       {
         "period": 1643587200000,
         "value": 3121267000
+      },
+      {
+        "period": 1675123200000,
+        "value": 3523531000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.13778833426612236
+      },
       {
         "period": 1672444800000,
         "value": 0.14151734788073117
@@ -267,11 +288,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.05468834149616512
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.18725432551137827
+        "value": 0.05468733012049249
       }
     ]
   }

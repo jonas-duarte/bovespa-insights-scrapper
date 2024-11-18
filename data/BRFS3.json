@@ -2,27 +2,21 @@
   "name": "BRFS3",
   "business": "Carnes e Derivados",
   "currentState": {
-    "price": 14.07,
-    "priceToEarnings": -6.41,
-    "debtByAnnualEquity": 174.95,
+    "price": 24.95,
+    "priceToEarnings": 12.84,
+    "debtByAnnualEquity": 156.369,
     "holders": [
       {
         "name": "Marfrig Global Foods S.A.",
-        "ordinaryShares": 45.01,
+        "ordinaryShares": 50.49,
         "preferredShares": 0,
-        "totalShares": 45.01
+        "totalShares": 50.49
       },
       {
         "name": "SAUDI AGRICULTURAL AND LIVESTOCK INVESTMENT COMPANY",
-        "ordinaryShares": 10.7,
+        "ordinaryShares": 11.03,
         "preferredShares": 0,
-        "totalShares": 10.7
-      },
-      {
-        "name": "Kapitalo Investimentos Ltda.",
-        "ordinaryShares": 6.42,
-        "preferredShares": 0,
-        "totalShares": 6.42
+        "totalShares": 11.03
       },
       {
         "name": "Previ - Caixa Previd�ncia Funcion�rios Banco do Brasil",
@@ -267,10 +261,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 297612000
-      },
-      {
         "period": 1580428800000,
         "value": 1383564000
       },
@@ -281,9 +271,17 @@
       {
         "period": 1643587200000,
         "value": -3166403000
+      },
+      {
+        "period": 1675123200000,
+        "value": -2028559000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.03783566166184836
+      },
       {
         "period": 1672444800000,
         "value": -0.05884957443010717
@@ -295,10 +293,6 @@
       {
         "period": 1609372800000,
         "value": 0.03505382609951431
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.008898023080110671
       }
     ]
   }

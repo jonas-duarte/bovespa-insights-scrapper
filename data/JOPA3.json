@@ -2,15 +2,15 @@
   "name": "JOPA3",
   "business": "Alimentos Diversos",
   "currentState": {
-    "price": 21,
-    "priceToEarnings": 32.81,
-    "debtByAnnualEquity": 165.002,
+    "price": 21.1,
+    "priceToEarnings": 6.42,
+    "debtByAnnualEquity": 154.059,
     "holders": [
       {
         "name": "PEROLI S/A PARTICIPACOES",
-        "ordinaryShares": 62.39,
+        "ordinaryShares": 65.43,
         "preferredShares": 0.38,
-        "totalShares": 61.62
+        "totalShares": 64.63
       },
       {
         "name": "LOSAPAR S/A PARTICIPA��ES",
@@ -25,15 +25,9 @@
         "totalShares": 0.19
       },
       {
-        "name": "Santiago Santos Gottschall",
-        "ordinaryShares": 0.03,
-        "preferredShares": 6.09,
-        "totalShares": 0.1
-      },
-      {
         "name": "BANRISUL FUNDO DE INVESTIMENTO EM ACOES",
         "ordinaryShares": 0,
-        "preferredShares": 15.76,
+        "preferredShares": 15.68,
         "totalShares": 0.2
       },
       {
@@ -47,10 +41,21 @@
         "ordinaryShares": 0,
         "preferredShares": 13.7,
         "totalShares": 0.17
+      },
+      {
+        "name": "Santiago Santos Gottschall",
+        "ordinaryShares": 0,
+        "preferredShares": 6.09,
+        "totalShares": 0.08
       }
     ]
   },
   "events": [
+    {
+      "date": 1714100400000,
+      "amount": 0.4332,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682564400000,
       "amount": 0.8215,
@@ -229,23 +234,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.013478731752010049
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.01535095384228223
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.02034996908727873
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.008768863395780507
-      }
-    ]
+    "netMargin": []
   }
 }

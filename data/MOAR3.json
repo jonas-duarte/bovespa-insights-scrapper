@@ -2,33 +2,27 @@
   "name": "MOAR3",
   "business": "Holdings Diversificadas",
   "currentState": {
-    "price": 399.36,
-    "priceToEarnings": 5.53,
-    "debtByAnnualEquity": 71.685,
+    "price": 411,
+    "priceToEarnings": 25.56,
+    "debtByAnnualEquity": 43.964,
     "holders": [
       {
         "name": "Celi Elisabete J�lia Monteiro de Carvalho",
-        "ordinaryShares": 20,
+        "ordinaryShares": 22,
         "preferredShares": 0,
-        "totalShares": 20
+        "totalShares": 22
       },
       {
         "name": "S�rgio Alberto Monteiro de Carvalho",
-        "ordinaryShares": 17,
+        "ordinaryShares": 18,
         "preferredShares": 0,
-        "totalShares": 17
+        "totalShares": 18
       },
       {
         "name": "Joaquim �lvaro Monteiro de Carvalho",
-        "ordinaryShares": 14,
+        "ordinaryShares": 15,
         "preferredShares": 0,
-        "totalShares": 14
-      },
-      {
-        "name": "Three o Five Participa��es S.A.",
-        "ordinaryShares": 10.06,
-        "preferredShares": 0,
-        "totalShares": 10.06
+        "totalShares": 15
       },
       {
         "name": "Joaquim Pedro Monteiro de Carvalho Collor de Mello",
@@ -41,6 +35,12 @@
         "ordinaryShares": 7.11,
         "preferredShares": 0,
         "totalShares": 7.11
+      },
+      {
+        "name": "THREE O FIVE PARTICIPA��ES II S.A.",
+        "ordinaryShares": 5.5,
+        "preferredShares": 0,
+        "totalShares": 5.5
       },
       {
         "name": "S�rgio Francisco Monteiro de Carvalho Guimar�es",
@@ -59,12 +59,6 @@
         "ordinaryShares": 2.86,
         "preferredShares": 0,
         "totalShares": 2.86
-      },
-      {
-        "name": "Pedro Alberto Guimar�es Filho",
-        "ordinaryShares": 2.39,
-        "preferredShares": 0,
-        "totalShares": 2.39
       },
       {
         "name": "Monteiro Aranha Participa��es S.A.",
@@ -101,10 +95,36 @@
         "ordinaryShares": 0.98,
         "preferredShares": 0,
         "totalShares": 0.98
+      },
+      {
+        "name": "Three o Five Participa��es S.A.",
+        "ordinaryShares": 0.56,
+        "preferredShares": 0,
+        "totalShares": 0.56
       }
     ]
   },
   "events": [
+    {
+      "date": 1712286000000,
+      "amount": 1.2244,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1704337200000,
+      "amount": 14.57,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 1.5427,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.0898,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1693882800000,
       "amount": 4.8975,
@@ -752,41 +772,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 100132000
-      },
-      {
-        "period": 1580428800000,
-        "value": -9345000
-      },
-      {
-        "period": 1612051200000,
-        "value": 591383000
-      },
-      {
-        "period": 1643587200000,
-        "value": 0
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 400.93762711864406
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.08590259776074127
-      },
-      {
-        "period": 1577750400000,
-        "value": 88.76950354609929
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

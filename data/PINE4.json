@@ -2,24 +2,55 @@
   "name": "PINE4",
   "business": "Bancos",
   "currentState": {
-    "price": 3.75,
-    "priceToEarnings": 5.01,
+    "price": 4.47,
+    "priceToEarnings": 3.95,
     "holders": [
       {
         "name": "Noberto Nogueira Pinheiro",
-        "ordinaryShares": 99.98,
-        "preferredShares": 23.33,
-        "totalShares": 63.57
+        "ordinaryShares": 98.78,
+        "preferredShares": 36.08,
+        "totalShares": 66.99
       },
       {
         "name": "Clube de Investimento Horizonte",
-        "ordinaryShares": 0,
-        "preferredShares": 8.83,
-        "totalShares": 4.19
+        "ordinaryShares": 0.57,
+        "preferredShares": 7.61,
+        "totalShares": 4.14
+      },
+      {
+        "name": "Francisco Asclepio Barroso Aguiar",
+        "ordinaryShares": 0.36,
+        "preferredShares": 5.88,
+        "totalShares": 3.15
       }
     ]
   },
   "events": [
+    {
+      "date": 1728874800000,
+      "amount": 0.0766,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1728529200000,
+      "amount": 0.1594,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1720407600000,
+      "amount": 0.0814,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712804400000,
+      "amount": 0.0801,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1704682800000,
+      "amount": 0.2081,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1690772400000,
       "amount": 0.1006,
@@ -344,38 +375,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -118208000
+        "period": 1359590400000,
+        "value": 161596000
       },
       {
-        "period": 1580428800000,
-        "value": -63624000
+        "period": 1391126400000,
+        "value": 94307000
       },
       {
-        "period": 1612051200000,
-        "value": 5942000
+        "period": 1422662400000,
+        "value": 41026000
       },
       {
-        "period": 1643587200000,
-        "value": 40900000
+        "period": 1454198400000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.1685326125027299
+        "period": 1483142400000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": 0.028750036288332576
+        "period": 1451520000000,
+        "value": 0.19801722140705846
       },
       {
-        "period": 1609372800000,
-        "value": -0.33124905634836754
+        "period": 1419984000000,
+        "value": 0.2482802014527131
       },
       {
-        "period": 1577750400000,
-        "value": 2.4684778749973897
+        "period": 1388448000000,
+        "value": 0.43574491034110824
       }
     ]
   }

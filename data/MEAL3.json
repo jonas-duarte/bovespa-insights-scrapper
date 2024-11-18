@@ -2,9 +2,9 @@
   "name": "MEAL3",
   "business": "Restaurante e Similares",
   "currentState": {
-    "price": 1.95,
-    "priceToEarnings": 4.78,
-    "debtByAnnualEquity": 103.402,
+    "price": 1.27,
+    "priceToEarnings": -3.47,
+    "debtByAnnualEquity": 112.494,
     "holders": [
       {
         "name": "UV GESTORA DE ATIVOS FINANCEIROS LTDA",
@@ -69,12 +69,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -15842000
-      },
-      {
         "period": 1580428800000,
-        "value": -473578000
+        "value": -473600000
       },
       {
         "period": 1612051200000,
@@ -83,12 +79,20 @@
       {
         "period": 1643587200000,
         "value": 72669000
+      },
+      {
+        "period": 1675123200000,
+        "value": -81997000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.036830320547803684
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.03243144094513491
       },
       {
         "period": 1640908800000,
@@ -96,11 +100,7 @@
       },
       {
         "period": 1609372800000,
-        "value": -0.41049693586554215
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.009881104897390445
+        "value": -0.4105053306752189
       }
     ]
   }

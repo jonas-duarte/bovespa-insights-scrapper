@@ -2,9 +2,9 @@
   "name": "BEEF3",
   "business": "Carnes e Derivados",
   "currentState": {
-    "price": 7.4,
-    "priceToEarnings": 12.31,
-    "debtByAnnualEquity": 1748.955,
+    "price": 5.71,
+    "priceToEarnings": 2.617,
+    "debtByAnnualEquity": 1925.966,
     "holders": [
       {
         "name": "SALIC INTERNATIONAL INVESTMENT COMPANY",
@@ -13,7 +13,7 @@
         "totalShares": 30.55
       },
       {
-        "name": "VDQ HOLDING S.A.",
+        "name": "VDQ Holdings S.A.",
         "ordinaryShares": 22.36,
         "preferredShares": 0,
         "totalShares": 22.36
@@ -90,10 +90,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 16157000
-      },
-      {
         "period": 1580428800000,
         "value": 697092000
       },
@@ -104,9 +100,17 @@
       {
         "period": 1643587200000,
         "value": 652533000
+      },
+      {
+        "period": 1675123200000,
+        "value": 421054000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.01565744913218097
+      },
       {
         "period": 1672444800000,
         "value": 0.021064557618723286
@@ -118,10 +122,6 @@
       {
         "period": 1609372800000,
         "value": 0.0359208308375859
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0009435942959178757
       }
     ]
   }

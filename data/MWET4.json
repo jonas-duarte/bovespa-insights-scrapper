@@ -2,8 +2,8 @@
   "name": "MWET4",
   "business": "Material Rodovi�rio",
   "currentState": {
-    "price": 6.03,
-    "priceToEarnings": -2.59,
+    "price": 11,
+    "priceToEarnings": -1.48,
     "holders": [
       {
         "name": "CWS Participa��es S/A",
@@ -14,14 +14,14 @@
       {
         "name": "Eloi Jensen",
         "ordinaryShares": 0.1,
-        "preferredShares": 6.05,
-        "totalShares": 4.07
+        "preferredShares": 7.43,
+        "totalShares": 4.99
       },
       {
         "name": "AAVBN PARTICIPA��ES LTDA",
         "ordinaryShares": 0.03,
-        "preferredShares": 7.22,
-        "totalShares": 4.83
+        "preferredShares": 10.34,
+        "totalShares": 6.9
       },
       {
         "name": "BRDE Banco Regional de Desenvolvimento do Extremo Sul",
@@ -40,23 +40,6 @@
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.10209402642786938
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.5316967887522371
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.17005551605316413
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.21832715580761844
-      }
-    ]
+    "netMargin": []
   }
 }

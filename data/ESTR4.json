@@ -2,8 +2,8 @@
   "name": "ESTR4",
   "business": "Brinquedos e Jogos",
   "currentState": {
-    "price": 4.19,
-    "priceToEarnings": -0.5,
+    "price": 3.5,
+    "priceToEarnings": -1.1,
     "holders": [
       {
         "name": "Carlos Antonio Tilkian",
@@ -15,41 +15,7 @@
   },
   "events": [],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -40874000
-      },
-      {
-        "period": 1580428800000,
-        "value": -15698000
-      },
-      {
-        "period": 1612051200000,
-        "value": -28449000
-      },
-      {
-        "period": 1643587200000,
-        "value": -46510000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": -0.26370099901346006
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.18362841854550854
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.11329306226138668
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.3644420667825777
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

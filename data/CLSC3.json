@@ -2,9 +2,9 @@
   "name": "CLSC3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 61.24,
-    "priceToEarnings": 4.13,
-    "debtByAnnualEquity": 77.323,
+    "price": 75.95,
+    "priceToEarnings": 4.34,
+    "debtByAnnualEquity": 93.964,
     "holders": [
       {
         "name": "ESTADO DE SANTA CATARINA",
@@ -27,8 +27,8 @@
       {
         "name": "GERA��O L. PAR FUNDO DE INVESTIMENTO",
         "ordinaryShares": 2.97,
-        "preferredShares": 13.67,
-        "totalShares": 9.36
+        "preferredShares": 12.5,
+        "totalShares": 8.66
       },
       {
         "name": "CENTRAIS EL�TRICAS BRASILEIRAS - ELETROBRAS",
@@ -45,6 +45,36 @@
     ]
   },
   "events": [
+    {
+      "date": 1727233200000,
+      "amount": 0.5833,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719370800000,
+      "amount": 0.5178,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714446000000,
+      "amount": 0.0153,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714446000000,
+      "amount": 0.0153,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711076400000,
+      "amount": 0.5397,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703214000000,
+      "amount": 1.0855,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695956400000,
       "amount": 0.5963,
@@ -297,23 +327,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1264896000000,
+        "value": 273516000
+      },
+      {
+        "period": 1296432000000,
+        "value": 0
+      },
+      {
+        "period": 1327968000000,
+        "value": -258366000
+      },
+      {
+        "period": 1422662400000,
+        "value": 130674000
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1451520000000,
+        "value": 0.019035659996547553
       },
       {
-        "period": 1640908800000,
-        "value": 0.04974500442842648
+        "period": 1356912000000,
+        "value": -0.0568435281595102
       },
       {
-        "period": 1609372800000,
-        "value": 0.0585949811783456
+        "period": 1325289600000,
+        "value": 0
       },
       {
-        "period": 1577750400000,
-        "value": 0.03539669134085151
+        "period": 1293753600000,
+        "value": 0.06775623550045642
       }
     ]
   }

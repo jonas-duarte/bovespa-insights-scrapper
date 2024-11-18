@@ -2,8 +2,8 @@
   "name": "GSHP3",
   "business": "Explora��o de Im�veis",
   "currentState": {
-    "price": 16.5,
-    "priceToEarnings": -1.89,
+    "price": 7.5,
+    "priceToEarnings": -0.07,
     "holders": [
       {
         "name": "Golf Participa��es Ltda",
@@ -35,38 +35,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -34312000
+        "period": 1327968000000,
+        "value": -90240000
       },
       {
-        "period": 1580428800000,
-        "value": -472942000
+        "period": 1359590400000,
+        "value": -117601000
       },
       {
-        "period": 1612051200000,
-        "value": -256470000
+        "period": 1391126400000,
+        "value": -246339000
       },
       {
-        "period": 1643587200000,
-        "value": -86772000
+        "period": 1422662400000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -0.5630340979138955
+        "period": 1451520000000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": -1.964023157507811
+        "period": 1419984000000,
+        "value": -0.8948020341445696
       },
       {
-        "period": 1609372800000,
-        "value": -5.152940151011648
+        "period": 1388448000000,
+        "value": -0.6838698797422716
       },
       {
-        "period": 1577750400000,
-        "value": -0.24646769385482886
+        "period": 1356912000000,
+        "value": -0.4601733809280979
       }
     ]
   }

@@ -2,39 +2,27 @@
   "name": "ORVR3",
   "business": "�gua e Saneamento",
   "currentState": {
-    "price": 36.72,
-    "priceToEarnings": -19.92,
-    "debtByAnnualEquity": 180.121,
+    "price": 45.35,
+    "priceToEarnings": 23.52,
+    "debtByAnnualEquity": 164.128,
     "holders": [
       {
         "name": "Milton Pil�o Junior",
-        "ordinaryShares": 14.75,
+        "ordinaryShares": 14.53,
         "preferredShares": 0,
-        "totalShares": 14.75
+        "totalShares": 14.53
       },
       {
         "name": "Ismar Machado Assaly",
-        "ordinaryShares": 9.7,
+        "ordinaryShares": 9.24,
         "preferredShares": 0,
-        "totalShares": 9.7
+        "totalShares": 9.24
       },
       {
-        "name": "C.I.M.S.P.E Empreendimentos e Participa��es Ltda.",
-        "ordinaryShares": 7.19,
+        "name": "Fabio Vettori",
+        "ordinaryShares": 7.66,
         "preferredShares": 0,
-        "totalShares": 7.19
-      },
-      {
-        "name": "Equitas Administra��o",
-        "ordinaryShares": 6.56,
-        "preferredShares": 0,
-        "totalShares": 6.56
-      },
-      {
-        "name": "TPE Gestora de Recursos Ltda.",
-        "ordinaryShares": 5.07,
-        "preferredShares": 0,
-        "totalShares": 5.07
+        "totalShares": 7.66
       },
       {
         "name": "HIX Investimentos Ltda.",
@@ -44,9 +32,9 @@
       },
       {
         "name": "VOLT FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 3.8,
+        "ordinaryShares": 3.63,
         "preferredShares": 0,
-        "totalShares": 3.8
+        "totalShares": 3.63
       },
       {
         "name": "Dalton Assum��o Canelhas",
@@ -62,43 +50,33 @@
       },
       {
         "name": "EMERALDS FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 1.27,
+        "ordinaryShares": 1.26,
         "preferredShares": 0,
-        "totalShares": 1.27
+        "totalShares": 1.26
       },
       {
         "name": "DALTON ASSUM��O CANELHAS FILHO",
-        "ordinaryShares": 1.2,
+        "ordinaryShares": 1.17,
         "preferredShares": 0,
-        "totalShares": 1.2
-      },
-      {
-        "name": "Fabio Vettori",
-        "ordinaryShares": 0.46,
-        "preferredShares": 0,
-        "totalShares": 0.46
+        "totalShares": 1.17
       },
       {
         "name": "FERNANDA ASSALY CANELHAS DAUD",
-        "ordinaryShares": 0.36,
+        "ordinaryShares": 0.33,
         "preferredShares": 0,
-        "totalShares": 0.36
+        "totalShares": 0.33
       },
       {
         "name": "Inovatec Participa��es S.A.",
-        "ordinaryShares": 0.26,
+        "ordinaryShares": 0.09,
         "preferredShares": 0,
-        "totalShares": 0.26
+        "totalShares": 0.09
       }
     ]
   },
   "events": [],
   "history": {
     "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -19487000
-      },
       {
         "period": 1580428800000,
         "value": 20065000
@@ -110,9 +88,17 @@
       {
         "period": 1643587200000,
         "value": -120693000
+      },
+      {
+        "period": 1675123200000,
+        "value": 50167000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.06462521062096471
+      },
       {
         "period": 1672444800000,
         "value": -0.19273135491453539
@@ -124,10 +110,6 @@
       {
         "period": 1609372800000,
         "value": 0.051190403298228424
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.05597251782980471
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "MSPA3",
   "business": "Papel e Celulose",
   "currentState": {
-    "price": 46.25,
-    "priceToEarnings": 9,
-    "debtByAnnualEquity": 17.385,
+    "price": 42,
+    "priceToEarnings": -19.34,
+    "debtByAnnualEquity": 18.946,
     "holders": [
       {
         "name": "ERGELA PARTICIPACOES LTDA",
@@ -82,6 +82,11 @@
   },
   "events": [
     {
+      "date": 1714359600000,
+      "amount": 0.2889,
+      "type": "DIVIDENDO"
+    },
+    {
       "date": 1682650800000,
       "amount": 0.0554,
       "type": "DIVIDENDO"
@@ -119,23 +124,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.007523660718728541
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.22551535665732597
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.5453189331105674
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.30058088422574786
-      }
-    ]
+    "netMargin": []
   }
 }

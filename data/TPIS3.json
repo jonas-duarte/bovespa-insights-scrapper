@@ -2,9 +2,9 @@
   "name": "TPIS3",
   "business": "Explora��o de Rodovias",
   "currentState": {
-    "price": 4.04,
-    "priceToEarnings": -2.85,
-    "debtByAnnualEquity": 182.003,
+    "price": 6.49,
+    "priceToEarnings": 3.35,
+    "debtByAnnualEquity": 154.501,
     "holders": [
       {
         "name": "THP - TRIUNFO HOLDING PARTICIPA��ES S.A",
@@ -14,9 +14,9 @@
       },
       {
         "name": "EXPLORADOR CAPITAL MANAGEMENT LLC",
-        "ordinaryShares": 11.07,
+        "ordinaryShares": 9.97,
         "preferredShares": 0,
-        "totalShares": 11.07
+        "totalShares": 9.97
       },
       {
         "name": "BNDES PARTICIPA��ES S.A.",
@@ -25,16 +25,16 @@
         "totalShares": 5.09
       },
       {
-        "name": "Miguel Ferreira de Aguiar",
-        "ordinaryShares": 0.79,
-        "preferredShares": 0,
-        "totalShares": 0.79
-      },
-      {
         "name": "Carlo Alberto Bottarelli",
         "ordinaryShares": 0.36,
         "preferredShares": 0,
         "totalShares": 0.36
+      },
+      {
+        "name": "Miguel Ferreira de Aguiar",
+        "ordinaryShares": 0.28,
+        "preferredShares": 0,
+        "totalShares": 0.28
       },
       {
         "name": "Wilson Piovezan",
@@ -43,10 +43,52 @@
         "totalShares": 0.28
       },
       {
+        "name": "RACHEL DE ALMEIDA AGUIAR",
+        "ordinaryShares": 0.25,
+        "preferredShares": 0,
+        "totalShares": 0.25
+      },
+      {
         "name": "Luiz Fernando Wolff de Carvalho",
         "ordinaryShares": 0.05,
         "preferredShares": 0,
         "totalShares": 0.05
+      },
+      {
+        "name": "LEONARDO DE ALMEIDA AGUIAR",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "MARIA CANDIDA FERREIRA DE ALMEIDA",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "MARIA LETICIA DE ALMEIDA AGUIAR",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "MARIA MARCIA DE ALMEIDA AGUIAR",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "MARIA TERESA DE ALMEIDA AGUIAR",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
+      },
+      {
+        "name": "MARIA VIRGINIA DE ALMEIDA AGUIAR",
+        "ordinaryShares": 0.04,
+        "preferredShares": 0,
+        "totalShares": 0.04
       },
       {
         "name": "Dorival Pagani Jr.",
@@ -147,38 +189,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -192625000
+        "period": 1327968000000,
+        "value": 0
       },
       {
-        "period": 1580428800000,
-        "value": 189352000
+        "period": 1359590400000,
+        "value": -98807000
       },
       {
-        "period": 1612051200000,
-        "value": 10552000
+        "period": 1391126400000,
+        "value": -430184000
       },
       {
-        "period": 1643587200000,
-        "value": 8382000
+        "period": 1422662400000,
+        "value": 97005000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.007471793578108412
+        "period": 1451520000000,
+        "value": 0.057061764705882353
       },
       {
-        "period": 1640908800000,
-        "value": 0.010065878465392343
+        "period": 1419984000000,
+        "value": -0.33091076923076923
       },
       {
-        "period": 1609372800000,
-        "value": 0.19538812535664277
+        "period": 1388448000000,
+        "value": -0.1172029388808624
       },
       {
-        "period": 1577750400000,
-        "value": -0.19447131062305528
+        "period": 1356912000000,
+        "value": 0
       }
     ]
   }

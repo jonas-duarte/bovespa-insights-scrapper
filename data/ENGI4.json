@@ -2,43 +2,131 @@
   "name": "ENGI4",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 8.58,
-    "priceToEarnings": 10.36,
-    "debtByAnnualEquity": 209.06,
+    "price": 7.21,
+    "priceToEarnings": 6.66,
+    "debtByAnnualEquity": 163.437,
     "holders": [
       {
-        "name": "Gipar S/A",
-        "ordinaryShares": 62.9,
-        "preferredShares": 4.87,
-        "totalShares": 27.66
-      },
-      {
-        "name": "BNDES PARTICIPA��ES S/A BNDESPAR",
-        "ordinaryShares": 5.8,
-        "preferredShares": 15,
-        "totalShares": 11.39
+        "name": "Gipar S.A.",
+        "ordinaryShares": 62.44,
+        "preferredShares": 5.75,
+        "totalShares": 27.72
       },
       {
         "name": "Samambaia Master Fundo de Investimento em A��es no Exterior - BDR N�vel I",
-        "ordinaryShares": 4.91,
-        "preferredShares": 12.71,
-        "totalShares": 9.65
+        "ordinaryShares": 4.36,
+        "preferredShares": 11.03,
+        "totalShares": 8.45
       },
       {
         "name": "SQUADRA INVESTIMENTOS � GEST�O DE RECURSOS LTDA.",
-        "ordinaryShares": 1.97,
-        "preferredShares": 5.09,
-        "totalShares": 3.87
+        "ordinaryShares": 4.03,
+        "preferredShares": 10.2,
+        "totalShares": 7.81
       },
       {
-        "name": "BLACKROCK ASSET MANAG IR LT I ITS CAP A M F T BKR I S FD",
-        "ordinaryShares": 1.94,
-        "preferredShares": 5.03,
-        "totalShares": 3.82
+        "name": "BNDES PARTICIPA��ES S/A BNDESPAR",
+        "ordinaryShares": 3.69,
+        "preferredShares": 9.33,
+        "totalShares": 7.15
+      },
+      {
+        "name": "MULTISETOR COM. LND. E PARTICIPA��ES S/A",
+        "ordinaryShares": 0.2,
+        "preferredShares": 0.42,
+        "totalShares": 0.34
+      },
+      {
+        "name": "Ivan M�ller Botelho",
+        "ordinaryShares": 0.15,
+        "preferredShares": 0.38,
+        "totalShares": 0.29
+      },
+      {
+        "name": "FRANCISCO EDUARDO MULLER BOTELHO (ESP�LIO)",
+        "ordinaryShares": 0.07,
+        "preferredShares": 0,
+        "totalShares": 0.03
+      },
+      {
+        "name": "Gilberto Muller Botelho",
+        "ordinaryShares": 0.07,
+        "preferredShares": 0.02,
+        "totalShares": 0.04
+      },
+      {
+        "name": "Mauricio Perez Botelho",
+        "ordinaryShares": 0.03,
+        "preferredShares": 0.08,
+        "totalShares": 0.06
+      },
+      {
+        "name": "Itacatu S/A",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0.03,
+        "totalShares": 0.02
+      },
+      {
+        "name": "STELLA PEREZ BOTELHO",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0.02,
+        "totalShares": 0.02
+      },
+      {
+        "name": "RICARDO PEREZ BOTELHO",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0.03,
+        "totalShares": 0.02
+      },
+      {
+        "name": "MARIA DO CARMO RIPPER KOS",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0.02,
+        "totalShares": 0.01
+      },
+      {
+        "name": "CINTIA ALZUGUIR BOTELHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "BEATRIZ ALZUGUIR BOTELHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "BRUNO ALZUGUIR BOTELHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "FREDERICO KOS BOTELHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "Monica Perez Botelho",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
       }
     ]
   },
   "events": [
+    {
+      "date": 1723431600000,
+      "amount": 0.2,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.2,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1692068400000,
       "amount": 0.14,
@@ -211,11 +299,32 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 1468900000
+      },
+      {
+        "period": 1612051200000,
+        "value": 2818178000
+      },
+      {
+        "period": 1643587200000,
+        "value": 2135461000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1894219000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.0663896126217928
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.08057389583731163
       },
       {
         "period": 1640908800000,
@@ -223,11 +332,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.07225430256296443
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.022879460949242418
+        "value": 0.07225211753942411
       }
     ]
   }

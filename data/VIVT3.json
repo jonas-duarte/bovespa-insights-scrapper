@@ -2,21 +2,21 @@
   "name": "VIVT3",
   "business": "Telecomunica��es",
   "currentState": {
-    "price": 54.12,
-    "priceToEarnings": 19.77,
-    "debtByAnnualEquity": 25.739,
+    "price": 51.6,
+    "priceToEarnings": 15.83,
+    "debtByAnnualEquity": 27.896,
     "holders": [
       {
         "name": "Telef�nica S.A.",
-        "ordinaryShares": 40.01,
+        "ordinaryShares": 38.39,
         "preferredShares": 0,
-        "totalShares": 40.01
+        "totalShares": 38.39
       },
       {
         "name": "Telef�nica Latinoam�rica Holding, S.L.",
-        "ordinaryShares": 38.4,
+        "ordinaryShares": 36.85,
         "preferredShares": 0,
-        "totalShares": 38.4
+        "totalShares": 36.85
       },
       {
         "name": "Telefonica Chile S.A.",
@@ -27,6 +27,41 @@
     ]
   },
   "events": [
+    {
+      "date": 1724641200000,
+      "amount": 0.2442,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1721962800000,
+      "amount": 0.3956,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719370800000,
+      "amount": 0.1062,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.2301,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712718000000,
+      "amount": 0.9077,
+      "type": "REST CAP DIN"
+    },
+    {
+      "date": 1711594800000,
+      "amount": 0.1815,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703559600000,
+      "amount": 0.5143,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1698030000000,
       "amount": 0.0906,
@@ -49,7 +84,7 @@
     },
     {
       "date": 1685502000000,
-      "amount": 0.1926,
+      "amount": 0.1928,
       "type": "JRS CAP PROPRIO"
     },
     {
@@ -681,38 +716,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 5001014000
-      },
-      {
         "period": 1580428800000,
-        "value": 4770527000
+        "value": 4771000000
       },
       {
         "period": 1612051200000,
-        "value": 6239364000
+        "value": 6229000000
       },
       {
         "period": 1643587200000,
-        "value": 4085013000
+        "value": 4058000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 5029000000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.09652591170825336
+      },
+      {
         "period": 1672444800000,
-        "value": 0.08503151942910957
+        "value": 0.08446951562207282
       },
       {
         "period": 1640908800000,
-        "value": 0.14169869955253395
+        "value": 0.14146208525424114
       },
       {
         "period": 1609372800000,
-        "value": 0.1106171402103098
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.11297087471718675
+        "value": 0.11062931874043501
       }
     ]
   }

@@ -2,15 +2,15 @@
   "name": "ABEV3",
   "business": "Cervejas e Refrigerantes",
   "currentState": {
-    "price": 14.7,
-    "priceToEarnings": 15.36,
-    "debtByAnnualEquity": 4.062,
+    "price": 12.64,
+    "priceToEarnings": 14.28,
+    "debtByAnnualEquity": 3.418,
     "holders": [
       {
         "name": "Interbrew International BV",
-        "ordinaryShares": 53.59,
+        "ordinaryShares": 53.57,
         "preferredShares": 0,
-        "totalShares": 53.59
+        "totalShares": 53.57
       },
       {
         "name": "Funda��o Zerrenner",
@@ -27,6 +27,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1702954800000,
+      "amount": 0.7302,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1671418800000,
       "amount": 0.7623,
@@ -181,12 +186,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 11779965000
-      },
-      {
         "period": 1580428800000,
-        "value": 11379394000
+        "value": 11379400000
       },
       {
         "period": 1612051200000,
@@ -194,13 +195,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 14457943000
+        "value": 14457900000
+      },
+      {
+        "period": 1675123200000,
+        "value": 14501944000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.1818725333238622
+      },
+      {
         "period": 1672444800000,
-        "value": 0.18138446573802924
+        "value": 0.18138398771528363
       },
       {
         "period": 1640908800000,
@@ -208,11 +217,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.19492274575812757
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.22651548539836078
+        "value": 0.19492283184021653
       }
     ]
   }

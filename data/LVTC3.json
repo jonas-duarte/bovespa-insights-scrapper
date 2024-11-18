@@ -2,9 +2,9 @@
   "name": "LVTC3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 4.3,
-    "priceToEarnings": -526.61,
-    "debtByAnnualEquity": 99.055,
+    "price": 3.4,
+    "priceToEarnings": 26.64,
+    "debtByAnnualEquity": 93.441,
     "holders": [
       {
         "name": "Vanderlei Rigatieri Junior",
@@ -47,10 +47,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 19977000
-      },
-      {
         "period": 1580428800000,
         "value": 70587000
       },
@@ -61,9 +57,17 @@
       {
         "period": 1643587200000,
         "value": 23169000
+      },
+      {
+        "period": 1675123200000,
+        "value": 0
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0
+      },
       {
         "period": 1672444800000,
         "value": 0.02163497228979228
@@ -74,11 +78,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.09830442381744876
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.039435424172136406
+        "value": null
       }
     ]
   }

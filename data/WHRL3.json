@@ -2,31 +2,41 @@
   "name": "WHRL3",
   "business": "Eletrodom�sticos",
   "currentState": {
-    "price": 4.45,
-    "priceToEarnings": 18.77,
-    "debtByAnnualEquity": 67.067,
+    "price": 4.07,
+    "priceToEarnings": 10.87,
+    "debtByAnnualEquity": 55.793,
     "holders": [
       {
+        "name": "Whirlpool CSA Holdings S.�.R.L.",
+        "ordinaryShares": 59.41,
+        "preferredShares": 0,
+        "totalShares": 49.9
+      },
+      {
         "name": "Whirlpool do Brasil Ltda.",
-        "ordinaryShares": 53.1,
+        "ordinaryShares": 21.97,
         "preferredShares": 50.93,
-        "totalShares": 52.42
+        "totalShares": 26.6
       },
       {
         "name": "Brasmotor Ltda",
-        "ordinaryShares": 44.23,
+        "ordinaryShares": 18.29,
         "preferredShares": 44.74,
-        "totalShares": 44.39
-      },
-      {
-        "name": "Whirlpool CSA Holdings S.�.R.L.",
-        "ordinaryShares": 1.88,
-        "preferredShares": 0,
-        "totalShares": 1.28
+        "totalShares": 22.53
       }
     ]
   },
   "events": [
+    {
+      "date": 1726196400000,
+      "amount": 0.1863,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1726196400000,
+      "amount": 0.0158,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1701831600000,
       "amount": 0.2373,
@@ -294,23 +304,32 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 949276800000,
+        "value": 0
+      },
+      {
+        "period": 980899200000,
+        "value": 0
+      },
+      {
+        "period": 1233360000000,
+        "value": 0
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1262217600000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": 0.08614244748678372
+        "period": 1009756800000,
+        "value": 0
       },
       {
-        "period": 1609372800000,
-        "value": 0.07649954994011014
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.22847594689535677
+        "period": 978220800000,
+        "value": 0
       }
     ]
   }

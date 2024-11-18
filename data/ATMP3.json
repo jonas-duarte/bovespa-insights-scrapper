@@ -2,8 +2,9 @@
   "name": "ATMP3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 3.85,
-    "priceToEarnings": 0.09,
+    "price": 1.33,
+    "priceToEarnings": 0.15,
+    "debtByAnnualEquity": 63.046,
     "holders": [
       {
         "name": "Providence Internacional LLC",
@@ -13,31 +14,54 @@
       },
       {
         "name": "An�bal Cesar Jesus dos Santos",
-        "ordinaryShares": 12.03,
+        "ordinaryShares": 11.84,
         "preferredShares": 0,
-        "totalShares": 12.03
+        "totalShares": 11.84
+      },
+      {
+        "name": "S�O MIGUEL FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO",
+        "ordinaryShares": 6.95,
+        "preferredShares": 0,
+        "totalShares": 6.95
       }
     ]
   },
   "events": [],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1359590400000,
+        "value": 0
+      },
+      {
+        "period": 1391126400000,
+        "value": 0
+      },
+      {
+        "period": 1422662400000,
+        "value": -226778000
+      },
+      {
+        "period": 1454198400000,
+        "value": 0
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1483142400000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": -0.13000297631539787
+        "period": 1451520000000,
+        "value": -0.07066091187592385
       },
       {
-        "period": 1609372800000,
-        "value": -0.22724188773387893
+        "period": 1419984000000,
+        "value": 0
       },
       {
-        "period": 1577750400000,
-        "value": -0.4896026871556879
+        "period": 1388448000000,
+        "value": 0
       }
     ]
   }

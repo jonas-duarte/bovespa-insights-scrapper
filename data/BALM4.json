@@ -2,9 +2,9 @@
   "name": "BALM4",
   "business": "Equipamentos",
   "currentState": {
-    "price": 10.85,
-    "priceToEarnings": -29.16,
-    "debtByAnnualEquity": 14.925,
+    "price": 10.26,
+    "priceToEarnings": 5.07,
+    "debtByAnnualEquity": 11.645,
     "holders": [
       {
         "name": "Condustil Participa��es S/A",
@@ -325,23 +325,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.03469588681446908
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.0757136451950381
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.10082038129015236
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.02808921036769138
-      }
-    ]
+    "netMargin": []
   }
 }

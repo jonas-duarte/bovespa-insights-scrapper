@@ -2,43 +2,53 @@
   "name": "CGRA4",
   "business": "Tecidos, Vestu�rio e Cal�ados",
   "currentState": {
-    "price": 26.5,
-    "priceToEarnings": 6.2,
-    "debtByAnnualEquity": 15.901,
+    "price": 25.45,
+    "priceToEarnings": 5.93,
+    "debtByAnnualEquity": 15.734,
     "holders": [
       {
         "name": "V.R. Grazziotin S.A",
-        "ordinaryShares": 68.77,
-        "preferredShares": 17.05,
-        "totalShares": 38.55
+        "ordinaryShares": 69.65,
+        "preferredShares": 18.65,
+        "totalShares": 39.8
       },
       {
         "name": "Clique Master Fundo de Investimento em A��es",
-        "ordinaryShares": 6.21,
-        "preferredShares": 14.23,
-        "totalShares": 10.9
+        "ordinaryShares": 5.99,
+        "preferredShares": 13.68,
+        "totalShares": 10.49
       },
       {
         "name": "Ana Maria Grazziotin",
-        "ordinaryShares": 0.26,
-        "preferredShares": 5.76,
-        "totalShares": 3.47
+        "ordinaryShares": 0.27,
+        "preferredShares": 5.93,
+        "totalShares": 3.59
       },
       {
         "name": "FIA VOKIN ACONCAGUA MASTER LONG ONLY",
         "ordinaryShares": 0,
-        "preferredShares": 4.67,
-        "totalShares": 2.73
+        "preferredShares": 4.49,
+        "totalShares": 2.63
       },
       {
         "name": "Fia Vokin K2 Long Biased",
         "ordinaryShares": 0,
-        "preferredShares": 1.23,
-        "totalShares": 0.72
+        "preferredShares": 1.18,
+        "totalShares": 0.69
       }
     ]
   },
   "events": [
+    {
+      "date": 1719284400000,
+      "amount": 1.2944,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703041200000,
+      "amount": 1.2747,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1687402800000,
       "amount": 1.4278,
@@ -276,41 +286,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 129450203
-      },
-      {
-        "period": 1580428800000,
-        "value": 70997000
-      },
-      {
-        "period": 1612051200000,
-        "value": 174776000
-      },
-      {
-        "period": 1643587200000,
-        "value": 119071000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.1745010998738186
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.2848101059547826
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.15778338315202292
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.2694239200304272
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

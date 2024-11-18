@@ -2,8 +2,8 @@
   "name": "CTSA3",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 3.91,
-    "priceToEarnings": -2.21,
+    "price": 1.92,
+    "priceToEarnings": -1.08,
     "debtByAnnualEquity": 101.529,
     "holders": [
       {
@@ -223,41 +223,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 10604000
-      },
-      {
-        "period": 1580428800000,
-        "value": -3755000
-      },
-      {
-        "period": 1612051200000,
-        "value": 27107000
-      },
-      {
-        "period": 1643587200000,
-        "value": 0
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.045120353678856
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.007934244028187168
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.022976600875814983
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

@@ -2,9 +2,9 @@
   "name": "PNVL3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 12.78,
-    "priceToEarnings": 21.83,
-    "debtByAnnualEquity": 94.347,
+    "price": 9.75,
+    "priceToEarnings": 14.16,
+    "debtByAnnualEquity": 95.331,
     "holders": [
       {
         "name": "JULIO RICARDO ANDRIGHETTO MOTTIN",
@@ -20,15 +20,9 @@
       },
       {
         "name": "ROBERTO LUIZ WEBER",
-        "ordinaryShares": 4.05,
+        "ordinaryShares": 4.06,
         "preferredShares": 0,
-        "totalShares": 4.05
-      },
-      {
-        "name": "DENIS PIZZATO",
-        "ordinaryShares": 3.95,
-        "preferredShares": 0,
-        "totalShares": 3.95
+        "totalShares": 4.06
       },
       {
         "name": "GERALDO OTTO WEBER",
@@ -43,6 +37,12 @@
         "totalShares": 3.85
       },
       {
+        "name": "DENIS PIZZATO",
+        "ordinaryShares": 3.8,
+        "preferredShares": 0,
+        "totalShares": 3.8
+      },
+      {
         "name": "REGIS PIZZATO",
         "ordinaryShares": 3.5,
         "preferredShares": 0,
@@ -50,15 +50,15 @@
       },
       {
         "name": "ELISABETH WEBER TAYLOR",
-        "ordinaryShares": 3.23,
+        "ordinaryShares": 3.24,
         "preferredShares": 0,
-        "totalShares": 3.23
+        "totalShares": 3.24
       },
       {
         "name": "FRANCISCO ANGELO MOTTIN",
-        "ordinaryShares": 3,
+        "ordinaryShares": 3.01,
         "preferredShares": 0,
-        "totalShares": 3
+        "totalShares": 3.01
       },
       {
         "name": "NELSON DE ALVARENGA MARIANO DA ROCHA",
@@ -74,9 +74,9 @@
       },
       {
         "name": "JOSE E P ANNONI",
-        "ordinaryShares": 1.67,
+        "ordinaryShares": 1.72,
         "preferredShares": 0,
-        "totalShares": 1.67
+        "totalShares": 1.72
       },
       {
         "name": "ANA LUIZA MARIANO DA ROCHA MOTTIN",
@@ -103,16 +103,16 @@
         "totalShares": 0.39
       },
       {
+        "name": "Julio Ricardo Mottin Neto",
+        "ordinaryShares": 0.28,
+        "preferredShares": 0,
+        "totalShares": 0.28
+      },
+      {
         "name": "CARLOS ALBERTO DE FREITAS LIMA",
         "ordinaryShares": 0.21,
         "preferredShares": 0,
         "totalShares": 0.21
-      },
-      {
-        "name": "Julio Ricardo Mottin Neto",
-        "ordinaryShares": 0.2,
-        "preferredShares": 0,
-        "totalShares": 0.2
       },
       {
         "name": "RAFAELLA POLESE WEBER",
@@ -158,9 +158,9 @@
       },
       {
         "name": "NELSON DE CASTRO PERRONE",
-        "ordinaryShares": 0.12,
+        "ordinaryShares": 0.11,
         "preferredShares": 0,
-        "totalShares": 0.12
+        "totalShares": 0.11
       },
       {
         "name": "MARIANA MARIANO DA ROCHA MOTTIN",
@@ -181,22 +181,22 @@
         "totalShares": 0.08
       },
       {
-        "name": "MARCELA DE AZEVEDO PIZZATO",
-        "ordinaryShares": 0.07,
-        "preferredShares": 0,
-        "totalShares": 0.07
-      },
-      {
         "name": "GABRIELA ZUBARAN DE AZEVEDO PIZZATO",
         "ordinaryShares": 0.07,
         "preferredShares": 0,
         "totalShares": 0.07
       },
       {
-        "name": "ANT�NIO CARLOS TOCCHETTO NAPP",
-        "ordinaryShares": 0.03,
+        "name": "MARCELA DE AZEVEDO PIZZATO",
+        "ordinaryShares": 0.07,
         "preferredShares": 0,
-        "totalShares": 0.03
+        "totalShares": 0.07
+      },
+      {
+        "name": "ANT�NIO CARLOS TOCCHETTO NAPP",
+        "ordinaryShares": 0.05,
+        "preferredShares": 0,
+        "totalShares": 0.05
       },
       {
         "name": "IVETE POLESE WEBER",
@@ -213,6 +213,51 @@
     ]
   },
   "events": [
+    {
+      "date": 1727838000000,
+      "amount": 0.0615,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727838000000,
+      "amount": 0.0289,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719370800000,
+      "amount": 0.0395,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719370800000,
+      "amount": 0.0323,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712286000000,
+      "amount": 0.0591,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712286000000,
+      "amount": 0.0188,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703214000000,
+      "amount": 0.056,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703214000000,
+      "amount": 0.056,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703214000000,
+      "amount": 0.006,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701313200000,
       "amount": 0.0799,
@@ -607,38 +652,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 76755000
-      },
-      {
         "period": 1580428800000,
         "value": 56151000
       },
       {
         "period": 1612051200000,
-        "value": 79426000
+        "value": 121610000
       },
       {
         "period": 1643587200000,
-        "value": 86345000
+        "value": 97700000
+      },
+      {
+        "period": 1675123200000,
+        "value": 92905000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.0208257165151597
+      },
+      {
         "period": 1672444800000,
-        "value": 0.021637774951603506
+        "value": 0.024483300860173286
       },
       {
         "period": 1640908800000,
-        "value": 0.024625101692561064
+        "value": 0.037703757168085404
       },
       {
         "period": 1609372800000,
         "value": 0.019917988301272387
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0281702805467064
       }
     ]
   }

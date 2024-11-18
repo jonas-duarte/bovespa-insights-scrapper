@@ -2,21 +2,21 @@
   "name": "TCSA3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 3.89,
-    "priceToEarnings": 17.33,
-    "debtByAnnualEquity": 121.341,
+    "price": 1.35,
+    "priceToEarnings": -0.66,
+    "debtByAnnualEquity": 157.763,
     "holders": [
       {
         "name": "Meyer Joseph Nigri",
-        "ordinaryShares": 34.81,
+        "ordinaryShares": 35.39,
         "preferredShares": 0,
-        "totalShares": 34.81
+        "totalShares": 35.39
       },
       {
         "name": "VKN Administra��o de Recursos Ltda",
-        "ordinaryShares": 13.47,
+        "ordinaryShares": 14.3,
         "preferredShares": 0,
-        "totalShares": 13.47
+        "totalShares": 14.3
       },
       {
         "name": "Lilian Raquel Czeresnia Nigri",
@@ -82,10 +82,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -257919000
-      },
-      {
         "period": 1580428800000,
         "value": -164852000
       },
@@ -96,24 +92,28 @@
       {
         "period": 1643587200000,
         "value": 1045000
+      },
+      {
+        "period": 1675123200000,
+        "value": -56168000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.13265503738657672
+      },
+      {
         "period": 1672444800000,
-        "value": 0.004402836353524587
+        "value": 0.004544525477610058
       },
       {
         "period": 1640908800000,
-        "value": -1.262101760690885
+        "value": -1.3104409636502936
       },
       {
         "period": 1609372800000,
-        "value": -0.9125642828278355
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.7194754548345523
+        "value": -0.9464951111264217
       }
     ]
   }

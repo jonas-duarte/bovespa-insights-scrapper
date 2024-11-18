@@ -2,33 +2,27 @@
   "name": "VIVR3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 5.16,
-    "priceToEarnings": -1.19,
-    "debtByAnnualEquity": 214.479,
+    "price": 1.31,
+    "priceToEarnings": -0.86,
+    "debtByAnnualEquity": 47.126,
     "holders": [
       {
-        "name": "CRIXUS SPECIAL RETURN FUNDO DE INVESTIMENTO EM PARTICIPA��O MULTIESTRATEGIA",
-        "ordinaryShares": 13.25,
+        "name": "SCA EMPREENDIMENTOS E NEG�CIOS LTDA.",
+        "ordinaryShares": 36.66,
         "preferredShares": 0,
-        "totalShares": 13.25
-      },
-      {
-        "name": "BPS Capital Participa��es Societ�rias S.A.",
-        "ordinaryShares": 7.04,
-        "preferredShares": 0,
-        "totalShares": 7.04
+        "totalShares": 36.66
       },
       {
         "name": "REAG ALPHA FUNDO DE INVESTIMENTO MULTIMERCADO",
-        "ordinaryShares": 5.46,
+        "ordinaryShares": 9.08,
         "preferredShares": 0,
-        "totalShares": 5.46
+        "totalShares": 9.08
       },
       {
-        "name": "Zenith Asset Management Ltda.",
-        "ordinaryShares": 5.34,
+        "name": "CRIXUS SPECIAL RETURN FUNDO DE INVESTIMENTO EM PARTICIPA��O MULTIESTRATEGIA",
+        "ordinaryShares": 8.18,
         "preferredShares": 0,
-        "totalShares": 5.34
+        "totalShares": 8.18
       }
     ]
   },
@@ -36,38 +30,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -220512000
+        "period": 1170201600000,
+        "value": -61467000
       },
       {
-        "period": 1580428800000,
-        "value": -180781000
+        "period": 1201737600000,
+        "value": -74974000
       },
       {
-        "period": 1612051200000,
-        "value": -57531000
+        "period": 1264896000000,
+        "value": 67373000
       },
       {
-        "period": 1643587200000,
-        "value": 0
+        "period": 1296432000000,
+        "value": -114928000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1325289600000,
+        "value": -0.1579942234118163
       },
       {
-        "period": 1640908800000,
-        "value": -0.8462805783969051
+        "period": 1293753600000,
+        "value": 0.08656252730253522
       },
       {
-        "period": 1609372800000,
-        "value": -4.107632182863375
+        "period": 1230681600000,
+        "value": -0.13227966915085818
       },
       {
-        "period": 1577750400000,
-        "value": 1.5180399418976875
+        "period": 1199059200000,
+        "value": -0.30800954089455906
       }
     ]
   }

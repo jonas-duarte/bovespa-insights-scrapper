@@ -2,55 +2,61 @@
   "name": "IGTI3",
   "business": "Explora��o de Im�veis",
   "currentState": {
-    "price": 3.06,
-    "priceToEarnings": 23.14,
-    "debtByAnnualEquity": 69.769,
+    "price": 2.41,
+    "priceToEarnings": 13.4,
+    "debtByAnnualEquity": 96.347,
     "holders": [
       {
         "name": "GJ Investimentos e Participa��es S.A.",
-        "ordinaryShares": 62.51,
-        "preferredShares": 1.61,
-        "totalShares": 40.66
+        "ordinaryShares": 63.33,
+        "preferredShares": 1.6,
+        "totalShares": 40.87
+      },
+      {
+        "name": "Oceana Investimentos Administradora de Carteira de Valores Mobili�rios Ltda",
+        "ordinaryShares": 2.89,
+        "preferredShares": 10.11,
+        "totalShares": 5.52
       },
       {
         "name": "NORGES BANK",
-        "ordinaryShares": 2.87,
-        "preferredShares": 10.67,
-        "totalShares": 5.67
+        "ordinaryShares": 2.76,
+        "preferredShares": 10.13,
+        "totalShares": 5.44
       },
       {
         "name": "Vera Ribeiro Jereissati",
-        "ordinaryShares": 1.73,
+        "ordinaryShares": 1.75,
         "preferredShares": 0,
         "totalShares": 1.11
       },
       {
         "name": "DIANA JEREISSATI LEGEY",
-        "ordinaryShares": 1.73,
+        "ordinaryShares": 1.75,
         "preferredShares": 0,
         "totalShares": 1.11
       },
       {
         "name": "LIA RIBEIRO JEREISSATI",
-        "ordinaryShares": 1.72,
+        "ordinaryShares": 1.75,
         "preferredShares": 0,
         "totalShares": 1.11
       },
       {
-        "name": "Oceana Investimentos Administradora de Carteira de Valores Mobili�rios Ltda",
-        "ordinaryShares": 1.67,
-        "preferredShares": 5.96,
-        "totalShares": 3.21
+        "name": "SHARP CAPITAL GESTORA DE RECURSOS",
+        "ordinaryShares": 1.45,
+        "preferredShares": 5.08,
+        "totalShares": 2.77
       },
       {
         "name": "BlackRock",
-        "ordinaryShares": 1.42,
-        "preferredShares": 5.07,
-        "totalShares": 2.73
+        "ordinaryShares": 0.97,
+        "preferredShares": 3.37,
+        "totalShares": 1.84
       },
       {
         "name": "Kalila Representa��es Comerciais Ltda",
-        "ordinaryShares": 0.18,
+        "ordinaryShares": 0.19,
         "preferredShares": 0.3,
         "totalShares": 0.23
       },
@@ -87,6 +93,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1713409200000,
+      "amount": 0.024,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1713409200000,
+      "amount": 0.024,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1713409200000,
+      "amount": 0.024,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1708657200000,
+      "amount": 0.0239,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1681959600000,
       "amount": 0.0131,
@@ -271,10 +297,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 128664000
-      },
-      {
         "period": 1580428800000,
         "value": 76500000
       },
@@ -285,24 +307,28 @@
       {
         "period": 1643587200000,
         "value": 7568000
+      },
+      {
+        "period": 1675123200000,
+        "value": 304713000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.26332763837073947
+      },
+      {
         "period": 1672444800000,
-        "value": 0.00747869688054936
+        "value": 0.007446319689946583
       },
       {
         "period": 1640908800000,
-        "value": 0.27764658325715275
+        "value": 0.2785619720673516
       },
       {
         "period": 1609372800000,
-        "value": 0.1135136097624672
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1703924227656058
+        "value": null
       }
     ]
   }

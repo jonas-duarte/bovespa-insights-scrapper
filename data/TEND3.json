@@ -2,27 +2,27 @@
   "name": "TEND3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 14.51,
-    "priceToEarnings": -7.72,
-    "debtByAnnualEquity": 139.582,
+    "price": 16.27,
+    "priceToEarnings": 30.6,
+    "debtByAnnualEquity": 132.756,
     "holders": [
       {
         "name": "Polo Capital Gest�o de Recursos Ltda. e Polo Capital Internacional Gest�o de Recursos Ltda.",
-        "ordinaryShares": 28.94,
+        "ordinaryShares": 18.94,
         "preferredShares": 0,
-        "totalShares": 28.94
-      },
-      {
-        "name": "P�tria Investimentos Ltda",
-        "ordinaryShares": 9.23,
-        "preferredShares": 0,
-        "totalShares": 9.23
+        "totalShares": 18.94
       },
       {
         "name": "Total Return Investment LLC",
-        "ordinaryShares": 5.15,
+        "ordinaryShares": 7.15,
         "preferredShares": 0,
-        "totalShares": 5.15
+        "totalShares": 7.15
+      },
+      {
+        "name": "Banco Santander Brasil S.A",
+        "ordinaryShares": 6.69,
+        "preferredShares": 0,
+        "totalShares": 6.69
       }
     ]
   },
@@ -76,12 +76,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 263544000
-      },
-      {
         "period": 1580428800000,
-        "value": 200317000
+        "value": 200300000
       },
       {
         "period": 1612051200000,
@@ -89,13 +85,21 @@
       },
       {
         "period": 1643587200000,
-        "value": -547304000
+        "value": -547300000
+      },
+      {
+        "period": 1675123200000,
+        "value": -95849000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.0330162340983925
+      },
+      {
         "period": 1672444800000,
-        "value": -0.226853674853456
+        "value": -0.2268507004890989
       },
       {
         "period": 1640908800000,
@@ -103,11 +107,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.08776714019512183
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.13514397737959835
+        "value": 0.08775849982474589
       }
     ]
   }

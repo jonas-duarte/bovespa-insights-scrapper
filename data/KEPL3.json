@@ -2,33 +2,21 @@
   "name": "KEPL3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 10.99,
-    "priceToEarnings": 7.48,
-    "debtByAnnualEquity": 30.741,
+    "price": 10.39,
+    "priceToEarnings": 7.42,
+    "debtByAnnualEquity": 42.146,
     "holders": [
       {
         "name": "Tr�gono Capital S.A",
-        "ordinaryShares": 20.77,
+        "ordinaryShares": 20.09,
         "preferredShares": 0,
-        "totalShares": 20.77
-      },
-      {
-        "name": "Tarpon Gestora de Recursos S.A.",
-        "ordinaryShares": 8.57,
-        "preferredShares": 0,
-        "totalShares": 8.57
+        "totalShares": 20.09
       },
       {
         "name": "Fernando Francisco Brochado Heller",
         "ordinaryShares": 6.39,
         "preferredShares": 0,
         "totalShares": 6.39
-      },
-      {
-        "name": "Morgan Stanley Uruguay Ltda",
-        "ordinaryShares": 5.32,
-        "preferredShares": 0,
-        "totalShares": 5.32
       },
       {
         "name": "Deise Duprat Vilela Heller",
@@ -45,6 +33,36 @@
     ]
   },
   "events": [
+    {
+      "date": 1731294000000,
+      "amount": 0.0817,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1731294000000,
+      "amount": 0.0813,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1723431600000,
+      "amount": 0.0877,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719543600000,
+      "amount": 0.1698,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712113200000,
+      "amount": 0.2659,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712113200000,
+      "amount": 0.1577,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1701140400000,
       "amount": 0.0695,
@@ -234,10 +252,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 37572000
-      },
-      {
         "period": 1580428800000,
         "value": 67650000
       },
@@ -247,25 +261,29 @@
       },
       {
         "period": 1643587200000,
-        "value": 382468000
+        "value": 0
+      },
+      {
+        "period": 1675123200000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0
+      },
+      {
         "period": 1672444800000,
-        "value": 0.21067962395085163
+        "value": 0
       },
       {
         "period": 1640908800000,
-        "value": 0.12611127739098452
+        "value": null
       },
       {
         "period": 1609372800000,
-        "value": 0.1007831739027446
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06439460807417755
+        "value": null
       }
     ]
   }

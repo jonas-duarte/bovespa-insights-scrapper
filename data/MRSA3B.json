@@ -2,73 +2,57 @@
   "name": "MRSA3B",
   "business": "Transporte Ferrovi�rio",
   "currentState": {
-    "price": 24.25,
-    "priceToEarnings": 7.17,
+    "price": 28,
+    "priceToEarnings": 6.64,
+    "debtByAnnualEquity": 112.087,
     "holders": [
       {
         "name": "Minera��es Brasileiras Reunidas S.A.",
-        "ordinaryShares": 20,
-        "preferredShares": 48.99,
-        "totalShares": 32.93
+        "ordinaryShares": 20.12,
+        "preferredShares": 49.28,
+        "totalShares": 33.13
       },
       {
         "name": "Usiminas Participa��es e Log�stica S.A.",
-        "ordinaryShares": 19.92,
+        "ordinaryShares": 20.04,
         "preferredShares": 0.23,
-        "totalShares": 11.13
+        "totalShares": 11.2
       },
       {
         "name": "Vale S.A.",
-        "ordinaryShares": 19.26,
+        "ordinaryShares": 19.37,
         "preferredShares": 0.51,
-        "totalShares": 10.89
+        "totalShares": 10.96
       },
       {
         "name": "COMPANHIA SIDER�RGICA NACIONAL (�CSN�)",
-        "ordinaryShares": 14.13,
-        "preferredShares": 24.24,
-        "totalShares": 18.64
+        "ordinaryShares": 14.22,
+        "preferredShares": 24.39,
+        "totalShares": 18.75
       },
       {
         "name": "CSN Minera��o S.A.",
-        "ordinaryShares": 13.7,
-        "preferredShares": 24.75,
-        "totalShares": 18.63
+        "ordinaryShares": 13.78,
+        "preferredShares": 24.9,
+        "totalShares": 18.74
       },
       {
         "name": "Railvest Investments Inc.",
-        "ordinaryShares": 7.83,
+        "ordinaryShares": 7.88,
         "preferredShares": 0,
-        "totalShares": 4.34
+        "totalShares": 4.36
       },
       {
         "name": "Gerdau S.A.",
-        "ordinaryShares": 2.37,
+        "ordinaryShares": 2.38,
         "preferredShares": 0,
-        "totalShares": 1.31
+        "totalShares": 1.32
       }
     ]
   },
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1514678400000,
-        "value": 0.1320571861297725
-      },
-      {
-        "period": 1483142400000,
-        "value": 0.12732281927901884
-      },
-      {
-        "period": 1451520000000,
-        "value": 0.09323096978514497
-      },
-      {
-        "period": 1419984000000,
-        "value": 0.1236544097554701
-      }
-    ]
+    "netMargin": []
   }
 }

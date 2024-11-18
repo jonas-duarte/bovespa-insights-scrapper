@@ -2,8 +2,8 @@
   "name": "NEXP3",
   "business": "Intermedia��o Imobili�ria",
   "currentState": {
-    "price": 5.12,
-    "priceToEarnings": -0.1,
+    "price": 3.54,
+    "priceToEarnings": -0.21,
     "holders": [
       {
         "name": "PROMONTORIA HOLDING 276 BV",
@@ -53,38 +53,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -89128000
+        "period": 1422662400000,
+        "value": -91099000
       },
       {
-        "period": 1580428800000,
-        "value": -178125000
+        "period": 1454198400000,
+        "value": -134140000
       },
       {
-        "period": 1612051200000,
-        "value": -72944000
+        "period": 1485820800000,
+        "value": -106160000
       },
       {
-        "period": 1643587200000,
-        "value": 0
+        "period": 1517356800000,
+        "value": -76705000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1546214400000,
+        "value": -0.6891238724979336
       },
       {
-        "period": 1640908800000,
-        "value": -0.5088986095704529
+        "period": 1514678400000,
+        "value": -1.191858180552593
       },
       {
-        "period": 1609372800000,
-        "value": -1.7531815631735908
+        "period": 1483142400000,
+        "value": -1.2173076574042143
       },
       {
-        "period": 1577750400000,
-        "value": -0.8365998347976271
+        "period": 1451520000000,
+        "value": -0.5478156288523407
       }
     ]
   }

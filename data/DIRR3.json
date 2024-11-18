@@ -2,9 +2,9 @@
   "name": "DIRR3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 21.1,
-    "priceToEarnings": 12.62,
-    "debtByAnnualEquity": 63.923,
+    "price": 30,
+    "priceToEarnings": 9.35,
+    "debtByAnnualEquity": 78.611,
     "holders": [
       {
         "name": "Filadelphia Participa��es Ltda.",
@@ -14,15 +14,21 @@
       },
       {
         "name": "ALLIANCA FIM IE",
-        "ordinaryShares": 8.77,
+        "ordinaryShares": 8.48,
         "preferredShares": 0,
-        "totalShares": 8.77
+        "totalShares": 8.48
+      },
+      {
+        "name": "DRIEHAUS CAPITAL MANAGEMENT LLC",
+        "ordinaryShares": 5.17,
+        "preferredShares": 0,
+        "totalShares": 5.17
       },
       {
         "name": "Ricardo Ribeiro Valadares Gontijo",
-        "ordinaryShares": 1.58,
+        "ordinaryShares": 1.47,
         "preferredShares": 0,
-        "totalShares": 1.58
+        "totalShares": 1.47
       },
       {
         "name": "Ana L�cia Ribeiro Valadares Gontijo",
@@ -39,6 +45,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1726542000000,
+      "amount": 0.46,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1720062000000,
+      "amount": 1.6,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1701745200000,
       "amount": 0.47,
@@ -128,10 +144,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 100476000
-      },
-      {
         "period": 1580428800000,
         "value": 113073000
       },
@@ -141,13 +153,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 208844000
+        "value": 208843000
+      },
+      {
+        "period": 1675123200000,
+        "value": 331560000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.14077886941269532
+      },
+      {
         "period": 1672444800000,
-        "value": 0.09657007994022054
+        "value": 0.09656961753727893
       },
       {
         "period": 1640908800000,
@@ -156,10 +176,6 @@
       {
         "period": 1609372800000,
         "value": 0.07534568338061054
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06890280532262445
       }
     ]
   }

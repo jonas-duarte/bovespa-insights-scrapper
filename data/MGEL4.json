@@ -2,51 +2,51 @@
   "name": "MGEL4",
   "business": "Artefatos de Ferro e A�o",
   "currentState": {
-    "price": 13.79,
-    "priceToEarnings": 0.37,
-    "debtByAnnualEquity": 2842.547,
+    "price": 7.5,
+    "priceToEarnings": -52.07,
+    "debtByAnnualEquity": 2758.587,
     "holders": [
       {
         "name": "Mangels S.A.",
         "ordinaryShares": 99.92,
         "preferredShares": 0,
-        "totalShares": 35.72
+        "totalShares": 35.7
       },
       {
         "name": "Robert Max Mangels",
         "ordinaryShares": 0,
-        "preferredShares": 23.73,
-        "totalShares": 15.25
+        "preferredShares": 23.72,
+        "totalShares": 15.24
       },
       {
         "name": "Andr� Ricardo Beim",
         "ordinaryShares": 0,
-        "preferredShares": 8.16,
-        "totalShares": 5.24
+        "preferredShares": 8.33,
+        "totalShares": 5.35
       },
       {
         "name": "CLUBE DE INVESTIMENTO VALORE",
         "ordinaryShares": 0,
-        "preferredShares": 8.95,
-        "totalShares": 5.75
+        "preferredShares": 8.85,
+        "totalShares": 5.69
       },
       {
         "name": "Jos� Antonio Bortoluzzo Neto",
         "ordinaryShares": 0,
         "preferredShares": 10.76,
-        "totalShares": 6.92
+        "totalShares": 6.91
       },
       {
         "name": "Organon Master FIA",
         "ordinaryShares": 0,
-        "preferredShares": 11.02,
-        "totalShares": 7.08
+        "preferredShares": 13.45,
+        "totalShares": 8.64
       },
       {
         "name": "Valmir Rendolh Celestino",
         "ordinaryShares": 0,
-        "preferredShares": 7.61,
-        "totalShares": 4.89
+        "preferredShares": 5.17,
+        "totalShares": 3.32
       }
     ]
   },
@@ -113,41 +113,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -6474000
-      },
-      {
-        "period": 1580428800000,
-        "value": -30980000
-      },
-      {
-        "period": 1612051200000,
-        "value": 149330000
-      },
-      {
-        "period": 1643587200000,
-        "value": 0
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.17304113449536138
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.056692994078162404
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.011636936217941804
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

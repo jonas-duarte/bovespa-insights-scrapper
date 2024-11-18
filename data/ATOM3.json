@@ -2,9 +2,9 @@
   "name": "ATOM3",
   "business": "Outros",
   "currentState": {
-    "price": 2.13,
-    "priceToEarnings": -625.98,
-    "debtByAnnualEquity": 45.335,
+    "price": 3.93,
+    "priceToEarnings": 4.87,
+    "debtByAnnualEquity": 23.954,
     "holders": [
       {
         "name": "EXAME. LTDA.",
@@ -45,23 +45,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.27926672981556805
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.2156841843442419
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.40020773150702715
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.22350327903532896
-      }
-    ]
+    "netMargin": []
   }
 }

@@ -2,9 +2,9 @@
   "name": "CSED3",
   "business": "Servi�os Educacionais",
   "currentState": {
-    "price": 4.98,
-    "priceToEarnings": 23.26,
-    "debtByAnnualEquity": 154.298,
+    "price": 3.3,
+    "priceToEarnings": 7.47,
+    "debtByAnnualEquity": 159.023,
     "holders": [
       {
         "name": "ARCHY LLC - CITIBANK DTVM SA",
@@ -13,7 +13,7 @@
         "totalShares": 36.4
       },
       {
-        "name": "D2HFP FUNDO DE INVESTIMENTO EM PARTICIPA��ES",
+        "name": "D2HFP � FUNDO DE INVESTIMENTO FINANCEIRO EM A��ES",
         "ordinaryShares": 23.5,
         "preferredShares": 0,
         "totalShares": 23.5
@@ -25,7 +25,7 @@
         "totalShares": 11.75
       },
       {
-        "name": "REDMOND FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO - INVESTIMENTO NO EXTERIOR",
+        "name": "REDMOND FUNDO DE INVESTIMENTO DE A��ES",
         "ordinaryShares": 11.75,
         "preferredShares": 0,
         "totalShares": 11.75
@@ -39,6 +39,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1724727600000,
+      "amount": 0.1646,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1699930800000,
       "amount": 0.1646,
@@ -63,10 +68,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 120871000
-      },
-      {
         "period": 1580428800000,
         "value": -34793000
       },
@@ -77,24 +78,28 @@
       {
         "period": 1643587200000,
         "value": 6606000
+      },
+      {
+        "period": 1675123200000,
+        "value": 100455000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.043718151421345844
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.0032568825431884517
       },
       {
         "period": 1640908800000,
-        "value": 0.04556427361084029
+        "value": 0.045564649016807644
       },
       {
         "period": 1609372800000,
         "value": -0.019319055085931566
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0819881851708904
       }
     ]
   }

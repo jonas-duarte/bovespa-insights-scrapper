@@ -2,9 +2,9 @@
   "name": "ENMT3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 63.49,
-    "priceToEarnings": 12.05,
-    "debtByAnnualEquity": 168.312,
+    "price": 82.98,
+    "priceToEarnings": 14.39,
+    "debtByAnnualEquity": 149.288,
     "holders": [
       {
         "name": "Rede Energia Participa��es S/A",
@@ -21,6 +21,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1720062000000,
+      "amount": 1.305,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1710471600000,
+      "amount": 1.4449,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1699930800000,
       "amount": 1.8748,
@@ -164,23 +174,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.1669556984885842
-      },
-      {
-        "period": 1640908800000,
-        "value": null
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.1330414908144765
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.12044614187019559
-      }
-    ]
+    "netMargin": []
   }
 }

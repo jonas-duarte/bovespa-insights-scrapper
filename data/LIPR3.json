@@ -2,8 +2,8 @@
   "name": "LIPR3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 70.08,
-    "priceToEarnings": 35.91,
+    "price": 47.5,
+    "priceToEarnings": 23.75,
     "holders": [
       {
         "name": "Centrais El�tricas Brasileiras S.A. � ELETROBR�S",
@@ -14,6 +14,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714359600000,
+      "amount": 0.3862,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 1.8204,
@@ -163,38 +168,14 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -2385000
-      },
-      {
-        "period": 1580428800000,
-        "value": 45260000
-      },
-      {
-        "period": 1612051200000,
-        "value": 22046000
-      },
-      {
-        "period": 1643587200000,
-        "value": 27149000
+        "period": 1233360000000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
+        "period": 1262217600000,
         "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": null
-      },
-      {
-        "period": 1609372800000,
-        "value": null
-      },
-      {
-        "period": 1577750400000,
-        "value": -298.125
       }
     ]
   }

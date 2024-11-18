@@ -10,7 +10,11 @@ const SYMBOLS = require("./symbols.json");
 const DATA_PATH = "./data";
 
 async function getAllSymbols() {
-  return SYMBOLS;
+  // remove symbols from DATA_PATH
+  const files = fs.readdirSync(DATA_PATH);
+  const existingSymbols = files.map((file) => file.replace(".json", ""));
+  const symbols = SYMBOLS.filter((symbol) => !existingSymbols.includes(symbol));
+  return symbols;
 }
 
 // https://fundamentus.com.br/detalhes.php?papel=SAPR4

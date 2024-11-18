@@ -2,15 +2,15 @@
   "name": "CBAV3",
   "business": "Minerais Met�licos",
   "currentState": {
-    "price": 4.45,
-    "priceToEarnings": -6.8,
-    "debtByAnnualEquity": 88.921,
+    "price": 4.92,
+    "priceToEarnings": -4.42,
+    "debtByAnnualEquity": 128.679,
     "holders": [
       {
         "name": "Votorantim S.A.",
-        "ordinaryShares": 67.89,
+        "ordinaryShares": 68.6,
         "preferredShares": 0,
-        "totalShares": 67.89
+        "totalShares": 68.6
       }
     ]
   },
@@ -39,10 +39,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -64225000
-      },
-      {
         "period": 1580428800000,
         "value": -927828000
       },
@@ -53,9 +49,17 @@
       {
         "period": 1643587200000,
         "value": 867549000
+      },
+      {
+        "period": 1675123200000,
+        "value": -907637000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.12352051226533454
+      },
       {
         "period": 1672444800000,
         "value": 0.09830999089253291
@@ -66,11 +70,7 @@
       },
       {
         "period": 1609372800000,
-        "value": -0.1714586033660163
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.01220153033502771
+        "value": null
       }
     ]
   }

@@ -2,12 +2,12 @@
   "name": "PSSA3",
   "business": "Seguradoras",
   "currentState": {
-    "price": 28.42,
-    "priceToEarnings": 8.46,
-    "debtByAnnualEquity": 9.806,
+    "price": 38.58,
+    "priceToEarnings": 9.37,
+    "debtByAnnualEquity": 7.219,
     "holders": [
       {
-        "name": "Porto Seguro Itau-Unibanco Participa��es S.A.",
+        "name": "PORTO SEGURO ITA� UNIBANCO PARTICIPA��ES S.A.",
         "ordinaryShares": 70.82,
         "preferredShares": 0,
         "totalShares": 70.82
@@ -21,6 +21,31 @@
     ]
   },
   "events": [
+    {
+      "date": 1727406000000,
+      "amount": 0.4098,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719543600000,
+      "amount": 0.3191,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711594800000,
+      "amount": 0.2994,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711594800000,
+      "amount": 0.0938,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703646000000,
+      "amount": 0.5302,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695870000000,
       "amount": 0.2917,
@@ -305,10 +330,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1379083000
-      },
-      {
         "period": 1580428800000,
         "value": 1688191000
       },
@@ -318,25 +339,29 @@
       },
       {
         "period": 1643587200000,
-        "value": 1134847000
+        "value": 1134800000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2266400000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.09159096052503961
+      },
+      {
         "period": 1672444800000,
-        "value": 0.038208953716321714
+        "value": 0.05719383306537374
       },
       {
         "period": 1640908800000,
-        "value": 0.06747864234587855
+        "value": 0.09528519245245765
       },
       {
         "period": 1609372800000,
-        "value": 0.08151728415139485
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06959362845345166
+        "value": 0.10790321435303203
       }
     ]
   }

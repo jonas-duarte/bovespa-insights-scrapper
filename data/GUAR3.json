@@ -2,9 +2,9 @@
   "name": "GUAR3",
   "business": "Tecidos, Vestu�rio e Cal�ados",
   "currentState": {
-    "price": 6.93,
-    "priceToEarnings": -21.39,
-    "debtByAnnualEquity": 90.886,
+    "price": 8.01,
+    "priceToEarnings": 18.6,
+    "debtByAnnualEquity": 61.282,
     "holders": [
       {
         "name": "Lisiane Gurgel Rocha",
@@ -27,6 +27,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1716433200000,
+      "amount": 0.0601,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1716433200000,
+      "amount": 0.0601,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1664247600000,
       "amount": 0.0201,
@@ -276,10 +286,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 592651000
-      },
-      {
         "period": 1580428800000,
         "value": -27154000
       },
@@ -290,9 +296,17 @@
       {
         "period": 1643587200000,
         "value": 51980000
+      },
+      {
+        "period": 1675123200000,
+        "value": -34260000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.003895224155028557
+      },
       {
         "period": 1672444800000,
         "value": 0.006145179208581782
@@ -304,10 +318,6 @@
       {
         "period": 1609372800000,
         "value": -0.004347859503004785
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.07590262042580703
       }
     ]
   }

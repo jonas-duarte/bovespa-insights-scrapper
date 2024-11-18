@@ -2,28 +2,33 @@
   "name": "EQMA3B",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 28.99,
-    "priceToEarnings": 5.14,
-    "debtByAnnualEquity": 74.224,
+    "price": 23.99,
+    "priceToEarnings": 5.18,
+    "debtByAnnualEquity": 92.493,
     "holders": [
       {
         "name": "Equatorial Distribui��o S.A.",
-        "ordinaryShares": 98.45,
-        "preferredShares": 0,
-        "totalShares": 98.42
+        "ordinaryShares": 65.16,
+        "preferredShares": 62.04,
+        "totalShares": 65.11
       },
       {
         "name": "Eletrobras - Centrais El�tricas Brasileiras S.A.",
-        "ordinaryShares": 1.48,
-        "preferredShares": 98.24,
-        "totalShares": 1.51
+        "ordinaryShares": 33.34,
+        "preferredShares": 37.29,
+        "totalShares": 33.41
       }
     ]
   },
   "events": [
     {
+      "date": 1714359600000,
+      "amount": 2.38,
+      "type": "DIVIDENDO"
+    },
+    {
       "date": 1682650800000,
-      "amount": 2.79,
+      "amount": 2.7926,
       "type": "DIVIDENDO"
     },
     {
@@ -64,23 +69,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.13383915141833633
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.17504362532226148
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.17050743195631646
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.17057205926467975
-      }
-    ]
+    "netMargin": []
   }
 }

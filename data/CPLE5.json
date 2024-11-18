@@ -2,9 +2,9 @@
   "name": "CPLE5",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 21,
-    "priceToEarnings": 31.3,
-    "debtByAnnualEquity": 65.492,
+    "price": 11.4,
+    "priceToEarnings": 10.96,
+    "debtByAnnualEquity": 65.055,
     "holders": [
       {
         "name": "Estado do Paran�",
@@ -19,26 +19,41 @@
         "totalShares": 21.99
       },
       {
-        "name": "GQG Partners LLC.",
-        "ordinaryShares": 4.53,
+        "name": "RADAR GESTORA DE RECURSOS LTDA.",
+        "ordinaryShares": 5.08,
         "preferredShares": 0,
-        "totalShares": 1.97
+        "totalShares": 2.21
       },
       {
         "name": "Victor Adler",
-        "ordinaryShares": 0.31,
-        "preferredShares": 0.27,
-        "totalShares": 0.28
+        "ordinaryShares": 0.3,
+        "preferredShares": 0.21,
+        "totalShares": 0.25
       },
       {
-        "name": "RADAR GESTORA DE RECURSOS LTDA",
-        "ordinaryShares": 0,
-        "preferredShares": 5.93,
-        "totalShares": 3.35
+        "name": "BlackRock, Inc.",
+        "ordinaryShares": 0.18,
+        "preferredShares": 6.69,
+        "totalShares": 3.85
       }
     ]
   },
   "events": [
+    {
+      "date": 1727665200000,
+      "amount": 0.0988,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727665200000,
+      "amount": 0.0706,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1713754800000,
+      "amount": 0.1459,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1695956400000,
       "amount": 0.1749,
@@ -306,23 +321,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 3904202000
+      },
+      {
+        "period": 1612051200000,
+        "value": 3767197000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1112007000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2258810000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.10516135688276823
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.05071238365354977
       },
       {
         "period": 1640908800000,
-        "value": 0.206492400628795
+        "value": 0.1570693762962393
       },
       {
         "period": 1609372800000,
         "value": 0.2095287837349246
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.12539638779286602
       }
     ]
   }

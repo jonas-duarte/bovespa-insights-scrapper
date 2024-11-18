@@ -2,37 +2,73 @@
   "name": "CAML3",
   "business": "Alimentos Diversos",
   "currentState": {
-    "price": 8.07,
-    "priceToEarnings": 10.32,
-    "debtByAnnualEquity": 180.129,
+    "price": 7.73,
+    "priceToEarnings": 6.06,
+    "debtByAnnualEquity": 189.877,
     "holders": [
       {
         "name": "Camil Investimentos S.A.",
-        "ordinaryShares": 65.64,
+        "ordinaryShares": 51.43,
         "preferredShares": 0,
-        "totalShares": 65.64
+        "totalShares": 51.43
       },
       {
         "name": "Luciano Maggi Quartiero",
-        "ordinaryShares": 3.72,
+        "ordinaryShares": 7.81,
         "preferredShares": 0,
-        "totalShares": 3.72
+        "totalShares": 7.81
       },
       {
         "name": "Jacques Maggi Quartiero",
-        "ordinaryShares": 0.96,
+        "ordinaryShares": 5.69,
         "preferredShares": 0,
-        "totalShares": 0.96
+        "totalShares": 5.69
       },
       {
         "name": "Thiago Maggi Quartiero",
-        "ordinaryShares": 0.9,
+        "ordinaryShares": 5.42,
         "preferredShares": 0,
-        "totalShares": 0.9
+        "totalShares": 5.42
+      },
+      {
+        "name": "FRANKLIN TEMPLETON INVESTIMENTOS",
+        "ordinaryShares": 5.03,
+        "preferredShares": 0,
+        "totalShares": 5.03
       }
     ]
   },
   "events": [
+    {
+      "date": 1725332400000,
+      "amount": 0.0557,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1725332400000,
+      "amount": 0.0176,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1716778800000,
+      "amount": 0.0557,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1716778800000,
+      "amount": 0.0176,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1708484400000,
+      "amount": 0.0557,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1708484400000,
+      "amount": 0.0176,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1701054000000,
       "amount": 0.073,
@@ -167,38 +203,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1580428800000,
-        "value": 239628000
-      },
-      {
         "period": 1612051200000,
-        "value": 462676000
+        "value": 462700000
       },
       {
         "period": 1643587200000,
-        "value": 477784000
+        "value": 478700000
       },
       {
         "period": 1675123200000,
-        "value": 0
+        "value": 353700000
+      },
+      {
+        "period": 1706659200000,
+        "value": 360500000
       }
     ],
     "netMargin": [
       {
+        "period": 1709164800000,
+        "value": 0.03204558384298108
+      },
+      {
         "period": 1677542400000,
-        "value": null
+        "value": 0.034657782568223015
       },
       {
         "period": 1646006400000,
-        "value": 0.05299375378153264
+        "value": 0.05309508756751961
       },
       {
         "period": 1614470400000,
-        "value": 0.061971243155117366
-      },
-      {
-        "period": 1582934400000,
-        "value": 0.04440752897641858
+        "value": 0.061974283418162336
       }
     ]
   }

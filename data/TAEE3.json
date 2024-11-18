@@ -2,9 +2,9 @@
   "name": "TAEE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 12.16,
-    "priceToEarnings": 10.98,
-    "debtByAnnualEquity": 152.788,
+    "price": 11.29,
+    "priceToEarnings": 8.14,
+    "debtByAnnualEquity": 145.404,
     "holders": [
       {
         "name": "Companhia Energ�tica de Minas Gerais",
@@ -17,16 +17,45 @@
         "ordinaryShares": 26.03,
         "preferredShares": 0,
         "totalShares": 14.88
-      },
-      {
-        "name": "BlackRock, Inc.",
-        "ordinaryShares": 0,
-        "preferredShares": 5.18,
-        "totalShares": 2.22
       }
     ]
   },
   "events": [
+    {
+      "date": 1731294000000,
+      "amount": 0.1333,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1731294000000,
+      "amount": 0.0897,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1723690800000,
+      "amount": 0.1144,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1723690800000,
+      "amount": 0.1017,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715569200000,
+      "amount": 0.1402,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714705200000,
+      "amount": 0.3776,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1704250800000,
+      "amount": 0.2206,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1699844400000,
       "amount": 0.194,
@@ -429,23 +458,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 656029000
+      },
+      {
+        "period": 1612051200000,
+        "value": 517234000
+      },
+      {
+        "period": 1643587200000,
+        "value": 1449215000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1093100000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.44989093303700045
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.5538718074447825
       },
       {
         "period": 1640908800000,
-        "value": 0.6375814396628618
+        "value": 0.2815430506112762
       },
       {
         "period": 1609372800000,
-        "value": 0.6354241136488336
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.6009059831846912
+        "value": 0.4302410686295985
       }
     ]
   }

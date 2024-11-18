@@ -2,39 +2,75 @@
   "name": "GGPS3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 19.58,
-    "priceToEarnings": 22.15,
-    "debtByAnnualEquity": 110.558,
+    "price": 17.71,
+    "priceToEarnings": 17.77,
+    "debtByAnnualEquity": 159.013,
     "holders": [
       {
         "name": "Jos� Caetano Paula de Lacerda",
-        "ordinaryShares": 13.98,
+        "ordinaryShares": 13.93,
         "preferredShares": 0,
-        "totalShares": 13.98
+        "totalShares": 13.93
       },
       {
-        "name": "NP Participa��es S.A.",
-        "ordinaryShares": 13.19,
+        "name": "CANADA PENSION PLAN INVESTMENT BOARD (�CPPIB�)",
+        "ordinaryShares": 5.65,
         "preferredShares": 0,
-        "totalShares": 13.19
+        "totalShares": 5.65
       },
       {
         "name": "Luis Carlos Martinez Romero",
-        "ordinaryShares": 6.26,
+        "ordinaryShares": 5.29,
         "preferredShares": 0,
-        "totalShares": 6.26
+        "totalShares": 5.29
+      },
+      {
+        "name": "SQUADRA INVESTIMENTOS � GEST�O DE RECURSOS LTDA.",
+        "ordinaryShares": 5.11,
+        "preferredShares": 0,
+        "totalShares": 5.11
+      },
+      {
+        "name": "Marcos Nascimento Pedreira",
+        "ordinaryShares": 4.3,
+        "preferredShares": 0,
+        "totalShares": 4.3
+      },
+      {
+        "name": "Carlos Nascimento Pedreira Filho",
+        "ordinaryShares": 4.29,
+        "preferredShares": 0,
+        "totalShares": 4.29
+      },
+      {
+        "name": "Fernanda Didier Nascimento Pedreira",
+        "ordinaryShares": 4.28,
+        "preferredShares": 0,
+        "totalShares": 4.28
       },
       {
         "name": "Valora Participa��es Ltda.",
-        "ordinaryShares": 4.25,
+        "ordinaryShares": 4.24,
         "preferredShares": 0,
-        "totalShares": 4.25
+        "totalShares": 4.24
       },
       {
         "name": "Marcelo Niemeyer Hampshire",
-        "ordinaryShares": 3.77,
+        "ordinaryShares": 3.6,
         "preferredShares": 0,
-        "totalShares": 3.77
+        "totalShares": 3.6
+      },
+      {
+        "name": "SOLANGE MARIA PEREIRA MARTINEZ",
+        "ordinaryShares": 1.04,
+        "preferredShares": 0,
+        "totalShares": 1.04
+      },
+      {
+        "name": "Veronica Didier Nascimento Pedreira",
+        "ordinaryShares": 0.29,
+        "preferredShares": 0,
+        "totalShares": 0.29
       },
       {
         "name": "Carlos Nascimento Pedreira",
@@ -45,6 +81,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1712804400000,
+      "amount": 0.3187,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1680663600000,
       "amount": 0.259,
@@ -59,38 +100,30 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 212266000
-      },
-      {
-        "period": 1580428800000,
-        "value": 282646000
-      },
-      {
         "period": 1612051200000,
-        "value": 400000000
+        "value": 399675000
       },
       {
         "period": 1643587200000,
         "value": 517000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 643000000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.06048349167528925
+      },
       {
         "period": 1672444800000,
         "value": 0.056079835123115304
       },
       {
         "period": 1640908800000,
-        "value": 0.06046863189720333
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.05719048210650105
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.04923852475101914
+        "value": 0.06041717212715156
       }
     ]
   }

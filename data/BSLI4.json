@@ -2,30 +2,40 @@
   "name": "BSLI4",
   "business": "Bancos",
   "currentState": {
-    "price": 11.69,
-    "priceToEarnings": 14.81,
+    "price": 8.38,
+    "priceToEarnings": 16.24,
     "holders": [
       {
         "name": "GOVERNO DO DISTRITO FEDERAL",
-        "ordinaryShares": 64.54,
-        "preferredShares": 96.85,
-        "totalShares": 71.92
+        "ordinaryShares": 63.49,
+        "preferredShares": 71.02,
+        "totalShares": 65.63
       },
       {
         "name": "Instituto de Previd�ncia dos Sevidores do Distrito Federal - IPREV DF",
-        "ordinaryShares": 21.41,
+        "ordinaryShares": 21.06,
         "preferredShares": 0,
-        "totalShares": 16.52
+        "totalShares": 15.07
       },
       {
         "name": "ASSOCIA��O NACIONAL DOS EMPREGADOS ATIVOS E APOSENTADOS DO BANCO DE BRAS�LIA - ANEABRB",
-        "ordinaryShares": 12.04,
-        "preferredShares": 0.96,
-        "totalShares": 9.51
+        "ordinaryShares": 11.85,
+        "preferredShares": 0.71,
+        "totalShares": 8.68
       }
     ]
   },
   "events": [
+    {
+      "date": 1716433200000,
+      "amount": 0.0741,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1716433200000,
+      "amount": 0.0025,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1695265200000,
       "amount": 0.1048,
@@ -489,23 +499,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.17811401005941804
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.16567492414533141
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.17676678791961095
-      }
-    ]
+    "netMargin": []
   }
 }

@@ -2,9 +2,9 @@
   "name": "AGRO3",
   "business": "Agricultura",
   "currentState": {
-    "price": 24.82,
-    "priceToEarnings": 9.94,
-    "debtByAnnualEquity": 38.398,
+    "price": 23.92,
+    "priceToEarnings": 8.34,
+    "debtByAnnualEquity": 52.123,
     "holders": [
       {
         "name": "CRESUD S.A.C.I.F.Y.A",
@@ -14,9 +14,9 @@
       },
       {
         "name": "Charles River Capital",
-        "ordinaryShares": 8.98,
+        "ordinaryShares": 9.99,
         "preferredShares": 0,
-        "totalShares": 8.98
+        "totalShares": 9.99
       },
       {
         "name": "Elie Horn",
@@ -27,6 +27,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1729566000000,
+      "amount": 1.556,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1698116400000,
       "amount": 3.2124,
@@ -96,10 +101,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1580428800000,
-        "value": 119554000
-      },
-      {
         "period": 1612051200000,
         "value": 317646000
       },
@@ -110,24 +111,28 @@
       {
         "period": 1675123200000,
         "value": 268536000
+      },
+      {
+        "period": 1706659200000,
+        "value": 226867000
       }
     ],
     "netMargin": [
       {
+        "period": 1719705600000,
+        "value": 0.21424598336589828
+      },
+      {
         "period": 1688083200000,
-        "value": 0.2149256024913621
+        "value": 0.2972596006960588
       },
       {
         "period": 1656547200000,
-        "value": 0.3663524858928583
+        "value": 0.44523887181041266
       },
       {
         "period": 1625011200000,
-        "value": 0.4436093060670429
-      },
-      {
-        "period": 1593475200000,
-        "value": 0.2177716088511953
+        "value": 0.44002787178425135
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "TGMA3",
   "business": "Transporte Rodovi�rio",
   "currentState": {
-    "price": 27,
-    "priceToEarnings": 9.53,
-    "debtByAnnualEquity": 20.581,
+    "price": 31.32,
+    "priceToEarnings": 8.77,
+    "debtByAnnualEquity": 18.492,
     "holders": [
       {
         "name": "Mopia Participa��es e Empreendimentos Ltda.",
@@ -31,7 +31,7 @@
         "totalShares": 10.33
       },
       {
-        "name": "CABANA EEMPREENDIMENTOS E PARTICIPA��ES LTDA",
+        "name": "CABANA EMPREENDIMENTOS E PARTICIPA��ES LTDA",
         "ordinaryShares": 7.3,
         "preferredShares": 0,
         "totalShares": 7.3
@@ -99,6 +99,36 @@
     ]
   },
   "events": [
+    {
+      "date": 1730948400000,
+      "amount": 0.58,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1730948400000,
+      "amount": 0.19,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1723086000000,
+      "amount": 1.12,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1723086000000,
+      "amount": 0.1,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712804400000,
+      "amount": 0.54,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712804400000,
+      "amount": 0.18,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1699498800000,
       "amount": 0.4,
@@ -443,12 +473,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 193972000
-      },
-      {
         "period": 1580428800000,
-        "value": 73626000
+        "value": 73600000
       },
       {
         "period": 1612051200000,
@@ -457,9 +483,17 @@
       {
         "period": 1643587200000,
         "value": 159296000
+      },
+      {
+        "period": 1675123200000,
+        "value": 181900000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.1148721187243448
+      },
       {
         "period": 1672444800000,
         "value": 0.11623126882056228
@@ -470,11 +504,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.0727504483540589
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.14396876762758662
+        "value": 0.07272727272727272
       }
     ]
   }

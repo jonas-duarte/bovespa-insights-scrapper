@@ -2,19 +2,51 @@
   "name": "LREN3",
   "business": "Tecidos, Vestu�rio e Cal�ados",
   "currentState": {
-    "price": 16.73,
-    "priceToEarnings": 17.31,
-    "debtByAnnualEquity": 50.218,
+    "price": 16.49,
+    "priceToEarnings": 12.85,
+    "debtByAnnualEquity": 37.767,
     "holders": [
       {
-        "name": "J.P. MORGAN CHASE & CO. (Gestor/administrador - veja item 6.6. abaixo)",
-        "ordinaryShares": 5.15,
+        "name": "BlackRock, Inc. (Gestor/Administrador - Ver item 6.6 abaixo)",
+        "ordinaryShares": 14.75,
         "preferredShares": 0,
-        "totalShares": 5.15
+        "totalShares": 14.75
+      },
+      {
+        "name": "ARGA Investment Management, LP",
+        "ordinaryShares": 5.18,
+        "preferredShares": 0,
+        "totalShares": 5.18
+      },
+      {
+        "name": "SCHRODER INVESTMENT MANAGEMENT BRASIL LTDA. (GESTOR/ADMINISTRADOR - VER ITEM 6.6 ABAIXO)",
+        "ordinaryShares": 5.04,
+        "preferredShares": 0,
+        "totalShares": 5.04
       }
     ]
   },
   "events": [
+    {
+      "date": 1727146800000,
+      "amount": 0.1688,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719284400000,
+      "amount": 0.1559,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1710817200000,
+      "amount": 0.1503,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703041200000,
+      "amount": 0.1715,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695697200000,
       "amount": 0.1797,
@@ -424,10 +456,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1086201000
-      },
-      {
         "period": 1580428800000,
         "value": 1096269000
       },
@@ -438,24 +466,28 @@
       {
         "period": 1643587200000,
         "value": 1291704000
+      },
+      {
+        "period": 1675123200000,
+        "value": 976259000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.07153207805860103
+      },
       {
         "period": 1672444800000,
         "value": 0.09733182620298472
       },
       {
         "period": 1640908800000,
-        "value": 0.059888194426445426
+        "value": 0.05988825107675729
       },
       {
         "period": 1609372800000,
         "value": 0.145448164963554
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.11328238377120275
       }
     ]
   }

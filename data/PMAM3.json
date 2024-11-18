@@ -2,62 +2,62 @@
   "name": "PMAM3",
   "business": "Artefatos de Cobre",
   "currentState": {
-    "price": 4.23,
-    "priceToEarnings": -0.06,
+    "price": 1.08,
+    "priceToEarnings": -0.04,
     "holders": [
       {
-        "name": "CAIXA ECONOMICA FEDERAL",
-        "ordinaryShares": 16.18,
+        "name": "NEOFASE INVESTIMENTOS LTDA.",
+        "ordinaryShares": 19.92,
         "preferredShares": 0,
-        "totalShares": 16.18
+        "totalShares": 19.92
+      },
+      {
+        "name": "CAIXA ECONOMICA FEDERAL",
+        "ordinaryShares": 11.28,
+        "preferredShares": 0,
+        "totalShares": 11.28
+      },
+      {
+        "name": "SERENITY BR BFUNDO DE INVESTIMENTO EM AES",
+        "ordinaryShares": 6.88,
+        "preferredShares": 0,
+        "totalShares": 6.88
       },
       {
         "name": "Minera��o Buritirama S.A.",
-        "ordinaryShares": 8.64,
+        "ordinaryShares": 6.02,
         "preferredShares": 0,
-        "totalShares": 8.64
+        "totalShares": 6.02
       },
       {
         "name": "CARGILL FINANCIAL SERVICES INTERNAT, INC",
-        "ordinaryShares": 7.92,
+        "ordinaryShares": 4.54,
         "preferredShares": 0,
-        "totalShares": 7.92
-      },
-      {
-        "name": "EWZ INVESTMENTS LLC - SOCOPA SOC CORRETORA PAULISTA S.A.",
-        "ordinaryShares": 6.5,
-        "preferredShares": 0,
-        "totalShares": 6.5
-      },
-      {
-        "name": "GLENCORE INTERNATIONAL INVESTIMENTS LTD.",
-        "ordinaryShares": 5.73,
-        "preferredShares": 0,
-        "totalShares": 5.73
-      },
-      {
-        "name": "Bonsucex Holding S.A.",
-        "ordinaryShares": 5.71,
-        "preferredShares": 0,
-        "totalShares": 5.71
-      },
-      {
-        "name": "Luiz Barsi Filho",
-        "ordinaryShares": 5.37,
-        "preferredShares": 0,
-        "totalShares": 5.37
-      },
-      {
-        "name": "EWZ BRASIL FIA",
-        "ordinaryShares": 3.37,
-        "preferredShares": 0,
-        "totalShares": 3.37
+        "totalShares": 4.54
       },
       {
         "name": "Silvio Tini de Ara�jo",
-        "ordinaryShares": 0.46,
+        "ordinaryShares": 4.02,
         "preferredShares": 0,
-        "totalShares": 0.46
+        "totalShares": 4.02
+      },
+      {
+        "name": "GLENCORE INTERNATIONAL INVESTIMENTS LTD.",
+        "ordinaryShares": 4,
+        "preferredShares": 0,
+        "totalShares": 4
+      },
+      {
+        "name": "Luiz Barsi Filho",
+        "ordinaryShares": 3.75,
+        "preferredShares": 0,
+        "totalShares": 3.75
+      },
+      {
+        "name": "Bonsucex Holding S.A.",
+        "ordinaryShares": 0.28,
+        "preferredShares": 0,
+        "totalShares": 0.28
       }
     ]
   },
@@ -81,38 +81,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -25075000
+        "period": 1296432000000,
+        "value": -47711000
       },
       {
-        "period": 1580428800000,
-        "value": -861604000
+        "period": 1327968000000,
+        "value": -206488000
       },
       {
-        "period": 1612051200000,
-        "value": -801105000
+        "period": 1391126400000,
+        "value": 0
       },
       {
-        "period": 1643587200000,
-        "value": -2701084000
+        "period": 1422662400000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -1.346511889913489
+        "period": 1451520000000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": -0.16990698970638576
+        "period": 1419984000000,
+        "value": 0
       },
       {
-        "period": 1609372800000,
-        "value": -0.20067758649522507
+        "period": 1356912000000,
+        "value": -0.05129150319913636
       },
       {
-        "period": 1577750400000,
-        "value": -0.004796618589532066
+        "period": 1325289600000,
+        "value": -0.011641497224740848
       }
     ]
   }

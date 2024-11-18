@@ -2,9 +2,9 @@
   "name": "SLCE3",
   "business": "Agricultura",
   "currentState": {
-    "price": 38.53,
-    "priceToEarnings": 7.43,
-    "debtByAnnualEquity": 150.955,
+    "price": 16.98,
+    "priceToEarnings": 18.74,
+    "debtByAnnualEquity": 168.99,
     "holders": [
       {
         "name": "SLC PARTICIPA��ES S.A.",
@@ -37,6 +37,36 @@
         "totalShares": 1.11
       },
       {
+        "name": "CAROLINA MOGNON SCHEFFER",
+        "ordinaryShares": 1.07,
+        "preferredShares": 0,
+        "totalShares": 1.07
+      },
+      {
+        "name": "ELIZEU ZULMAR MAGGI SCHEFFER",
+        "ordinaryShares": 1.07,
+        "preferredShares": 0,
+        "totalShares": 1.07
+      },
+      {
+        "name": "GILLIARD ANTONIO SCHEFFER",
+        "ordinaryShares": 1.07,
+        "preferredShares": 0,
+        "totalShares": 1.07
+      },
+      {
+        "name": "GISLAYNE RAFAELA SCHEFFER",
+        "ordinaryShares": 1.07,
+        "preferredShares": 0,
+        "totalShares": 1.07
+      },
+      {
+        "name": "GUILHERME MOGNON SCHEFFER",
+        "ordinaryShares": 1.07,
+        "preferredShares": 0,
+        "totalShares": 1.07
+      },
+      {
         "name": "EDUARDO SILVA LOGEMANN",
         "ordinaryShares": 0.85,
         "preferredShares": 0,
@@ -62,9 +92,9 @@
       },
       {
         "name": "Frederico Logemann",
-        "ordinaryShares": 0,
+        "ordinaryShares": 0.01,
         "preferredShares": 0,
-        "totalShares": 0
+        "totalShares": 0.01
       },
       {
         "name": "ALEXANDRE LOGEMANN",
@@ -117,6 +147,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.83,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703646000000,
+      "amount": 0.0545,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1683169200000,
       "amount": 2.5962,
@@ -221,10 +261,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 311514000
-      },
-      {
         "period": 1580428800000,
         "value": 488674000
       },
@@ -235,24 +271,28 @@
       {
         "period": 1643587200000,
         "value": 1267459000
+      },
+      {
+        "period": 1675123200000,
+        "value": 895600000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.12386276459311787
+      },
+      {
         "period": 1672444800000,
-        "value": 0.1719046731643988
+        "value": 0.13216864743563675
       },
       {
         "period": 1640908800000,
-        "value": 0.24342536802033365
+        "value": 0.16794023245639209
       },
       {
         "period": 1609372800000,
-        "value": 0.15776160942836379
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1228413524954602
+        "value": 0.12617190293722233
       }
     ]
   }

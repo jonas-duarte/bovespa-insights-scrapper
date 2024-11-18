@@ -2,15 +2,15 @@
   "name": "CBEE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 14.8,
-    "priceToEarnings": -105.95,
-    "debtByAnnualEquity": 104.654,
+    "price": 11.43,
+    "priceToEarnings": -39.52,
+    "debtByAnnualEquity": 113.646,
     "holders": [
       {
         "name": "Enel Brasil S.A.",
-        "ordinaryShares": 99.8,
+        "ordinaryShares": 99.81,
         "preferredShares": 0,
-        "totalShares": 99.8
+        "totalShares": 99.81
       }
     ]
   },
@@ -89,38 +89,14 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 279258000
-      },
-      {
-        "period": 1580428800000,
-        "value": 48924000
-      },
-      {
-        "period": 1612051200000,
-        "value": 83402000
-      },
-      {
-        "period": 1643587200000,
-        "value": -92387000
+        "period": 949276800000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -0.011947540846229936
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.009842663951069208
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.007654254968796442
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.04729750557476382
+        "period": 978220800000,
+        "value": 0
       }
     ]
   }

@@ -2,18 +2,28 @@
   "name": "BGIP3",
   "business": "Bancos",
   "currentState": {
-    "price": 25.85,
-    "priceToEarnings": 7.03,
+    "price": 26,
+    "priceToEarnings": 3.27,
     "holders": [
       {
         "name": "Governo do Estado de Sergipe",
-        "ordinaryShares": 94.21,
-        "preferredShares": 87.06,
-        "totalShares": 90.64
+        "ordinaryShares": 94.7,
+        "preferredShares": 88.16,
+        "totalShares": 91.43
       }
     ]
   },
   "events": [
+    {
+      "date": 1724036400000,
+      "amount": 1.1461,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709089200000,
+      "amount": 1.0476,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1692241200000,
       "amount": 1.1894,
@@ -487,23 +497,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.15088458264563542
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.13662461067068246
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.07519952022881395
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.14268600682593857
-      }
-    ]
+    "netMargin": []
   }
 }

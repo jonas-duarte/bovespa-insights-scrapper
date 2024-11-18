@@ -2,19 +2,30 @@
   "name": "CRPG5",
   "business": "Qu�micos Diversos",
   "currentState": {
-    "price": 36.74,
-    "priceToEarnings": 16.02,
-    "debtByAnnualEquity": 1.1,
+    "price": 24.5,
+    "priceToEarnings": -6.5,
+    "debtByAnnualEquity": 0.727,
     "holders": [
       {
         "name": "Millenium Inorganic Chemicals Holdings Brasil Ltda.",
         "ordinaryShares": 99.02,
         "preferredShares": 56.9,
         "totalShares": 71.65
+      },
+      {
+        "name": "Victor Adler",
+        "ordinaryShares": 0,
+        "preferredShares": 1.85,
+        "totalShares": 1.2
       }
     ]
   },
   "events": [
+    {
+      "date": 1716174000000,
+      "amount": 0.2895,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1686538800000,
       "amount": 4.3697,
@@ -217,41 +228,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 109910000
-      },
-      {
-        "period": 1580428800000,
-        "value": 184422000
-      },
-      {
-        "period": 1612051200000,
-        "value": 276598000
-      },
-      {
-        "period": 1643587200000,
-        "value": 68355000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.08514340663310173
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.28865482331504616
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.25211862379338584
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1864983413508446
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

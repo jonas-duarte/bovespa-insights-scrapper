@@ -2,21 +2,21 @@
   "name": "PATI4",
   "business": "Artefatos de Ferro e A�o",
   "currentState": {
-    "price": 33,
-    "priceToEarnings": 151.24,
-    "debtByAnnualEquity": 53.566,
+    "price": 35,
+    "priceToEarnings": 10.68,
+    "debtByAnnualEquity": 45.243,
     "holders": [
       {
         "name": "L. P. A�OS PARTICIPA��ES LTDA.",
-        "ordinaryShares": 86.11,
+        "ordinaryShares": 66.67,
         "preferredShares": 31.03,
-        "totalShares": 83.75
+        "totalShares": 65.14
       },
       {
         "name": "COMPANHIA SIDER�RGICA NACIONAL",
-        "ordinaryShares": 11.81,
+        "ordinaryShares": 31.26,
         "preferredShares": 0,
-        "totalShares": 11.31
+        "totalShares": 29.92
       },
       {
         "name": "Sebasti�o Alves de Messias",
@@ -33,8 +33,8 @@
       {
         "name": "Amaro Lafayette Nobre Formiga",
         "ordinaryShares": 0,
-        "preferredShares": 5.51,
-        "totalShares": 0.24
+        "preferredShares": 5.77,
+        "totalShares": 0.25
       },
       {
         "name": "Wilma Carvalho Pontes",
@@ -45,6 +45,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1729220400000,
+      "amount": 1.327,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1725505200000,
+      "amount": 5.0141,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 2.1074,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1681268400000,
       "amount": 2.1076,
@@ -208,23 +223,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.02389096799323247
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.10994141789604385
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.1270578832087313
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.016967577410704853
-      }
-    ]
+    "netMargin": []
   }
 }

@@ -2,27 +2,27 @@
   "name": "VALE3",
   "business": "Minerais Met�licos",
   "currentState": {
-    "price": 73,
-    "priceToEarnings": 6.97,
-    "debtByAnnualEquity": 41.636,
+    "price": 56.84,
+    "priceToEarnings": 5.35,
+    "debtByAnnualEquity": 41.793,
     "holders": [
       {
-        "name": "CAIXA DE PREVID�NCIA DOS FUNCION�RIOS DO BANCO DO BRASIL � PREVI",
-        "ordinaryShares": 8.68,
+        "name": "Previ � Caixa de Previd�ncia dos Funcion�rios do Banco do Brasil",
+        "ordinaryShares": 8.76,
         "preferredShares": 0,
-        "totalShares": 8.68
+        "totalShares": 8.76
+      },
+      {
+        "name": "Blackrock, Inc.",
+        "ordinaryShares": 6.37,
+        "preferredShares": 0,
+        "totalShares": 6.37
       },
       {
         "name": "MITSUI AMP; CO., LTD",
         "ordinaryShares": 6.31,
         "preferredShares": 0,
         "totalShares": 6.31
-      },
-      {
-        "name": "Blackrock, Inc.",
-        "ordinaryShares": 6.12,
-        "preferredShares": 0,
-        "totalShares": 6.12
       },
       {
         "name": "GOVERNO FEDERAL",
@@ -33,6 +33,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1722567600000,
+      "amount": 2.0938,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1710126000000,
+      "amount": 2.7386,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700535600000,
       "amount": 1.5659,
@@ -437,38 +447,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -6672000000
-      },
-      {
         "period": 1580428800000,
-        "value": 26713000000
+        "value": 4881000000
       },
       {
         "period": 1612051200000,
-        "value": 121228000000
+        "value": 22445000000
       },
       {
         "period": 1643587200000,
-        "value": 95924000000
+        "value": 18788000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 7983000000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.19105399195864445
+      },
+      {
         "period": 1672444800000,
-        "value": 0.42349056103978666
+        "value": 0.4285681698943863
       },
       {
         "period": 1640908800000,
-        "value": 0.41300881699622516
+        "value": 0.41181974973395474
       },
       {
         "period": 1609372800000,
-        "value": 0.12961309668216092
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.04612991322985446
+        "value": 0.12197011344894797
       }
     ]
   }

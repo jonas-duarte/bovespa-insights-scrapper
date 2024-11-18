@@ -2,27 +2,27 @@
   "name": "WEGE3",
   "business": "Motores, Compressores e Outros",
   "currentState": {
-    "price": 36.06,
-    "priceToEarnings": 29.22,
-    "debtByAnnualEquity": 20.625,
+    "price": 54.35,
+    "priceToEarnings": 37.44,
+    "debtByAnnualEquity": 18.449,
     "holders": [
       {
         "name": "WPA Participa��es e Servi�os S.A.",
-        "ordinaryShares": 50.13,
+        "ordinaryShares": 50.09,
         "preferredShares": 0,
-        "totalShares": 50.13
+        "totalShares": 50.09
       },
       {
         "name": "05 de Maio Participa��es Ltda",
-        "ordinaryShares": 1.79,
+        "ordinaryShares": 2.13,
         "preferredShares": 0,
-        "totalShares": 1.79
+        "totalShares": 2.13
       },
       {
         "name": "Clica Voigt Administradora Ltda",
-        "ordinaryShares": 1.69,
+        "ordinaryShares": 2.03,
         "preferredShares": 0,
-        "totalShares": 1.69
+        "totalShares": 2.03
       },
       {
         "name": "Si Voigt Administradora Ltda",
@@ -32,9 +32,9 @@
       },
       {
         "name": "Eggon Jo�o da Silva Administradora Ltda",
-        "ordinaryShares": 1,
+        "ordinaryShares": 0.99,
         "preferredShares": 0,
-        "totalShares": 1
+        "totalShares": 0.99
       },
       {
         "name": "Pender Participa��es Ltda",
@@ -68,27 +68,15 @@
       },
       {
         "name": "Diether Werninghaus",
-        "ordinaryShares": 0.48,
+        "ordinaryShares": 0.49,
         "preferredShares": 0,
-        "totalShares": 0.48
+        "totalShares": 0.49
       },
       {
         "name": "Ventura Participa��es Ltda",
         "ordinaryShares": 0.47,
         "preferredShares": 0,
         "totalShares": 0.47
-      },
-      {
-        "name": "Cladis Voigt Trejes Administradora Ltda",
-        "ordinaryShares": 0.34,
-        "preferredShares": 0,
-        "totalShares": 0.34
-      },
-      {
-        "name": "Miriam Voigt Schwartz Administradora Ltda",
-        "ordinaryShares": 0.34,
-        "preferredShares": 0,
-        "totalShares": 0.34
       },
       {
         "name": "Valsi Voigt Administradora Ltda",
@@ -104,9 +92,9 @@
       },
       {
         "name": "LWB Administradora Eireli",
-        "ordinaryShares": 0.29,
+        "ordinaryShares": 0.24,
         "preferredShares": 0,
-        "totalShares": 0.29
+        "totalShares": 0.24
       },
       {
         "name": "ASG Participa��es Ltda",
@@ -175,13 +163,37 @@
         "totalShares": 0.02
       },
       {
-        "name": "Cl�cio F�bio Zucco",
+        "name": "Dora Voigt de Assis",
         "ordinaryShares": 0.01,
         "preferredShares": 0,
         "totalShares": 0.01
       },
       {
-        "name": "Daniel Ricardo Behnke",
+        "name": "Livia Voigt",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Amelie Voigt Trejes",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Felipe Voigt Trejes",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Pedro Voigt Trejes",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Cl�cio F�bio Zucco",
         "ordinaryShares": 0.01,
         "preferredShares": 0,
         "totalShares": 0.01
@@ -199,6 +211,12 @@
         "totalShares": 0.01
       },
       {
+        "name": "Daniel Ricardo Behnke",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
         "name": "G Werninghaus Administradora Ltda",
         "ordinaryShares": 0.01,
         "preferredShares": 0,
@@ -211,19 +229,19 @@
         "totalShares": 0.01
       },
       {
-        "name": "Arthur Rainui Peixer Behnke",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
-      },
-      {
         "name": "Gerd da Silva Werninghaus",
-        "ordinaryShares": 0,
+        "ordinaryShares": 0.01,
         "preferredShares": 0,
-        "totalShares": 0
+        "totalShares": 0.01
       },
       {
         "name": "Lilian da Silva Werninghaus",
+        "ordinaryShares": 0.01,
+        "preferredShares": 0,
+        "totalShares": 0.01
+      },
+      {
+        "name": "Arthur Rainui Peixer Behnke",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
@@ -277,6 +295,12 @@
         "totalShares": 0
       },
       {
+        "name": "Cladis Voigt Trejes Administradora Ltda",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
         "name": "Fabio Roberto de Oliveira",
         "ordinaryShares": 0,
         "preferredShares": 0,
@@ -289,7 +313,25 @@
         "totalShares": 0
       },
       {
+        "name": "Miriam Voigt Schwartz Administradora Ltda",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "PEDRO WERNINGHAUS DE CARVALHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
         "name": "THIAGO PIAZERA DE CARVALHO",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
+      },
+      {
+        "name": "VITOR WERNINGHAUS DE CARVALHO",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
@@ -303,6 +345,36 @@
     ]
   },
   "events": [
+    {
+      "date": 1727406000000,
+      "amount": 0.0701,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1722567600000,
+      "amount": 0.1876,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1719543600000,
+      "amount": 0.0628,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711076400000,
+      "amount": 0.0578,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1708657200000,
+      "amount": 0.2979,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1702609200000,
+      "amount": 0.0719,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695351600000,
       "amount": 0.0598,
@@ -1007,10 +1079,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1614581000
-      },
-      {
         "period": 1580428800000,
         "value": 2340873000
       },
@@ -1021,9 +1089,17 @@
       {
         "period": 1643587200000,
         "value": 4208084000
+      },
+      {
+        "period": 1675123200000,
+        "value": 5731670000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.17633953850221087
+      },
       {
         "period": 1672444800000,
         "value": 0.1407163724845862
@@ -1035,10 +1111,6 @@
       {
         "period": 1609372800000,
         "value": 0.1339972730848298
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.12096564777919111
       }
     ]
   }

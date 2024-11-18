@@ -2,30 +2,40 @@
   "name": "BNBR3",
   "business": "Bancos",
   "currentState": {
-    "price": 99.5,
-    "priceToEarnings": 3.8,
+    "price": 99.83,
+    "priceToEarnings": 4.61,
     "holders": [
       {
         "name": "UNI�O FEDERAL",
-        "ordinaryShares": 55.45,
+        "ordinaryShares": 61.01,
         "preferredShares": 0,
-        "totalShares": 55.45
+        "totalShares": 61.01
       },
       {
         "name": "FI CAIXA FGEDUC MULTIMERCADO",
-        "ordinaryShares": 34.97,
+        "ordinaryShares": 30.6,
         "preferredShares": 0,
-        "totalShares": 34.97
+        "totalShares": 30.6
       },
       {
-        "name": "BB FGO Fundo de Investimento em A��es",
-        "ordinaryShares": 7.19,
+        "name": "BB FGO PRONAMPE FUNDO DE INVESTIMENTO EM A��ES",
+        "ordinaryShares": 6.29,
         "preferredShares": 0,
-        "totalShares": 7.19
+        "totalShares": 6.29
       }
     ]
   },
   "events": [
+    {
+      "date": 1724641200000,
+      "amount": 2.8139,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711422000000,
+      "amount": 3.1551,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1692846000000,
       "amount": 2.5344,
@@ -364,23 +374,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.20669016428194964
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.19929021102197225
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.14735769330973422
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.23856087496428494
-      }
-    ]
+    "netMargin": []
   }
 }

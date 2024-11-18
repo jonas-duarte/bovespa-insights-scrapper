@@ -2,45 +2,45 @@
   "name": "PEAB4",
   "business": "Holdings Diversificadas",
   "currentState": {
-    "price": 74,
-    "priceToEarnings": 42.14,
-    "debtByAnnualEquity": 16.291,
+    "price": 46,
+    "priceToEarnings": 25.36,
+    "debtByAnnualEquity": 12.968,
     "holders": [
       {
         "name": "FUNDA��O MARIA EMILIA PEDREIRA FREIRE DE CARVALHO",
-        "ordinaryShares": 17.05,
-        "preferredShares": 1.42,
-        "totalShares": 9.23
+        "ordinaryShares": 17.78,
+        "preferredShares": 3.02,
+        "totalShares": 10.43
       },
       {
         "name": "JOS� RENATO DE ALMEIDA GON�ALVES TOURINHO",
-        "ordinaryShares": 16.16,
+        "ordinaryShares": 16.2,
         "preferredShares": 0.17,
-        "totalShares": 8.16
+        "totalShares": 8.22
       },
       {
         "name": "THEREZA DE ALMEIDA GON�ALVES TOURINHO",
-        "ordinaryShares": 15.95,
-        "preferredShares": 0.14,
-        "totalShares": 8.05
+        "ordinaryShares": 16.05,
+        "preferredShares": 0.19,
+        "totalShares": 8.15
       },
       {
         "name": "PATRIMONIAL MUNDO NOVO LTDA",
-        "ordinaryShares": 5.9,
-        "preferredShares": 1.62,
-        "totalShares": 3.76
+        "ordinaryShares": 6.01,
+        "preferredShares": 1.69,
+        "totalShares": 3.86
       },
       {
-        "name": "Cia de Seguros Alian�a da Bahia",
-        "ordinaryShares": 2.74,
-        "preferredShares": 9.19,
-        "totalShares": 5.96
+        "name": "COMPANHIA DE SEGUROS ALIAN�A DA BAHIA",
+        "ordinaryShares": 1.86,
+        "preferredShares": 6.27,
+        "totalShares": 4.05
       },
       {
         "name": "ADRECOR ADMINISTRA��O LTDA",
-        "ordinaryShares": 0.07,
-        "preferredShares": 60.89,
-        "totalShares": 30.48
+        "ordinaryShares": 0.05,
+        "preferredShares": 60.71,
+        "totalShares": 30.25
       },
       {
         "name": "SOCIEDADE AGR�COLA SANTA TEREZA LTDA",
@@ -51,6 +51,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.7599,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711594800000,
+      "amount": 0.0714,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1692759600000,
       "amount": 0.3261,
@@ -219,23 +229,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.9512200839173953
-      },
-      {
-        "period": 1640908800000,
-        "value": 4.507186926796732
-      },
-      {
-        "period": 1609372800000,
-        "value": 21.832991688718273
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.11220977579203499
-      }
-    ]
+    "netMargin": []
   }
 }

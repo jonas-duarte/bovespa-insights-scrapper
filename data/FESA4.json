@@ -2,25 +2,40 @@
   "name": "FESA4",
   "business": "Siderurgia",
   "currentState": {
-    "price": 44.63,
-    "priceToEarnings": 8.22,
-    "debtByAnnualEquity": 10.837,
+    "price": 7.57,
+    "priceToEarnings": 10.43,
+    "debtByAnnualEquity": 11.874,
     "holders": [
       {
         "name": "Funda��o Jos� Carvalho",
         "ordinaryShares": 98.8,
-        "preferredShares": 25.75,
-        "totalShares": 50.1
+        "preferredShares": 26.34,
+        "totalShares": 50.49
       },
       {
         "name": "Trigono Capital Ltda.",
         "ordinaryShares": 0.01,
-        "preferredShares": 13.1,
-        "totalShares": 8.73
+        "preferredShares": 10.91,
+        "totalShares": 7.28
       }
     ]
   },
   "events": [
+    {
+      "date": 1725505200000,
+      "amount": 0.0546,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1717556400000,
+      "amount": 0.0531,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702868400000,
+      "amount": 0.8465,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701918000000,
       "amount": 0.5041,
@@ -375,38 +390,38 @@
   "history": {
     "earningsPerShare": [
       {
+        "period": 1517356800000,
+        "value": 0
+      },
+      {
         "period": 1548892800000,
-        "value": 221176000
+        "value": 0
       },
       {
         "period": 1580428800000,
-        "value": 69772000
+        "value": 70014000
       },
       {
         "period": 1612051200000,
-        "value": 642878000
-      },
-      {
-        "period": 1643587200000,
-        "value": 1062276000
+        "value": 642907000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.33841050826118757
-      },
-      {
         "period": 1640908800000,
-        "value": 0.2690454856857798
+        "value": null
       },
       {
         "period": 1609372800000,
-        "value": 0.04301552571209092
+        "value": 0.043164722484755114
       },
       {
         "period": 1577750400000,
-        "value": 0.17285451916689462
+        "value": 0
+      },
+      {
+        "period": 1546214400000,
+        "value": 0
       }
     ]
   }

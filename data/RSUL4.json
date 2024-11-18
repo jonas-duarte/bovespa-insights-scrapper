@@ -2,9 +2,9 @@
   "name": "RSUL4",
   "business": "Material Rodovi�rio",
   "currentState": {
-    "price": 76.49,
-    "priceToEarnings": 7.64,
-    "debtByAnnualEquity": 4.327,
+    "price": 60,
+    "priceToEarnings": 6.58,
+    "debtByAnnualEquity": 5.516,
     "holders": [
       {
         "name": "STRAMOSK PARTICIPA��ES S.A.",
@@ -43,12 +43,6 @@
         "totalShares": 1.18
       },
       {
-        "name": "CARLOS EDUARDO V DE OLIVEIRA",
-        "ordinaryShares": 0,
-        "preferredShares": 0.96,
-        "totalShares": 0.4
-      },
-      {
         "name": "FERNANDO ABOUDIB CAMARGO",
         "ordinaryShares": 0,
         "preferredShares": 14.75,
@@ -57,24 +51,29 @@
       {
         "name": "TRIGONO DELPHOS INCOME FIA",
         "ordinaryShares": 0,
-        "preferredShares": 16.49,
-        "totalShares": 6.78
+        "preferredShares": 18.38,
+        "totalShares": 7.55
       },
       {
         "name": "TRIGONO HORIZON MICROCAP MASTER FIA",
         "ordinaryShares": 0,
-        "preferredShares": 1.48,
-        "totalShares": 0.61
+        "preferredShares": 0.99,
+        "totalShares": 0.41
       },
       {
         "name": "TRIGONO ICATU 100 FUNDO DE INVESTIMENTO EM A��ES PREVID�NCIA",
         "ordinaryShares": 0,
-        "preferredShares": 2.87,
-        "totalShares": 1.18
+        "preferredShares": 2.69,
+        "totalShares": 1.11
       }
     ]
   },
   "events": [
+    {
+      "date": 1713322800000,
+      "amount": 2.1269,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1681182000000,
       "amount": 2.912,
@@ -118,23 +117,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.16997141949825342
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.2748121371182391
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.029233597386437535
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1029558760531201
-      }
-    ]
+    "netMargin": []
   }
 }

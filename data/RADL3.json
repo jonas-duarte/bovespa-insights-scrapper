@@ -2,21 +2,27 @@
   "name": "RADL3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 29.56,
-    "priceToEarnings": 47.05,
-    "debtByAnnualEquity": 121.422,
+    "price": 25.43,
+    "priceToEarnings": 39.35,
+    "debtByAnnualEquity": 119.836,
     "holders": [
       {
         "name": "WELLS HOLDING LIMITED",
-        "ordinaryShares": 11.63,
+        "ordinaryShares": 11.21,
         "preferredShares": 0,
-        "totalShares": 11.63
+        "totalShares": 11.21
       },
       {
         "name": "Gl Investimentos e Participacoes Ltda",
         "ordinaryShares": 5.65,
         "preferredShares": 0,
         "totalShares": 5.65
+      },
+      {
+        "name": "BlackRock, Inc. (Gestor/Administrador - Vide item 6.6 a seguir)",
+        "ordinaryShares": 5.06,
+        "preferredShares": 0,
+        "totalShares": 5.06
       },
       {
         "name": "Antonio Carlos Pipponzi",
@@ -26,33 +32,9 @@
       },
       {
         "name": "Cristiana Almeida Pipponzi",
-        "ordinaryShares": 0.96,
+        "ordinaryShares": 0.93,
         "preferredShares": 0,
-        "totalShares": 0.96
-      },
-      {
-        "name": "Marta Almeida Pipponzi",
-        "ordinaryShares": 0.82,
-        "preferredShares": 0,
-        "totalShares": 0.82
-      },
-      {
-        "name": "Eugenio De Zagottis",
-        "ordinaryShares": 0.81,
-        "preferredShares": 0,
-        "totalShares": 0.81
-      },
-      {
-        "name": "Andre Almeida Pipponzi",
-        "ordinaryShares": 0.81,
-        "preferredShares": 0,
-        "totalShares": 0.81
-      },
-      {
-        "name": "Marcello De Zagottis",
-        "ordinaryShares": 0.81,
-        "preferredShares": 0,
-        "totalShares": 0.81
+        "totalShares": 0.93
       },
       {
         "name": "Paulo Sergio Coutinho Galv�o Filho",
@@ -61,16 +43,40 @@
         "totalShares": 0.78
       },
       {
-        "name": "Rosalia Pipponzi Raia De Almeida Prado",
-        "ordinaryShares": 0.59,
+        "name": "Marta Almeida Pipponzi",
+        "ordinaryShares": 0.77,
         "preferredShares": 0,
-        "totalShares": 0.59
+        "totalShares": 0.77
+      },
+      {
+        "name": "Marcello De Zagottis",
+        "ordinaryShares": 0.76,
+        "preferredShares": 0,
+        "totalShares": 0.76
+      },
+      {
+        "name": "Eugenio De Zagottis",
+        "ordinaryShares": 0.71,
+        "preferredShares": 0,
+        "totalShares": 0.71
+      },
+      {
+        "name": "Andre Almeida Pipponzi",
+        "ordinaryShares": 0.69,
+        "preferredShares": 0,
+        "totalShares": 0.69
+      },
+      {
+        "name": "Rosalia Pipponzi Raia De Almeida Prado",
+        "ordinaryShares": 0.53,
+        "preferredShares": 0,
+        "totalShares": 0.53
       },
       {
         "name": "Bruno Wright Pipponzi",
-        "ordinaryShares": 0.4,
+        "ordinaryShares": 0.41,
         "preferredShares": 0,
-        "totalShares": 0.4
+        "totalShares": 0.41
       },
       {
         "name": "Maria Eug�nia Lafer Galv�o",
@@ -86,9 +92,9 @@
       },
       {
         "name": "Alexandre De Zagottis",
-        "ordinaryShares": 0.3,
+        "ordinaryShares": 0.31,
         "preferredShares": 0,
-        "totalShares": 0.3
+        "totalShares": 0.31
       },
       {
         "name": "Alberto Wright Pipponzi",
@@ -105,6 +111,36 @@
     ]
   },
   "events": [
+    {
+      "date": 1727924400000,
+      "amount": 0.0665,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727924400000,
+      "amount": 0.0618,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1719975600000,
+      "amount": 0.045,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713322800000,
+      "amount": 0.0492,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712113200000,
+      "amount": 0.0434,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703041200000,
+      "amount": 0.0484,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1701831600000,
       "amount": 0.0508,
@@ -589,38 +625,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 772240000
-      },
-      {
         "period": 1580428800000,
-        "value": 484444000
+        "value": 579259000
       },
       {
         "period": 1612051200000,
-        "value": 751934000
+        "value": 815152000
       },
       {
         "period": 1643587200000,
         "value": 996112000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1150801000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.03387320048778779
+      },
       {
         "period": 1672444800000,
         "value": 0.034269067249955106
       },
       {
         "period": 1640908800000,
-        "value": 0.031165662439121115
+        "value": 0.033785876033929615
       },
       {
         "period": 1609372800000,
-        "value": 0.0241415190433571
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.043963200801566696
+        "value": 0.028866481106789223
       }
     ]
   }

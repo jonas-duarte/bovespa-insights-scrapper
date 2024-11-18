@@ -2,67 +2,92 @@
   "name": "ARML3",
   "business": "Aluguel de carros",
   "currentState": {
-    "price": 17.42,
-    "priceToEarnings": 35.78,
-    "debtByAnnualEquity": 181.61,
+    "price": 7.95,
+    "priceToEarnings": 13.36,
+    "debtByAnnualEquity": 221.515,
     "holders": [
       {
-        "name": "Speed Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 22.53,
+        "name": "Fernando Pereira Arag�o",
+        "ordinaryShares": 17.43,
         "preferredShares": 0,
-        "totalShares": 22.53
+        "totalShares": 17.43
       },
       {
-        "name": "Fernando Pereira Arag�o",
-        "ordinaryShares": 16.77,
+        "name": "SPEED AB FUNDO DE INVESTIMENTO FINANCEIRO EM A��ES",
+        "ordinaryShares": 17.43,
         "preferredShares": 0,
-        "totalShares": 16.77
+        "totalShares": 17.43
       },
       {
         "name": "Jos� Augusto Pereira Arag�o",
-        "ordinaryShares": 16.75,
+        "ordinaryShares": 16.49,
         "preferredShares": 0,
-        "totalShares": 16.75
+        "totalShares": 16.49
       },
       {
         "name": "Jos� Augusto Carvalho Arag�o",
-        "ordinaryShares": 8.37,
+        "ordinaryShares": 8.25,
         "preferredShares": 0,
-        "totalShares": 8.37
+        "totalShares": 8.25
       },
       {
         "name": "L�cia Rosa Pereira Arag�o",
-        "ordinaryShares": 8.37,
+        "ordinaryShares": 8.25,
         "preferredShares": 0,
-        "totalShares": 8.37
+        "totalShares": 8.25
       },
       {
         "name": "Opportunity A��es Fundo de Investimento em A��es - BDR N�vel I - Investimento no Exterior",
-        "ordinaryShares": 5.43,
+        "ordinaryShares": 5.88,
         "preferredShares": 0,
-        "totalShares": 5.43
+        "totalShares": 5.88
+      },
+      {
+        "name": "SPEED C FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA",
+        "ordinaryShares": 4.75,
+        "preferredShares": 0,
+        "totalShares": 4.75
       },
       {
         "name": "Opportunity L�gica Master Fundo de Investimento em A��es",
-        "ordinaryShares": 1.84,
+        "ordinaryShares": 1.86,
         "preferredShares": 0,
-        "totalShares": 1.84
+        "totalShares": 1.86
       },
       {
         "name": "Opportunity Selection Master Fundo de Investimento em A��es",
-        "ordinaryShares": 0.12,
+        "ordinaryShares": 0.14,
         "preferredShares": 0,
-        "totalShares": 0.12
-      },
-      {
-        "name": "Opportunity Long Biased Previd�ncia Master Fundo de Investimento",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
+        "totalShares": 0.14
       }
     ]
   },
   "events": [
+    {
+      "date": 1728010800000,
+      "amount": 0.0751,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719975600000,
+      "amount": 0.1,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1719975600000,
+      "amount": 0.0734,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712026800000,
+      "amount": 0.0694,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.066,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1696215600000,
       "amount": 0.0492,
@@ -127,10 +152,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 9164000
-      },
-      {
         "period": 1580428800000,
         "value": 17533000
       },
@@ -141,9 +162,17 @@
       {
         "period": 1643587200000,
         "value": 148592000
+      },
+      {
+        "period": 1675123200000,
+        "value": 163283000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.11997572314391164
+      },
       {
         "period": 1672444800000,
         "value": 0.15612437667716658
@@ -154,11 +183,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.15753769295739214
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1493140417766481
+        "value": null
       }
     ]
   }

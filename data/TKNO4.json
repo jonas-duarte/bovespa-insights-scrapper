@@ -2,9 +2,9 @@
   "name": "TKNO4",
   "business": "Artefatos de Ferro e A�o",
   "currentState": {
-    "price": 60.01,
-    "priceToEarnings": 6.6,
-    "debtByAnnualEquity": 0.95,
+    "price": 83,
+    "priceToEarnings": 5.23,
+    "debtByAnnualEquity": 0.622,
     "holders": [
       {
         "name": "Estela Madeira do Val",
@@ -33,6 +33,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1727060400000,
+      "amount": 1.3194,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711335600000,
+      "amount": 3.4308,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703559600000,
+      "amount": 0.7155,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682564400000,
       "amount": 0.5027,
@@ -271,23 +286,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.12424478659130773
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.22142605781315458
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.0701704374140001
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06532075603049184
-      }
-    ]
+    "netMargin": []
   }
 }

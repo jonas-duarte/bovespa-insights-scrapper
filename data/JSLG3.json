@@ -2,15 +2,15 @@
   "name": "JSLG3",
   "business": "Transporte Rodovi�rio",
   "currentState": {
-    "price": 11.7,
-    "priceToEarnings": 8.99,
-    "debtByAnnualEquity": 375.245,
+    "price": 6.98,
+    "priceToEarnings": 7.76,
+    "debtByAnnualEquity": 452.101,
     "holders": [
       {
         "name": "SIMPAR S.A.",
-        "ordinaryShares": 71.93,
+        "ordinaryShares": 67.34,
         "preferredShares": 0,
-        "totalShares": 71.93
+        "totalShares": 67.34
       },
       {
         "name": "JSP HOLDING S.A.",
@@ -141,12 +141,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 225903000
-      },
-      {
         "period": 1580428800000,
-        "value": 180583000
+        "value": 40971000
       },
       {
         "period": 1612051200000,
@@ -155,9 +151,17 @@
       {
         "period": 1643587200000,
         "value": 194182000
+      },
+      {
+        "period": 1675123200000,
+        "value": 351783000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.04644218262930905
+      },
       {
         "period": 1672444800000,
         "value": 0.032243264941497624
@@ -168,11 +172,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.06388254975507615
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0728254681367824
+        "value": 0.014493773878590632
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "OFSA3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 23.5,
-    "priceToEarnings": -54.28,
-    "debtByAnnualEquity": 52.881,
+    "price": 22.4,
+    "priceToEarnings": 13.27,
+    "debtByAnnualEquity": 61.78,
     "holders": [
       {
         "name": "MITSUI & CO., LTD",
@@ -27,6 +27,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1714359600000,
+      "amount": 0.3369,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1702954800000,
+      "amount": 0.2764,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1681441200000,
       "amount": 0.1967,
@@ -116,29 +126,29 @@
       },
       {
         "period": 1580428800000,
-        "value": 89720000
-      },
-      {
-        "period": 1612051200000,
-        "value": 113964000
+        "value": 89713000
       },
       {
         "period": 1643587200000,
         "value": 130663000
+      },
+      {
+        "period": 1675123200000,
+        "value": -49975000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.12550391074116302
+        "period": 1703980800000,
+        "value": -0.048002113149553355
       },
       {
-        "period": 1640908800000,
-        "value": 0.12592832414907992
+        "period": 1672444800000,
+        "value": null
       },
       {
         "period": 1609372800000,
-        "value": 0.12288592920499433
+        "value": 0.12287634158234124
       },
       {
         "period": 1577750400000,

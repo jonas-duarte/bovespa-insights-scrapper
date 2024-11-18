@@ -2,33 +2,33 @@
   "name": "ALPK3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 4.34,
-    "priceToEarnings": -8.7,
-    "debtByAnnualEquity": 367.893,
+    "price": 2.77,
+    "priceToEarnings": -28.08,
+    "debtByAnnualEquity": 412.302,
     "holders": [
       {
         "name": "Fundo de Investimento em Participa��es Maranello - Multiestrat�gia",
-        "ordinaryShares": 38.69,
+        "ordinaryShares": 38.22,
         "preferredShares": 0,
-        "totalShares": 38.69
+        "totalShares": 38.22
       },
       {
         "name": "Riverside Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 26.44,
+        "ordinaryShares": 26.13,
         "preferredShares": 0,
-        "totalShares": 26.44
+        "totalShares": 26.13
       },
       {
         "name": "Tempranillo Fundo de Investimento de A��es Investimento no Exterior",
-        "ordinaryShares": 11.81,
+        "ordinaryShares": 11.67,
         "preferredShares": 0,
-        "totalShares": 11.81
+        "totalShares": 11.67
       },
       {
-        "name": "Fundo de Investimento Multimercado Cr�dito Privado Valbuena",
-        "ordinaryShares": 7.13,
+        "name": "DE DUERO FUNDO DE INVESTIMENTO DE A��ES INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 6.25,
         "preferredShares": 0,
-        "totalShares": 7.13
+        "totalShares": 6.25
       }
     ]
   },
@@ -36,38 +36,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -43540000
-      },
-      {
         "period": 1580428800000,
-        "value": -170960000
+        "value": 0
       },
       {
         "period": 1612051200000,
-        "value": -223357000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": -160871000
+        "value": 0
+      },
+      {
+        "period": 1675123200000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0
+      },
+      {
         "period": 1672444800000,
-        "value": -0.14454350968903618
+        "value": 0
       },
       {
         "period": 1640908800000,
-        "value": -0.26751551924650063
+        "value": 0
       },
       {
         "period": 1609372800000,
-        "value": -0.26327258167594497
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.04028929825925062
+        "value": 0
       }
     ]
   }

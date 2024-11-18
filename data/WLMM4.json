@@ -2,9 +2,9 @@
   "name": "WLMM4",
   "business": "Material de Transporte",
   "currentState": {
-    "price": 30.49,
-    "priceToEarnings": 10.51,
-    "debtByAnnualEquity": 1.337,
+    "price": 29.8,
+    "priceToEarnings": 7.78,
+    "debtByAnnualEquity": 24.61,
     "holders": [
       {
         "name": "SAJUTH� RIO PARTIICIPA��ES S.A.",
@@ -123,12 +123,37 @@
       {
         "name": "Trigono Capital Ltda.",
         "ordinaryShares": 0,
-        "preferredShares": 5,
-        "totalShares": 2.73
+        "preferredShares": 5.14,
+        "totalShares": 2.8
       }
     ]
   },
   "events": [
+    {
+      "date": 1731034800000,
+      "amount": 0.2005,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1723431600000,
+      "amount": 0.2292,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.6943,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.0352,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1707361200000,
+      "amount": 0.2292,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1699585200000,
       "amount": 0.2292,
@@ -326,41 +351,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 49787000
-      },
-      {
-        "period": 1580428800000,
-        "value": 54402000
-      },
-      {
-        "period": 1612051200000,
-        "value": 105731000
-      },
-      {
-        "period": 1643587200000,
-        "value": 117298000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.0592324694402209
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.05711573917266422
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.05594663052208422
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.046293033310862645
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

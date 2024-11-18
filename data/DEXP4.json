@@ -2,117 +2,141 @@
   "name": "DEXP4",
   "business": "Petroqu�micos",
   "currentState": {
-    "price": 11,
-    "priceToEarnings": 6.48,
-    "debtByAnnualEquity": 35.564,
+    "price": 8.11,
+    "priceToEarnings": 5.42,
+    "debtByAnnualEquity": 28.17,
     "holders": [
       {
-        "name": "GURGU�IA FUNDO DE INVESTIMENTO MULTIMERCADO CREDITO PRIVADO INVESTIMENTO EXTERIOR",
-        "ordinaryShares": 9.41,
-        "preferredShares": 5.2,
-        "totalShares": 9.15
+        "name": "GURGUEIA FUNDO DE INVESTIMENTO EM ACOES BDR NIVEL 1",
+        "ordinaryShares": 8.23,
+        "preferredShares": 6.6,
+        "totalShares": 8.14
       },
       {
         "name": "MARCELO PRADEZ DE FARIA STALLONE",
-        "ordinaryShares": 8.46,
+        "ordinaryShares": 7.15,
         "preferredShares": 0,
-        "totalShares": 7.94
+        "totalShares": 6.77
       },
       {
         "name": "IMOBILIARIA MONDESIR S/A",
-        "ordinaryShares": 8.06,
+        "ordinaryShares": 6.87,
         "preferredShares": 0.28,
-        "totalShares": 7.58
+        "totalShares": 6.53
       },
       {
         "name": "EDUARDO DE FARIA",
-        "ordinaryShares": 7.36,
+        "ordinaryShares": 6.28,
         "preferredShares": 0,
-        "totalShares": 6.91
+        "totalShares": 5.94
       },
       {
         "name": "JORGE PAULO PEIXOTO DE CASTRO PALHARES",
-        "ordinaryShares": 3.7,
+        "ordinaryShares": 4.17,
         "preferredShares": 0,
-        "totalShares": 3.47
-      },
-      {
-        "name": "PAULO CESAR PEIXOTO DE CASTRO PALHARES FILHO",
-        "ordinaryShares": 3.69,
-        "preferredShares": 0,
-        "totalShares": 3.46
+        "totalShares": 3.95
       },
       {
         "name": "ANDREA PALHARES VASCONCELOS",
-        "ordinaryShares": 3.68,
+        "ordinaryShares": 4.16,
         "preferredShares": 0,
-        "totalShares": 3.46
+        "totalShares": 3.94
+      },
+      {
+        "name": "PAULO CESAR PEIXOTO DE CASTRO PALHARES FILHO",
+        "ordinaryShares": 4.16,
+        "preferredShares": 0,
+        "totalShares": 3.94
       },
       {
         "name": "MARIA HELENA PALHARES SALGADO",
-        "ordinaryShares": 3.54,
+        "ordinaryShares": 3.21,
         "preferredShares": 0,
-        "totalShares": 3.33
-      },
-      {
-        "name": "JOAO CARLOS PEIXOTO DE CASTRO PALHARES",
-        "ordinaryShares": 2.83,
-        "preferredShares": 0,
-        "totalShares": 2.66
+        "totalShares": 3.04
       },
       {
         "name": "CELINA CORREA PEIXOTO DE CASTRO PALHARES",
-        "ordinaryShares": 1.1,
+        "ordinaryShares": 1.92,
         "preferredShares": 0,
-        "totalShares": 1.03
+        "totalShares": 1.82
       },
       {
-        "name": "ANTONIO EDUARDO PEIXOTO DE CASTRO PALHARES",
-        "ordinaryShares": 1.08,
-        "preferredShares": 0,
-        "totalShares": 1.01
+        "name": "LUIS FELIPE BRANDAO DOS SANTOS",
+        "ordinaryShares": 1.85,
+        "preferredShares": 5.31,
+        "totalShares": 2.03
       },
       {
         "name": "ANTONIO JOAQUIM PEIXOTO DE CASTRO",
-        "ordinaryShares": 1.06,
+        "ordinaryShares": 1.7,
         "preferredShares": 0,
-        "totalShares": 1
+        "totalShares": 1.61
+      },
+      {
+        "name": "ANTONIO EDUARDO PEIXOTO DE CASTRO PALHARES",
+        "ordinaryShares": 1.69,
+        "preferredShares": 0,
+        "totalShares": 1.6
       },
       {
         "name": "Emilio Salgado Filho",
-        "ordinaryShares": 0.92,
+        "ordinaryShares": 0.79,
         "preferredShares": 0,
-        "totalShares": 0.86
+        "totalShares": 0.75
+      },
+      {
+        "name": "CAMILA MARIA LODI PALHARES",
+        "ordinaryShares": 0.73,
+        "preferredShares": 0,
+        "totalShares": 0.69
+      },
+      {
+        "name": "JULIANA MARIA LODI PALHARES",
+        "ordinaryShares": 0.73,
+        "preferredShares": 0,
+        "totalShares": 0.69
+      },
+      {
+        "name": "MARIA CANDIDA BEHRING PALHARES",
+        "ordinaryShares": 0.73,
+        "preferredShares": 0,
+        "totalShares": 0.69
       },
       {
         "name": "HEITOR DIAS PALHARES NETO",
-        "ordinaryShares": 0.61,
+        "ordinaryShares": 0.56,
         "preferredShares": 0,
-        "totalShares": 0.58
+        "totalShares": 0.53
+      },
+      {
+        "name": "MONICA BEHRING PALHARES",
+        "ordinaryShares": 0.24,
+        "preferredShares": 0,
+        "totalShares": 0.23
+      },
+      {
+        "name": "JOAO CARLOS PEIXOTO DE CASTRO PALHARES",
+        "ordinaryShares": 0.21,
+        "preferredShares": 0,
+        "totalShares": 0.2
       },
       {
         "name": "Pedro Henrique Silva Salgado",
-        "ordinaryShares": 0.14,
+        "ordinaryShares": 0.12,
         "preferredShares": 0,
-        "totalShares": 0.13
+        "totalShares": 0.11
       },
       {
         "name": "Jo�o Pedro Silva Salgado",
-        "ordinaryShares": 0.1,
+        "ordinaryShares": 0.09,
         "preferredShares": 0,
-        "totalShares": 0.1
-      },
-      {
-        "name": "BANCO DO ESTADO DO RIO GRANDE DO SUL S/A",
-        "ordinaryShares": 0,
-        "preferredShares": 12.79,
-        "totalShares": 0.79
+        "totalShares": 0.08
       },
       {
         "name": "CAIXA ECONOMICA FEDERAL",
         "ordinaryShares": 0,
         "preferredShares": 8.15,
-        "totalShares": 0.5
+        "totalShares": 0.43
       },
       {
         "name": "CESAR AUGUSTO PEIXOTO DE CASTRO PALHARES",
@@ -124,11 +148,21 @@
         "name": "TAQUARI PARTICIPA��ES S/A",
         "ordinaryShares": 0,
         "preferredShares": 17.39,
-        "totalShares": 1.07
+        "totalShares": 0.92
       }
     ]
   },
   "events": [
+    {
+      "date": 1714359600000,
+      "amount": 0.3192,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1702954800000,
+      "amount": 0.2207,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.2732,
@@ -141,23 +175,32 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1612051200000,
+        "value": 229685000
+      },
+      {
+        "period": 1643587200000,
+        "value": 179915000
+      },
+      {
+        "period": 1675123200000,
+        "value": 180791000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.10358883270544757
+      },
+      {
         "period": 1672444800000,
-        "value": 0.07144103163421521
+        "value": 0.08575106715192926
       },
       {
         "period": 1640908800000,
-        "value": 0.10811972989088106
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.11985712289421645
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.03126915618156268
+        "value": null
       }
     ]
   }

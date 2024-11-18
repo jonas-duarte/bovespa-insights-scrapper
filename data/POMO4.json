@@ -2,9 +2,9 @@
   "name": "POMO4",
   "business": "Material Rodovi�rio",
   "currentState": {
-    "price": 6.71,
-    "priceToEarnings": 7.97,
-    "debtByAnnualEquity": 74.277,
+    "price": 9.42,
+    "priceToEarnings": 9.24,
+    "debtByAnnualEquity": 75.477,
     "holders": [
       {
         "name": "BELLPART PARTICIPA��ES LTDA",
@@ -14,61 +14,92 @@
       },
       {
         "name": "Alaska Investimentos Ltda",
-        "ordinaryShares": 20.01,
-        "preferredShares": 0.26,
-        "totalShares": 7.38
+        "ordinaryShares": 20.24,
+        "preferredShares": 0.06,
+        "totalShares": 7.34
+      },
+      {
+        "name": "FUNDA��O MARCOPOLO",
+        "ordinaryShares": 5.01,
+        "preferredShares": 1.26,
+        "totalShares": 2.61
       },
       {
         "name": "G5 HUBBLE FIA IE",
-        "ordinaryShares": 6.81,
+        "ordinaryShares": 4.23,
         "preferredShares": 0,
-        "totalShares": 2.46
-      },
-      {
-        "name": "VATE PARTICIPA��ES E ADMINISTRA��O LTDA",
-        "ordinaryShares": 3.03,
-        "preferredShares": 0,
-        "totalShares": 1.1
+        "totalShares": 1.53
       },
       {
         "name": "JAMES EDUARDO BELLINI",
-        "ordinaryShares": 2.25,
-        "preferredShares": 3.22,
-        "totalShares": 2.87
+        "ordinaryShares": 2.57,
+        "preferredShares": 3.29,
+        "totalShares": 3.03
       },
       {
         "name": "MAURO GILBERTO BELLINI",
-        "ordinaryShares": 2.25,
-        "preferredShares": 1.85,
+        "ordinaryShares": 2.57,
+        "preferredShares": 1.67,
         "totalShares": 2
       },
       {
         "name": "PAULO ALEXANDER PACHECO BELLINI",
-        "ordinaryShares": 2.02,
-        "preferredShares": 0.99,
-        "totalShares": 1.36
+        "ordinaryShares": 2.18,
+        "preferredShares": 1.03,
+        "totalShares": 1.44
+      },
+      {
+        "name": "VATE PARTICIPA��ES E ADMINISTRA��O LTDA",
+        "ordinaryShares": 1.57,
+        "preferredShares": 0,
+        "totalShares": 0.57
+      },
+      {
+        "name": "BlackRock, Inc.",
+        "ordinaryShares": 0.61,
+        "preferredShares": 4.98,
+        "totalShares": 3.4
       },
       {
         "name": "VIVIANE MARIA PINTO BADO",
-        "ordinaryShares": 0.53,
+        "ordinaryShares": 0.5,
         "preferredShares": 0.08,
-        "totalShares": 0.24
-      },
-      {
-        "name": "FUND PETROBRAS SEG SOC PETROS",
-        "ordinaryShares": 0,
-        "preferredShares": 4.7,
-        "totalShares": 3
+        "totalShares": 0.23
       },
       {
         "name": "T.ROWE PRICE ASSOCIATES",
         "ordinaryShares": 0,
-        "preferredShares": 9.78,
-        "totalShares": 6.25
+        "preferredShares": 0.22,
+        "totalShares": 0.14
       }
     ]
   },
   "events": [
+    {
+      "date": 1724814000000,
+      "amount": 0.082,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1724814000000,
+      "amount": 0.038,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1716433200000,
+      "amount": 0.1,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709175600000,
+      "amount": 0.23,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.1,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1696474800000,
       "amount": 0.07,
@@ -408,10 +439,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 201387000
-      },
-      {
         "period": 1580428800000,
         "value": 103863000
       },
@@ -422,9 +449,17 @@
       {
         "period": 1643587200000,
         "value": 449114000
+      },
+      {
+        "period": 1675123200000,
+        "value": 816159000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.12212066103484878
+      },
       {
         "period": 1672444800000,
         "value": 0.08292940897973232
@@ -436,10 +471,6 @@
       {
         "period": 1609372800000,
         "value": 0.028933921912425182
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.04611121580045331
       }
     ]
   }

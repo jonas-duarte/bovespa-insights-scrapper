@@ -2,8 +2,8 @@
   "name": "BOBR4",
   "business": "Produtos de Limpeza",
   "currentState": {
-    "price": 1.99,
-    "priceToEarnings": 4.83,
+    "price": 2.47,
+    "priceToEarnings": 8.83,
     "holders": [
       {
         "name": "Ronaldo Sampaio Ferreira",
@@ -24,16 +24,16 @@
         "totalShares": 2.66
       },
       {
-        "name": "EWZ BRASIL FUNDO DE INVESTIMENTO EM A��ES",
-        "ordinaryShares": 0,
-        "preferredShares": 15.55,
-        "totalShares": 7.34
-      },
-      {
-        "name": "LAGRO DO BRASIL PARTICIPA�OES LTDA",
+        "name": "Bonsucex Holding S.A.",
         "ordinaryShares": 0,
         "preferredShares": 7.41,
         "totalShares": 3.49
+      },
+      {
+        "name": "SERENITY BRASIL FUNDO DE INVESTIMENTOS EM A��ES",
+        "ordinaryShares": 0,
+        "preferredShares": 15.53,
+        "totalShares": 7.33
       },
       {
         "name": "Silvio Tini de Ara�jo",
@@ -86,41 +86,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -40487000
-      },
-      {
-        "period": 1580428800000,
-        "value": 39956000
-      },
-      {
-        "period": 1612051200000,
-        "value": 66906000
-      },
-      {
-        "period": 1643587200000,
-        "value": 22583000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.015350263054147011
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.0587377004277196
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.03465355551064905
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.03820443766713911
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

@@ -2,37 +2,46 @@
   "name": "ALLD3",
   "business": "Eletrodom�sticos",
   "currentState": {
-    "price": 7.08,
-    "priceToEarnings": 8.67,
-    "debtByAnnualEquity": 45.055,
+    "price": 8.42,
+    "priceToEarnings": 5.09,
+    "debtByAnnualEquity": 43.403,
     "holders": [
       {
         "name": "Brasil Investimentos 2015 I Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 47.39,
+        "ordinaryShares": 46.96,
         "preferredShares": 0,
-        "totalShares": 47.39
+        "totalShares": 46.96
       },
       {
         "name": "Brasil Investimentos 2015 II Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 17.99,
+        "ordinaryShares": 17.83,
         "preferredShares": 0,
-        "totalShares": 17.99
+        "totalShares": 17.83
       },
       {
         "name": "Ricardo Radomysler",
-        "ordinaryShares": 10.76,
+        "ordinaryShares": 10.58,
         "preferredShares": 0,
-        "totalShares": 10.76
-      },
-      {
-        "name": "Marcelo Radomysler",
-        "ordinaryShares": 6.92,
-        "preferredShares": 0,
-        "totalShares": 6.92
+        "totalShares": 10.58
       }
     ]
   },
   "events": [
+    {
+      "date": 1713150000000,
+      "amount": 1.0727,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702954800000,
+      "amount": 0.4827,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702954800000,
+      "amount": 0.4827,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1672110000000,
       "amount": 0.354,
@@ -67,38 +76,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 100630000
-      },
-      {
         "period": 1580428800000,
         "value": 167645000
       },
       {
         "period": 1612051200000,
-        "value": 288231000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 76146000
+      },
+      {
+        "period": 1675123200000,
+        "value": 122444000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.02091302777239294
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.014849698144285023
       },
       {
         "period": 1640908800000,
-        "value": 0.05022729676730969
+        "value": 0
       },
       {
         "period": 1609372800000,
         "value": 0.035499859923306155
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.02711470005828192
       }
     ]
   }

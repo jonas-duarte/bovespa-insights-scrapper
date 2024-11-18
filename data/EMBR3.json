@@ -2,27 +2,27 @@
   "name": "EMBR3",
   "business": "Material Aeron�utico e de Defesa",
   "currentState": {
-    "price": 24.36,
-    "priceToEarnings": -441.65,
-    "debtByAnnualEquity": 105.26,
+    "price": 55.42,
+    "priceToEarnings": 15.79,
+    "debtByAnnualEquity": 80.775,
     "holders": [
       {
         "name": "BRANDES INVESTMENTS PARTNERS, L.P.",
-        "ordinaryShares": 15.14,
+        "ordinaryShares": 10,
         "preferredShares": 0,
-        "totalShares": 15.14
+        "totalShares": 10
+      },
+      {
+        "name": "BlackRock Inc",
+        "ordinaryShares": 5.5,
+        "preferredShares": 0,
+        "totalShares": 5.5
       },
       {
         "name": "BNDES Participa��es - BNDESPar",
         "ordinaryShares": 5.37,
         "preferredShares": 0,
         "totalShares": 5.37
-      },
-      {
-        "name": "BlackRock Inc",
-        "ordinaryShares": 5.04,
-        "preferredShares": 0,
-        "totalShares": 5.04
       }
     ]
   },
@@ -461,38 +461,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -1316797000
-      },
-      {
         "period": 1580428800000,
-        "value": -3616014000
+        "value": -731900000
       },
       {
         "period": 1612051200000,
-        "value": -274819000
+        "value": -44700000
       },
       {
         "period": 1643587200000,
-        "value": -953656000
+        "value": -185400000
+      },
+      {
+        "period": 1675123200000,
+        "value": 156842340
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.030010915704984945
+      },
+      {
         "period": 1672444800000,
-        "value": -0.04066976473948251
+        "value": -0.040833406748304116
       },
       {
         "period": 1640908800000,
-        "value": -0.012122742664714869
+        "value": -0.010649957114266653
       },
       {
         "period": 1609372800000,
-        "value": -0.1840982306884453
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.06039778323852202
+        "value": -0.1940813025377211
       }
     ]
   }

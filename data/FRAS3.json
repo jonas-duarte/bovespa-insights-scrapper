@@ -2,9 +2,9 @@
   "name": "FRAS3",
   "business": "Material Rodovi�rio",
   "currentState": {
-    "price": 16.51,
-    "priceToEarnings": 13.73,
-    "debtByAnnualEquity": 53.458,
+    "price": 20.73,
+    "priceToEarnings": 17.41,
+    "debtByAnnualEquity": 55.018,
     "holders": [
       {
         "name": "Randon S.A. Impl.e Participa��es",
@@ -20,9 +20,9 @@
       },
       {
         "name": "TPE GESTORA DE RECURSOS LTDA",
-        "ordinaryShares": 10.82,
+        "ordinaryShares": 10.51,
         "preferredShares": 0,
-        "totalShares": 10.82
+        "totalShares": 10.51
       },
       {
         "name": "PREVI-Caixa Previd�ncia Funcion�rios Banco do Brasil",
@@ -33,6 +33,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1721617200000,
+      "amount": 0.2459,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713754800000,
+      "amount": 0.1321,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703041200000,
+      "amount": 0.2319,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1689822000000,
       "amount": 0.2417,
@@ -357,38 +372,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 36889000
-      },
-      {
         "period": 1580428800000,
         "value": 188367000
       },
       {
         "period": 1612051200000,
-        "value": 211228000
+        "value": 210600000
       },
       {
         "period": 1643587200000,
         "value": 204838000
+      },
+      {
+        "period": 1675123200000,
+        "value": 377385000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.11136571546610795
+      },
+      {
         "period": 1672444800000,
-        "value": 0.0669805579871106
+        "value": 0.06697992283042313
       },
       {
         "period": 1640908800000,
-        "value": 0.08180264165820478
+        "value": 0.08155836108744481
       },
       {
         "period": 1609372800000,
-        "value": 0.11274134555590203
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0270148347612502
+        "value": null
       }
     ]
   }

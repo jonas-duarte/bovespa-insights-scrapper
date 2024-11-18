@@ -2,31 +2,56 @@
   "name": "RANI3",
   "business": "Papel e Celulose",
   "currentState": {
-    "price": 10.98,
-    "priceToEarnings": 5.85,
-    "debtByAnnualEquity": 125.003,
+    "price": 6.88,
+    "priceToEarnings": 13.15,
+    "debtByAnnualEquity": 134.093,
     "holders": [
       {
         "name": "IRANI PARTICIPA��ES S.A",
-        "ordinaryShares": 40.07,
+        "ordinaryShares": 42.43,
         "preferredShares": 0,
-        "totalShares": 40.07
+        "totalShares": 42.43
       },
       {
         "name": "Habitasul Desenvolvimentos Imobili�rios S.A.",
-        "ordinaryShares": 8.97,
+        "ordinaryShares": 7.88,
         "preferredShares": 0,
-        "totalShares": 8.97
+        "totalShares": 7.88
       },
       {
         "name": "Companhia Habitasul de Participa��es",
-        "ordinaryShares": 6.64,
+        "ordinaryShares": 4.79,
         "preferredShares": 0,
-        "totalShares": 6.64
+        "totalShares": 4.79
       }
     ]
   },
   "events": [
+    {
+      "date": 1730948400000,
+      "amount": 0.0408,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1722999600000,
+      "amount": 0.0427,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715137200000,
+      "amount": 0.0431,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714100400000,
+      "amount": 0.3905,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1709607600000,
+      "amount": 0.0096,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1699412400000,
       "amount": 0.0668,
@@ -286,38 +311,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -79592000
-      },
-      {
         "period": 1580428800000,
         "value": 92761000
       },
       {
         "period": 1612051200000,
-        "value": 285313000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": 378210000
+        "value": 0
+      },
+      {
+        "period": 1675123200000,
+        "value": 383434000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.2405113392232687
+      },
+      {
         "period": 1672444800000,
-        "value": 0.22423526649615277
+        "value": 0
       },
       {
         "period": 1640908800000,
-        "value": 0.177672785605486
+        "value": 0
       },
       {
         "period": 1609372800000,
         "value": 0.09009377382588468
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.08855569611662044
       }
     ]
   }

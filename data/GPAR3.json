@@ -2,9 +2,9 @@
   "name": "GPAR3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 50,
-    "priceToEarnings": -5.43,
-    "debtByAnnualEquity": 2.349,
+    "price": 47,
+    "priceToEarnings": -511.8,
+    "debtByAnnualEquity": 1.921,
     "holders": [
       {
         "name": "Governo do Estado de Goi�s",
@@ -43,23 +43,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.626980786555019
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.5977789271039853
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.34334571354917554
-      }
-    ]
+    "netMargin": []
   }
 }

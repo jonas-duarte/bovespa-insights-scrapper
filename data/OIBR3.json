@@ -2,8 +2,8 @@
   "name": "OIBR3",
   "business": "Telecomunica��es",
   "currentState": {
-    "price": 0.65,
-    "priceToEarnings": -0.02,
+    "price": 1,
+    "priceToEarnings": 0.03,
     "holders": [
       {
         "name": "VIC DTVM",
@@ -189,38 +189,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -9000434000
-      },
-      {
         "period": 1580428800000,
-        "value": -10529963000
+        "value": -10530000000
       },
       {
         "period": 1612051200000,
-        "value": -10431444000
+        "value": -8516185000
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": -19268496000
+      },
+      {
+        "period": 1675123200000,
+        "value": -5430918000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.558868662337796
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": -1.528760393525865
       },
       {
         "period": 1640908800000,
-        "value": -0.9950364759637521
+        "value": -0.4748789687164383
       },
       {
         "period": 1609372800000,
-        "value": -0.9633805242016127
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.8578299321698925
+        "value": -0.5608223263740946
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "LPSB3",
   "business": "Intermedia��o Imobili�ria",
   "currentState": {
-    "price": 2.42,
-    "priceToEarnings": 15.58,
-    "debtByAnnualEquity": 9.385,
+    "price": 1.64,
+    "priceToEarnings": 19.88,
+    "debtByAnnualEquity": 8.201,
     "holders": [
       {
         "name": "Francisco Lopes Filho",
@@ -14,21 +14,15 @@
       },
       {
         "name": "Lanx Capital Investimento Ltda.",
-        "ordinaryShares": 15.21,
+        "ordinaryShares": 19.75,
         "preferredShares": 0,
-        "totalShares": 15.21
+        "totalShares": 19.75
       },
       {
         "name": "Marcos Bulle Lopes",
-        "ordinaryShares": 11.4,
+        "ordinaryShares": 18.31,
         "preferredShares": 0,
-        "totalShares": 11.4
-      },
-      {
-        "name": "F.I.M Cr�dito Privado Mocastland",
-        "ordinaryShares": 6.79,
-        "preferredShares": 0,
-        "totalShares": 6.79
+        "totalShares": 18.31
       },
       {
         "name": "Francisco Lopes Neto",
@@ -45,6 +39,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.0406,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.0207,
@@ -119,8 +118,12 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -4282000
+        "period": 1485820800000,
+        "value": -63367000
+      },
+      {
+        "period": 1517356800000,
+        "value": -46672000
       },
       {
         "period": 1580428800000,
@@ -128,29 +131,25 @@
       },
       {
         "period": 1612051200000,
-        "value": 43786000
-      },
-      {
-        "period": 1643587200000,
         "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
         "period": 1640908800000,
-        "value": 0.19669200222809194
+        "value": 0
       },
       {
         "period": 1609372800000,
         "value": -0.030730946812975956
       },
       {
-        "period": 1577750400000,
-        "value": -0.029027753297992055
+        "period": 1546214400000,
+        "value": -0.4274188378588763
+      },
+      {
+        "period": 1514678400000,
+        "value": -0.5707761734477882
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "ELET6",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 46.36,
-    "priceToEarnings": 33.41,
-    "debtByAnnualEquity": 65.604,
+    "price": 40.58,
+    "priceToEarnings": 9.22,
+    "debtByAnnualEquity": 59.846,
     "holders": [
       {
         "name": "Uni�o Federal",
@@ -14,9 +14,9 @@
       },
       {
         "name": "GIC Private",
-        "ordinaryShares": 6.48,
-        "preferredShares": 2.57,
-        "totalShares": 6
+        "ordinaryShares": 6.39,
+        "preferredShares": 2.82,
+        "totalShares": 5.95
       },
       {
         "name": "BANCO NACIONAL DE DESENVOLVIMENTO ECON�MICO E SOCIAL � BNDES",
@@ -38,51 +38,51 @@
       },
       {
         "name": "Caixa D.T.V.M.",
-        "ordinaryShares": 1.99,
-        "preferredShares": 0.1,
-        "totalShares": 1.76
+        "ordinaryShares": 1.78,
+        "preferredShares": 0.07,
+        "totalShares": 1.57
       },
       {
-        "name": "BB GEST�O DE RECURSOS DTVM S.A",
-        "ordinaryShares": 1.13,
-        "preferredShares": 0.78,
-        "totalShares": 1.08
+        "name": "Banco do Brasil DTVM",
+        "ordinaryShares": 1.08,
+        "preferredShares": 0.76,
+        "totalShares": 1.04
       },
       {
         "name": "Caixa de Previd�ncia dos Func. do Banco do Brasil",
-        "ordinaryShares": 0.94,
-        "preferredShares": 0.38,
-        "totalShares": 0.88
+        "ordinaryShares": 0.98,
+        "preferredShares": 0.45,
+        "totalShares": 0.92
       },
       {
         "name": "Petros",
-        "ordinaryShares": 0.25,
+        "ordinaryShares": 0.24,
         "preferredShares": 0.02,
-        "totalShares": 0.22
-      },
-      {
-        "name": "3G Radar Gestora de Recursos Ltda.",
-        "ordinaryShares": 0.19,
-        "preferredShares": 10.99,
-        "totalShares": 1.5
-      },
-      {
-        "name": "Gera��o Futuro L. Par FIA",
-        "ordinaryShares": 0.08,
-        "preferredShares": 7.78,
-        "totalShares": 1.01
-      },
-      {
-        "name": "Banco do Nordeste",
-        "ordinaryShares": 0.07,
-        "preferredShares": 0,
-        "totalShares": 0.06
+        "totalShares": 0.21
       },
       {
         "name": "Fundo de Investimento Caixa FGHab Multimercado",
         "ordinaryShares": 0.05,
         "preferredShares": 0,
         "totalShares": 0.04
+      },
+      {
+        "name": "Gera��o Futuro L. Par FIA",
+        "ordinaryShares": 0.04,
+        "preferredShares": 7.57,
+        "totalShares": 0.96
+      },
+      {
+        "name": "Banco do Nordeste",
+        "ordinaryShares": 0.02,
+        "preferredShares": 0,
+        "totalShares": 0.02
+      },
+      {
+        "name": "RADAR GESTORA DE RECURSOS",
+        "ordinaryShares": 0.02,
+        "preferredShares": 10.63,
+        "totalShares": 1.31
       },
       {
         "name": "VIC DTVM",
@@ -99,6 +99,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714100400000,
+      "amount": 1.8231,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682564400000,
       "amount": 1.4937,
@@ -253,38 +258,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 11195037000
-      },
-      {
         "period": 1580428800000,
-        "value": 6338688000
+        "value": 6387000000
       },
       {
         "period": 1612051200000,
-        "value": 5646141000
+        "value": 5714000000
       },
       {
         "period": 1643587200000,
-        "value": 3635377000
+        "value": 3638382000
+      },
+      {
+        "period": 1675123200000,
+        "value": 4881788000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.13137598123174127
+      },
+      {
         "period": 1672444800000,
-        "value": 0.10668991434084518
+        "value": 0.10677810414690772
       },
       {
         "period": 1640908800000,
-        "value": null
+        "value": 0.151902472126335
       },
       {
         "period": 1609372800000,
-        "value": 0.21797029509073654
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.37675632820654753
+        "value": 0.21962793576562017
       }
     ]
   }

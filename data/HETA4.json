@@ -2,8 +2,8 @@
   "name": "HETA4",
   "business": "Utens�lios Dom�sticos",
   "currentState": {
-    "price": 6.83,
-    "priceToEarnings": 0.02,
+    "price": 6.48,
+    "priceToEarnings": 4.12,
     "holders": [
       {
         "name": "HERCULES PARTICIPA��ES SOCIEDADES SIMPLES LTDA",
@@ -26,20 +26,14 @@
       {
         "name": "Francisco Asclepio Barroso Aguiar",
         "ordinaryShares": 0,
-        "preferredShares": 5.33,
-        "totalShares": 3.54
+        "preferredShares": 11.69,
+        "totalShares": 7.76
       },
       {
         "name": "GILBERTO ALVES MENDES",
         "ordinaryShares": 0,
-        "preferredShares": 17.47,
-        "totalShares": 11.61
-      },
-      {
-        "name": "LUIGI AUGUSTO DE OLIVEIRA",
-        "ordinaryShares": 0,
-        "preferredShares": 5.3,
-        "totalShares": 3.52
+        "preferredShares": 17.92,
+        "totalShares": 11.9
       },
       {
         "name": "ZHEPAR PARTICIPA��ES LTDA.",
@@ -51,41 +45,7 @@
   },
   "events": [],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 3436000
-      },
-      {
-        "period": 1580428800000,
-        "value": -172049000
-      },
-      {
-        "period": 1612051200000,
-        "value": 443000
-      },
-      {
-        "period": 1643587200000,
-        "value": 203660000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 68.06818181818181
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.16927779900649598
-      },
-      {
-        "period": 1609372800000,
-        "value": -109.58535031847134
-      },
-      {
-        "period": 1577750400000,
-        "value": 3.126478616924477
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

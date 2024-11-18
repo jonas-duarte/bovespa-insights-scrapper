@@ -2,33 +2,27 @@
   "name": "MYPK3",
   "business": "Autom�veis e Motocicletas",
   "currentState": {
-    "price": 12.75,
-    "priceToEarnings": -19.04,
-    "debtByAnnualEquity": 163.29,
+    "price": 11.63,
+    "priceToEarnings": 9.47,
+    "debtByAnnualEquity": 135.221,
     "holders": [
       {
         "name": "Alaska Investimentos",
-        "ordinaryShares": 10.36,
+        "ordinaryShares": 9.9,
         "preferredShares": 0,
-        "totalShares": 10.36
+        "totalShares": 9.9
       },
       {
         "name": "Vokin Administra��o de Recursos Ltda.",
-        "ordinaryShares": 8.64,
+        "ordinaryShares": 7.45,
         "preferredShares": 0,
-        "totalShares": 8.64
-      },
-      {
-        "name": "BlackRock Inc.",
-        "ordinaryShares": 5.04,
-        "preferredShares": 0,
-        "totalShares": 5.04
+        "totalShares": 7.45
       },
       {
         "name": "Dan Ioschpe",
-        "ordinaryShares": 4.09,
+        "ordinaryShares": 3.9,
         "preferredShares": 0,
-        "totalShares": 4.09
+        "totalShares": 3.9
       },
       {
         "name": "Gustavo Berg Ioschpe",
@@ -67,7 +61,7 @@
         "totalShares": 0.73
       },
       {
-        "name": "G7 Cinema Ltda.",
+        "name": "G7 INVESTIMENTOS E PARTICIPA��ES LTDA.",
         "ordinaryShares": 0.7,
         "preferredShares": 0,
         "totalShares": 0.7
@@ -86,25 +80,40 @@
       },
       {
         "name": "Glaucia Stifelman Ioschpe",
-        "ordinaryShares": 0.23,
+        "ordinaryShares": 0.17,
         "preferredShares": 0,
-        "totalShares": 0.23
+        "totalShares": 0.17
       },
       {
         "name": "Marcio Iochpe Kolodny",
-        "ordinaryShares": 0.18,
+        "ordinaryShares": 0.13,
         "preferredShares": 0,
-        "totalShares": 0.18
+        "totalShares": 0.13
       },
       {
         "name": "IBI Participa��es e Neg�cios S.A.",
-        "ordinaryShares": 0.11,
+        "ordinaryShares": 0.01,
         "preferredShares": 0,
-        "totalShares": 0.11
+        "totalShares": 0.01
       }
     ]
   },
   "events": [
+    {
+      "date": 1727751600000,
+      "amount": 0.389,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719802800000,
+      "amount": 0.1281,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1710126000000,
+      "amount": 0.0875,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1679540400000,
       "amount": 0.3013,
@@ -269,10 +278,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 337435000
-      },
-      {
         "period": 1580428800000,
         "value": -491780000
       },
@@ -283,9 +288,17 @@
       {
         "period": 1643587200000,
         "value": 278933000
+      },
+      {
+        "period": 1675123200000,
+        "value": 30733000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.0020550015312379225
+      },
       {
         "period": 1672444800000,
         "value": 0.016458293370098624
@@ -297,10 +310,6 @@
       {
         "period": 1609372800000,
         "value": -0.056135629561918816
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0336882680844755
       }
     ]
   }

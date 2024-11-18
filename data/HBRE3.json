@@ -2,15 +2,21 @@
   "name": "HBRE3",
   "business": "Explora��o de Im�veis",
   "currentState": {
-    "price": 5.18,
-    "priceToEarnings": 10.14,
-    "debtByAnnualEquity": 46.55,
+    "price": 4.26,
+    "priceToEarnings": 4.46,
+    "debtByAnnualEquity": 52.887,
     "holders": [
       {
         "name": "HELIO BORENSTEIN S.A. ADMINISTRA��O PARTIC. E COM�RCIO",
         "ordinaryShares": 49,
         "preferredShares": 0,
         "totalShares": 49
+      },
+      {
+        "name": "SHARP CAPITAL GESTORA DE RECURSOS LTDA",
+        "ordinaryShares": 6.55,
+        "preferredShares": 0,
+        "totalShares": 6.55
       },
       {
         "name": "Henry Borenstein",
@@ -24,10 +30,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 193940000
-      },
-      {
         "period": 1580428800000,
         "value": -20796000
       },
@@ -37,25 +39,29 @@
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 63038000
+      },
+      {
+        "period": 1675123200000,
+        "value": 131817000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.8594033198158845
+      },
+      {
         "period": 1672444800000,
-        "value": 0
+        "value": 0.44750330100947
       },
       {
         "period": 1640908800000,
-        "value": 1.8862999468522008
+        "value": 1.776557985028782
       },
       {
         "period": 1609372800000,
-        "value": -0.22626236250285603
-      },
-      {
-        "period": 1577750400000,
-        "value": 1.3368073505793474
+        "value": null
       }
     ]
   }

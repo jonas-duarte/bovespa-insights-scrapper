@@ -2,8 +2,8 @@
   "name": "PLAS3",
   "business": "Autom�veis e Motocicletas",
   "currentState": {
-    "price": 6.81,
-    "priceToEarnings": 5.89,
+    "price": 6.19,
+    "priceToEarnings": -0.55,
     "holders": [
       {
         "name": "P�dua IV Participa��es S.A.",
@@ -16,12 +16,6 @@
         "ordinaryShares": 21.65,
         "preferredShares": 0,
         "totalShares": 21.65
-      },
-      {
-        "name": "Postalis Inst. Seguridade Social dos Correios e Telegraf.",
-        "ordinaryShares": 7.12,
-        "preferredShares": 0,
-        "totalShares": 7.12
       }
     ]
   },
@@ -50,38 +44,14 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -6825000
-      },
-      {
-        "period": 1580428800000,
-        "value": -117013000
-      },
-      {
-        "period": 1612051200000,
-        "value": -122230000
-      },
-      {
-        "period": 1643587200000,
-        "value": -97121000
+        "period": 1138665600000,
+        "value": 45702000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -0.11450382579374904
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.19949925246946223
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.31694692135172325
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.01674641148325359
+        "period": 1167523200000,
+        "value": 0.10565983645405386
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "CEEB5",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 41.06,
-    "priceToEarnings": 6.49,
-    "debtByAnnualEquity": 252.405,
+    "price": 35.7,
+    "priceToEarnings": 5.35,
+    "debtByAnnualEquity": 208.768,
     "holders": [
       {
         "name": "Neoenergia S.A",
@@ -15,6 +15,31 @@
     ]
   },
   "events": [
+    {
+      "date": 1727665200000,
+      "amount": 0.3126,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719284400000,
+      "amount": 0.2852,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713150000000,
+      "amount": 1.5605,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711335600000,
+      "amount": 0.2766,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1704337200000,
+      "amount": 0.3858,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1696388400000,
       "amount": 0.4019,
@@ -402,23 +427,32 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 917740800000,
+        "value": 0
+      },
+      {
+        "period": 949276800000,
+        "value": 0
+      },
+      {
+        "period": 980899200000,
+        "value": 0
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.11210473601373587
+        "period": 1009756800000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": 0.11699964949176306
+        "period": 978220800000,
+        "value": 0
       },
       {
-        "period": 1609372800000,
-        "value": 0.1080194949047408
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.09873764556218809
+        "period": 946598400000,
+        "value": 0
       }
     ]
   }

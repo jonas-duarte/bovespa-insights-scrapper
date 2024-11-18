@@ -2,51 +2,39 @@
   "name": "PCAR3",
   "business": "Alimentos",
   "currentState": {
-    "price": 4.12,
-    "priceToEarnings": -0.36,
-    "debtByAnnualEquity": 215.222,
+    "price": 2.8,
+    "priceToEarnings": -0.85,
+    "debtByAnnualEquity": 224.07,
     "holders": [
       {
         "name": "Segisor",
-        "ordinaryShares": 36.88,
+        "ordinaryShares": 20.44,
         "preferredShares": 0,
-        "totalShares": 36.88
+        "totalShares": 20.44
+      },
+      {
+        "name": "RONALDO IABRUDI DOS SANTOS PEREIRA",
+        "ordinaryShares": 5.48,
+        "preferredShares": 0,
+        "totalShares": 5.48
       },
       {
         "name": "NUVEEN LLC",
-        "ordinaryShares": 5.26,
+        "ordinaryShares": 2.9,
         "preferredShares": 0,
-        "totalShares": 5.26
+        "totalShares": 2.9
       },
       {
         "name": "BTG Pactual",
-        "ordinaryShares": 5.26,
+        "ordinaryShares": 2.9,
         "preferredShares": 0,
-        "totalShares": 5.26
+        "totalShares": 2.9
       },
       {
-        "name": "Geant International BV",
-        "ordinaryShares": 3.8,
+        "name": "OBIN HOLDINGS NETHERLANDS B.V.",
+        "ordinaryShares": 2.1,
         "preferredShares": 0,
-        "totalShares": 3.8
-      },
-      {
-        "name": "Helicco Participa��es LTDA.",
-        "ordinaryShares": 0.22,
-        "preferredShares": 0,
-        "totalShares": 0.22
-      },
-      {
-        "name": "Casino Guichard Perrachon",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
-      },
-      {
-        "name": "Jean-Charles Henri Naouri",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
+        "totalShares": 2.1
       }
     ]
   },
@@ -335,12 +323,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 790000000
-      },
-      {
         "period": 1580428800000,
-        "value": 2179000000
+        "value": 2178000000
       },
       {
         "period": 1612051200000,
@@ -349,24 +333,28 @@
       {
         "period": 1643587200000,
         "value": -172000000
+      },
+      {
+        "period": 1675123200000,
+        "value": -2271000000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.11797402597402597
+      },
+      {
         "period": 1672444800000,
-        "value": -0.009930142601466428
+        "value": -0.004047439759036145
       },
       {
         "period": 1640908800000,
-        "value": 0.049208491839489506
+        "value": 0.015636271470628377
       },
       {
         "period": 1609372800000,
-        "value": 0.04251458451212612
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.02739441015326999
+        "value": 0.04249507345911459
       }
     ]
   }

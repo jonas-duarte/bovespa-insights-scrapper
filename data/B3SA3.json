@@ -2,37 +2,71 @@
   "name": "B3SA3",
   "business": "Servi�os Financeiros Diversos",
   "currentState": {
-    "price": 14.43,
-    "priceToEarnings": 19.31,
-    "debtByAnnualEquity": 59.796,
+    "price": 10.27,
+    "priceToEarnings": 12.92,
+    "debtByAnnualEquity": 67.222,
     "holders": [
       {
         "name": "Capital Research Global Investors",
-        "ordinaryShares": 10.6,
+        "ordinaryShares": 11.36,
         "preferredShares": 0,
-        "totalShares": 10.6
+        "totalShares": 11.36
       },
       {
         "name": "Baillie Gifford",
-        "ordinaryShares": 5.27,
+        "ordinaryShares": 5.65,
         "preferredShares": 0,
-        "totalShares": 5.27
-      },
-      {
-        "name": "T. Rowe Price",
-        "ordinaryShares": 5.27,
-        "preferredShares": 0,
-        "totalShares": 5.27
+        "totalShares": 5.65
       },
       {
         "name": "Fundos administrados pela BlackRock, Inc.",
-        "ordinaryShares": 4.77,
+        "ordinaryShares": 5.11,
         "preferredShares": 0,
-        "totalShares": 4.77
+        "totalShares": 5.11
       }
     ]
   },
   "events": [
+    {
+      "date": 1727146800000,
+      "amount": 0.0603,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727146800000,
+      "amount": 0.0352,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1718679600000,
+      "amount": 0.0511,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718679600000,
+      "amount": 0.0347,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711422000000,
+      "amount": 0.0525,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709002800000,
+      "amount": 0.0669,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.0595,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.041,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1695265200000,
       "amount": 0.0559,
@@ -497,10 +531,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 2714166000
-      },
-      {
         "period": 1580428800000,
         "value": 4152304000
       },
@@ -510,13 +540,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 4226057000
+        "value": 4226598000
+      },
+      {
+        "period": 1675123200000,
+        "value": 4131929000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.46270072032273146
+      },
+      {
         "period": 1672444800000,
-        "value": 0.46482516551061387
+        "value": 0.4648846702486099
       },
       {
         "period": 1640908800000,
@@ -525,10 +563,6 @@
       {
         "period": 1609372800000,
         "value": 0.49534946004061997
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.45942418745797897
       }
     ]
   }

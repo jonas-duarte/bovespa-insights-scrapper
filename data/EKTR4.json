@@ -2,9 +2,9 @@
   "name": "EKTR4",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 37.8,
-    "priceToEarnings": 8.18,
-    "debtByAnnualEquity": 209.574,
+    "price": 45.44,
+    "priceToEarnings": 8.78,
+    "debtByAnnualEquity": 354.25,
     "holders": [
       {
         "name": "Neoenergia S.A",
@@ -15,6 +15,51 @@
     ]
   },
   "events": [
+    {
+      "date": 1729738800000,
+      "amount": 1.1273,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1727665200000,
+      "amount": 0.1047,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1721876400000,
+      "amount": 2.3192,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1719284400000,
+      "amount": 0.1222,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 1.4583,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712890800000,
+      "amount": 2.6968,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1712890800000,
+      "amount": 2.2613,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711335600000,
+      "amount": 0.2037,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1704337200000,
+      "amount": 0.486,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1690772400000,
       "amount": 1.9417,
@@ -312,41 +357,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 495000000
-      },
-      {
-        "period": 1580428800000,
-        "value": 592000000
-      },
-      {
-        "period": 1612051200000,
-        "value": 822000000
-      },
-      {
-        "period": 1643587200000,
-        "value": 986000000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.11754887935145446
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.09664902998236331
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.08663837260354164
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.0730843053299867
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

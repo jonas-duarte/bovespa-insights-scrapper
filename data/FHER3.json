@@ -2,9 +2,8 @@
   "name": "FHER3",
   "business": "Fertilizantes e Defensivos",
   "currentState": {
-    "price": 7.72,
-    "priceToEarnings": -1.03,
-    "debtByAnnualEquity": 947.429,
+    "price": 3.56,
+    "priceToEarnings": -0.36,
     "holders": [
       {
         "name": "Heringer Participa��es LTDA",
@@ -41,38 +40,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 664641000
+        "period": 1422662400000,
+        "value": 0
       },
       {
-        "period": 1580428800000,
-        "value": -199183000
+        "period": 1454198400000,
+        "value": 0
       },
       {
-        "period": 1612051200000,
-        "value": 667210000
+        "period": 1485820800000,
+        "value": -125604000
       },
       {
-        "period": 1643587200000,
-        "value": -150571000
+        "period": 1517356800000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1546214400000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": 0.15547722777445327
+        "period": 1514678400000,
+        "value": -0.02622364591856356
       },
       {
-        "period": 1609372800000,
-        "value": -0.08995742013339403
+        "period": 1483142400000,
+        "value": 0
       },
       {
-        "period": 1577750400000,
-        "value": 0.5626161816242572
+        "period": 1451520000000,
+        "value": 0
       }
     ]
   }

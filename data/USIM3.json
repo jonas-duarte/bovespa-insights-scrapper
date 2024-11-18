@@ -2,9 +2,9 @@
   "name": "USIM3",
   "business": "Siderurgia",
   "currentState": {
-    "price": 8.15,
-    "priceToEarnings": -21.93,
-    "debtByAnnualEquity": 29.643,
+    "price": 5.95,
+    "priceToEarnings": 8.17,
+    "debtByAnnualEquity": 28.021,
     "holders": [
       {
         "name": "Ternium Investiments S.�r.l",
@@ -43,7 +43,7 @@
         "totalShares": 2.72
       },
       {
-        "name": "Ternium Argentina S.A",
+        "name": "TERNIUM ARGENTINA SA",
         "ordinaryShares": 2.7,
         "preferredShares": 0.09,
         "totalShares": 1.56
@@ -56,9 +56,9 @@
       },
       {
         "name": "BlackRock, Inc.",
-        "ordinaryShares": 0,
-        "preferredShares": 9.9,
-        "totalShares": 4.33
+        "ordinaryShares": 0.2,
+        "preferredShares": 5.16,
+        "totalShares": 2.37
       },
       {
         "name": "PLURAL INVESTIMENTOS GEST�O DE RECURSOS LTDA.",
@@ -69,6 +69,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714014000000,
+      "amount": 0.2573,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682564400000,
       "amount": 0.2989,
@@ -343,10 +348,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 213265000
-      },
-      {
         "period": 1580428800000,
         "value": 672790000
       },
@@ -357,9 +358,17 @@
       {
         "period": 1643587200000,
         "value": 1615538000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1390926000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.05032594567519014
+      },
       {
         "period": 1672444800000,
         "value": 0.04975400755947473
@@ -371,10 +380,6 @@
       {
         "period": 1609372800000,
         "value": 0.04181923330431801
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.014266439820027389
       }
     ]
   }

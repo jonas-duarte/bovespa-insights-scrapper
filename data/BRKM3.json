@@ -2,9 +2,8 @@
   "name": "BRKM3",
   "business": "Petroqu�micos",
   "currentState": {
-    "price": 17.9,
-    "priceToEarnings": -3.03,
-    "debtByAnnualEquity": 1370.695,
+    "price": 15.2,
+    "priceToEarnings": -1.57,
     "holders": [
       {
         "name": "NSP Investimentos S.A. - Em Recupera��o Judicial",
@@ -21,14 +20,14 @@
       {
         "name": "ADR�s",
         "ordinaryShares": 0,
-        "preferredShares": 16.22,
-        "totalShares": 7.03
+        "preferredShares": 18.57,
+        "totalShares": 8.05
       },
       {
         "name": "NORGES BANK",
         "ordinaryShares": 0,
-        "preferredShares": 4.91,
-        "totalShares": 2.13
+        "preferredShares": 5.58,
+        "totalShares": 2.42
       },
       {
         "name": "NOVONOR S.A. - Em Recupera��o Judicial",
@@ -246,23 +245,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": -6692000000
+      },
+      {
+        "period": 1612051200000,
+        "value": 14000000000
+      },
+      {
+        "period": 1643587200000,
+        "value": -336000000
+      },
+      {
+        "period": 1675123200000,
+        "value": -4579000000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.06488684833283737
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": -0.0034811798713206728
       },
       {
         "period": 1640908800000,
-        "value": 0.13240160366653408
+        "value": 0.13254412647224217
       },
       {
         "period": 1609372800000,
-        "value": -0.11430339296113758
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.053466772355264675
+        "value": -0.11430914029004322
       }
     ]
   }

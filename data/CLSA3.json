@@ -2,9 +2,9 @@
   "name": "CLSA3",
   "business": "Servi�os Financeiros Diversos",
   "currentState": {
-    "price": 3.77,
-    "priceToEarnings": -25.26,
-    "debtByAnnualEquity": 6.128,
+    "price": 9.84,
+    "priceToEarnings": -75.23,
+    "debtByAnnualEquity": 2.581,
     "holders": [
       {
         "name": "Pedro Paulo Chiamurela",
@@ -29,6 +29,12 @@
         "ordinaryShares": 8.71,
         "preferredShares": 0,
         "totalShares": 8.71
+      },
+      {
+        "name": "SPX Gest�o de Recursos Ltda.",
+        "ordinaryShares": 5.75,
+        "preferredShares": 0,
+        "totalShares": 5.75
       },
       {
         "name": "Renato Kocubej Soriano",
@@ -60,12 +66,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 10002000
-      },
-      {
         "period": 1580428800000,
-        "value": 18717000
+        "value": 30422000
       },
       {
         "period": 1612051200000,
@@ -74,9 +76,17 @@
       {
         "period": 1643587200000,
         "value": -37061000
+      },
+      {
+        "period": 1675123200000,
+        "value": -28000000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.05554453481452093
+      },
       {
         "period": 1672444800000,
         "value": -0.07271981649828016
@@ -87,11 +97,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.054158299527196335
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.04796823219655369
+        "value": null
       }
     ]
   }

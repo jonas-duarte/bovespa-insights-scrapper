@@ -2,19 +2,30 @@
   "name": "CRPG3",
   "business": "Qu�micos Diversos",
   "currentState": {
-    "price": 39.95,
-    "priceToEarnings": 17.42,
-    "debtByAnnualEquity": 1.1,
+    "price": 26.51,
+    "priceToEarnings": -7.03,
+    "debtByAnnualEquity": 0.727,
     "holders": [
       {
         "name": "Millenium Inorganic Chemicals Holdings Brasil Ltda.",
         "ordinaryShares": 99.02,
         "preferredShares": 56.9,
         "totalShares": 71.65
+      },
+      {
+        "name": "Victor Adler",
+        "ordinaryShares": 0,
+        "preferredShares": 1.85,
+        "totalShares": 1.2
       }
     ]
   },
   "events": [
+    {
+      "date": 1716174000000,
+      "amount": 0.2786,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1686538800000,
       "amount": 4.3697,
@@ -158,23 +169,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.08514340663310173
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.28865482331504616
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.25211862379338584
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1864983413508446
-      }
-    ]
+    "netMargin": []
   }
 }

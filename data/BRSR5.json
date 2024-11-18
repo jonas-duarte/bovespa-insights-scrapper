@@ -2,18 +2,50 @@
   "name": "BRSR5",
   "business": "Bancos",
   "currentState": {
-    "price": 18.39,
-    "priceToEarnings": 9.2,
+    "price": 17.94,
+    "priceToEarnings": 7.84,
     "holders": [
       {
         "name": "Governo do Estado do Rio Grande do Sul",
         "ordinaryShares": 98.13,
         "preferredShares": 0.37,
         "totalShares": 49.39
+      },
+      {
+        "name": "REAL INVESTOR ASSET MANAGEMENT",
+        "ordinaryShares": 0,
+        "preferredShares": 5.29,
+        "totalShares": 2.64
+      },
+      {
+        "name": "Vokin Administra��o de Recursos",
+        "ordinaryShares": 0,
+        "preferredShares": 5,
+        "totalShares": 2.49
       }
     ]
   },
   "events": [
+    {
+      "date": 1726110000000,
+      "amount": 0.1223,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718334000000,
+      "amount": 0.1223,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714446000000,
+      "amount": 0.2015,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1710471600000,
+      "amount": 0.1223,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1694574000000,
       "amount": 0.1834,
@@ -456,23 +488,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 727476000
+      },
+      {
+        "period": 1612051200000,
+        "value": 948535000
+      },
+      {
+        "period": 1643587200000,
+        "value": 714934000
+      },
+      {
+        "period": 1675123200000,
+        "value": 870104000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.11268392156375193
+      },
+      {
         "period": 1672444800000,
-        "value": 0.1468607497020734
+        "value": 0.1058799293693461
       },
       {
         "period": 1640908800000,
-        "value": 0.1814767947320937
+        "value": 0.13912705358841415
       },
       {
         "period": 1609372800000,
-        "value": 0.11695584517975702
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.19053121841410536
+        "value": 0.10078357485245629
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "GEPA4",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 25.2,
-    "priceToEarnings": 6.98,
-    "debtByAnnualEquity": 34.587,
+    "price": 29.75,
+    "priceToEarnings": 31.05,
+    "debtByAnnualEquity": 22.918,
     "holders": [
       {
         "name": "Rio Paranapanema Participa��es S.A.",
@@ -15,6 +15,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1727838000000,
+      "amount": 1.8425,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714446000000,
+      "amount": 3.0287,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1702263600000,
       "amount": 1.1648,
@@ -323,23 +333,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.17760870660553232
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.006533953167890669
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.48365530253436184
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.17822319310225102
-      }
-    ]
+    "netMargin": []
   }
 }

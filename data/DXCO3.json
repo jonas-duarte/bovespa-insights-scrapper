@@ -2,81 +2,81 @@
   "name": "DXCO3",
   "business": "Madeira",
   "currentState": {
-    "price": 7.73,
-    "priceToEarnings": 7.81,
-    "debtByAnnualEquity": 105.991,
+    "price": 7.66,
+    "priceToEarnings": 18.66,
+    "debtByAnnualEquity": 117.391,
     "holders": [
       {
         "name": "Ita�sa S.A.",
-        "ordinaryShares": 39.28,
+        "ordinaryShares": 37.28,
         "preferredShares": 0,
-        "totalShares": 39.28
+        "totalShares": 37.28
       },
       {
         "name": "FIA Jequitib�",
-        "ordinaryShares": 10.75,
+        "ordinaryShares": 10.2,
         "preferredShares": 0,
-        "totalShares": 10.75
+        "totalShares": 10.2
       },
       {
         "name": "Salo Davi Seibel",
-        "ordinaryShares": 8.84,
+        "ordinaryShares": 8.39,
         "preferredShares": 0,
-        "totalShares": 8.84
+        "totalShares": 8.39
       },
       {
         "name": "Andrea Laserna Seibel",
-        "ordinaryShares": 1.23,
+        "ordinaryShares": 1.17,
         "preferredShares": 0,
-        "totalShares": 1.23
+        "totalShares": 1.17
       },
       {
         "name": "Alfredo Egydio Arruda Villela Filho",
-        "ordinaryShares": 0.77,
+        "ordinaryShares": 0.73,
         "preferredShares": 0,
-        "totalShares": 0.77
+        "totalShares": 0.73
       },
       {
         "name": "Ana L�cia de Mattos Barretto Villela",
-        "ordinaryShares": 0.77,
+        "ordinaryShares": 0.73,
         "preferredShares": 0,
-        "totalShares": 0.77
+        "totalShares": 0.73
       },
       {
         "name": "Ricardo Villela Marino",
-        "ordinaryShares": 0.74,
+        "ordinaryShares": 0.7,
         "preferredShares": 0,
-        "totalShares": 0.74
+        "totalShares": 0.7
       },
       {
         "name": "Rodolfo Villela Marino",
-        "ordinaryShares": 0.74,
+        "ordinaryShares": 0.7,
         "preferredShares": 0,
-        "totalShares": 0.74
+        "totalShares": 0.7
       },
       {
-        "name": "FIP Ligna",
-        "ordinaryShares": 0.67,
+        "name": "LIGNA II FUNDO DE INVESTIMENTOS EM A��ES",
+        "ordinaryShares": 0.64,
         "preferredShares": 0,
-        "totalShares": 0.67
+        "totalShares": 0.64
       },
       {
         "name": "OES Participa��es S.A.",
-        "ordinaryShares": 0.39,
+        "ordinaryShares": 0.37,
         "preferredShares": 0,
-        "totalShares": 0.39
+        "totalShares": 0.37
       },
       {
         "name": "Olavo Egydio Setubal J�nior",
-        "ordinaryShares": 0.07,
-        "preferredShares": 0,
-        "totalShares": 0.07
-      },
-      {
-        "name": "Jos� Luiz Egydio Setubal",
         "ordinaryShares": 0.06,
         "preferredShares": 0,
         "totalShares": 0.06
+      },
+      {
+        "name": "Jos� Luiz Egydio Setubal",
+        "ordinaryShares": 0.05,
+        "preferredShares": 0,
+        "totalShares": 0.05
       },
       {
         "name": "Alfredo Egydio Setubal",
@@ -104,9 +104,9 @@
       },
       {
         "name": "Rudric ITH Participa��es Ltda",
-        "ordinaryShares": 0.02,
+        "ordinaryShares": 0.01,
         "preferredShares": 0,
-        "totalShares": 0.02
+        "totalShares": 0.01
       },
       {
         "name": "PSN Participa��es Ltda.",
@@ -147,6 +147,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1710212400000,
+      "amount": 0.0714,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1702954800000,
+      "amount": 0.2153,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1670986800000,
       "amount": 0.339,
@@ -311,10 +321,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 405564000
-      },
-      {
         "period": 1580428800000,
         "value": 453812000
       },
@@ -324,13 +330,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 755861000
+        "value": 764922000
+      },
+      {
+        "period": 1675123200000,
+        "value": 811270000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.10987742924711336
+      },
+      {
         "period": 1672444800000,
-        "value": 0.08906470751120878
+        "value": 0.09013238439195678
       },
       {
         "period": 1640908800000,
@@ -339,10 +353,6 @@
       {
         "period": 1609372800000,
         "value": 0.07718395214925601
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.08092334227107496
       }
     ]
   }

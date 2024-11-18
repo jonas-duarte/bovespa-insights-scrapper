@@ -2,16 +2,10 @@
   "name": "CURY3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 17.68,
-    "priceToEarnings": 12.49,
-    "debtByAnnualEquity": 61.138,
+    "price": 22.66,
+    "priceToEarnings": 10.26,
+    "debtByAnnualEquity": 89.395,
     "holders": [
-      {
-        "name": "Cyrela Brazil Realty S/A Empreendimentos e Participa��es",
-        "ordinaryShares": 21.77,
-        "preferredShares": 0,
-        "totalShares": 21.77
-      },
       {
         "name": "Fabio Elias Cury",
         "ordinaryShares": 19.72,
@@ -19,16 +13,16 @@
         "totalShares": 19.72
       },
       {
+        "name": "Cyrela Brazil Realty S/A Empreendimentos e Participa��es",
+        "ordinaryShares": 19.21,
+        "preferredShares": 0,
+        "totalShares": 19.21
+      },
+      {
         "name": "Cury Empreendimentos Imobili�rios S.A.",
         "ordinaryShares": 12.67,
         "preferredShares": 0,
         "totalShares": 12.67
-      },
-      {
-        "name": "BC Gest�o de Recursos Ltda",
-        "ordinaryShares": 5.23,
-        "preferredShares": 0,
-        "totalShares": 5.23
       },
       {
         "name": "Paulo Sergio Beyruti Curi",
@@ -51,6 +45,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1728010800000,
+      "amount": 0.345,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1715137200000,
+      "amount": 0.9142,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714446000000,
+      "amount": 0.4089,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1701658800000,
       "amount": 0.345,
@@ -95,38 +104,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 160128000
-      },
-      {
         "period": 1580428800000,
         "value": 160812000
       },
       {
         "period": 1612051200000,
-        "value": 299753000
+        "value": 299800000
       },
       {
         "period": 1643587200000,
         "value": 329885000
+      },
+      {
+        "period": 1675123200000,
+        "value": 481765000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.16692179121687828
+      },
       {
         "period": 1672444800000,
         "value": 0.14614179632781552
       },
       {
         "period": 1640908800000,
-        "value": 0.17244081125470648
+        "value": 0.17246735316113443
       },
       {
         "period": 1609372800000,
         "value": 0.14048617869417007
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.15709959118080757
       }
     ]
   }

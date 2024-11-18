@@ -2,39 +2,45 @@
   "name": "AGXY3",
   "business": "Agricultura",
   "currentState": {
-    "price": 3.75,
-    "priceToEarnings": -2.54,
-    "debtByAnnualEquity": 260.263,
+    "price": 0.4,
+    "priceToEarnings": -0.2,
+    "debtByAnnualEquity": 311.373,
     "holders": [
       {
-        "name": "Agrofundo Brasil V Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 24.93,
+        "name": "AGROFUNDO BRASIL X FUNDO DE INVESTIMENTO EM PARTICIPA��ES",
+        "ordinaryShares": 24.13,
         "preferredShares": 0,
-        "totalShares": 24.93
+        "totalShares": 24.13
+      },
+      {
+        "name": "Agrofundo Brasil V Fundo de Investimento em Participa��es Multiestrat�gia",
+        "ordinaryShares": 20.12,
+        "preferredShares": 0,
+        "totalShares": 20.12
       },
       {
         "name": "Agrofundo Brasil IV Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 15.6,
+        "ordinaryShares": 12.61,
         "preferredShares": 0,
-        "totalShares": 15.6
+        "totalShares": 12.61
       },
       {
         "name": "Agrofundo Brasil III Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 6.9,
+        "ordinaryShares": 5.34,
         "preferredShares": 0,
-        "totalShares": 6.9
+        "totalShares": 5.34
       },
       {
         "name": "Galaxy Agribusiness LP",
-        "ordinaryShares": 6.07,
+        "ordinaryShares": 4.07,
         "preferredShares": 0,
-        "totalShares": 6.07
+        "totalShares": 4.07
       },
       {
         "name": "AUSTIN LATAM FUND LP",
-        "ordinaryShares": 0.35,
+        "ordinaryShares": 0.45,
         "preferredShares": 0,
-        "totalShares": 0.35
+        "totalShares": 0.45
       }
     ]
   },
@@ -53,38 +59,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 22172000
-      },
-      {
         "period": 1580428800000,
         "value": 81492000
       },
       {
         "period": 1612051200000,
-        "value": 118338000
+        "value": 0
       },
       {
         "period": 1643587200000,
         "value": 27957000
+      },
+      {
+        "period": 1675123200000,
+        "value": -374135000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.039805423840760856
+      },
+      {
         "period": 1672444800000,
-        "value": 0.002411643380079034
+        "value": 0.0024116454604270004
       },
       {
         "period": 1640908800000,
-        "value": 0.01798280951728242
+        "value": 0
       },
       {
         "period": 1609372800000,
         "value": 0.03097485734962986
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.014259098600136211
       }
     ]
   }

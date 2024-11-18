@@ -2,9 +2,9 @@
   "name": "BLAU3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 16.57,
-    "priceToEarnings": 9.39,
-    "debtByAnnualEquity": 30.6,
+    "price": 14.92,
+    "priceToEarnings": 14.31,
+    "debtByAnnualEquity": 26.36,
     "holders": [
       {
         "name": "Marcelo Rodolfo Hahn",
@@ -21,6 +21,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1727319600000,
+      "amount": 0.0844,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719370800000,
+      "amount": 0.1407,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.014,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711076400000,
+      "amount": 0.1252,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1687834800000,
       "amount": 0.1175,
@@ -85,12 +105,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 200238000
-      },
-      {
         "period": 1580428800000,
-        "value": 254330000
+        "value": 0
       },
       {
         "period": 1612051200000,
@@ -99,9 +115,17 @@
       {
         "period": 1643587200000,
         "value": 363368000
+      },
+      {
+        "period": 1675123200000,
+        "value": 249809000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.1819925646549369
+      },
       {
         "period": 1672444800000,
         "value": 0.25827398929141826
@@ -112,11 +136,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.2152048901509895
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.2048468492615353
+        "value": 0
       }
     ]
   }

@@ -2,49 +2,75 @@
   "name": "RAIZ4",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 3.6,
-    "priceToEarnings": 11,
-    "debtByAnnualEquity": 216.597,
+    "price": 2.42,
+    "priceToEarnings": 32.5,
+    "debtByAnnualEquity": 241.465,
     "holders": [
       {
         "name": "Shell Brazil Holding BV",
         "ordinaryShares": 50,
-        "preferredShares": 4.26,
-        "totalShares": 43.73
+        "preferredShares": 4.48,
+        "totalShares": 44.02
       },
       {
         "name": "Cosan Nove Participa��es S.A.",
         "ordinaryShares": 44.92,
         "preferredShares": 0,
-        "totalShares": 38.77
+        "totalShares": 39.02
       },
       {
         "name": "Cosan S.A.",
         "ordinaryShares": 5.08,
-        "preferredShares": 4.26,
-        "totalShares": 4.97
-      },
-      {
-        "name": " GIC Private Limited ",
-        "ordinaryShares": 0,
-        "preferredShares": 4.82,
-        "totalShares": 0.66
+        "preferredShares": 4.48,
+        "totalShares": 5
       },
       {
         "name": "BAILLIE GIFFORD OVERSEAS LIMITED",
         "ordinaryShares": 0,
-        "preferredShares": 9.85,
-        "totalShares": 1.35
+        "preferredShares": 10.35,
+        "totalShares": 1.36
+      },
+      {
+        "name": "NORGES BANK",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
       },
       {
         "name": "Nuveen, LLC",
         "ordinaryShares": 0,
-        "preferredShares": 5.37,
+        "preferredShares": 5.64,
         "totalShares": 0.74
+      },
+      {
+        "name": "Wellington Management Group LLP",
+        "ordinaryShares": 0,
+        "preferredShares": 5.05,
+        "totalShares": 0.66
       }
     ]
   },
   "events": [
+    {
+      "date": 1722567600000,
+      "amount": 0.01,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1710990000000,
+      "amount": 0.0162,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703041200000,
+      "amount": 0.0723,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703041200000,
+      "amount": 0.0568,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1697511600000,
       "amount": 0.0242,
@@ -89,10 +115,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1580428800000,
-        "value": 2056092000
-      },
-      {
         "period": 1612051200000,
         "value": 996486000
       },
@@ -102,13 +124,21 @@
       },
       {
         "period": 1675123200000,
-        "value": 0
+        "value": 2441126000
+      },
+      {
+        "period": 1706659200000,
+        "value": 520715000
       }
     ],
     "netMargin": [
       {
+        "period": 1711843200000,
+        "value": 0.0023620094690036783
+      },
+      {
         "period": 1680220800000,
-        "value": null
+        "value": 0.00993006640841691
       },
       {
         "period": 1648684800000,
@@ -117,10 +147,6 @@
       {
         "period": 1617148800000,
         "value": 0.01114446719309627
-      },
-      {
-        "period": 1585612800000,
-        "value": 0.02036920645469288
       }
     ]
   }

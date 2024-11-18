@@ -2,15 +2,15 @@
   "name": "MTSA4",
   "business": "M�q. e Equip. Constru��o e Agr�colas",
   "currentState": {
-    "price": 45.62,
-    "priceToEarnings": 4.6,
-    "debtByAnnualEquity": 8.318,
+    "price": 33.55,
+    "priceToEarnings": 6.52,
+    "debtByAnnualEquity": 10.386,
     "holders": [
       {
         "name": "Flavio Snell",
         "ordinaryShares": 36.78,
-        "preferredShares": 20.32,
-        "totalShares": 28.21
+        "preferredShares": 20.78,
+        "totalShares": 28.45
       },
       {
         "name": "D� Angelo Participa��es Ltda",
@@ -27,8 +27,8 @@
       {
         "name": "Edvaldo Angelo",
         "ordinaryShares": 9.65,
-        "preferredShares": 8.17,
-        "totalShares": 8.88
+        "preferredShares": 8.94,
+        "totalShares": 9.28
       },
       {
         "name": "Jos� Claudio Pagano",
@@ -39,8 +39,8 @@
       {
         "name": "LIS Capital Gestora de Recursos Ltda",
         "ordinaryShares": 0,
-        "preferredShares": 11.71,
-        "totalShares": 6.1
+        "preferredShares": 8.65,
+        "totalShares": 4.5
       },
       {
         "name": "Marcia Rita Pimentel Menezes",
@@ -51,6 +51,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1726801200000,
+      "amount": 0.77,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1715310000000,
+      "amount": 0.44,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1702350000000,
+      "amount": 0.77,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695265200000,
       "amount": 0.77,
@@ -298,41 +313,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 18000782
-      },
-      {
-        "period": 1580428800000,
-        "value": 57201135
-      },
-      {
-        "period": 1612051200000,
-        "value": 53185863
-      },
-      {
-        "period": 1643587200000,
-        "value": 91768946
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.11495802813768413
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.09142267207730671
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.15556547111643837
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06233025438946595
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

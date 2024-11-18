@@ -2,9 +2,9 @@
   "name": "EQPA5",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 8.99,
-    "priceToEarnings": 9.41,
-    "debtByAnnualEquity": 119.741,
+    "price": 8.14,
+    "priceToEarnings": 8.67,
+    "debtByAnnualEquity": 99.034,
     "holders": [
       {
         "name": "Equatorial Distribui��o S.A.",
@@ -21,6 +21,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.7589,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1705028400000,
+      "amount": 0.0011,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.1251,
@@ -189,23 +199,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.18282138067114895
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.12630612724719284
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.1223085052909445
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.08384066026371945
-      }
-    ]
+    "netMargin": []
   }
 }

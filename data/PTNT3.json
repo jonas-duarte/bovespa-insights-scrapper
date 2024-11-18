@@ -2,9 +2,9 @@
   "name": "PTNT3",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 10.69,
-    "priceToEarnings": 11.71,
-    "debtByAnnualEquity": 57.455,
+    "price": 9.02,
+    "priceToEarnings": 15.81,
+    "debtByAnnualEquity": 54.242,
     "holders": [
       {
         "name": "GLADIUM ADMINISTRA��O E PARTICIPA��ES LTDA",
@@ -13,50 +13,54 @@
         "totalShares": 33.48
       },
       {
-        "name": "Santiago Santos Gottschall",
-        "ordinaryShares": 0.1,
-        "preferredShares": 0.78,
-        "totalShares": 0.55
-      },
-      {
-        "name": "RAUL WELSCH",
-        "ordinaryShares": 0.01,
-        "preferredShares": 5.54,
-        "totalShares": 3.7
-      },
-      {
         "name": "Clube de Investimentos Sol",
         "ordinaryShares": 0,
-        "preferredShares": 32.19,
-        "totalShares": 21.46
-      },
-      {
-        "name": "ELTON UGHINI",
-        "ordinaryShares": 0,
-        "preferredShares": 5.96,
-        "totalShares": 3.98
+        "preferredShares": 31.92,
+        "totalShares": 21.28
       },
       {
         "name": "TRIGONO HORIZON MICROCAP MASTER FIA",
         "ordinaryShares": 0,
-        "preferredShares": 2.55,
-        "totalShares": 1.7
+        "preferredShares": 2.46,
+        "totalShares": 1.64
+      },
+      {
+        "name": "TRIGONO PREV 100 SMALL CAPS FIFE FIA",
+        "ordinaryShares": 0,
+        "preferredShares": 0.53,
+        "totalShares": 0.35
+      },
+      {
+        "name": "TRIGONO VERBIER 70 PREV FIM",
+        "ordinaryShares": 0,
+        "preferredShares": 0.23,
+        "totalShares": 0.15
+      },
+      {
+        "name": "TRIGONO VERBIER MASTER FUNDO DE INVESTIMENTO EM A��ES",
+        "ordinaryShares": 0,
+        "preferredShares": 3.47,
+        "totalShares": 2.31
       },
       {
         "name": "WALTER APPEL",
         "ordinaryShares": 0,
         "preferredShares": 7.74,
         "totalShares": 5.16
-      },
-      {
-        "name": "WELLINGTON ARAUJO DE OLIVEIRA",
-        "ordinaryShares": 0,
-        "preferredShares": 4.79,
-        "totalShares": 3.2
       }
     ]
   },
   "events": [
+    {
+      "date": 1730170800000,
+      "amount": 0.1399,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1730170800000,
+      "amount": 0.1308,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1699239600000,
       "amount": 0.1061,
@@ -160,23 +164,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1688083200000,
-        "value": 0.058250609854494234
-      },
-      {
-        "period": 1656547200000,
-        "value": 0.07998445858111145
-      },
-      {
-        "period": 1625011200000,
-        "value": 0.07005183633154854
-      },
-      {
-        "period": 1593475200000,
-        "value": -0.004606957398874973
-      }
-    ]
+    "netMargin": []
   }
 }

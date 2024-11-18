@@ -2,8 +2,8 @@
   "name": "RPMG3",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 2.21,
-    "priceToEarnings": -0.18,
+    "price": 2.49,
+    "priceToEarnings": -0.15,
     "holders": [
       {
         "name": "XOROQUE PARTICIPA��ES S.A.",
@@ -157,41 +157,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -228360000
-      },
-      {
-        "period": 1580428800000,
-        "value": -412911000
-      },
-      {
-        "period": 1612051200000,
-        "value": -361756000
-      },
-      {
-        "period": 1643587200000,
-        "value": -935854000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.16360469780780124
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.2760849535368556
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.1926904860549163
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

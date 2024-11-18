@@ -2,27 +2,39 @@
   "name": "TRIS3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 5.71,
-    "priceToEarnings": 9.99,
-    "debtByAnnualEquity": 73.809,
+    "price": 5.6,
+    "priceToEarnings": 7.29,
+    "debtByAnnualEquity": 63.407,
     "holders": [
       {
         "name": "Trisul Participa��es S.A.",
-        "ordinaryShares": 50.83,
+        "ordinaryShares": 45.23,
         "preferredShares": 0,
-        "totalShares": 50.83
+        "totalShares": 45.23
+      },
+      {
+        "name": "FJ PARTICIPA��ES S.A.",
+        "ordinaryShares": 5.6,
+        "preferredShares": 0,
+        "totalShares": 5.6
+      },
+      {
+        "name": "TARPON GESTORA DE RECURSOS LTDA.",
+        "ordinaryShares": 5.09,
+        "preferredShares": 0,
+        "totalShares": 5.09
       },
       {
         "name": "Michel Esper Saad Junior",
-        "ordinaryShares": 2.95,
+        "ordinaryShares": 3.05,
         "preferredShares": 0,
-        "totalShares": 2.95
+        "totalShares": 3.05
       },
       {
         "name": "Jorge Cury Neto",
-        "ordinaryShares": 2.37,
+        "ordinaryShares": 2.43,
         "preferredShares": 0,
-        "totalShares": 2.37
+        "totalShares": 2.43
       },
       {
         "name": "Jos� Roberto Cury",
@@ -31,26 +43,46 @@
         "totalShares": 2.31
       },
       {
+        "name": "Jos� Sayeg Neto",
+        "ordinaryShares": 0.32,
+        "preferredShares": 0,
+        "totalShares": 0.32
+      },
+      {
         "name": "Fl�via Mattar Sayeg Michalu�",
         "ordinaryShares": 0.3,
         "preferredShares": 0,
         "totalShares": 0.3
       },
       {
-        "name": "Jos� Sayeg Neto",
-        "ordinaryShares": 0.3,
-        "preferredShares": 0,
-        "totalShares": 0.3
-      },
-      {
         "name": "�mega Administra��o e Participa��es Ltda.",
-        "ordinaryShares": 0.03,
+        "ordinaryShares": 0.04,
         "preferredShares": 0,
-        "totalShares": 0.03
+        "totalShares": 0.04
       }
     ]
   },
   "events": [
+    {
+      "date": 1714359600000,
+      "amount": 0.0181,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.0181,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1713927600000,
+      "amount": 0.0808,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1713927600000,
+      "amount": 0.0808,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682478000000,
       "amount": 0.0686,
@@ -170,10 +202,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 140080000
-      },
-      {
         "period": 1580428800000,
         "value": 170092000
       },
@@ -184,9 +212,17 @@
       {
         "period": 1643587200000,
         "value": 67913000
+      },
+      {
+        "period": 1675123200000,
+        "value": 123880000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.11835404943201903
+      },
       {
         "period": 1672444800000,
         "value": 0.08932747576518868
@@ -198,10 +234,6 @@
       {
         "period": 1609372800000,
         "value": 0.19351506325657594
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1753913689116044
       }
     ]
   }

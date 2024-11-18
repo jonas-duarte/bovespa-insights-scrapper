@@ -2,55 +2,39 @@
   "name": "HBSA3",
   "business": "Transporte Hidrovi�rio",
   "currentState": {
-    "price": 3.78,
-    "priceToEarnings": 54.13,
-    "debtByAnnualEquity": 272.414,
+    "price": 3.2,
+    "priceToEarnings": -6.62,
+    "debtByAnnualEquity": 345.003,
     "holders": [
       {
-        "name": "TPE Gestora de Recursos Ltda.",
-        "ordinaryShares": 10.51,
+        "name": "ULTRAPAR LOG�STICA  LTDA.",
+        "ordinaryShares": 35.97,
         "preferredShares": 0,
-        "totalShares": 10.51
+        "totalShares": 35.97
       },
       {
-        "name": "Patria Infraestrutura IV FIP Multiestrategia",
+        "name": "Alaska Investimentos Ltda.",
+        "ordinaryShares": 15.38,
+        "preferredShares": 0,
+        "totalShares": 15.38
+      },
+      {
+        "name": "PATRIA INFRAESTRUTURA IV FIP MULTIESTRATEGIA",
         "ordinaryShares": 10.32,
         "preferredShares": 0,
         "totalShares": 10.32
       },
       {
-        "name": "Patria Infraestrutura Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 10.03,
+        "name": "TPE Gestora de Recursos Ltda.",
+        "ordinaryShares": 9.95,
         "preferredShares": 0,
-        "totalShares": 10.03
-      },
-      {
-        "name": "Morgan Stanley",
-        "ordinaryShares": 5.03,
-        "preferredShares": 0,
-        "totalShares": 5.03
-      },
-      {
-        "name": "HBSA Co-Investimento - Fundo de Investimentos em Participa��es Multiestrat�gia",
-        "ordinaryShares": 2.13,
-        "preferredShares": 0,
-        "totalShares": 2.13
-      },
-      {
-        "name": "Patria Infraestrutura Brasil Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 0.57,
-        "preferredShares": 0,
-        "totalShares": 0.57
+        "totalShares": 9.95
       }
     ]
   },
   "events": [],
   "history": {
     "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 58609000
-      },
       {
         "period": 1580428800000,
         "value": -105545000
@@ -62,9 +46,17 @@
       {
         "period": 1643587200000,
         "value": -8163000
+      },
+      {
+        "period": 1675123200000,
+        "value": 17599000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.009145425728167953
+      },
       {
         "period": 1672444800000,
         "value": -0.004617342609876124
@@ -76,10 +68,6 @@
       {
         "period": 1609372800000,
         "value": -0.07218711677631466
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.062486606357515635
       }
     ]
   }

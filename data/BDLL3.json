@@ -2,8 +2,8 @@
   "name": "BDLL3",
   "business": "M�q. e Equip. Industriais",
   "currentState": {
-    "price": 11.5,
-    "priceToEarnings": 1.31,
+    "price": 12,
+    "priceToEarnings": 0.19,
     "holders": [
       {
         "name": "Claudio Bardella",
@@ -25,21 +25,21 @@
       },
       {
         "name": "MARCIO BARREIRA CAMPELLO",
-        "ordinaryShares": 5.27,
-        "preferredShares": 2.74,
-        "totalShares": 3.7
+        "ordinaryShares": 5.53,
+        "preferredShares": 2.82,
+        "totalShares": 3.85
       },
       {
         "name": "PAULO HENRIQUE DOS SANTOS",
-        "ordinaryShares": 3.07,
-        "preferredShares": 6.16,
-        "totalShares": 4.99
+        "ordinaryShares": 3.15,
+        "preferredShares": 8.14,
+        "totalShares": 6.25
       },
       {
         "name": "Marcio Kendler",
-        "ordinaryShares": 1.85,
-        "preferredShares": 3.02,
-        "totalShares": 2.58
+        "ordinaryShares": 1.98,
+        "preferredShares": 3.46,
+        "totalShares": 2.89
       },
       {
         "name": "Dirceu Luiz Natal",
@@ -50,8 +50,8 @@
       {
         "name": "ELTON UGHINI",
         "ordinaryShares": 0,
-        "preferredShares": 7.48,
-        "totalShares": 4.64
+        "preferredShares": 7.49,
+        "totalShares": 4.65
       },
       {
         "name": "FUNDO DE INVESTIMENTO JABURA ACOES",
@@ -60,10 +60,10 @@
         "totalShares": 6.88
       },
       {
-        "name": "Paulo Antonio Torres",
+        "name": "SERGIO ALVARENGA DE MATOS",
         "ordinaryShares": 0,
-        "preferredShares": 3.02,
-        "totalShares": 1.88
+        "preferredShares": 4.54,
+        "totalShares": 2.82
       }
     ]
   },
@@ -175,23 +175,16 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1233360000000,
+        "value": 0
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 2.4126785911044184
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.82395961121072
-      },
-      {
-        "period": 1609372800000,
-        "value": -3.2126730146264846
-      },
-      {
-        "period": 1577750400000,
-        "value": -5.374099584625901
+        "period": 1262217600000,
+        "value": 0
       }
     ]
   }

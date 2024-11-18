@@ -2,19 +2,30 @@
   "name": "SOND5",
   "business": "Engenharia Consultiva",
   "currentState": {
-    "price": 55,
-    "priceToEarnings": 10.87,
-    "debtByAnnualEquity": 2.294,
+    "price": 47,
+    "priceToEarnings": 9.83,
+    "debtByAnnualEquity": 1.138,
     "holders": [
       {
         "name": "Sheila Bergman",
-        "ordinaryShares": 95.26,
-        "preferredShares": 79.63,
-        "totalShares": 85.07
+        "ordinaryShares": 94.88,
+        "preferredShares": 32.03,
+        "totalShares": 53.92
+      },
+      {
+        "name": "UNIK-ADMINISTRA��O E PARTICIPA��ES LTDA",
+        "ordinaryShares": 0.38,
+        "preferredShares": 12.4,
+        "totalShares": 8.22
       }
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 5.0434,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 6.0947,
@@ -248,23 +259,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.16794302063675656
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.3280574644733978
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06897581837049149
-      }
-    ]
+    "netMargin": []
   }
 }

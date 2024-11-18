@@ -2,9 +2,9 @@
   "name": "CSNA3",
   "business": "Siderurgia",
   "currentState": {
-    "price": 17.52,
-    "priceToEarnings": -26.39,
-    "debtByAnnualEquity": 220.462,
+    "price": 10.64,
+    "priceToEarnings": -10.23,
+    "debtByAnnualEquity": 344.54,
     "holders": [
       {
         "name": "VICUNHA A�OS S.A.",
@@ -14,9 +14,9 @@
       },
       {
         "name": "CFL Ana Participa��es S.A.",
-        "ordinaryShares": 10.25,
+        "ordinaryShares": 9.99,
         "preferredShares": 0,
-        "totalShares": 10.25
+        "totalShares": 9.99
       },
       {
         "name": "RIO IACO PARTICIPA��ES S.A.",
@@ -27,6 +27,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1715655600000,
+      "amount": 0.7164,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700449200000,
       "amount": 0.7428,
@@ -371,38 +376,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1789067000
-      },
-      {
         "period": 1580428800000,
-        "value": 3794295000
+        "value": 4292618000
       },
       {
         "period": 1612051200000,
-        "value": 12258628000
+        "value": 13595621000
       },
       {
         "period": 1643587200000,
-        "value": 1554060000
+        "value": 2167698000
+      },
+      {
+        "period": 1675123200000,
+        "value": 402649000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.008861513338519894
+      },
+      {
         "period": 1672444800000,
-        "value": 0.03503123836281945
+        "value": 0.04886384743699563
       },
       {
         "period": 1640908800000,
-        "value": 0.25585694651818097
+        "value": 0.2837621041342031
       },
       {
         "period": 1609372800000,
-        "value": 0.1262071738909168
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.07033486673850331
+        "value": 0.14278256866513528
       }
     ]
   }

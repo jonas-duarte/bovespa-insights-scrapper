@@ -2,21 +2,15 @@
   "name": "CYRE3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 23.66,
-    "priceToEarnings": 10.49,
-    "debtByAnnualEquity": 57.646,
+    "price": 21.2,
+    "priceToEarnings": 6.05,
+    "debtByAnnualEquity": 57.961,
     "holders": [
       {
         "name": "Elie Horn",
         "ordinaryShares": 19.95,
         "preferredShares": 0,
         "totalShares": 19.95
-      },
-      {
-        "name": "BLACKROCK, INC.",
-        "ordinaryShares": 9.52,
-        "preferredShares": 0,
-        "totalShares": 9.52
       },
       {
         "name": "Eirenor S/A",
@@ -39,6 +33,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714014000000,
+      "amount": 0.5968,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1702263600000,
       "amount": 0.3334,
@@ -213,10 +212,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 415841000
-      },
-      {
         "period": 1580428800000,
         "value": 1760257000
       },
@@ -226,25 +221,29 @@
       },
       {
         "period": 1643587200000,
-        "value": 808880000
+        "value": 809000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 942000000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.15065494117020506
+      },
+      {
         "period": 1672444800000,
-        "value": 0.14921683666504576
+        "value": 0.14948263118994826
       },
       {
         "period": 1640908800000,
-        "value": 0.18699354755322997
+        "value": 0.1908553272468483
       },
       {
         "period": 1609372800000,
-        "value": 0.4662645898318302
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.10578983225391533
+        "value": 0.4603549707808808
       }
     ]
   }

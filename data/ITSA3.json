@@ -2,15 +2,15 @@
   "name": "ITSA3",
   "business": "Bancos",
   "currentState": {
-    "price": 10.01,
-    "priceToEarnings": 7.49,
-    "debtByAnnualEquity": 13.851,
+    "price": 10.49,
+    "priceToEarnings": 7.72,
+    "debtByAnnualEquity": 15.396,
     "holders": [
       {
         "name": "Funda��o Antonio e Helena Zerrener Institui��o Nacional de Benefic�ncia",
-        "ordinaryShares": 15.39,
-        "preferredShares": 2.01,
-        "totalShares": 6.61
+        "ordinaryShares": 15.4,
+        "preferredShares": 2.02,
+        "totalShares": 6.62
       },
       {
         "name": "Alfredo Egydio Arruda Villela Filho",
@@ -22,24 +22,24 @@
         "name": "Ana L�cia de Mattos Barretto Villela",
         "ordinaryShares": 12.79,
         "preferredShares": 3.66,
-        "totalShares": 6.8
+        "totalShares": 6.79
       },
       {
-        "name": "Funda��o Ita� para Educa��o e Cultura",
-        "ordinaryShares": 11.7,
-        "preferredShares": 0.75,
-        "totalShares": 4.51
+        "name": "FUNDA��O ITA�",
+        "ordinaryShares": 11.54,
+        "preferredShares": 0.74,
+        "totalShares": 4.45
       },
       {
         "name": "Rodolfo Villela Marino",
         "ordinaryShares": 6.4,
-        "preferredShares": 2.59,
-        "totalShares": 3.9
+        "preferredShares": 2.6,
+        "totalShares": 3.91
       },
       {
         "name": "Ricardo Villela Marino",
         "ordinaryShares": 6.4,
-        "preferredShares": 2.59,
+        "preferredShares": 2.6,
         "totalShares": 3.9
       },
       {
@@ -51,20 +51,20 @@
       {
         "name": "Ricardo Egydio Setubal",
         "ordinaryShares": 3.58,
-        "preferredShares": 0.75,
-        "totalShares": 1.72
+        "preferredShares": 0.76,
+        "totalShares": 1.73
       },
       {
         "name": "Jos� Luiz Egydio Setubal",
-        "ordinaryShares": 3.09,
-        "preferredShares": 0.71,
-        "totalShares": 1.53
+        "ordinaryShares": 3.01,
+        "preferredShares": 0.72,
+        "totalShares": 1.5
       },
       {
         "name": "Roberto Egydio Setubal",
-        "ordinaryShares": 1.87,
+        "ordinaryShares": 1.88,
         "preferredShares": 0.37,
-        "totalShares": 0.88
+        "totalShares": 0.89
       },
       {
         "name": "Carolina Marinho Lutz Setubal",
@@ -104,15 +104,21 @@
       },
       {
         "name": "Mariana Lucas Setubal",
-        "ordinaryShares": 0.87,
+        "ordinaryShares": 0.86,
         "preferredShares": 0.17,
         "totalShares": 0.41
       },
       {
         "name": "Paula Lucas Setubal",
-        "ordinaryShares": 0.87,
+        "ordinaryShares": 0.86,
         "preferredShares": 0.17,
         "totalShares": 0.41
+      },
+      {
+        "name": "Companhia ESA",
+        "ordinaryShares": 0.78,
+        "preferredShares": 0.01,
+        "totalShares": 0.27
       },
       {
         "name": "Fernando Setubal Souza e Silva",
@@ -133,34 +139,28 @@
         "totalShares": 0.39
       },
       {
-        "name": "Companhia ESA",
-        "ordinaryShares": 0.63,
-        "preferredShares": 0,
-        "totalShares": 0.22
-      },
-      {
         "name": "Olavo Egydio Setubal J�nior",
         "ordinaryShares": 0.36,
-        "preferredShares": 0.76,
+        "preferredShares": 0.77,
         "totalShares": 0.63
       },
       {
         "name": "Beatriz de Mattos Setubal",
-        "ordinaryShares": 0.16,
+        "ordinaryShares": 0.19,
         "preferredShares": 0.01,
-        "totalShares": 0.06
+        "totalShares": 0.07
       },
       {
         "name": "Gabriel de Mattos Setubal",
-        "ordinaryShares": 0.16,
+        "ordinaryShares": 0.19,
         "preferredShares": 0.01,
-        "totalShares": 0.06
+        "totalShares": 0.07
       },
       {
         "name": "Olavo Egydio Mutarelli Setubal",
-        "ordinaryShares": 0.16,
+        "ordinaryShares": 0.19,
         "preferredShares": 0.01,
-        "totalShares": 0.06
+        "totalShares": 0.07
       },
       {
         "name": "Rudric ITH Participa��es Ltda",
@@ -183,8 +183,8 @@
       {
         "name": "BlackRock Inc.",
         "ordinaryShares": 0,
-        "preferredShares": 5.02,
-        "totalShares": 3.29
+        "preferredShares": 4.08,
+        "totalShares": 2.68
       },
       {
         "name": "Marcelo Ribeiro do Valle Setubal",
@@ -213,6 +213,46 @@
     ]
   },
   "events": [
+    {
+      "date": 1726714800000,
+      "amount": 0.0484,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1724986800000,
+      "amount": 0.0235,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718852400000,
+      "amount": 0.0946,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1717124400000,
+      "amount": 0.0235,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1710990000000,
+      "amount": 0.07,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709175600000,
+      "amount": 0.0235,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1708570800000,
+      "amount": 0.3005,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1702868400000,
+      "amount": 0.0794,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701313200000,
       "amount": 0.0235,
@@ -1330,11 +1370,32 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 0
+      },
+      {
+        "period": 1612051200000,
+        "value": 12200000000
+      },
+      {
+        "period": 1643587200000,
+        "value": 13674000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 13466000000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.9973337283365428
+      },
+      {
         "period": 1672444800000,
-        "value": 1.6113598868724959
+        "value": 1.0755073147711185
       },
       {
         "period": 1640908800000,
@@ -1342,11 +1403,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 1.2
-      },
-      {
-        "period": 1577750400000,
-        "value": 2.059105431309904
+        "value": 0
       }
     ]
   }

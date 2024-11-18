@@ -2,11 +2,11 @@
   "name": "BBSE3",
   "business": "Seguradoras",
   "currentState": {
-    "price": 31.05,
-    "priceToEarnings": 8.11,
+    "price": 33.41,
+    "priceToEarnings": 7.85,
     "holders": [
       {
-        "name": "Banco do Brasil S.A.",
+        "name": "BANCO DO BRASIL S/A",
         "ordinaryShares": 66.25,
         "preferredShares": 0,
         "totalShares": 66.25
@@ -14,6 +14,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1723777200000,
+      "amount": 1.3909,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1707361200000,
+      "amount": 1.2419,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1692154800000,
       "amount": 1.6076,
@@ -133,10 +143,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 6658781000
-      },
-      {
         "period": 1580428800000,
         "value": 3850771000
       },
@@ -147,9 +153,17 @@
       {
         "period": 1643587200000,
         "value": 6044571000
+      },
+      {
+        "period": 1675123200000,
+        "value": 7947203000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.8531747122340003
+      },
       {
         "period": 1672444800000,
         "value": 0.8053244182233935
@@ -161,10 +175,6 @@
       {
         "period": 1609372800000,
         "value": 0.7503788654555573
-      },
-      {
-        "period": 1577750400000,
-        "value": 1.2353976537989866
       }
     ]
   }

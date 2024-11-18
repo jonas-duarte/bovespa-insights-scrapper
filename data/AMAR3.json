@@ -2,105 +2,123 @@
   "name": "AMAR3",
   "business": "Tecidos, Vestu�rio e Cal�ados",
   "currentState": {
-    "price": 3.9,
-    "priceToEarnings": -0.37,
-    "debtByAnnualEquity": 1227.454,
+    "price": 0.91,
+    "priceToEarnings": -1.08,
+    "debtByAnnualEquity": 241.991,
     "holders": [
       {
-        "name": "ZAP FIA IE",
-        "ordinaryShares": 6.67,
+        "name": "ALLIGATOR 2 FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 28.58,
         "preferredShares": 0,
-        "totalShares": 6.67
+        "totalShares": 28.58
+      },
+      {
+        "name": "FANTINES FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 28.58,
+        "preferredShares": 0,
+        "totalShares": 28.58
+      },
+      {
+        "name": "PHOENIX FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 28.58,
+        "preferredShares": 0,
+        "totalShares": 28.58
+      },
+      {
+        "name": "ZAP FIA IE",
+        "ordinaryShares": 0.9,
+        "preferredShares": 0,
+        "totalShares": 0.9
       },
       {
         "name": "Marcio Luiz Goldfarb",
-        "ordinaryShares": 5.71,
+        "ordinaryShares": 0.76,
         "preferredShares": 0,
-        "totalShares": 5.71
+        "totalShares": 0.76
       },
       {
         "name": "ALLIGATOR FIA IE",
-        "ordinaryShares": 4.36,
+        "ordinaryShares": 0.58,
         "preferredShares": 0,
-        "totalShares": 4.36
+        "totalShares": 0.58
       },
       {
         "name": "Ricardo Goldfarb",
-        "ordinaryShares": 3.89,
+        "ordinaryShares": 0.52,
         "preferredShares": 0,
-        "totalShares": 3.89
+        "totalShares": 0.52
       },
       {
         "name": "Marina Goldfarb",
-        "ordinaryShares": 3.88,
+        "ordinaryShares": 0.52,
         "preferredShares": 0,
-        "totalShares": 3.88
+        "totalShares": 0.52
       },
       {
         "name": "Renata Goldfarb",
-        "ordinaryShares": 3.87,
+        "ordinaryShares": 0.52,
         "preferredShares": 0,
-        "totalShares": 3.87
+        "totalShares": 0.52
       },
       {
         "name": "Fl�via Goldfarb Papa",
-        "ordinaryShares": 3.64,
+        "ordinaryShares": 0.49,
         "preferredShares": 0,
-        "totalShares": 3.64
+        "totalShares": 0.49
       },
       {
         "name": "Roberta Goldfarb Philipsen",
-        "ordinaryShares": 3.64,
+        "ordinaryShares": 0.49,
         "preferredShares": 0,
-        "totalShares": 3.64
+        "totalShares": 0.49
       },
       {
         "name": "Marcelo Goldfarb",
-        "ordinaryShares": 3.6,
+        "ordinaryShares": 0.48,
         "preferredShares": 0,
-        "totalShares": 3.6
+        "totalShares": 0.48
       },
       {
         "name": "Denise Golfarb Terpins",
-        "ordinaryShares": 3.22,
+        "ordinaryShares": 0.43,
         "preferredShares": 0,
-        "totalShares": 3.22
+        "totalShares": 0.43
       },
       {
         "name": "Michel Terpins",
-        "ordinaryShares": 3.19,
+        "ordinaryShares": 0.43,
         "preferredShares": 0,
-        "totalShares": 3.19
+        "totalShares": 0.43
       },
       {
         "name": "Rodrigo Terpins",
-        "ordinaryShares": 3.19,
+        "ordinaryShares": 0.43,
         "preferredShares": 0,
-        "totalShares": 3.19
+        "totalShares": 0.43
       },
       {
         "name": "Ticiana Terpins Strozenberg",
-        "ordinaryShares": 3.19,
+        "ordinaryShares": 0.43,
         "preferredShares": 0,
-        "totalShares": 3.19
+        "totalShares": 0.43
       },
       {
         "name": "MIL FUNDO DE INVESTIMENTO DE A��ES",
-        "ordinaryShares": 1.28,
+        "ordinaryShares": 0.17,
         "preferredShares": 0,
-        "totalShares": 1.28
+        "totalShares": 0.17
       },
       {
         "name": "CSHG DRAGSTER II FIM CP IE",
-        "ordinaryShares": 0.28,
+        "ordinaryShares": 0.04,
         "preferredShares": 0,
-        "totalShares": 0.28
+        "totalShares": 0.04
       },
       {
         "name": "D�cio Goldfarb",
-        "ordinaryShares": 0.19,
+        "ordinaryShares": 0.03,
         "preferredShares": 0,
-        "totalShares": 0.19
+        "totalShares": 0.03
       }
     ]
   },
@@ -197,15 +215,15 @@
       },
       {
         "period": 1640908800000,
-        "value": -0.028412384654128695
+        "value": -0.03561989559360536
       },
       {
         "period": 1609372800000,
-        "value": -0.20201578280438082
+        "value": -0.15693579480073655
       },
       {
         "period": 1577750400000,
-        "value": -0.038981453791290796
+        "value": -0.0306232856999577
       }
     ]
   }

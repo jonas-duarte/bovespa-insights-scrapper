@@ -2,9 +2,9 @@
   "name": "NEOE3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 20.69,
-    "priceToEarnings": 5.68,
-    "debtByAnnualEquity": 160.017,
+    "price": 19.1,
+    "priceToEarnings": 6.17,
+    "debtByAnnualEquity": 158.64,
     "holders": [
       {
         "name": "Iberdrola Energia S.A.",
@@ -27,6 +27,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1719802800000,
+      "amount": 0.1649,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713495600000,
+      "amount": 0.2484,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1704337200000,
+      "amount": 0.4165,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1688094000000,
       "amount": 0.3193,
@@ -106,10 +121,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 2229000000
-      },
-      {
         "period": 1580428800000,
         "value": 2809000000
       },
@@ -120,9 +131,17 @@
       {
         "period": 1643587200000,
         "value": 4718000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 4461000000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.10060212434882619
+      },
       {
         "period": 1672444800000,
         "value": 0.11026713721457453
@@ -134,10 +153,6 @@
       {
         "period": 1609372800000,
         "value": 0.08781143518084342
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.07831769790239275
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "UGPA3",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 25.76,
-    "priceToEarnings": 13.28,
-    "debtByAnnualEquity": 105.056,
+    "price": 19.29,
+    "priceToEarnings": 8.21,
+    "debtByAnnualEquity": 101.878,
     "holders": [
       {
         "name": "Ultra S.A. Participa��es",
@@ -26,13 +26,23 @@
       },
       {
         "name": "BlackRock Inc.",
-        "ordinaryShares": 5.01,
+        "ordinaryShares": 5,
         "preferredShares": 0,
-        "totalShares": 5.01
+        "totalShares": 5
       }
     ]
   },
   "events": [
+    {
+      "date": 1723690800000,
+      "amount": 0.25,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1709780400000,
+      "amount": 0.4,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1692241200000,
       "amount": 0.25,
@@ -287,38 +297,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 373526000
-      },
-      {
         "period": 1580428800000,
-        "value": 893383000
+        "value": 893400000
       },
       {
         "period": 1612051200000,
-        "value": 850463000
+        "value": 850500000
       },
       {
         "period": 1643587200000,
         "value": 1800839000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2439795000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.019355970990926754
+      },
+      {
         "period": 1672444800000,
-        "value": 0.01253763122489865
+        "value": 0.012258777960817415
       },
       {
         "period": 1640908800000,
-        "value": 0.007750305054525062
+        "value": 0.007159175276476322
       },
       {
         "period": 1609372800000,
-        "value": 0.012063279111728236
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.004182916801864768
+        "value": 0.010996896890859429
       }
     ]
   }

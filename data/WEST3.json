@@ -2,55 +2,33 @@
   "name": "WEST3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 1.37,
-    "priceToEarnings": -2.45,
-    "debtByAnnualEquity": 6.665,
+    "price": 0.7,
+    "priceToEarnings": -1.94,
+    "debtByAnnualEquity": 6.834,
     "holders": [
       {
         "name": "WNT Gestora de Recursos LTDA.",
-        "ordinaryShares": 37.61,
+        "ordinaryShares": 37.4,
         "preferredShares": 0,
-        "totalShares": 37.61
+        "totalShares": 37.4
       },
       {
         "name": "OIKOS Fundo de Investimento em Participa��es Multiestrat�gia",
-        "ordinaryShares": 25.61,
+        "ordinaryShares": 25.47,
         "preferredShares": 0,
-        "totalShares": 25.61
+        "totalShares": 25.47
       },
       {
         "name": "TRUSTEE DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA.",
-        "ordinaryShares": 5.22,
+        "ordinaryShares": 5.2,
         "preferredShares": 0,
-        "totalShares": 5.22
-      },
-      {
-        "name": "Carlos Andres Alfonso Mutschler Castillo",
-        "ordinaryShares": 0.68,
-        "preferredShares": 0,
-        "totalShares": 0.68
-      },
-      {
-        "name": "Eduardo Balb�o Ribeiro de Oliveira",
-        "ordinaryShares": 0.51,
-        "preferredShares": 0,
-        "totalShares": 0.51
-      },
-      {
-        "name": "Tatix Com�rcio e Participa��es Ltda.",
-        "ordinaryShares": 0.38,
-        "preferredShares": 0,
-        "totalShares": 0.38
+        "totalShares": 5.2
       }
     ]
   },
   "events": [],
   "history": {
     "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -1474000
-      },
       {
         "period": 1580428800000,
         "value": 11701000
@@ -61,13 +39,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": -54271000
+      },
+      {
+        "period": 1675123200000,
+        "value": -53738000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.27119584965077315
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": -0.21133566978193147
       },
       {
         "period": 1640908800000,
@@ -76,10 +62,6 @@
       {
         "period": 1609372800000,
         "value": 0.0477097213501105
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.011259988083051961
       }
     ]
   }

@@ -2,9 +2,9 @@
   "name": "CCRO3",
   "business": "Explora��o de Rodovias",
   "currentState": {
-    "price": 14.2,
-    "priceToEarnings": 30.71,
-    "debtByAnnualEquity": 233.761,
+    "price": 11.91,
+    "priceToEarnings": 15.18,
+    "debtByAnnualEquity": 250.429,
     "holders": [
       {
         "name": "SUCEA Participa��es S.A. (anteriormente Camargo Corr�a Investimentos em Infra-Estrutura S.A.)",
@@ -31,13 +31,13 @@
         "totalShares": 10.33
       },
       {
-        "name": "BlackRock Inc.",
-        "ordinaryShares": 5.01,
+        "name": "Capital International Investors",
+        "ordinaryShares": 5.17,
         "preferredShares": 0,
-        "totalShares": 5.01
+        "totalShares": 5.17
       },
       {
-        "name": "Capital International Investors",
+        "name": "BlackRock Inc.",
         "ordinaryShares": 5.01,
         "preferredShares": 0,
         "totalShares": 5.01
@@ -57,6 +57,16 @@
     ]
   },
   "events": [
+    {
+      "date": 1730775600000,
+      "amount": 0.1512,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1713409200000,
+      "amount": 0.2659,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1698634800000,
       "amount": 0.1568,
@@ -276,38 +286,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1438255000
-      },
-      {
         "period": 1580428800000,
-        "value": 191032000
+        "value": 191000000
       },
       {
         "period": 1612051200000,
-        "value": 695631000
+        "value": 695600000
       },
       {
         "period": 1643587200000,
-        "value": 4133088000
+        "value": 4133100000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1704840000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.10828540486980713
+      },
+      {
         "period": 1672444800000,
-        "value": 0.2154704712947362
+        "value": 0.22484373384977777
       },
       {
         "period": 1640908800000,
-        "value": 0.05681288526766897
+        "value": 0.0593343228073767
       },
       {
         "period": 1609372800000,
-        "value": 0.019316688036175814
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.13580215906034013
+        "value": 0.020414707139803336
       }
     ]
   }

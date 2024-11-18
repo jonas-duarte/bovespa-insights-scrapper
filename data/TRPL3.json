@@ -2,9 +2,9 @@
   "name": "TRPL3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 34.75,
-    "priceToEarnings": 9.69,
-    "debtByAnnualEquity": 49.098,
+    "price": 30.75,
+    "priceToEarnings": 6.12,
+    "debtByAnnualEquity": 57.061,
     "holders": [
       {
         "name": "ISA CAPITAL DO BRASIL S.A",
@@ -13,14 +13,36 @@
         "totalShares": 35.82
       },
       {
-        "name": "Centrais El�tricas Brasileiras S.A",
-        "ordinaryShares": 9.73,
-        "preferredShares": 52.48,
-        "totalShares": 35.74
+        "name": "CENTRAIS EL�TRICAS BRASILEIRAS S.A.",
+        "ordinaryShares": 6.48,
+        "preferredShares": 18.86,
+        "totalShares": 14.01
+      },
+      {
+        "name": "CENTRAIS ELETRICAS BRASILEIRAS S/A",
+        "ordinaryShares": 3.26,
+        "preferredShares": 9.23,
+        "totalShares": 6.89
+      },
+      {
+        "name": "ELETROBRAS PARTICIPACOES S.A. - ELETROPAR",
+        "ordinaryShares": 0,
+        "preferredShares": 1.2,
+        "totalShares": 0.73
       }
     ]
   },
   "events": [
+    {
+      "date": 1702436400000,
+      "amount": 1.9613,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702436400000,
+      "amount": 0.2428,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1672023600000,
       "amount": 1.0624,
@@ -498,23 +520,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 2002390000
+      },
+      {
+        "period": 1612051200000,
+        "value": 877567000
+      },
+      {
+        "period": 1643587200000,
+        "value": 936887000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1942286000
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.48735204068062665
+      },
+      {
         "period": 1672444800000,
-        "value": 0.4150474170591333
+        "value": 0.2874987993866362
       },
       {
         "period": 1640908800000,
-        "value": 0.545451506461089
+        "value": 0.286016040445284
       },
       {
         "period": 1609372800000,
-        "value": 0.9093922565244068
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.5290228106686291
+        "value": 0.5145969822529458
       }
     ]
   }

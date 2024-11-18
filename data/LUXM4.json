@@ -2,9 +2,9 @@
   "name": "LUXM4",
   "business": "Transporte Hidrovi�rio",
   "currentState": {
-    "price": 16,
-    "priceToEarnings": 21.03,
-    "debtByAnnualEquity": 5.839,
+    "price": 12.49,
+    "priceToEarnings": 18.5,
+    "debtByAnnualEquity": 3.083,
     "holders": [
       {
         "name": "Glarus S. A.",
@@ -45,8 +45,8 @@
       {
         "name": "Fernando Ferreira Becker",
         "ordinaryShares": 0,
-        "preferredShares": 15.54,
-        "totalShares": 8.67
+        "preferredShares": 15.53,
+        "totalShares": 8.66
       },
       {
         "name": "JORGE LINDEMANN",
@@ -75,8 +75,8 @@
       {
         "name": "Sandra In�s Mallmann Guariglia",
         "ordinaryShares": 0,
-        "preferredShares": 3.73,
-        "totalShares": 2.08
+        "preferredShares": 3.42,
+        "totalShares": 1.91
       },
       {
         "name": "Silvia Christina Mallmann Guariglia",
@@ -93,6 +93,11 @@
     ]
   },
   "events": [
+    {
+      "date": 1714014000000,
+      "amount": 0.2224,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682564400000,
       "amount": 0.5945,
@@ -230,41 +235,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 12980000
-      },
-      {
-        "period": 1580428800000,
-        "value": 8003000
-      },
-      {
-        "period": 1612051200000,
-        "value": 0
-      },
-      {
-        "period": 1643587200000,
-        "value": 0
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 0
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.07652222137229404
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1146389931552219
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

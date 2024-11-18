@@ -2,9 +2,9 @@
   "name": "PRIO3",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 45.3,
-    "priceToEarnings": 8.82,
-    "debtByAnnualEquity": 81.557,
+    "price": 39.7,
+    "priceToEarnings": 7.23,
+    "debtByAnnualEquity": 106.967,
     "holders": [
       {
         "name": "BlackRock Inc.",
@@ -14,13 +14,15 @@
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "date": 1702436400000,
+      "amount": 0.0726,
+      "type": "DIVIDENDO"
+    }
+  ],
   "history": {
     "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 842346000
-      },
       {
         "period": 1580428800000,
         "value": 452766000
@@ -32,9 +34,17 @@
       {
         "period": 1643587200000,
         "value": 3427072000
+      },
+      {
+        "period": 1675123200000,
+        "value": 5179905000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.4351018194729443
+      },
       {
         "period": 1672444800000,
         "value": 0.5385535418933838
@@ -46,10 +56,6 @@
       {
         "period": 1609372800000,
         "value": 0.23777416585048197
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.5122680992929712
       }
     ]
   }

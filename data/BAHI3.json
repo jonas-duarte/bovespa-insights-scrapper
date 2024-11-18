@@ -2,15 +2,15 @@
   "name": "BAHI3",
   "business": "Servi�os Educacionais",
   "currentState": {
-    "price": 8.14,
-    "priceToEarnings": -2.65,
-    "debtByAnnualEquity": 695.494,
+    "price": 4.8,
+    "priceToEarnings": 879.69,
+    "debtByAnnualEquity": 316.105,
     "holders": [
       {
         "name": "JV EDUCACAO FI EM PART MULTIESTRATEGIA",
-        "ordinaryShares": 29.58,
+        "ordinaryShares": 29.35,
         "preferredShares": 0,
-        "totalShares": 29.58
+        "totalShares": 29.35
       },
       {
         "name": "Fairfax Brasil Seguros Corporativos S.A.",
@@ -20,15 +20,27 @@
       },
       {
         "name": "Mint Educa��o Fundo de Investimento em A��es",
-        "ordinaryShares": 11.96,
+        "ordinaryShares": 11.87,
         "preferredShares": 0,
-        "totalShares": 11.96
+        "totalShares": 11.87
+      },
+      {
+        "name": "JORGE BRIHY JUNIOR",
+        "ordinaryShares": 5.41,
+        "preferredShares": 0,
+        "totalShares": 5.41
       },
       {
         "name": "Guilherme Affonso Ferreira Filho",
-        "ordinaryShares": 2.9,
+        "ordinaryShares": 2.87,
         "preferredShares": 0,
-        "totalShares": 2.9
+        "totalShares": 2.87
+      },
+      {
+        "name": "Gabriel Ralston Correa Ribeiro",
+        "ordinaryShares": 0.36,
+        "preferredShares": 0,
+        "totalShares": 0.36
       }
     ]
   },
@@ -161,23 +173,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.1382130589347053
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.34048231429371767
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.1729239699950997
-      }
-    ]
+    "netMargin": []
   }
 }

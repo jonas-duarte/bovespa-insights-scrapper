@@ -2,9 +2,9 @@
   "name": "MBLY3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 2.33,
-    "priceToEarnings": -3.07,
-    "debtByAnnualEquity": 38.404,
+    "price": 2.09,
+    "priceToEarnings": -2.79,
+    "debtByAnnualEquity": 37.84,
     "holders": [
       {
         "name": "HOME24 HOLDING GMBH AMP; CO.KG",
@@ -14,25 +14,15 @@
       },
       {
         "name": "CTM Investimentos LTDA.",
-        "ordinaryShares": 20.56,
+        "ordinaryShares": 13.72,
         "preferredShares": 0,
-        "totalShares": 20.56
-      },
-      {
-        "name": "Sul Am�rica Investimentos Gestora de Recurso S.A",
-        "ordinaryShares": 6.92,
-        "preferredShares": 0,
-        "totalShares": 6.92
+        "totalShares": 13.72
       }
     ]
   },
   "events": [],
   "history": {
     "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -38229000
-      },
       {
         "period": 1580428800000,
         "value": -40256000
@@ -43,13 +33,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": -89838000
+      },
+      {
+        "period": 1675123200000,
+        "value": -85145000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.1571103287424531
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": -0.1410199055346522
       },
       {
         "period": 1640908800000,
@@ -58,10 +56,6 @@
       {
         "period": 1609372800000,
         "value": -0.06674791288415782
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.09392851614615197
       }
     ]
   }

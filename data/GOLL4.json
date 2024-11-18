@@ -2,44 +2,38 @@
   "name": "GOLL4",
   "business": "Transporte A�reo",
   "currentState": {
-    "price": 8.87,
-    "priceToEarnings": 34.92,
+    "price": 1.17,
+    "priceToEarnings": -0.24,
     "holders": [
       {
         "name": "ABRA Kingsland LLP",
         "ordinaryShares": 50,
-        "preferredShares": 18.8,
-        "totalShares": 46.72
+        "preferredShares": 19.37,
+        "totalShares": 46.76
       },
       {
         "name": "ABRA MOBI LLP",
         "ordinaryShares": 50,
-        "preferredShares": 18.8,
-        "totalShares": 46.72
+        "preferredShares": 19.37,
+        "totalShares": 46.76
       },
       {
         "name": "ABRA Group Limited",
         "ordinaryShares": 0,
-        "preferredShares": 0.54,
-        "totalShares": 0.06
-      },
-      {
-        "name": "ABRA GROUP LIMITED - BANCO BTG PACTUAL S.A",
-        "ordinaryShares": 0,
-        "preferredShares": 3.22,
-        "totalShares": 0.34
+        "preferredShares": 3.77,
+        "totalShares": 0.4
       },
       {
         "name": "AMERICAN AIRLINES INC.",
         "ordinaryShares": 0,
-        "preferredShares": 6.6,
+        "preferredShares": 6.56,
         "totalShares": 0.69
       },
       {
         "name": "CONSTANTINO DE OLIVEIRA JUNIOR",
         "ordinaryShares": 0,
-        "preferredShares": 0.04,
-        "totalShares": 0.01
+        "preferredShares": 0.02,
+        "totalShares": 0
       },
       {
         "name": "HENRIQUE CONSTANTINO",
@@ -171,38 +165,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -117273000
-      },
-      {
         "period": 1580428800000,
         "value": -5988128000
       },
       {
         "period": 1612051200000,
-        "value": -7221538000
+        "value": -7221500000
       },
       {
         "period": 1643587200000,
         "value": -1561473000
+      },
+      {
+        "period": 1675123200000,
+        "value": -1222259000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.06510373055877632
+      },
       {
         "period": 1672444800000,
         "value": -0.10273710459265498
       },
       {
         "period": 1640908800000,
-        "value": -0.9715007323716897
+        "value": -0.9714935292060161
       },
       {
         "period": 1609372800000,
         "value": -0.9397834244141036
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.008458384686755664
       }
     ]
   }

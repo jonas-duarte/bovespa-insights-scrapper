@@ -2,87 +2,105 @@
   "name": "PTBL3",
   "business": "Produtos para Constru��o",
   "currentState": {
-    "price": 7.35,
-    "priceToEarnings": -25.73,
-    "debtByAnnualEquity": 417.375,
+    "price": 4.08,
+    "priceToEarnings": -37.48,
+    "debtByAnnualEquity": 461.151,
     "holders": [
       {
         "name": "C�sar Gomes J�nior",
-        "ordinaryShares": 19.1,
+        "ordinaryShares": 18.97,
         "preferredShares": 0,
-        "totalShares": 19.1
+        "totalShares": 18.97
       },
       {
-        "name": "Eleonora Ramos Gomes",
-        "ordinaryShares": 11.84,
+        "name": "NILTON TORRES DE BASTOS FILHO",
+        "ordinaryShares": 5.88,
         "preferredShares": 0,
-        "totalShares": 11.84
+        "totalShares": 5.88
       },
       {
-        "name": "Augusto Lopes Gomes",
-        "ordinaryShares": 3.18,
+        "name": "PATRICIA BASTOS AUERBACH",
+        "ordinaryShares": 5.88,
         "preferredShares": 0,
-        "totalShares": 3.18
-      },
-      {
-        "name": "Eduardo Ramos Gomes",
-        "ordinaryShares": 3.18,
-        "preferredShares": 0,
-        "totalShares": 3.18
+        "totalShares": 5.88
       },
       {
         "name": "Eduardo Czenay Guitierrez",
-        "ordinaryShares": 2.8,
+        "ordinaryShares": 3.64,
         "preferredShares": 0,
-        "totalShares": 2.8
+        "totalShares": 3.64
+      },
+      {
+        "name": "Eduardo Ramos Gomes",
+        "ordinaryShares": 3.2,
+        "preferredShares": 0,
+        "totalShares": 3.2
+      },
+      {
+        "name": "Augusto Lopes Gomes",
+        "ordinaryShares": 3.17,
+        "preferredShares": 0,
+        "totalShares": 3.17
       },
       {
         "name": "Marcelo Consonni Gomes",
-        "ordinaryShares": 2.51,
+        "ordinaryShares": 2.5,
         "preferredShares": 0,
-        "totalShares": 2.51
+        "totalShares": 2.5
       },
       {
         "name": "Carolina Consoni Gomes Malucelli",
-        "ordinaryShares": 2.51,
+        "ordinaryShares": 2.49,
         "preferredShares": 0,
-        "totalShares": 2.51
+        "totalShares": 2.49
       },
       {
         "name": "Lucio Rebello",
-        "ordinaryShares": 2.45,
+        "ordinaryShares": 2.43,
         "preferredShares": 0,
-        "totalShares": 2.45
+        "totalShares": 2.43
       },
       {
         "name": "Beatriz Rebello Salles",
-        "ordinaryShares": 2.45,
+        "ordinaryShares": 2.43,
         "preferredShares": 0,
-        "totalShares": 2.45
-      },
-      {
-        "name": "Carolina Czernay Gutierrez",
-        "ordinaryShares": 2.17,
-        "preferredShares": 0,
-        "totalShares": 2.17
-      },
-      {
-        "name": "Carlos Eduardo Zoppello Brennand",
-        "ordinaryShares": 1.94,
-        "preferredShares": 0,
-        "totalShares": 1.94
-      },
-      {
-        "name": "Gabriela Richter Gomes",
-        "ordinaryShares": 1.42,
-        "preferredShares": 0,
-        "totalShares": 1.42
+        "totalShares": 2.43
       },
       {
         "name": "C�sar Gomes Neto",
-        "ordinaryShares": 1.4,
+        "ordinaryShares": 2.21,
         "preferredShares": 0,
-        "totalShares": 1.4
+        "totalShares": 2.21
+      },
+      {
+        "name": "PGG PARTICIPA��ES SOCIETARIAS LTDA",
+        "ordinaryShares": 2.21,
+        "preferredShares": 0,
+        "totalShares": 2.21
+      },
+      {
+        "name": "Gabriela Richter Gomes",
+        "ordinaryShares": 2.21,
+        "preferredShares": 0,
+        "totalShares": 2.21
+      },
+      {
+        "name": "Carolina Czernay Gutierrez",
+        "ordinaryShares": 2.18,
+        "preferredShares": 0,
+        "totalShares": 2.18
+      },
+      {
+        "name": "Carlos Eduardo Zoppello Brennand",
+        "ordinaryShares": 1.93,
+        "preferredShares": 0,
+        "totalShares": 1.93
+      },
+      {
+        "name": "Junior Administra��o Bens Part. Soc. Ltda",
+        "ordinaryShares": 0.74,
+        "preferredShares": 0,
+        "totalShares": 0.74
       },
       {
         "name": "Lucia Gomes Vieira Dellagnelo",
@@ -92,21 +110,21 @@
       },
       {
         "name": "Miriam Gomes Vieira de Andrade",
-        "ordinaryShares": 0.58,
+        "ordinaryShares": 0.57,
         "preferredShares": 0,
-        "totalShares": 0.58
-      },
-      {
-        "name": "Maria Cristina Gomes Vieira",
-        "ordinaryShares": 0.52,
-        "preferredShares": 0,
-        "totalShares": 0.52
+        "totalShares": 0.57
       },
       {
         "name": "Daniel Gomes Vieira",
-        "ordinaryShares": 0.32,
+        "ordinaryShares": 0.54,
         "preferredShares": 0,
-        "totalShares": 0.32
+        "totalShares": 0.54
+      },
+      {
+        "name": "Maria Cristina Gomes Vieira",
+        "ordinaryShares": 0.51,
+        "preferredShares": 0,
+        "totalShares": 0.51
       },
       {
         "name": "Valerio Gomes Neto",
@@ -127,7 +145,7 @@
         "totalShares": 0.15
       },
       {
-        "name": "Junior Administra��o Bens Part. Soc. Ltda",
+        "name": "Eleonora Ramos Gomes",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
@@ -305,38 +323,30 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 13128000
+        "period": 1391126400000,
+        "value": 0
       },
       {
-        "period": 1580428800000,
-        "value": 128200000
+        "period": 1485820800000,
+        "value": 0
       },
       {
-        "period": 1612051200000,
-        "value": 216173000
-      },
-      {
-        "period": 1643587200000,
+        "period": 1517356800000,
         "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1546214400000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": 0.11305368314970711
+        "period": 1514678400000,
+        "value": 0
       },
       {
-        "period": 1609372800000,
-        "value": 0.09626214539939029
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.01178171518726627
+        "period": 1419984000000,
+        "value": 0
       }
     ]
   }

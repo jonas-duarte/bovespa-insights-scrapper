@@ -2,15 +2,15 @@
   "name": "HBOR3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 3.07,
-    "priceToEarnings": 10.15,
-    "debtByAnnualEquity": 85.388,
+    "price": 1.8,
+    "priceToEarnings": 4.52,
+    "debtByAnnualEquity": 77.742,
     "holders": [
       {
         "name": "H�lio Borenstein S.A. - Administra��o, Participa��es e Com�rcio",
-        "ordinaryShares": 38.53,
+        "ordinaryShares": 38.56,
         "preferredShares": 0,
-        "totalShares": 38.53
+        "totalShares": 38.56
       },
       {
         "name": "Henrique Borenstein",
@@ -20,13 +20,18 @@
       },
       {
         "name": "Henry Borenstein",
-        "ordinaryShares": 4.17,
+        "ordinaryShares": 4.18,
         "preferredShares": 0,
-        "totalShares": 4.17
+        "totalShares": 4.18
       }
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.091,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.0906,
@@ -91,10 +96,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -104194000
-      },
-      {
         "period": 1580428800000,
         "value": 26518000
       },
@@ -105,12 +106,20 @@
       {
         "period": 1643587200000,
         "value": 51053000
+      },
+      {
+        "period": 1675123200000,
+        "value": 50848000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.03984675050094468
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.056322722925035054
       },
       {
         "period": 1640908800000,
@@ -119,10 +128,6 @@
       {
         "period": 1609372800000,
         "value": 0.02723087713245042
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.0807142929075009
       }
     ]
   }

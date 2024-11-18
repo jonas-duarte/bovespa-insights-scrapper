@@ -2,37 +2,30 @@
   "name": "LJQQ3",
   "business": "Produtos Diversos",
   "currentState": {
-    "price": 5.65,
-    "priceToEarnings": -28.67,
-    "debtByAnnualEquity": 341.529,
+    "price": 2.77,
+    "priceToEarnings": 10,
+    "debtByAnnualEquity": 390.258,
     "holders": [
       {
         "name": "Alaska Investimento Ltda",
-        "ordinaryShares": 20.27,
+        "ordinaryShares": 20.02,
         "preferredShares": 0,
-        "totalShares": 20.27
+        "totalShares": 20.02
       },
       {
         "name": "Wishbone Management LC",
-        "ordinaryShares": 15.05,
+        "ordinaryShares": 15.1,
         "preferredShares": 0,
-        "totalShares": 15.05
-      },
-      {
-        "name": "ABSOLUTO PARTNERS GEST�O DE RECURSOS LTDA.",
-        "ordinaryShares": 5.79,
-        "preferredShares": 0,
-        "totalShares": 5.79
-      },
-      {
-        "name": "Bradesco Asset Management S.A. DTVM",
-        "ordinaryShares": 5.31,
-        "preferredShares": 0,
-        "totalShares": 5.31
+        "totalShares": 15.1
       }
     ]
   },
   "events": [
+    {
+      "date": 1703732400000,
+      "amount": 0.1687,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1640142000000,
       "amount": 0.1228,
@@ -52,12 +45,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 30122000
-      },
-      {
         "period": 1580428800000,
-        "value": 67866000
+        "value": 67900000
       },
       {
         "period": 1612051200000,
@@ -65,13 +54,21 @@
       },
       {
         "period": 1643587200000,
-        "value": -18703000
+        "value": -18700000
+      },
+      {
+        "period": 1675123200000,
+        "value": 19679000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.008205987422684453
+      },
+      {
         "period": 1672444800000,
-        "value": -0.008087196259904145
+        "value": -0.00808578717516323
       },
       {
         "period": 1640908800000,
@@ -79,11 +76,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.041862513601338296
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.022411668769791195
+        "value": 0.041882556131260795
       }
     ]
   }

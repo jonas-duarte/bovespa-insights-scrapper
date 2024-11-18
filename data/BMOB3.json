@@ -2,31 +2,42 @@
   "name": "BMOB3",
   "business": "Programas e Servi�os",
   "currentState": {
-    "price": 13.38,
-    "priceToEarnings": 16.99,
-    "debtByAnnualEquity": 0.44,
+    "price": 14.25,
+    "priceToEarnings": 10.25,
+    "debtByAnnualEquity": 0.3,
     "holders": [
       {
-        "name": "Otello Technology Investiment AS (anteriormente denominada \"Bemobi Holding AS\")",
-        "ordinaryShares": 37.61,
+        "name": "OTELLO TECHNOLOGY INVESTMENT AS",
+        "ordinaryShares": 38.22,
         "preferredShares": 0,
-        "totalShares": 37.61
+        "totalShares": 38.22
       },
       {
         "name": "SPX EQUITIES GEST�O DE RECURSOS LTDA",
-        "ordinaryShares": 9.85,
+        "ordinaryShares": 5.65,
         "preferredShares": 0,
-        "totalShares": 9.85
+        "totalShares": 5.65
       },
       {
         "name": "Real Investor",
-        "ordinaryShares": 5.23,
+        "ordinaryShares": 5.32,
         "preferredShares": 0,
-        "totalShares": 5.23
+        "totalShares": 5.32
+      },
+      {
+        "name": "4UM GEST�O DE RECURSOS LTDA.",
+        "ordinaryShares": 5.15,
+        "preferredShares": 0,
+        "totalShares": 5.15
       }
     ]
   },
   "events": [
+    {
+      "date": 1702868400000,
+      "amount": 0.5219,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1679540400000,
       "amount": 0.2333,
@@ -41,12 +52,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 36436000
-      },
-      {
         "period": 1580428800000,
-        "value": 35730000
+        "value": 0
       },
       {
         "period": 1612051200000,
@@ -55,24 +62,28 @@
       {
         "period": 1643587200000,
         "value": 85566000
+      },
+      {
+        "period": 1675123200000,
+        "value": 86900000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.16056910569105692
+      },
       {
         "period": 1672444800000,
         "value": 0.057978458135929486
       },
       {
         "period": 1640908800000,
-        "value": 0.1541393143317711
+        "value": 0.15415098199672667
       },
       {
         "period": 1609372800000,
-        "value": 0.20828232660627471
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.23570051621750998
+        "value": 0
       }
     ]
   }

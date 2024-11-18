@@ -2,33 +2,33 @@
   "name": "ZAMP3",
   "business": "Restaurante e Similares",
   "currentState": {
-    "price": 6.5,
-    "priceToEarnings": -15.54,
-    "debtByAnnualEquity": 155.449,
+    "price": 2.8,
+    "priceToEarnings": -12.46,
+    "debtByAnnualEquity": 192.542,
     "holders": [
       {
-        "name": "MC BRAZIL HYDRO PARTICIPACOES S.A.",
-        "ordinaryShares": 30.1,
+        "name": "MC BRAZIL F&B PARTICIPA��ES S.A.",
+        "ordinaryShares": 42.97,
         "preferredShares": 0,
-        "totalShares": 30.1
+        "totalShares": 42.97
       },
       {
-        "name": "JP MORGAN CHASE BANK, N.A.",
-        "ordinaryShares": 20.1,
+        "name": "MIC CAPITAL PARTNERS (BRAZIL SPECIAL OPPORTUNITIES II) FIP MULTIESTRAT�GIA IE",
+        "ordinaryShares": 28.62,
         "preferredShares": 0,
-        "totalShares": 20.1
+        "totalShares": 28.62
       },
       {
         "name": "Burger King do Brasil Assessoria a Restaurantes Ltda.",
-        "ordinaryShares": 9.4,
+        "ordinaryShares": 6.36,
         "preferredShares": 0,
-        "totalShares": 9.4
+        "totalShares": 6.36
       },
       {
-        "name": "Mar Asset Management Gestora de Recurso Ltda.",
-        "ordinaryShares": 6.39,
+        "name": "KING ARTHUR LLC.",
+        "ordinaryShares": 5.06,
         "preferredShares": 0,
-        "totalShares": 6.39
+        "totalShares": 5.06
       }
     ]
   },
@@ -57,10 +57,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 48543000
-      },
-      {
         "period": 1580428800000,
         "value": -445607000
       },
@@ -71,9 +67,17 @@
       {
         "period": 1643587200000,
         "value": -55786000
+      },
+      {
+        "period": 1675123200000,
+        "value": -97826000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": -0.02546251770905535
+      },
       {
         "period": 1672444800000,
         "value": -0.015306170044289283
@@ -85,10 +89,6 @@
       {
         "period": 1609372800000,
         "value": -0.19909817450037465
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.01692579123358171
       }
     ]
   }

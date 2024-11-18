@@ -2,9 +2,9 @@
   "name": "CMIG4",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 11.32,
-    "priceToEarnings": 4.71,
-    "debtByAnnualEquity": 51.22,
+    "price": 12.09,
+    "priceToEarnings": 4.32,
+    "debtByAnnualEquity": 45.253,
     "holders": [
       {
         "name": "Estado de Minas Gerais (Casa Civil)",
@@ -14,9 +14,9 @@
       },
       {
         "name": "FIA Din�mica Energia",
-        "ordinaryShares": 31.98,
-        "preferredShares": 7.98,
-        "totalShares": 16
+        "ordinaryShares": 32.28,
+        "preferredShares": 7.78,
+        "totalShares": 15.97
       },
       {
         "name": "BNDES PARTICIPA��ES S.A.",
@@ -29,10 +29,51 @@
         "ordinaryShares": 0,
         "preferredShares": 14.85,
         "totalShares": 9.88
+      },
+      {
+        "name": "Pzena Investment Management, Llc",
+        "ordinaryShares": 0,
+        "preferredShares": 5,
+        "totalShares": 3.33
       }
     ]
   },
   "events": [
+    {
+      "date": 1727060400000,
+      "amount": 0.0826,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1724382000000,
+      "amount": 0.4964,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1718938800000,
+      "amount": 0.0751,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.1211,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711422000000,
+      "amount": 0.0878,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.3005,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.3005,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695610800000,
       "amount": 0.095,
@@ -512,10 +553,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 3193678000
-      },
-      {
         "period": 1580428800000,
         "value": 2864110000
       },
@@ -525,13 +562,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 4092313000
+      },
+      {
+        "period": 1675123200000,
+        "value": 5764273000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.15642629944301686
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.11874577950815847
       },
       {
         "period": 1640908800000,
@@ -540,10 +585,6 @@
       {
         "period": 1609372800000,
         "value": 0.1135307029496435
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.12530628882449085
       }
     ]
   }

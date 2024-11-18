@@ -2,176 +2,147 @@
   "name": "BIOM3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 6.61,
-    "priceToEarnings": -6.9,
-    "debtByAnnualEquity": 157.561,
+    "price": 9.25,
+    "priceToEarnings": -16.35,
+    "debtByAnnualEquity": 43.689,
     "holders": [
       {
-        "name": "Lab Fundo de Investimento em A��es",
-        "ordinaryShares": 10.58,
+        "name": "WNT CAPITAL",
+        "ordinaryShares": 23.97,
         "preferredShares": 0,
-        "totalShares": 10.58
+        "totalShares": 23.97
       },
       {
-        "name": "IBR L.P.",
-        "ordinaryShares": 8.52,
+        "name": "BTG/LAB FIA",
+        "ordinaryShares": 8.63,
         "preferredShares": 0,
-        "totalShares": 8.52
+        "totalShares": 8.63
       },
       {
         "name": "CEDRO PARTICIPA��ES S.A.",
-        "ordinaryShares": 7.89,
+        "ordinaryShares": 8,
         "preferredShares": 0,
-        "totalShares": 7.89
+        "totalShares": 8
+      },
+      {
+        "name": "TMG/IBR L.P.",
+        "ordinaryShares": 5.98,
+        "preferredShares": 0,
+        "totalShares": 5.98
       },
       {
         "name": "BNDES Participa��es - BNDESPar",
-        "ordinaryShares": 7.86,
+        "ordinaryShares": 5.52,
         "preferredShares": 0,
-        "totalShares": 7.86
+        "totalShares": 5.52
       },
       {
         "name": "Walfrido Silvino dos Mares Guia Neto",
-        "ordinaryShares": 5.46,
+        "ordinaryShares": 5.2,
         "preferredShares": 0,
-        "totalShares": 5.46
-      },
-      {
-        "name": "BDMGTEC Participa��o S/A",
-        "ordinaryShares": 4.54,
-        "preferredShares": 0,
-        "totalShares": 4.54
-      },
-      {
-        "name": "XP Advisory Gest�o de Recursos Ltda",
-        "ordinaryShares": 4.4,
-        "preferredShares": 0,
-        "totalShares": 4.4
-      },
-      {
-        "name": "�talo Aur�lio Gaetani",
-        "ordinaryShares": 4.16,
-        "preferredShares": 0,
-        "totalShares": 4.16
-      },
-      {
-        "name": "CITISSIMO DO BRASIL PARTICIPA��ES LTDA",
-        "ordinaryShares": 3.7,
-        "preferredShares": 0,
-        "totalShares": 3.7
-      },
-      {
-        "name": "Emvest Emrich Investimentos Ltda.",
-        "ordinaryShares": 3.6,
-        "preferredShares": 0,
-        "totalShares": 3.6
+        "totalShares": 5.2
       },
       {
         "name": "Samos Participa��es Ltda.",
-        "ordinaryShares": 3.59,
+        "ordinaryShares": 4.2,
         "preferredShares": 0,
-        "totalShares": 3.59
+        "totalShares": 4.2
       },
       {
-        "name": "IBR L.P.",
-        "ordinaryShares": 2.78,
+        "name": "BDMGTEC Participa��o S/A",
+        "ordinaryShares": 3.15,
         "preferredShares": 0,
-        "totalShares": 2.78
+        "totalShares": 3.15
       },
       {
-        "name": "Guilherme Caldas Emrich",
-        "ordinaryShares": 0.78,
+        "name": "�talo Aur�lio Gaetani",
+        "ordinaryShares": 2.92,
         "preferredShares": 0,
-        "totalShares": 0.78
+        "totalShares": 2.92
       },
       {
-        "name": "Elbrus Participa��es Ltda.",
-        "ordinaryShares": 0.65,
+        "name": "CITISSIMO DO BRASIL PARTICIPA��ES LTDA",
+        "ordinaryShares": 2.6,
         "preferredShares": 0,
-        "totalShares": 0.65
+        "totalShares": 2.6
+      },
+      {
+        "name": "Emvest Emrich Investimentos Ltda.",
+        "ordinaryShares": 2.27,
+        "preferredShares": 0,
+        "totalShares": 2.27
+      },
+      {
+        "name": "TMG/IBR L.P.",
+        "ordinaryShares": 1.95,
+        "preferredShares": 0,
+        "totalShares": 1.95
       },
       {
         "name": "Gama Participa��es Ltda.",
-        "ordinaryShares": 0.59,
+        "ordinaryShares": 1.64,
         "preferredShares": 0,
-        "totalShares": 0.59
+        "totalShares": 1.64
       },
       {
-        "name": "Luiz Francisco Novelli Viana",
-        "ordinaryShares": 0.33,
+        "name": "Andr� Capistrano Emrich",
+        "ordinaryShares": 1.43,
         "preferredShares": 0,
-        "totalShares": 0.33
+        "totalShares": 1.43
+      },
+      {
+        "name": "Guilherme Caldas Emrich",
+        "ordinaryShares": 0.55,
+        "preferredShares": 0,
+        "totalShares": 0.55
+      },
+      {
+        "name": "Elbrus Participa��es Ltda.",
+        "ordinaryShares": 0.45,
+        "preferredShares": 0,
+        "totalShares": 0.45
       },
       {
         "name": "CHRISTINA DOS MARES GUIA MARTINS",
-        "ordinaryShares": 0.08,
+        "ordinaryShares": 0.06,
         "preferredShares": 0,
-        "totalShares": 0.08
-      },
-      {
-        "name": "FABIANA MARTINS DOS MARES GUIA CAMPO REALE",
-        "ordinaryShares": 0.08,
-        "preferredShares": 0,
-        "totalShares": 0.08
+        "totalShares": 0.06
       },
       {
         "name": "Frederico Martins dos Mares Guia",
-        "ordinaryShares": 0.08,
+        "ordinaryShares": 0.06,
         "preferredShares": 0,
-        "totalShares": 0.08
-      },
-      {
-        "name": "JULIANA MARTINS DOS MARES GUIA",
-        "ordinaryShares": 0.08,
-        "preferredShares": 0,
-        "totalShares": 0.08
+        "totalShares": 0.06
       },
       {
         "name": "LUCIANA DOS MARES GUIA RIBEIRO",
-        "ordinaryShares": 0.08,
+        "ordinaryShares": 0.06,
         "preferredShares": 0,
-        "totalShares": 0.08
+        "totalShares": 0.06
       },
       {
         "name": "TATIANA MARTINS DOS MARES GUIA",
-        "ordinaryShares": 0.08,
+        "ordinaryShares": 0.06,
         "preferredShares": 0,
-        "totalShares": 0.08
-      },
-      {
-        "name": "Fernando Xavier Ferreira",
-        "ordinaryShares": 0.07,
-        "preferredShares": 0,
-        "totalShares": 0.07
+        "totalShares": 0.06
       },
       {
         "name": "Henriqueta Martins dos Mares Guia",
-        "ordinaryShares": 0.01,
+        "ordinaryShares": 0,
         "preferredShares": 0,
-        "totalShares": 0.01
+        "totalShares": 0
+      },
+      {
+        "name": "FABIANA MARTINS DOS MARES GUIA CAMPO REALE",
+        "ordinaryShares": 0,
+        "preferredShares": 0,
+        "totalShares": 0
       }
     ]
   },
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": -0.8819006421861005
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.749472406387151
-      },
-      {
-        "period": 1609372800000,
-        "value": -1.206228267539374
-      },
-      {
-        "period": 1577750400000,
-        "value": -6.240161001788909
-      }
-    ]
+    "netMargin": []
   }
 }

@@ -2,9 +2,9 @@
   "name": "CSMG3",
   "business": "�gua e Saneamento",
   "currentState": {
-    "price": 20.61,
-    "priceToEarnings": 6.06,
-    "debtByAnnualEquity": 59.484,
+    "price": 24.64,
+    "priceToEarnings": 6.69,
+    "debtByAnnualEquity": 79.323,
     "holders": [
       {
         "name": "Estado de Minas Gerais",
@@ -15,6 +15,56 @@
     ]
   },
   "events": [
+    {
+      "date": 1726542000000,
+      "amount": 0.3282,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1726542000000,
+      "amount": 0.025,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1719284400000,
+      "amount": 0.3168,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719284400000,
+      "amount": 0.0679,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714100400000,
+      "amount": 0.7912,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711335600000,
+      "amount": 0.4184,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711335600000,
+      "amount": 0.3101,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711335600000,
+      "amount": 0.1446,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703127600000,
+      "amount": 0.2416,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702436400000,
+      "amount": 0.9823,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1695265200000,
       "amount": 0.3361,
@@ -374,10 +424,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 754374000
-      },
-      {
         "period": 1580428800000,
         "value": 816477000
       },
@@ -387,25 +433,29 @@
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 843362000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1379346000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.18828824217158324
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.13653582607977685
       },
       {
         "period": 1640908800000,
-        "value": 0.09119820992042017
+        "value": 0.09220739481396331
       },
       {
         "period": 1609372800000,
-        "value": 0.15280279855026951
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1462752054205906
+        "value": 0.15437432394336636
       }
     ]
   }

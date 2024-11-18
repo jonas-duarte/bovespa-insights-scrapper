@@ -2,30 +2,30 @@
   "name": "AMBP3",
   "business": "�gua e Saneamento",
   "currentState": {
-    "price": 16.45,
-    "priceToEarnings": -21.65,
-    "debtByAnnualEquity": 417.474,
+    "price": 168.31,
+    "priceToEarnings": -98.81,
+    "debtByAnnualEquity": 353.01,
     "holders": [
       {
         "name": "T�rcio Borlenghi Junior",
-        "ordinaryShares": 61.17,
+        "ordinaryShares": 48.04,
         "preferredShares": 0,
-        "totalShares": 61.17
-      },
-      {
-        "name": "XP Gest�o de Recursos Ltda.",
-        "ordinaryShares": 6.06,
-        "preferredShares": 0,
-        "totalShares": 6.06
-      },
-      {
-        "name": "Christiane Borlenghi Donadio",
-        "ordinaryShares": 0,
-        "preferredShares": 0,
-        "totalShares": 0
+        "totalShares": 48.04
       },
       {
         "name": "EVEREST � FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA INVESTIMENTOS NO EXTERIOR",
+        "ordinaryShares": 25.3,
+        "preferredShares": 0,
+        "totalShares": 25.3
+      },
+      {
+        "name": "TRUSTEE DISTRIBUIDORA DE T�TULOS E VALORES MOBILI�RIOS LTDA",
+        "ordinaryShares": 11.89,
+        "preferredShares": 0,
+        "totalShares": 11.89
+      },
+      {
+        "name": "Christiane Borlenghi Donadio",
         "ordinaryShares": 0,
         "preferredShares": 0,
         "totalShares": 0
@@ -52,10 +52,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 31498000
-      },
-      {
         "period": 1580428800000,
         "value": 44824000
       },
@@ -66,12 +62,20 @@
       {
         "period": 1643587200000,
         "value": 63784000
+      },
+      {
+        "period": 1675123200000,
+        "value": -56801000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.011656986886120631
+      },
+      {
         "period": 1672444800000,
-        "value": 0.016830479569981564
+        "value": 0.016830439601034357
       },
       {
         "period": 1640908800000,
@@ -80,10 +84,6 @@
       {
         "period": 1609372800000,
         "value": 0.0638871627053129
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06502678654376168
       }
     ]
   }

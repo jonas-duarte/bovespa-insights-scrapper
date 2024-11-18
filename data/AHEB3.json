@@ -2,9 +2,9 @@
   "name": "AHEB3",
   "business": "Produ��o de Eventos e Shows",
   "currentState": {
-    "price": 17.01,
-    "priceToEarnings": 1.49,
-    "debtByAnnualEquity": 24.551,
+    "price": 38,
+    "priceToEarnings": 2.27,
+    "debtByAnnualEquity": 3.029,
     "holders": [
       {
         "name": "Prefeitura do Munic�pio de S�o Paulo",
@@ -17,23 +17,6 @@
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.21414181511437502
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.429470945759278
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.11204341454049979
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.37060903185356764
-      }
-    ]
+    "netMargin": []
   }
 }

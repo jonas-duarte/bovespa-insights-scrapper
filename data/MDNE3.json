@@ -2,8 +2,9 @@
   "name": "MDNE3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 12.75,
-    "priceToEarnings": 8.16,
+    "price": 14.66,
+    "priceToEarnings": 5.18,
+    "debtByAnnualEquity": 30.954,
     "holders": [
       {
         "name": "GUSTAVO JOS� MOURA DUBEUX",
@@ -19,15 +20,15 @@
       },
       {
         "name": "Marcos Jos� Moura Dubeux",
-        "ordinaryShares": 9.87,
+        "ordinaryShares": 9.67,
         "preferredShares": 0,
-        "totalShares": 9.87
+        "totalShares": 9.67
       },
       {
         "name": "Navi Capital Administradora e Gestora de Recursos Financeiros Ltda.",
-        "ordinaryShares": 9.49,
+        "ordinaryShares": 8.23,
         "preferredShares": 0,
-        "totalShares": 9.49
+        "totalShares": 8.23
       },
       {
         "name": "Fourth Sail Capital LP",
@@ -37,31 +38,33 @@
       },
       {
         "name": "Safra Asset Management Ltda.",
-        "ordinaryShares": 5.84,
+        "ordinaryShares": 5.59,
         "preferredShares": 0,
-        "totalShares": 5.84
+        "totalShares": 5.59
       },
       {
         "name": "JOSE DO EGITO FIM CP INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 1.37,
+        "ordinaryShares": 1.15,
         "preferredShares": 0,
-        "totalShares": 1.37
+        "totalShares": 1.15
       },
       {
-        "name": "CSHG REEF 1 FIM CP IE",
+        "name": "REEF 1 RV FUNDO DE INVESTIMENTO MULTIMERCADO CRDITO PRIVADO",
         "ordinaryShares": 1.13,
         "preferredShares": 0,
         "totalShares": 1.13
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "date": 1731380400000,
+      "amount": 0.65,
+      "type": "DIVIDENDO"
+    }
+  ],
   "history": {
     "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -96331000
-      },
       {
         "period": 1580428800000,
         "value": -100115000
@@ -73,9 +76,17 @@
       {
         "period": 1643587200000,
         "value": 105917000
+      },
+      {
+        "period": 1675123200000,
+        "value": 155838000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.1353649924472939
+      },
       {
         "period": 1672444800000,
         "value": 0.13247457559281925
@@ -87,10 +98,6 @@
       {
         "period": 1609372800000,
         "value": -0.19504150586108346
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.2362414626071389
       }
     ]
   }

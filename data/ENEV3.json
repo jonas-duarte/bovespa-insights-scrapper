@@ -2,39 +2,45 @@
   "name": "ENEV3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 13.26,
-    "priceToEarnings": 63.32,
-    "debtByAnnualEquity": 179.397,
+    "price": 12,
+    "priceToEarnings": 28.98,
+    "debtByAnnualEquity": 131.998,
     "holders": [
       {
         "name": "Banco BTG Pactual S.A.",
-        "ordinaryShares": 22.02,
+        "ordinaryShares": 25.31,
         "preferredShares": 0,
-        "totalShares": 22.02
-      },
-      {
-        "name": "Eneva Fundo de Investimento em A��es",
-        "ordinaryShares": 19.73,
-        "preferredShares": 0,
-        "totalShares": 19.73
-      },
-      {
-        "name": "Dynamo Administra��o de Recursos Ltda.",
-        "ordinaryShares": 10.77,
-        "preferredShares": 0,
-        "totalShares": 10.77
-      },
-      {
-        "name": "Atmos Capital Gest�o de Recursos Ltda.",
-        "ordinaryShares": 5.44,
-        "preferredShares": 0,
-        "totalShares": 5.44
+        "totalShares": 25.31
       },
       {
         "name": "Partners Alpha Investments LLC",
-        "ordinaryShares": 5.39,
+        "ordinaryShares": 22.64,
         "preferredShares": 0,
-        "totalShares": 5.39
+        "totalShares": 22.64
+      },
+      {
+        "name": "ENEVA FUNDO DE INVESTIMENTO FINANCEIRO EM A��ES RESPONSABILIDADE LIMITADA",
+        "ordinaryShares": 16.18,
+        "preferredShares": 0,
+        "totalShares": 16.18
+      },
+      {
+        "name": "Dynamo Administra��o de Recursos Ltda.",
+        "ordinaryShares": 9.84,
+        "preferredShares": 0,
+        "totalShares": 9.84
+      },
+      {
+        "name": "Atmos Capital Gest�o de Recursos Ltda.",
+        "ordinaryShares": 4.14,
+        "preferredShares": 0,
+        "totalShares": 4.14
+      },
+      {
+        "name": "VELT PARTNERS INVESTIMENTOS LTDA",
+        "ordinaryShares": 1.4,
+        "preferredShares": 0,
+        "totalShares": 1.4
       }
     ]
   },
@@ -48,12 +54,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 600798000
-      },
-      {
         "period": 1580428800000,
-        "value": 1007606000
+        "value": 1007600000
       },
       {
         "period": 1612051200000,
@@ -62,24 +64,28 @@
       {
         "period": 1643587200000,
         "value": 375774000
+      },
+      {
+        "period": 1675123200000,
+        "value": 217700000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.021573893309813793
+      },
       {
         "period": 1672444800000,
         "value": 0.06131478903104019
       },
       {
         "period": 1640908800000,
-        "value": 0.22896155892906173
+        "value": 0.2289633908360003
       },
       {
         "period": 1609372800000,
-        "value": 0.310672217787451
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.19149739797900725
+        "value": 0.31067122992014307
       }
     ]
   }

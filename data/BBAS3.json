@@ -2,8 +2,8 @@
   "name": "BBAS3",
   "business": "Bancos",
   "currentState": {
-    "price": 52.98,
-    "priceToEarnings": 4.54,
+    "price": 25.37,
+    "priceToEarnings": 4.11,
     "holders": [
       {
         "name": "Minist�rio da Economia / Secretaria do Tesouro Nacional",
@@ -14,6 +14,51 @@
     ]
   },
   "events": [
+    {
+      "date": 1726023600000,
+      "amount": 0.1866,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1724209200000,
+      "amount": 0.3145,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1724209200000,
+      "amount": 0.1519,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1718247600000,
+      "amount": 0.2042,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718074800000,
+      "amount": 0.2932,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718074800000,
+      "amount": 0.1648,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1710126000000,
+      "amount": 0.41,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1708484400000,
+      "amount": 0.6136,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1708484400000,
+      "amount": 0.2208,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1702263600000,
       "amount": 0.3423,
@@ -863,38 +908,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 18162067000
-      },
-      {
         "period": 1580428800000,
-        "value": 11851616000
+        "value": 12697000000
       },
       {
         "period": 1612051200000,
-        "value": 18344326000
+        "value": 19710402000
       },
       {
         "period": 1643587200000,
-        "value": 31011487000
+        "value": 31011000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 33818951000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.3617116164155
+      },
+      {
         "period": 1672444800000,
-        "value": 0.34456318804752617
+        "value": 0.42251045683066063
       },
       {
         "period": 1640908800000,
-        "value": 0.24229252948165853
+        "value": 0.33235649607958856
       },
       {
         "period": 1609372800000,
-        "value": 0.19094173786036728
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.29414225361369156
+        "value": 0.22383034234742447
       }
     ]
   }

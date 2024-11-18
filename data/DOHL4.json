@@ -2,13 +2,13 @@
   "name": "DOHL4",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 5.33,
-    "priceToEarnings": -43.22,
-    "debtByAnnualEquity": 17.578,
+    "price": 4,
+    "priceToEarnings": -28.18,
+    "debtByAnnualEquity": 17.311,
     "holders": [
       {
         "name": "Cesar Pereira D�hler",
-        "ordinaryShares": 20.88,
+        "ordinaryShares": 20.89,
         "preferredShares": 13.54,
         "totalShares": 18.83
       },
@@ -55,16 +55,10 @@
         "totalShares": 4.4
       },
       {
-        "name": "Belvedere Renoir Fundo de Investimentos em Acoes",
-        "ordinaryShares": 0,
-        "preferredShares": 7.6,
-        "totalShares": 2.13
-      },
-      {
         "name": "CLUBE DE INVESTIMENTOS PROFIT",
         "ordinaryShares": 0,
-        "preferredShares": 7.07,
-        "totalShares": 1.98
+        "preferredShares": 7.41,
+        "totalShares": 2.08
       }
     ]
   },
@@ -226,41 +220,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": 31867000
-      },
-      {
-        "period": 1580428800000,
-        "value": 84016000
-      },
-      {
-        "period": 1612051200000,
-        "value": 77349000
-      },
-      {
-        "period": 1643587200000,
-        "value": 3482000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.0054787450810089575
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.11470326541507252
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.16099552939237677
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.06379205076619723
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

@@ -2,8 +2,8 @@
   "name": "DTCY3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 4.45,
-    "priceToEarnings": 72.74,
+    "price": 4.1,
+    "priceToEarnings": -13.69,
     "holders": [
       {
         "name": "Ouro Verde Participa��es S/A",
@@ -46,23 +46,6 @@
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": -0.5031328320802005
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.014054771383761612
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.9342105263157895
-      }
-    ]
+    "netMargin": []
   }
 }

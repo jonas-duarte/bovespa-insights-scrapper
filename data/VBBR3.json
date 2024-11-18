@@ -2,37 +2,68 @@
   "name": "VBBR3",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 21.71,
-    "priceToEarnings": 12.43,
-    "debtByAnnualEquity": 118.06,
+    "price": 22.21,
+    "priceToEarnings": 2.71,
+    "debtByAnnualEquity": 83.656,
     "holders": [
       {
         "name": "Samambaia Master Fundo de Investimento em A��es Investimento no Exterior - BDR N�vel I",
-        "ordinaryShares": 8.58,
+        "ordinaryShares": 8.93,
         "preferredShares": 0,
-        "totalShares": 8.58
+        "totalShares": 8.93
       },
       {
         "name": "Dynamo Administra��o de Recursos Ltda.",
-        "ordinaryShares": 5.66,
+        "ordinaryShares": 5.93,
         "preferredShares": 0,
-        "totalShares": 5.66
+        "totalShares": 5.93
+      },
+      {
+        "name": "CAIXA DE PREVID�NCIA DOS FUNCION�RIOS DO BANCO DO BRASIL � PREVI",
+        "ordinaryShares": 5.24,
+        "preferredShares": 0,
+        "totalShares": 5.24
       },
       {
         "name": "BlackRock, Inc.",
-        "ordinaryShares": 5.01,
+        "ordinaryShares": 5.22,
         "preferredShares": 0,
-        "totalShares": 5.01
+        "totalShares": 5.22
       },
       {
         "name": "Dynamo Internacional Gest�o de Recursos Ltda.",
-        "ordinaryShares": 4.62,
+        "ordinaryShares": 4.36,
         "preferredShares": 0,
-        "totalShares": 4.62
+        "totalShares": 4.36
       }
     ]
   },
   "events": [
+    {
+      "date": 1727060400000,
+      "amount": 0.235,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719543600000,
+      "amount": 0.4668,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713409200000,
+      "amount": 0.3032,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1713409200000,
+      "amount": 0.3032,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703214000000,
+      "amount": 0.4036,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695265200000,
       "amount": 0.4291,
@@ -112,10 +143,6 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 2211000000
-      },
-      {
         "period": 1580428800000,
         "value": 3905000000
       },
@@ -125,13 +152,21 @@
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 1537000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 4766000000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.029248774141285204
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.008470839809089206
       },
       {
         "period": 1640908800000,
@@ -140,10 +175,6 @@
       {
         "period": 1609372800000,
         "value": 0.04791352253346585
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.02327735958309207
       }
     ]
   }

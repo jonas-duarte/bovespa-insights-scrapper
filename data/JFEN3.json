@@ -2,20 +2,39 @@
   "name": "JFEN3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 2.39,
-    "priceToEarnings": -1.14,
+    "price": 0.21,
+    "priceToEarnings": -0.35,
+    "debtByAnnualEquity": 1045.847,
     "holders": [
       {
-        "name": "Gaster Participacoes SA",
-        "ordinaryShares": 79.99,
+        "name": "DW CREDITOS FUNDO DE INVESTIMENTO EM DIREITOS CREDITORIOS",
+        "ordinaryShares": 20.89,
         "preferredShares": 0,
-        "totalShares": 79.99
+        "totalShares": 20.89
+      },
+      {
+        "name": "Gaster Participacoes SA",
+        "ordinaryShares": 12.95,
+        "preferredShares": 0,
+        "totalShares": 12.95
+      },
+      {
+        "name": "CAIXA ECONOMICA FEDERAL",
+        "ordinaryShares": 6.16,
+        "preferredShares": 0,
+        "totalShares": 6.16
+      },
+      {
+        "name": "H COMMCOR DISTRIBUIDORA DE TITULOS E VALORES MOBILIARIOS LTDA",
+        "ordinaryShares": 5.65,
+        "preferredShares": 0,
+        "totalShares": 5.65
       },
       {
         "name": "Antonio Jos� de Almeida Carneiro",
-        "ordinaryShares": 10.42,
+        "ordinaryShares": 4.91,
         "preferredShares": 0,
-        "totalShares": 10.42
+        "totalShares": 4.91
       }
     ]
   },
@@ -122,41 +141,7 @@
     }
   ],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -374183000
-      },
-      {
-        "period": 1580428800000,
-        "value": -168657000
-      },
-      {
-        "period": 1612051200000,
-        "value": -188918000
-      },
-      {
-        "period": 1643587200000,
-        "value": 0
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": -44.503651354534746
-      },
-      {
-        "period": 1609372800000,
-        "value": -5.818969086392492
-      },
-      {
-        "period": 1577750400000,
-        "value": -2.1411739797202958
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

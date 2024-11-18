@@ -2,8 +2,8 @@
   "name": "CEED4",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 21.6,
-    "priceToEarnings": -3.75,
+    "price": 20,
+    "priceToEarnings": -2.49,
     "holders": [
       {
         "name": "Equatorial Participa��es Investimentos S.A",
@@ -22,23 +22,6 @@
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": -0.05957306996073404
-      },
-      {
-        "period": 1640908800000,
-        "value": null
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.45785972812764225
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.32011052488081376
-      }
-    ]
+    "netMargin": []
   }
 }

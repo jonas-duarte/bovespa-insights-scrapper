@@ -2,49 +2,56 @@
   "name": "HAGA3",
   "business": "Produtos para Constru��o",
   "currentState": {
-    "price": 2.59,
-    "priceToEarnings": 4.26,
+    "price": 2.44,
+    "priceToEarnings": 6.84,
     "holders": [
       {
         "name": "ASSOCIA��O DOS FUNCIONARIOS DA FERRAGENS HAGA",
-        "ordinaryShares": 95.86,
-        "preferredShares": 0.02,
-        "totalShares": 55.4
+        "ordinaryShares": 72.71,
+        "preferredShares": 0.01,
+        "totalShares": 24.24
       },
       {
         "name": "JOAO ANTONIO LIAN",
-        "ordinaryShares": 2.12,
-        "preferredShares": 32.04,
-        "totalShares": 14.75
+        "ordinaryShares": 1.61,
+        "preferredShares": 8.88,
+        "totalShares": 6.46
       },
       {
         "name": "NUEVO SUMATRA FUNDO DE INVEST.DE A��ES (\"FUNDO\")",
-        "ordinaryShares": 2.02,
-        "preferredShares": 67.93,
-        "totalShares": 29.85
+        "ordinaryShares": 1.54,
+        "preferredShares": 18.82,
+        "totalShares": 13.06
+      },
+      {
+        "name": "FUNDO GARIN OR",
+        "ordinaryShares": 0,
+        "preferredShares": 0.33,
+        "totalShares": 0.22
+      },
+      {
+        "name": "FUNDO GARIN SPECIAL",
+        "ordinaryShares": 0,
+        "preferredShares": 0.86,
+        "totalShares": 0.57
+      },
+      {
+        "name": "FUNDO ITAIM FIM",
+        "ordinaryShares": 0,
+        "preferredShares": 3.99,
+        "totalShares": 2.66
+      },
+      {
+        "name": "FUNDO MCG",
+        "ordinaryShares": 0,
+        "preferredShares": 0.86,
+        "totalShares": 0.57
       }
     ]
   },
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.19681240868426197
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.19268220685017054
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.1870866406885694
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.10633017929318749
-      }
-    ]
+    "netMargin": []
   }
 }

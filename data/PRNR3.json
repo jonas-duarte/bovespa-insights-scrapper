@@ -2,31 +2,48 @@
   "name": "PRNR3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 11.88,
-    "priceToEarnings": -1.705,
-    "debtByAnnualEquity": 112.614,
+    "price": 15.27,
+    "priceToEarnings": 390.49,
+    "debtByAnnualEquity": 130.784,
     "holders": [
       {
         "name": "Leblon Equities Gest�o de Recursos Ltda.",
-        "ordinaryShares": 23.34,
+        "ordinaryShares": 17.21,
         "preferredShares": 0,
-        "totalShares": 23.34
+        "totalShares": 17.21
       },
       {
         "name": "Tobias Cepelowicz",
-        "ordinaryShares": 10.51,
+        "ordinaryShares": 8.94,
         "preferredShares": 0,
-        "totalShares": 10.51
+        "totalShares": 8.94
       },
       {
-        "name": "Sul America Investimentos DTVM",
-        "ordinaryShares": 4.44,
+        "name": "ALPHA KEY CAPITAL MANAGEMENT INVESTIMENTOS LTDA.",
+        "ordinaryShares": 7.41,
         "preferredShares": 0,
-        "totalShares": 4.44
+        "totalShares": 7.41
+      },
+      {
+        "name": "Safra Asset Management Ltda.",
+        "ordinaryShares": 5.36,
+        "preferredShares": 0,
+        "totalShares": 5.36
+      },
+      {
+        "name": "Absolute Gest�o de Investimentos LTDA.",
+        "ordinaryShares": 5.25,
+        "preferredShares": 0,
+        "totalShares": 5.25
       }
     ]
   },
   "events": [
+    {
+      "date": 1714618800000,
+      "amount": 0.0724,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1670986800000,
       "amount": 0.2583,
@@ -56,38 +73,14 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -6109000
-      },
-      {
-        "period": 1580428800000,
-        "value": -2136000
-      },
-      {
-        "period": 1612051200000,
-        "value": 14496000
-      },
-      {
-        "period": 1643587200000,
-        "value": 20235000
+        "period": 1675123200000,
+        "value": 13701000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.024874184689745713
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.03346716196342531
-      },
-      {
-        "period": 1609372800000,
-        "value": -0.008818684381102584
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.017523780019046965
+        "period": 1703980800000,
+        "value": null
       }
     ]
   }

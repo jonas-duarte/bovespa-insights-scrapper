@@ -2,18 +2,18 @@
   "name": "LIGT3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 6.83,
-    "priceToEarnings": -0.48,
-    "debtByAnnualEquity": 375.665,
+    "price": 4.33,
+    "priceToEarnings": -7.99,
+    "debtByAnnualEquity": 468.754,
     "holders": [
       {
         "name": "WNT Gestora de Recursos LTDA.",
-        "ordinaryShares": 30.05,
+        "ordinaryShares": 35.03,
         "preferredShares": 0,
-        "totalShares": 30.05
+        "totalShares": 35.03
       },
       {
-        "name": "Samambaia Master FIA Investimento no Exterior � BDR N�vel 1",
+        "name": "SAMAMBAIA MASTER FIA INVESTIMENTO NO EXTERIOR BDR N�VEL 1",
         "ordinaryShares": 20.01,
         "preferredShares": 0,
         "totalShares": 20.01
@@ -156,12 +156,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1327803000
-      },
-      {
         "period": 1580428800000,
-        "value": 691922000
+        "value": 692000000
       },
       {
         "period": 1612051200000,
@@ -169,25 +165,29 @@
       },
       {
         "period": 1643587200000,
-        "value": -5672203000
+        "value": -5672200000
+      },
+      {
+        "period": 1675123200000,
+        "value": 255200000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.018078391646536275
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": -0.4279844259001126
       },
       {
         "period": 1640908800000,
-        "value": 0.02671144696709339
+        "value": 0.028566044778797907
       },
       {
         "period": 1609372800000,
-        "value": 0.052925665936536505
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.09916698575838935
+        "value": 0.0563242715285691
       }
     ]
   }

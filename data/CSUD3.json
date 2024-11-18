@@ -2,9 +2,9 @@
   "name": "CSUD3",
   "business": "Servi�os Diversos",
   "currentState": {
-    "price": 18.38,
-    "priceToEarnings": 8.9,
-    "debtByAnnualEquity": 17.725,
+    "price": 15.9,
+    "priceToEarnings": 7.16,
+    "debtByAnnualEquity": 19.549,
     "holders": [
       {
         "name": "Greeneville Delaware LLC.",
@@ -20,25 +20,50 @@
       },
       {
         "name": "REAL INVESTOR GEST�O DE RECURSOS LTDA.",
-        "ordinaryShares": 8.59,
+        "ordinaryShares": 9.44,
         "preferredShares": 0,
-        "totalShares": 8.59
+        "totalShares": 9.44
       },
       {
         "name": "Marcos Ribeiro Leite",
-        "ordinaryShares": 0.17,
+        "ordinaryShares": 0.2,
         "preferredShares": 0,
-        "totalShares": 0.17
+        "totalShares": 0.2
       },
       {
         "name": "ADMINISTRADORES",
-        "ordinaryShares": 0.11,
+        "ordinaryShares": 0.1,
         "preferredShares": 0,
-        "totalShares": 0.11
+        "totalShares": 0.1
       }
     ]
   },
   "events": [
+    {
+      "date": 1727406000000,
+      "amount": 0.172,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719543600000,
+      "amount": 0.1575,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.4196,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1711076400000,
+      "amount": 0.1576,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1702609200000,
+      "amount": 0.1794,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695697200000,
       "amount": 0.1697,
@@ -214,37 +239,37 @@
     "earningsPerShare": [
       {
         "period": 1548892800000,
-        "value": 26832000
+        "value": 23832000
       },
       {
         "period": 1580428800000,
         "value": 46781000
       },
       {
-        "period": 1612051200000,
-        "value": 60493000
+        "period": 1643587200000,
+        "value": 73572000
       },
       {
-        "period": 1643587200000,
-        "value": 0
+        "period": 1675123200000,
+        "value": 88423000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.1667625364698161
+      },
       {
         "period": 1672444800000,
         "value": null
       },
       {
-        "period": 1640908800000,
-        "value": 0.11767944301029669
-      },
-      {
         "period": 1609372800000,
-        "value": 0.10239903688300317
+        "value": 0.09055941213137222
       },
       {
         "period": 1577750400000,
-        "value": 0.06330989571044311
+        "value": 0.049399708145396654
       }
     ]
   }

@@ -2,31 +2,51 @@
   "name": "ETER3",
   "business": "Produtos para Constru��o",
   "currentState": {
-    "price": 9,
-    "priceToEarnings": 9.55,
-    "debtByAnnualEquity": 22.882,
+    "price": 5.15,
+    "priceToEarnings": 2.8,
+    "debtByAnnualEquity": 17.655,
     "holders": [
       {
         "name": "D+1 FUNDO DE INVESTIMENTO EM ACOES",
-        "ordinaryShares": 25.82,
+        "ordinaryShares": 26.71,
         "preferredShares": 0,
-        "totalShares": 25.82
-      },
-      {
-        "name": "GERACAO FUTURO L.PAR FUNDO DE INVESTIMENTO EM ACOES",
-        "ordinaryShares": 8.09,
-        "preferredShares": 0,
-        "totalShares": 8.09
+        "totalShares": 26.71
       },
       {
         "name": "Luiz Barsi Filho",
         "ordinaryShares": 5.62,
         "preferredShares": 0,
         "totalShares": 5.62
+      },
+      {
+        "name": "GERACAO FUTURO L.PAR FUNDO DE INVESTIMENTO EM ACOES",
+        "ordinaryShares": 4.86,
+        "preferredShares": 0,
+        "totalShares": 4.86
       }
     ]
   },
   "events": [
+    {
+      "date": 1731034800000,
+      "amount": 0.052,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1723172400000,
+      "amount": 0.0368,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709521200000,
+      "amount": 0.1632,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1703214000000,
+      "amount": 0.1814,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1699585200000,
       "amount": 0.0766,
@@ -666,38 +686,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -12647000
+        "period": 1296432000000,
+        "value": 0
       },
       {
-        "period": 1580428800000,
-        "value": 158751000
+        "period": 1327968000000,
+        "value": 0
       },
       {
-        "period": 1612051200000,
-        "value": 269377000
+        "period": 1359590400000,
+        "value": 0
       },
       {
-        "period": 1643587200000,
-        "value": 137602000
+        "period": 1391126400000,
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.11588678631915734
+        "period": 1419984000000,
+        "value": 0
       },
       {
-        "period": 1640908800000,
-        "value": 0.23984596549805232
+        "period": 1388448000000,
+        "value": 0
       },
       {
-        "period": 1609372800000,
-        "value": 0.23228805585998716
+        "period": 1356912000000,
+        "value": 0
       },
       {
-        "period": 1577750400000,
-        "value": -0.025880398059225942
+        "period": 1325289600000,
+        "value": 0
       }
     ]
   }

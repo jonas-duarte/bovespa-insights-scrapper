@@ -2,15 +2,15 @@
   "name": "GRND3",
   "business": "Cal�ados",
   "currentState": {
-    "price": 6.84,
-    "priceToEarnings": 11.93,
-    "debtByAnnualEquity": 2.661,
+    "price": 5.31,
+    "priceToEarnings": 7.28,
+    "debtByAnnualEquity": 2.023,
     "holders": [
       {
         "name": "Alexandre Grendene Bartelle",
-        "ordinaryShares": 41.2,
+        "ordinaryShares": 41.71,
         "preferredShares": 0,
-        "totalShares": 41.2
+        "totalShares": 41.71
       },
       {
         "name": "Pedro Grendene Bartelle",
@@ -19,7 +19,7 @@
         "totalShares": 13.89
       },
       {
-        "name": "3G Radar Gestora de Recursos Ltda",
+        "name": "RADAR GESTORA DE RECURSOS LTDA",
         "ordinaryShares": 8.03,
         "preferredShares": 0,
         "totalShares": 8.03
@@ -51,6 +51,26 @@
     ]
   },
   "events": [
+    {
+      "date": 1724209200000,
+      "amount": 0.0147,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1716260400000,
+      "amount": 0.084,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 0.1053,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 0.0563,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700535600000,
       "amount": 0.0354,
@@ -475,38 +495,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 819217000
-      },
-      {
         "period": 1580428800000,
-        "value": 405206000
+        "value": 0
       },
       {
         "period": 1612051200000,
-        "value": 601005000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": 568027000
+        "value": 0
+      },
+      {
+        "period": 1675123200000,
+        "value": 557671000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.22915409102620102
+      },
+      {
         "period": 1672444800000,
-        "value": 0.2260663616507791
+        "value": 0
       },
       {
         "period": 1640908800000,
-        "value": 0.2565605968890259
+        "value": 0
       },
       {
         "period": 1609372800000,
-        "value": 0.21362779650830221
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.3955594162143161
+        "value": 0
       }
     ]
   }

@@ -2,21 +2,21 @@
   "name": "KRSA3",
   "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
   "currentState": {
-    "price": 1.25,
-    "priceToEarnings": -4.56,
-    "debtByAnnualEquity": 218.281,
+    "price": 6.4,
+    "priceToEarnings": -4.91,
+    "debtByAnnualEquity": 271.824,
     "holders": [
       {
-        "name": "Fuji Brasil Partners I C � Fundo de Invest em Participa��es Multiestrat�gia Investimento no Exterior",
+        "name": "FUJI BRASIL PARTNERS I C FUNDO DE INVEST EM PARTICIPA��ES MULTIESTRAT�GIA INVESTIMENTO NO EXTERIOR",
         "ordinaryShares": 62.43,
         "preferredShares": 0,
         "totalShares": 62.43
       },
       {
         "name": "Antonio Alves Benjamin Neto",
-        "ordinaryShares": 7.77,
+        "ordinaryShares": 7.78,
         "preferredShares": 0,
-        "totalShares": 7.77
+        "totalShares": 7.78
       },
       {
         "name": "Bruno Moulin Machado",
@@ -25,16 +25,10 @@
         "totalShares": 7.09
       },
       {
-        "name": "Viso advantage fip multiestrategia ie",
+        "name": "VISO ADVANTAGE - FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA INVESTIMENTO NO EXTERIOR",
         "ordinaryShares": 6.02,
         "preferredShares": 0,
         "totalShares": 6.02
-      },
-      {
-        "name": "Frederico Christo Torezani",
-        "ordinaryShares": 2.86,
-        "preferredShares": 0,
-        "totalShares": 2.86
       }
     ]
   },
@@ -42,38 +36,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -2842000
-      },
-      {
         "period": 1580428800000,
-        "value": 15871000
+        "value": 0
       },
       {
         "period": 1612051200000,
-        "value": -63718000
+        "value": -54955000
       },
       {
         "period": 1643587200000,
-        "value": -107588000
+        "value": -94469000
+      },
+      {
+        "period": 1675123200000,
+        "value": -158069000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.06995172340240043
+      },
+      {
         "period": 1672444800000,
-        "value": -0.05256582576393846
+        "value": -0.046156086125715715
       },
       {
         "period": 1640908800000,
-        "value": -0.05049546065478153
+        "value": -0.04355092815662009
       },
       {
         "period": 1609372800000,
-        "value": 0.02592085084282371
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.006429355141561188
+        "value": 0
       }
     ]
   }

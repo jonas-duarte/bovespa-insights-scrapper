@@ -2,12 +2,12 @@
   "name": "SCAR3",
   "business": "Explora��o de Im�veis",
   "currentState": {
-    "price": 22.6,
-    "priceToEarnings": 34.46,
-    "debtByAnnualEquity": 119.504,
+    "price": 20.21,
+    "priceToEarnings": 4.67,
+    "debtByAnnualEquity": 75.792,
     "holders": [
       {
-        "name": "ACO FIMM INV NO EXTERIOR",
+        "name": "AC FUNDO DE INVESTIMENTO FINANCEIRO EM AES",
         "ordinaryShares": 16.88,
         "preferredShares": 0,
         "totalShares": 16.88
@@ -23,12 +23,6 @@
         "ordinaryShares": 8.34,
         "preferredShares": 0,
         "totalShares": 8.34
-      },
-      {
-        "name": "Alaska Investimentos Ltda",
-        "ordinaryShares": 5.67,
-        "preferredShares": 0,
-        "totalShares": 5.67
       },
       {
         "name": "Cecilia Sicupira",
@@ -47,6 +41,12 @@
         "ordinaryShares": 5.56,
         "preferredShares": 0,
         "totalShares": 5.56
+      },
+      {
+        "name": "Alaska Investimentos Ltda",
+        "ordinaryShares": 5.54,
+        "preferredShares": 0,
+        "totalShares": 5.54
       },
       {
         "name": "Jorge Felipe Lemann",
@@ -89,34 +89,15 @@
         "ordinaryShares": 2.49,
         "preferredShares": 0,
         "totalShares": 2.49
-      },
-      {
-        "name": "Cedar Trade LLC",
-        "ordinaryShares": 0.5,
-        "preferredShares": 0,
-        "totalShares": 0.5
-      },
-      {
-        "name": "Sawdog Holding LLC",
-        "ordinaryShares": 0.41,
-        "preferredShares": 0,
-        "totalShares": 0.41
-      },
-      {
-        "name": "TFI INVEST MANAGEMENT LIMITED",
-        "ordinaryShares": 0.41,
-        "preferredShares": 0,
-        "totalShares": 0.41
-      },
-      {
-        "name": "Cecilia de Paula Machado Sicupira",
-        "ordinaryShares": 0.01,
-        "preferredShares": 0,
-        "totalShares": 0.01
       }
     ]
   },
   "events": [
+    {
+      "date": 1714618800000,
+      "amount": 1.7423,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1651460400000,
       "amount": 0.1438,
@@ -266,38 +247,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 86352000
-      },
-      {
         "period": 1580428800000,
         "value": 87333000
       },
       {
         "period": 1612051200000,
-        "value": 30441000
+        "value": 34461000
       },
       {
         "period": 1643587200000,
         "value": -80236000
+      },
+      {
+        "period": 1675123200000,
+        "value": 305200000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 1.2064671700201606
+      },
+      {
         "period": 1672444800000,
-        "value": -0.2794180126343356
+        "value": -0.2795591775867656
       },
       {
         "period": 1640908800000,
-        "value": 0.11002996446915178
+        "value": 0.12456038256205247
       },
       {
         "period": 1609372800000,
-        "value": 0.2553350115339748
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.43432687181241136
+        "value": 0.3485442899048151
       }
     ]
   }

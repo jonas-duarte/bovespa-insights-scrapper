@@ -2,9 +2,9 @@
   "name": "QUAL3",
   "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
   "currentState": {
-    "price": 3.28,
-    "priceToEarnings": -23.25,
-    "debtByAnnualEquity": 173.865,
+    "price": 2.27,
+    "priceToEarnings": -7.94,
+    "debtByAnnualEquity": 145.102,
     "holders": [
       {
         "name": "PrismaQuali Gest�o Ativa de Participa��es S.A.",
@@ -19,25 +19,19 @@
         "totalShares": 17.73
       },
       {
-        "name": "3G Radar Gestora de Recursos Ltda.",
-        "ordinaryShares": 13.36,
-        "preferredShares": 0,
-        "totalShares": 13.36
-      },
-      {
         "name": "Rede D�Or S�o Luiz S/A",
         "ordinaryShares": 6,
         "preferredShares": 0,
         "totalShares": 6
       },
       {
-        "name": "Riesling Fundo de Investimento Multimercado Cr�dito Privado IE",
+        "name": "VIDEIRAS INC FUNDO DE INVESTIMENTO MULTIMERCADO",
         "ordinaryShares": 2.24,
         "preferredShares": 0,
         "totalShares": 2.24
       },
       {
-        "name": "Fundo de Investimento em A��es Lafite IE",
+        "name": "CHARDONNAY FUNDO DE INVESTIMENTO EM A��ES INVESTIMENTO NO EXTERIOR",
         "ordinaryShares": 0.55,
         "preferredShares": 0,
         "totalShares": 0.55
@@ -172,38 +166,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 372177000
-      },
-      {
         "period": 1580428800000,
-        "value": 392101000
+        "value": 392100000
       },
       {
         "period": 1612051200000,
-        "value": 365812000
+        "value": 365800000
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 92800000
+      },
+      {
+        "period": 1675123200000,
+        "value": -82400000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -0.04708840505171724
+      },
+      {
         "period": 1672444800000,
-        "value": 0
+        "value": 0.04755560110689761
       },
       {
         "period": 1640908800000,
-        "value": 0.17448300730534191
+        "value": 0.1744812783210112
       },
       {
         "period": 1609372800000,
-        "value": 0.1935392316990885
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1859652050690392
+        "value": 0.1935436102472975
       }
     ]
   }

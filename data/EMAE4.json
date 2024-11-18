@@ -2,30 +2,46 @@
   "name": "EMAE4",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 57.6,
-    "priceToEarnings": 23.04,
+    "price": 40.99,
+    "priceToEarnings": 10.49,
     "holders": [
       {
-        "name": "Secretaria da Fazenda e Planejamento do Estado de S�o Paulo",
-        "ordinaryShares": 97.61,
-        "preferredShares": 0.23,
-        "totalShares": 38.99
+        "name": "PHOENIX �GUA E ENERGIA S.A.",
+        "ordinaryShares": 75.73,
+        "preferredShares": 0.2,
+        "totalShares": 30.26
       },
       {
-        "name": "Companhia do Metropolitano de S�o Paulo",
-        "ordinaryShares": 2.39,
+        "name": "ARYS FUNDO DE INVESTIMENTO MULTIMERCADO CR�DITO PRIVADO",
+        "ordinaryShares": 24.19,
         "preferredShares": 0,
-        "totalShares": 0.95
+        "totalShares": 9.63
       },
       {
         "name": "Eletrobras",
         "ordinaryShares": 0,
         "preferredShares": 64.82,
         "totalShares": 39.02
+      },
+      {
+        "name": "JULIA TALIA XAVIER �LVARES OTERO",
+        "ordinaryShares": 0,
+        "preferredShares": 10.03,
+        "totalShares": 6.04
       }
     ]
   },
   "events": [
+    {
+      "date": 1727060400000,
+      "amount": 0.8394,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1712545200000,
+      "amount": 0.7931,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1702004400000,
       "amount": 1.301,
@@ -150,38 +166,30 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 92636000
-      },
-      {
-        "period": 1580428800000,
-        "value": 198485000
-      },
-      {
-        "period": 1612051200000,
-        "value": 149918000
-      },
-      {
-        "period": 1643587200000,
+        "period": 980899200000,
         "value": 0
+      },
+      {
+        "period": 1012435200000,
+        "value": 38500000
+      },
+      {
+        "period": 1043971200000,
+        "value": -25270000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1072828800000,
+        "value": -0.11645161290322581
       },
       {
-        "period": 1640908800000,
-        "value": 0.28338600895233484
+        "period": 1041292800000,
+        "value": 0.10576923076923077
       },
       {
-        "period": 1609372800000,
-        "value": 0.44390793749482815
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.211014503317745
+        "period": 1009756800000,
+        "value": 0
       }
     ]
   }

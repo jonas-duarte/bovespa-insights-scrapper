@@ -2,9 +2,9 @@
   "name": "BAUH4",
   "business": "Carnes e Derivados",
   "currentState": {
-    "price": 75,
-    "priceToEarnings": -138.05,
-    "debtByAnnualEquity": 10.305,
+    "price": 78.75,
+    "priceToEarnings": 16.45,
+    "debtByAnnualEquity": 2.174,
     "holders": [
       {
         "name": "Seara Alimentos",
@@ -21,24 +21,29 @@
       {
         "name": "LIS VALUE FUNDO DE INVESTIMENTO EM ACOES",
         "ordinaryShares": 0,
-        "preferredShares": 7.95,
-        "totalShares": 3.62
+        "preferredShares": 8.65,
+        "totalShares": 3.94
       },
       {
         "name": "NOTWEN DE CASTRO SAYAO CARDOZO",
         "ordinaryShares": 0,
-        "preferredShares": 5.38,
-        "totalShares": 2.45
+        "preferredShares": 4.47,
+        "totalShares": 2.04
       },
       {
         "name": "REGILO FUNDO DE INVESTIMENTO EM ACOES",
         "ordinaryShares": 0,
-        "preferredShares": 45.99,
-        "totalShares": 20.92
+        "preferredShares": 46.35,
+        "totalShares": 21.08
       }
     ]
   },
   "events": [
+    {
+      "date": 1714359600000,
+      "amount": 0.8189,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 1.2093,
@@ -92,23 +97,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.03989023339666022
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.12278697886921759
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.14908356184153557
-      }
-    ]
+    "netMargin": []
   }
 }

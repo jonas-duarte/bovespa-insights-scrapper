@@ -2,9 +2,9 @@
   "name": "RDNI3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 4.51,
-    "priceToEarnings": 6.55,
-    "debtByAnnualEquity": 134.621,
+    "price": 2.78,
+    "priceToEarnings": -0.4,
+    "debtByAnnualEquity": 166.68,
     "holders": [
       {
         "name": "Rodobens Participa��es S.A",
@@ -165,38 +165,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1609000
+        "period": 1391126400000,
+        "value": 68377000
       },
       {
-        "period": 1580428800000,
-        "value": 1479000
+        "period": 1422662400000,
+        "value": 6748000
       },
       {
-        "period": 1612051200000,
-        "value": 8465000
+        "period": 1454198400000,
+        "value": -75726000
       },
       {
-        "period": 1643587200000,
-        "value": 21352000
+        "period": 1485820800000,
+        "value": -93190000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.032007627145322
+        "period": 1514678400000,
+        "value": -0.32166094265053585
       },
       {
-        "period": 1640908800000,
-        "value": 0.017881284326151246
+        "period": 1483142400000,
+        "value": -0.19618947935665726
       },
       {
-        "period": 1609372800000,
-        "value": 0.004669076444682967
+        "period": 1451520000000,
+        "value": 0.012107793090950196
       },
       {
-        "period": 1577750400000,
-        "value": 0.005031773035450702
+        "period": 1419984000000,
+        "value": 0.09566561734872334
       }
     ]
   }

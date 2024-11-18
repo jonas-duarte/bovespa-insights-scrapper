@@ -2,37 +2,54 @@
   "name": "EQTL3",
   "business": "Energia El�trica",
   "currentState": {
-    "price": 34.5,
-    "priceToEarnings": 21.23,
-    "debtByAnnualEquity": 199.602,
+    "price": 32.67,
+    "priceToEarnings": 18.35,
+    "debtByAnnualEquity": 178.08,
     "holders": [
       {
-        "name": "Squadra Investimentos Gest�o de Recursos Ltda.",
-        "ordinaryShares": 8.79,
+        "name": "OPPORTUNITY ASSET ADMINISTRADORA DE RECURSOS DE TERCEIROS LTDA.",
+        "ordinaryShares": 9.22,
         "preferredShares": 0,
-        "totalShares": 8.79
+        "totalShares": 9.22
       },
       {
-        "name": "OPPORTUNITY ASSET ADMINISTRADORA DE RECURSOS DE TERCEIROS LTDA.",
-        "ordinaryShares": 6.37,
+        "name": "Capital World Investors",
+        "ordinaryShares": 4.79,
         "preferredShares": 0,
-        "totalShares": 6.37
+        "totalShares": 4.79
+      },
+      {
+        "name": "GIC",
+        "ordinaryShares": 4.68,
+        "preferredShares": 0,
+        "totalShares": 4.68
+      },
+      {
+        "name": "Squadra Investimentos",
+        "ordinaryShares": 4.62,
+        "preferredShares": 0,
+        "totalShares": 4.62
       },
       {
         "name": "Canada Pension Plan Investment Board",
-        "ordinaryShares": 5.03,
+        "ordinaryShares": 4.61,
         "preferredShares": 0,
-        "totalShares": 5.03
+        "totalShares": 4.61
       },
       {
         "name": "BLACKROCK, INC.",
-        "ordinaryShares": 5,
+        "ordinaryShares": 4.59,
         "preferredShares": 0,
-        "totalShares": 5
+        "totalShares": 4.59
       }
     ]
   },
   "events": [
+    {
+      "date": 1714446000000,
+      "amount": 0.45,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1682650800000,
       "amount": 0.35,
@@ -177,38 +194,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 2415630000
-      },
-      {
         "period": 1580428800000,
         "value": 2975089000
       },
       {
         "period": 1612051200000,
-        "value": 3694527000
+        "value": 3695000000
       },
       {
         "period": 1643587200000,
         "value": 1373938000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2075593000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.05064265220241016
+      },
       {
         "period": 1672444800000,
         "value": 0.050638077786177293
       },
       {
         "period": 1640908800000,
-        "value": 0.15240890947632854
+        "value": 0.15242770512767626
       },
       {
         "period": 1609372800000,
         "value": 0.16629835245464955
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.12851593602288444
       }
     ]
   }

@@ -2,9 +2,8 @@
   "name": "CTNM4",
   "business": "Fios e Tecidos",
   "currentState": {
-    "price": 1.7,
-    "priceToEarnings": -0.11,
-    "debtByAnnualEquity": 374.741,
+    "price": 0.86,
+    "priceToEarnings": -0.04,
     "holders": [
       {
         "name": "EMPRESA NACIONAL DE COM�RCIO, R�DITO E PARTICIPA��ES S.A.",
@@ -169,38 +168,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -56085000
+        "period": 1012435200000,
+        "value": 154220000
       },
       {
-        "period": 1580428800000,
-        "value": -209599000
+        "period": 1043971200000,
+        "value": 167400000
       },
       {
-        "period": 1612051200000,
-        "value": -81861000
+        "period": 1107129600000,
+        "value": 0
       },
       {
-        "period": 1643587200000,
-        "value": -376304000
+        "period": 1264896000000,
+        "value": 2169000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -0.24741264874680877
+        "period": 1293753600000,
+        "value": null
       },
       {
-        "period": 1640908800000,
-        "value": -0.03700417229828994
+        "period": 1135987200000,
+        "value": 0
       },
       {
-        "period": 1609372800000,
-        "value": -0.10602048491451804
+        "period": 1072828800000,
+        "value": 0.14959785522788205
       },
       {
-        "period": 1577750400000,
-        "value": -0.03005952412854982
+        "period": 1041292800000,
+        "value": 0.17097560975609757
       }
     ]
   }

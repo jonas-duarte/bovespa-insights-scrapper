@@ -2,9 +2,9 @@
   "name": "UNIP5",
   "business": "Qu�micos Diversos",
   "currentState": {
-    "price": 79.3,
-    "priceToEarnings": 10.62,
-    "debtByAnnualEquity": 46.977,
+    "price": 50,
+    "priceToEarnings": 13.36,
+    "debtByAnnualEquity": 92.963,
     "holders": [
       {
         "name": "Vila Velha S.A. - Administra��o e Participa��es",
@@ -25,7 +25,7 @@
         "totalShares": 4.15
       },
       {
-        "name": "Locuncatun Servi�os Financeiros Ltda.",
+        "name": "LOCUNCATU SERVI�OS FINANCEIROS LTDA.",
         "ordinaryShares": 5.32,
         "preferredShares": 2.65,
         "totalShares": 3.58
@@ -45,8 +45,8 @@
       {
         "name": "BlackRock, Inc.",
         "ordinaryShares": 0,
-        "preferredShares": 5.13,
-        "totalShares": 3.33
+        "preferredShares": 4.99,
+        "totalShares": 3.25
       },
       {
         "name": "Jos� Carlos Ferreira Couto",
@@ -57,6 +57,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1710817200000,
+      "amount": 1.0829,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1710817200000,
+      "amount": 0.4001,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1702868400000,
+      "amount": 1.5633,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1681959600000,
       "amount": 1.0912,
@@ -424,23 +439,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1485820800000,
+        "value": 0
+      },
+      {
+        "period": 1517356800000,
+        "value": 0
+      },
+      {
+        "period": 1612051200000,
+        "value": 1984764000
+      },
+      {
+        "period": 1675123200000,
+        "value": 791273000
+      }
+    ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.18237234619359635
+        "period": 1703980800000,
+        "value": null
       },
       {
         "period": 1640908800000,
         "value": 0.31557442407974473
       },
       {
-        "period": 1609372800000,
-        "value": 0.09504777775221336
+        "period": 1546214400000,
+        "value": 0
       },
       {
-        "period": 1577750400000,
-        "value": 0.0569105824392452
+        "period": 1514678400000,
+        "value": 0
       }
     ]
   }

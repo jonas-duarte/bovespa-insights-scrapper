@@ -2,9 +2,9 @@
   "name": "BRIT3",
   "business": "Telecomunica��es",
   "currentState": {
-    "price": 3.35,
-    "priceToEarnings": 11.44,
-    "debtByAnnualEquity": 83.193,
+    "price": 3.3,
+    "priceToEarnings": 12.78,
+    "debtByAnnualEquity": 82.354,
     "holders": [
       {
         "name": "Jos� Roberto Nogueira",
@@ -76,6 +76,11 @@
   },
   "events": [
     {
+      "date": 1714014000000,
+      "amount": 0.0872,
+      "type": "DIVIDENDO"
+    },
+    {
       "date": 1681959600000,
       "amount": 0.0323,
       "type": "DIVIDENDO"
@@ -89,23 +94,23 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 51072000
-      },
-      {
-        "period": 1580428800000,
-        "value": 29127000
-      },
-      {
         "period": 1612051200000,
         "value": 2242000
       },
       {
         "period": 1643587200000,
         "value": 60707000
+      },
+      {
+        "period": 1675123200000,
+        "value": 163653000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.13328202497007013
+      },
       {
         "period": 1672444800000,
         "value": 0.06161620877670912
@@ -113,14 +118,6 @@
       {
         "period": 1640908800000,
         "value": 0.003076479749710122
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.06173930738022867
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1743297765580519
       }
     ]
   }

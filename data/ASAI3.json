@@ -2,24 +2,36 @@
   "name": "ASAI3",
   "business": "Alimentos",
   "currentState": {
-    "price": 12.94,
-    "priceToEarnings": 21.36,
-    "debtByAnnualEquity": 532.462,
+    "price": 7.06,
+    "priceToEarnings": 15.01,
+    "debtByAnnualEquity": 519.72,
     "holders": [
       {
-        "name": "BlackRock Inc",
-        "ordinaryShares": 10.71,
+        "name": "Orbis Invest",
+        "ordinaryShares": 10,
         "preferredShares": 0,
-        "totalShares": 10.71
+        "totalShares": 10
       },
       {
-        "name": "Orbis Invest",
-        "ordinaryShares": 5.87,
+        "name": "BlackRock Inc",
+        "ordinaryShares": 9.9,
         "preferredShares": 0,
-        "totalShares": 5.87
+        "totalShares": 9.9
+      },
+      {
+        "name": "Sharp Capital Gestora de Recursos Ltda.",
+        "ordinaryShares": 5.01,
+        "preferredShares": 0,
+        "totalShares": 5.01
       },
       {
         "name": "Conifer Management LLC",
+        "ordinaryShares": 5.01,
+        "preferredShares": 0,
+        "totalShares": 5.01
+      },
+      {
+        "name": "WishBone Management LP",
         "ordinaryShares": 5.01,
         "preferredShares": 0,
         "totalShares": 5.01
@@ -56,12 +68,8 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1047000000
-      },
-      {
         "period": 1580428800000,
-        "value": 1398000000
+        "value": 0
       },
       {
         "period": 1612051200000,
@@ -70,9 +78,17 @@
       {
         "period": 1643587200000,
         "value": 1220000000
+      },
+      {
+        "period": 1675123200000,
+        "value": 710000000
       }
     ],
     "netMargin": [
+      {
+        "period": 1703980800000,
+        "value": 0.010676210095785153
+      },
       {
         "period": 1672444800000,
         "value": 0.022377109317681585
@@ -83,11 +99,7 @@
       },
       {
         "period": 1609372800000,
-        "value": 0.0387870044113975
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.037283669254326614
+        "value": 0
       }
     ]
   }

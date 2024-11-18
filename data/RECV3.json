@@ -2,33 +2,39 @@
   "name": "RECV3",
   "business": "Explora��o, Refino e Distribui��o",
   "currentState": {
-    "price": 20.9,
-    "priceToEarnings": 6.58,
-    "debtByAnnualEquity": 21.973,
+    "price": 16.66,
+    "priceToEarnings": 8.26,
+    "debtByAnnualEquity": 38.207,
     "holders": [
       {
         "name": "PetroSantander Luxembourg Holdings S.a.r.l.",
-        "ordinaryShares": 19.62,
+        "ordinaryShares": 19.61,
         "preferredShares": 0,
-        "totalShares": 19.62
+        "totalShares": 19.61
       },
       {
         "name": "Opportunity Holding Fundo de Investimento em Participa��es Multiestrat�gia Investimento no Exterior",
-        "ordinaryShares": 17.03,
+        "ordinaryShares": 17.02,
         "preferredShares": 0,
-        "totalShares": 17.03
+        "totalShares": 17.02
+      },
+      {
+        "name": "OPEG FUNDO DE INVESTIMENTO EM ACOES INVESTIMENTO NO EXTERIOR",
+        "ordinaryShares": 9.2,
+        "preferredShares": 0,
+        "totalShares": 9.2
       },
       {
         "name": "Eduardo Cintra Santos",
-        "ordinaryShares": 5.64,
+        "ordinaryShares": 5.65,
         "preferredShares": 0,
-        "totalShares": 5.64
+        "totalShares": 5.65
       },
       {
         "name": "Atmos Capital Gest�o de Recursos Ltda",
-        "ordinaryShares": 5.17,
+        "ordinaryShares": 5.04,
         "preferredShares": 0,
-        "totalShares": 5.17
+        "totalShares": 5.04
       },
       {
         "name": "Perbras - Empresa Brasileira de Perfura��es Ltda.",
@@ -37,20 +43,29 @@
         "totalShares": 4.27
       },
       {
-        "name": "OPEG FUNDO DE INVESTIMENTO EM ACOES INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 3.93,
+        "name": "OPEG SPECTRUM FUNDO DE INVESTIMENTO DE ACOES",
+        "ordinaryShares": 0.95,
         "preferredShares": 0,
-        "totalShares": 3.93
-      },
-      {
-        "name": "OPEG II FUNDO DE INVESTIMENTO EM ACOES INVESTIMENTO NO EXTERIOR",
-        "ordinaryShares": 0.84,
-        "preferredShares": 0,
-        "totalShares": 0.84
+        "totalShares": 0.95
       }
     ]
   },
   "events": [
+    {
+      "date": 1731380400000,
+      "amount": 1.2931,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1717556400000,
+      "amount": 1.3988,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713927600000,
+      "amount": 0.0593,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1701745200000,
       "amount": 0.546,
@@ -75,38 +90,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 63682000
-      },
-      {
         "period": 1580428800000,
         "value": -81759000
       },
       {
         "period": 1612051200000,
-        "value": 176899000
+        "value": 0
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": 1153391000
+      },
+      {
+        "period": 1675123200000,
+        "value": 708938000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.25190016490421807
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 0.38757212429421434
       },
       {
         "period": 1640908800000,
-        "value": 0.1699964635922983
+        "value": 0
       },
       {
         "period": 1609372800000,
         "value": -0.10377601571890775
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.18734242754976863
       }
     ]
   }

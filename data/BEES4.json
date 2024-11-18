@@ -2,8 +2,8 @@
   "name": "BEES4",
   "business": "Bancos",
   "currentState": {
-    "price": 9.15,
-    "priceToEarnings": 8.2,
+    "price": 8.58,
+    "priceToEarnings": 7.76,
     "holders": [
       {
         "name": "ESTADO DO ESP�RITO SANTO",
@@ -14,6 +14,76 @@
     ]
   },
   "events": [
+    {
+      "date": 1730430000000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1727751600000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1725246000000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1722481200000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719802800000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1719457200000,
+      "amount": 0.0922,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1717383600000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 0.1836,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714618800000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1711940400000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1709262000000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1706756400000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1704164400000,
+      "amount": 0.0228,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703732400000,
+      "amount": 0.0222,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1701313200000,
       "amount": 0.0858,
@@ -1067,23 +1137,6 @@
   ],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.23795076467855975
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.19961311126774467
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.19393811066653485
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.1819333256725527
-      }
-    ]
+    "netMargin": []
   }
 }

@@ -2,9 +2,9 @@
   "name": "UCAS3",
   "business": "M�veis",
   "currentState": {
-    "price": 2.73,
-    "priceToEarnings": 13.25,
-    "debtByAnnualEquity": 8.382,
+    "price": 2.15,
+    "priceToEarnings": 11.16,
+    "debtByAnnualEquity": 39.473,
     "holders": [
       {
         "name": "Alexandre Grendene Bartelle",
@@ -126,38 +126,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 17984000
+        "period": 1327968000000,
+        "value": 42164000
       },
       {
-        "period": 1580428800000,
-        "value": 14833000
+        "period": 1359590400000,
+        "value": 0
       },
       {
-        "period": 1612051200000,
-        "value": 25938000
+        "period": 1391126400000,
+        "value": -2408000
       },
       {
-        "period": 1643587200000,
-        "value": 32947000
+        "period": 1422662400000,
+        "value": 13105000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": 0.13410643199635294
+        "period": 1451520000000,
+        "value": 0.058858667337369525
       },
       {
-        "period": 1640908800000,
-        "value": 0.11755641466078688
+        "period": 1419984000000,
+        "value": -0.009888264256470694
       },
       {
-        "period": 1609372800000,
-        "value": 0.09859154929577464
+        "period": 1388448000000,
+        "value": 0
       },
       {
-        "period": 1577750400000,
-        "value": 0.12041513223970539
+        "period": 1356912000000,
+        "value": 0.15088694930235722
       }
     ]
   }

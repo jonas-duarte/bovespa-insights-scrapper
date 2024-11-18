@@ -2,9 +2,9 @@
   "name": "BRAP3",
   "business": "Minerais Met�licos",
   "currentState": {
-    "price": 21.9,
-    "priceToEarnings": 4.06,
-    "debtByAnnualEquity": 0.007,
+    "price": 16.66,
+    "priceToEarnings": 3.63,
+    "debtByAnnualEquity": 0.032,
     "holders": [
       {
         "name": "Cidade de Deus Cia. Cial. de Participa��es",
@@ -37,12 +37,6 @@
         "totalShares": 4.07
       },
       {
-        "name": "BlackRock, Inc.",
-        "ordinaryShares": 0,
-        "preferredShares": 9.73,
-        "totalShares": 6.31
-      },
-      {
         "name": "Fundo de Investimento Gera��o Futuro LPAR",
         "ordinaryShares": 0,
         "preferredShares": 5.12,
@@ -57,6 +51,21 @@
     ]
   },
   "events": [
+    {
+      "date": 1731380400000,
+      "amount": 0.817,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.7406,
+      "type": "DIVIDENDO"
+    },
+    {
+      "date": 1714359600000,
+      "amount": 0.3344,
+      "type": "DIVIDENDO"
+    },
     {
       "date": 1700535600000,
       "amount": 1.075,
@@ -364,23 +373,40 @@
     }
   ],
   "history": {
-    "earningsPerShare": [],
+    "earningsPerShare": [
+      {
+        "period": 1580428800000,
+        "value": 260258650
+      },
+      {
+        "period": 1612051200000,
+        "value": 1686094910
+      },
+      {
+        "period": 1643587200000,
+        "value": 711632810
+      },
+      {
+        "period": 1675123200000,
+        "value": 380350750
+      }
+    ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 1.001333625804139
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": 1.007935739948932
       },
       {
         "period": 1640908800000,
-        "value": null
+        "value": 0.9998448133695755
       },
       {
         "period": 1609372800000,
-        "value": null
-      },
-      {
-        "period": 1577750400000,
-        "value": null
+        "value": 0.9738930132599218
       }
     ]
   }

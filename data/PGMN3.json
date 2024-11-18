@@ -2,139 +2,144 @@
   "name": "PGMN3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 3.57,
-    "priceToEarnings": 30.61,
-    "debtByAnnualEquity": 148.102,
+    "price": 3.13,
+    "priceToEarnings": 11.33,
+    "debtByAnnualEquity": 131.902,
     "holders": [
       {
         "name": "Francisco Deusmar de Queir�s",
-        "ordinaryShares": 35.53,
+        "ordinaryShares": 36.33,
         "preferredShares": 0,
-        "totalShares": 35.53
+        "totalShares": 36.33
       },
       {
         "name": "Patriciana Maria de Queir�s Rodrigues",
+        "ordinaryShares": 5.8,
+        "preferredShares": 0,
+        "totalShares": 5.8
+      },
+      {
+        "name": "M�rio Henrique Alves de Queir�s",
         "ordinaryShares": 5.74,
         "preferredShares": 0,
         "totalShares": 5.74
       },
       {
-        "name": "M�rio Henrique Alves de Queir�s",
+        "name": "Carlos Henrique Alves de Queir�s",
+        "ordinaryShares": 5.67,
+        "preferredShares": 0,
+        "totalShares": 5.67
+      },
+      {
+        "name": "Rosil�ndia Maria Alves de Queir�s Lima",
         "ordinaryShares": 5.66,
         "preferredShares": 0,
         "totalShares": 5.66
       },
       {
-        "name": "Carlos Henrique Alves de Queir�s",
-        "ordinaryShares": 5.6,
-        "preferredShares": 0,
-        "totalShares": 5.6
-      },
-      {
-        "name": "Rosil�ndia Maria Alves de Queir�s Lima",
-        "ordinaryShares": 5.6,
-        "preferredShares": 0,
-        "totalShares": 5.6
-      },
-      {
         "name": "Josu� Ubiranilson Alves",
-        "ordinaryShares": 4.74,
+        "ordinaryShares": 4.8,
         "preferredShares": 0,
-        "totalShares": 4.74
+        "totalShares": 4.8
       },
       {
         "name": "GENERAL ATLANTIC PM E LLC",
-        "ordinaryShares": 3.29,
+        "ordinaryShares": 3.33,
         "preferredShares": 0,
-        "totalShares": 3.29
+        "totalShares": 3.33
       },
       {
         "name": "Maria Auric�lia Alves de Queir�s",
-        "ordinaryShares": 2.8,
+        "ordinaryShares": 2.83,
         "preferredShares": 0,
-        "totalShares": 2.8
+        "totalShares": 2.83
       },
       {
         "name": "GA AMERICA COINVESTMENTS LLC",
-        "ordinaryShares": 1.53,
+        "ordinaryShares": 1.54,
         "preferredShares": 0,
-        "totalShares": 1.53
+        "totalShares": 1.54
       },
       {
         "name": "GENERAL ATLANTIC PM J LLC",
-        "ordinaryShares": 1.38,
+        "ordinaryShares": 1.39,
         "preferredShares": 0,
-        "totalShares": 1.38
+        "totalShares": 1.39
       },
       {
         "name": "GENERAL ATLANTIC PM A LLC",
+        "ordinaryShares": 1.36,
+        "preferredShares": 0,
+        "totalShares": 1.36
+      },
+      {
+        "name": "GENERAL ATLANTIC PM I LLC",
         "ordinaryShares": 1.35,
         "preferredShares": 0,
         "totalShares": 1.35
       },
       {
-        "name": "GENERAL ATLANTIC PM I LLC",
+        "name": "GENERAL ATLANTIC PM H LLC",
         "ordinaryShares": 1.34,
         "preferredShares": 0,
         "totalShares": 1.34
       },
       {
-        "name": "GENERAL ATLANTIC PM H LLC",
-        "ordinaryShares": 1.33,
-        "preferredShares": 0,
-        "totalShares": 1.33
-      },
-      {
         "name": "GENERAL ATLANTIC PM G LLC",
-        "ordinaryShares": 1.32,
+        "ordinaryShares": 1.34,
         "preferredShares": 0,
-        "totalShares": 1.32
+        "totalShares": 1.34
       },
       {
         "name": "GENERAL ATLANTIC PM C LLC",
+        "ordinaryShares": 1.31,
+        "preferredShares": 0,
+        "totalShares": 1.31
+      },
+      {
+        "name": "GENERAL ATLANTIC PM B LLC",
+        "ordinaryShares": 1.31,
+        "preferredShares": 0,
+        "totalShares": 1.31
+      },
+      {
+        "name": "GENERAL ATLANTIC PM D LLC",
         "ordinaryShares": 1.3,
         "preferredShares": 0,
         "totalShares": 1.3
       },
       {
-        "name": "GENERAL ATLANTIC PM B LLC",
-        "ordinaryShares": 1.29,
-        "preferredShares": 0,
-        "totalShares": 1.29
-      },
-      {
-        "name": "GENERAL ATLANTIC PM D LLC",
-        "ordinaryShares": 1.29,
-        "preferredShares": 0,
-        "totalShares": 1.29
-      },
-      {
         "name": "GENERAL ATLANTIC PM F LLC",
-        "ordinaryShares": 1.2,
+        "ordinaryShares": 1.21,
         "preferredShares": 0,
-        "totalShares": 1.2
+        "totalShares": 1.21
       },
       {
         "name": "Tiago Couto Alves",
-        "ordinaryShares": 0.67,
+        "ordinaryShares": 0.68,
         "preferredShares": 0,
-        "totalShares": 0.67
+        "totalShares": 0.68
       },
       {
         "name": "Aline Couto Alves Gir�o",
-        "ordinaryShares": 0.65,
+        "ordinaryShares": 0.66,
         "preferredShares": 0,
-        "totalShares": 0.65
+        "totalShares": 0.66
       },
       {
         "name": "Karine Couto Alves",
-        "ordinaryShares": 0.65,
+        "ordinaryShares": 0.66,
         "preferredShares": 0,
-        "totalShares": 0.65
+        "totalShares": 0.66
       }
     ]
   },
   "events": [
+    {
+      "date": 1706238000000,
+      "amount": 0.2958,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1674788400000,
       "amount": 0.186,
@@ -144,38 +149,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -6945000
-      },
-      {
         "period": 1580428800000,
-        "value": 96033000
+        "value": 96000000
       },
       {
         "period": 1612051200000,
-        "value": 0
+        "value": 164500000
       },
       {
         "period": 1643587200000,
-        "value": -615000
+        "value": 263700000
+      },
+      {
+        "period": 1675123200000,
+        "value": 2516000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.00021035206380790744
+      },
+      {
         "period": 1672444800000,
-        "value": -0.00006692730225838835
+        "value": 0.026856915884994958
       },
       {
         "period": 1640908800000,
-        "value": 0
+        "value": 0.020402088578551143
       },
       {
         "period": 1609372800000,
-        "value": 0.014002057595168151
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.0010813970435274377
+        "value": 0.013135570029007717
       }
     ]
   }

@@ -2,60 +2,66 @@
   "name": "PDTC3",
   "business": "Gest�o de Recursos e Investimentos",
   "currentState": {
-    "price": 3.22,
-    "priceToEarnings": 11.18,
-    "debtByAnnualEquity": 95.461,
+    "price": 1.57,
+    "priceToEarnings": -5.4,
+    "debtByAnnualEquity": 290.261,
     "holders": [
       {
         "name": "Funda��o CPqD - Centro de Pesquisa e Desenvolvimento em Telecomunica��es",
-        "ordinaryShares": 54.38,
+        "ordinaryShares": 54.2,
         "preferredShares": 0,
-        "totalShares": 54.38
+        "totalShares": 54.2
       },
       {
         "name": "BNDES Participa��es S.A. � BNDESPAR",
-        "ordinaryShares": 22.83,
+        "ordinaryShares": 22.76,
         "preferredShares": 0,
-        "totalShares": 22.83
+        "totalShares": 22.76
       }
     ]
   },
-  "events": [],
+  "events": [
+    {
+      "date": 1714100400000,
+      "amount": 0.0462,
+      "type": "DIVIDENDO"
+    }
+  ],
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 5439000
-      },
-      {
-        "period": 1580428800000,
-        "value": 17211000
-      },
-      {
-        "period": 1612051200000,
-        "value": 25550000
-      },
-      {
-        "period": 1643587200000,
+        "period": 1170201600000,
         "value": 0
+      },
+      {
+        "period": 1201737600000,
+        "value": 3581000
+      },
+      {
+        "period": 1233360000000,
+        "value": -46723000
+      },
+      {
+        "period": 1264896000000,
+        "value": -31507000
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": null
+        "period": 1293753600000,
+        "value": -0.029281625726417963
       },
       {
-        "period": 1640908800000,
-        "value": 0.0743294350381102
+        "period": 1262217600000,
+        "value": -0.05618574738961087
       },
       {
-        "period": 1609372800000,
-        "value": 0.10166397901862452
+        "period": 1230681600000,
+        "value": 0.004136785390828604
       },
       {
-        "period": 1577750400000,
-        "value": null
+        "period": 1199059200000,
+        "value": 0
       }
     ]
   }

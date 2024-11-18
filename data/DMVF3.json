@@ -2,15 +2,15 @@
   "name": "DMVF3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 5.85,
-    "priceToEarnings": 19.65,
-    "debtByAnnualEquity": 32.853,
+    "price": 6.64,
+    "priceToEarnings": 10.64,
+    "debtByAnnualEquity": 40.159,
     "holders": [
       {
         "name": "Profarma Distribuidora de Produtos Farmac�uticos S.A.",
-        "ordinaryShares": 65.52,
+        "ordinaryShares": 67.57,
         "preferredShares": 0,
-        "totalShares": 65.52
+        "totalShares": 67.57
       },
       {
         "name": "CLUBE DE INVESTIMENTOS TOV",
@@ -22,41 +22,7 @@
   },
   "events": [],
   "history": {
-    "earningsPerShare": [
-      {
-        "period": 1548892800000,
-        "value": -7487000
-      },
-      {
-        "period": 1580428800000,
-        "value": 123000
-      },
-      {
-        "period": 1612051200000,
-        "value": 1979000
-      },
-      {
-        "period": 1643587200000,
-        "value": 11355000
-      }
-    ],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": 0.007656012751256112
-      },
-      {
-        "period": 1640908800000,
-        "value": 0.0017338447547472651
-      },
-      {
-        "period": 1609372800000,
-        "value": 0.0001224642190416926
-      },
-      {
-        "period": 1577750400000,
-        "value": -0.006612725013270495
-      }
-    ]
+    "earningsPerShare": [],
+    "netMargin": []
   }
 }

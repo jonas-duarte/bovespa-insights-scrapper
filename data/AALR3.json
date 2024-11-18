@@ -2,15 +2,15 @@
   "name": "AALR3",
   "business": "Serv.M�d.Hospit. An�lises e Diagn�sticos",
   "currentState": {
-    "price": 11.57,
-    "priceToEarnings": -5.2,
-    "debtByAnnualEquity": 127.691,
+    "price": 14.2,
+    "priceToEarnings": -7.69,
+    "debtByAnnualEquity": 96.791,
     "holders": [
       {
         "name": "Fonte de Sa�de FI EM Participa��es Multiestrat�gia",
-        "ordinaryShares": 62.45,
+        "ordinaryShares": 62.36,
         "preferredShares": 0,
-        "totalShares": 62.45
+        "totalShares": 62.36
       },
       {
         "name": "Lormont Participa��es S.A.",
@@ -35,6 +35,10 @@
   "history": {
     "earningsPerShare": [
       {
+        "period": 1517356800000,
+        "value": 40087000
+      },
+      {
         "period": 1548892800000,
         "value": 41300000
       },
@@ -44,21 +48,13 @@
       },
       {
         "period": 1612051200000,
-        "value": -5625000
-      },
-      {
-        "period": 1643587200000,
-        "value": -227810000
+        "value": 0
       }
     ],
     "netMargin": [
       {
-        "period": 1672444800000,
-        "value": -0.2099613920253196
-      },
-      {
         "period": 1640908800000,
-        "value": -0.004949092534392894
+        "value": 0
       },
       {
         "period": 1609372800000,
@@ -67,6 +63,10 @@
       {
         "period": 1577750400000,
         "value": 0.038495057626075975
+      },
+      {
+        "period": 1546214400000,
+        "value": 0.03722381834085789
       }
     ]
   }

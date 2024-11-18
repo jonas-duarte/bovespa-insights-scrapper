@@ -2,9 +2,9 @@
   "name": "HYPE3",
   "business": "Medicamentos e Outros Produtos",
   "currentState": {
-    "price": 36.54,
-    "priceToEarnings": 13.09,
-    "debtByAnnualEquity": 88.443,
+    "price": 20.6,
+    "priceToEarnings": 8.32,
+    "debtByAnnualEquity": 86.489,
     "holders": [
       {
         "name": "Jo�o Alves de Queiroz Filho",
@@ -17,12 +17,6 @@
         "ordinaryShares": 14.74,
         "preferredShares": 0,
         "totalShares": 14.74
-      },
-      {
-        "name": "CAPITAL INTERNATIONAL INVESTORS",
-        "ordinaryShares": 10.4,
-        "preferredShares": 0,
-        "totalShares": 10.4
       },
       {
         "name": "Votorantim S.A.",
@@ -39,6 +33,51 @@
     ]
   },
   "events": [
+    {
+      "date": 1727060400000,
+      "amount": 0.1953,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1721790000000,
+      "amount": 0.0977,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1718938800000,
+      "amount": 0.0977,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1716433200000,
+      "amount": 0.0974,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1713841200000,
+      "amount": 0.0972,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1710990000000,
+      "amount": 0.0972,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1708570800000,
+      "amount": 0.0973,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1706756400000,
+      "amount": 0.0973,
+      "type": "JRS CAP PROPRIO"
+    },
+    {
+      "date": 1703559600000,
+      "amount": 0.3077,
+      "type": "JRS CAP PROPRIO"
+    },
     {
       "date": 1695783600000,
       "amount": 0.3079,
@@ -213,38 +252,38 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": 1164040000
-      },
-      {
         "period": 1580428800000,
         "value": 1295116000
       },
       {
         "period": 1612051200000,
-        "value": 1330208000
+        "value": 1617749000
       },
       {
         "period": 1643587200000,
-        "value": 1696697000
+        "value": 1706452000
+      },
+      {
+        "period": 1675123200000,
+        "value": 1651113000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": 0.20861457311231893
+      },
+      {
         "period": 1672444800000,
-        "value": 0.22483662642428034
+        "value": 0.2261293034849275
       },
       {
         "period": 1640908800000,
-        "value": 0.22403982367286004
+        "value": 0.27246881743828455
       },
       {
         "period": 1609372800000,
         "value": 0.31674171183194577
-      },
-      {
-        "period": 1577750400000,
-        "value": 0.35330157168269877
       }
     ]
   }

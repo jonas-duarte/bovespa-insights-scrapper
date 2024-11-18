@@ -2,50 +2,56 @@
   "name": "AVLL3",
   "business": "Incorpora��es",
   "currentState": {
-    "price": 5,
-    "priceToEarnings": -0.31,
+    "price": 2.83,
+    "priceToEarnings": -3.22,
     "holders": [
       {
-        "name": "P�tria Brazilian Private Equity Fund IV � Fundo De Investimento Em Participa��es Multiestrat�gia",
-        "ordinaryShares": 32.92,
+        "name": "ULBREX SPECIAL SITUATIONS FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA",
+        "ordinaryShares": 40.49,
         "preferredShares": 0,
-        "totalShares": 32.92
+        "totalShares": 40.49
       },
       {
-        "name": "P�tria Real Estate III Multiestrat�gia � Fundo De Investimento Em Participa��es",
-        "ordinaryShares": 21.76,
+        "name": "FALCON FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA",
+        "ordinaryShares": 28.87,
         "preferredShares": 0,
-        "totalShares": 21.76
+        "totalShares": 28.87
       },
       {
         "name": "FLAMA SPECIAL RETURN FUNDO DE INVESTIMENTO EM PARTICIPA��ES MULTIESTRAT�GIA",
-        "ordinaryShares": 21.66,
+        "ordinaryShares": 18.41,
         "preferredShares": 0,
-        "totalShares": 21.66
+        "totalShares": 18.41
       },
       {
-        "name": "TG Ativo Real Fundo de Investimento Imobili�rio",
-        "ordinaryShares": 6.33,
+        "name": "P�tria Brazilian Private Equity Fund IV � Fundo De Investimento Em Participa��es Multiestrat�gia",
+        "ordinaryShares": 4.82,
         "preferredShares": 0,
-        "totalShares": 6.33
+        "totalShares": 4.82
+      },
+      {
+        "name": "P�tria Real Estate III Multiestrat�gia � Fundo De Investimento Em Participa��es",
+        "ordinaryShares": 3.19,
+        "preferredShares": 0,
+        "totalShares": 3.19
       },
       {
         "name": "P�tria Real Estate II Multiestrat�gia � Fundo de Investimento em Participa��es",
-        "ordinaryShares": 4.73,
+        "ordinaryShares": 0.69,
         "preferredShares": 0,
-        "totalShares": 4.73
+        "totalShares": 0.69
       },
       {
         "name": "Alpha-Co Investimento Multiestrat�gia � Fundo de Investimento em Participa��es",
-        "ordinaryShares": 1.59,
+        "ordinaryShares": 0.23,
         "preferredShares": 0,
-        "totalShares": 1.59
+        "totalShares": 0.23
       },
       {
         "name": "Brazilian Private Equity IV � Fundo De Investimento Em Participa��es Multiestrat�gia",
-        "ordinaryShares": 0.73,
+        "ordinaryShares": 0.11,
         "preferredShares": 0,
-        "totalShares": 0.73
+        "totalShares": 0.11
       }
     ]
   },
@@ -53,38 +59,30 @@
   "history": {
     "earningsPerShare": [
       {
-        "period": 1548892800000,
-        "value": -491411000
-      },
-      {
-        "period": 1580428800000,
-        "value": -306709000
-      },
-      {
         "period": 1612051200000,
         "value": -377126000
       },
       {
         "period": 1643587200000,
-        "value": 0
+        "value": -410971000
+      },
+      {
+        "period": 1675123200000,
+        "value": -584254000
       }
     ],
     "netMargin": [
       {
+        "period": 1703980800000,
+        "value": -1.2315173538946667
+      },
+      {
         "period": 1672444800000,
-        "value": null
+        "value": -1.5500501633136452
       },
       {
         "period": 1640908800000,
-        "value": -1.6547799263715386
-      },
-      {
-        "period": 1609372800000,
-        "value": -1.7020288343081653
-      },
-      {
-        "period": 1577750400000,
-        "value": -2.9927588306942754
+        "value": null
       }
     ]
   }

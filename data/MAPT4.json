@@ -2,8 +2,8 @@
   "name": "MAPT4",
   "business": "Outros",
   "currentState": {
-    "price": 8,
-    "priceToEarnings": -50.36,
+    "price": 5,
+    "priceToEarnings": -26.26,
     "holders": [
       {
         "name": "CEMISA PARTICIPA��ES LTDA",
@@ -28,23 +28,6 @@
   "events": [],
   "history": {
     "earningsPerShare": [],
-    "netMargin": [
-      {
-        "period": 1672444800000,
-        "value": null
-      },
-      {
-        "period": 1640908800000,
-        "value": null
-      },
-      {
-        "period": 1609372800000,
-        "value": null
-      },
-      {
-        "period": 1577750400000,
-        "value": null
-      }
-    ]
+    "netMargin": []
   }
 }
