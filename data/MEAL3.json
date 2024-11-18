@@ -1,6 +1,7 @@
 {
   "name": "MEAL3",
   "business": "Restaurante e Similares",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 1.27,
     "priceToEarnings": -3.47,

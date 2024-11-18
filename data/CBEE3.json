@@ -1,6 +1,7 @@
 {
   "name": "CBEE3",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 11.43,
     "priceToEarnings": -39.52,

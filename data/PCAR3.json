@@ -1,6 +1,7 @@
 {
   "name": "PCAR3",
   "business": "Alimentos",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 2.8,
     "priceToEarnings": -0.85,

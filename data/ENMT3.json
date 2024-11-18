@@ -1,6 +1,7 @@
 {
   "name": "ENMT3",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 82.98,
     "priceToEarnings": 14.39,

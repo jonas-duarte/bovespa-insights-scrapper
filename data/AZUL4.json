@@ -1,6 +1,7 @@
 {
   "name": "AZUL4",
   "business": "Transporte A�reo",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 5.33,
     "priceToEarnings": -0.39,

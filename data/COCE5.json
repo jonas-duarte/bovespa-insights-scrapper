@@ -1,6 +1,7 @@
 {
   "name": "COCE5",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 26.55,
     "priceToEarnings": 7.1,

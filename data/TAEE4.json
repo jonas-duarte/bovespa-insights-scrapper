@@ -1,6 +1,7 @@
 {
   "name": "TAEE4",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 11.33,
     "priceToEarnings": 8.17,

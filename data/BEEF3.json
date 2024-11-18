@@ -1,6 +1,7 @@
 {
   "name": "BEEF3",
   "business": "Carnes e Derivados",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 5.71,
     "priceToEarnings": 2.617,

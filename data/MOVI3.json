@@ -1,6 +1,7 @@
 {
   "name": "MOVI3",
   "business": "Aluguel de carros",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 6.13,
     "priceToEarnings": -5.3,

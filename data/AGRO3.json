@@ -1,6 +1,7 @@
 {
   "name": "AGRO3",
   "business": "Agricultura",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 23.92,
     "priceToEarnings": 8.34,

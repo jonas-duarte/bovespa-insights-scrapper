@@ -1,6 +1,7 @@
 {
   "name": "AGXY3",
   "business": "Agricultura",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 0.4,
     "priceToEarnings": -0.2,

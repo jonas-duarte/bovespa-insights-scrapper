@@ -1,6 +1,7 @@
 {
   "name": "GEPA3",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 33.5,
     "priceToEarnings": 34.96,

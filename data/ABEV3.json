@@ -1,6 +1,7 @@
 {
   "name": "ABEV3",
   "business": "Cervejas e Refrigerantes",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 12.64,
     "priceToEarnings": 14.28,

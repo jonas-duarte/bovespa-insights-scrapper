@@ -1,6 +1,7 @@
 {
   "name": "GOLL4",
   "business": "Transporte A�reo",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 1.17,
     "priceToEarnings": -0.24,

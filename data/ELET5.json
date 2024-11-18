@@ -1,6 +1,7 @@
 {
   "name": "ELET5",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 90,
     "priceToEarnings": 20.45,

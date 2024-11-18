@@ -1,6 +1,7 @@
 {
   "name": "MILS3",
   "business": "Aluguel de carros",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 10.32,
     "priceToEarnings": 8.51,

@@ -1,6 +1,7 @@
 {
   "name": "CMIG4",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 12.09,
     "priceToEarnings": 4.32,

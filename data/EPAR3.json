@@ -1,6 +1,7 @@
 {
   "name": "EPAR3",
   "business": "Material de Transporte",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 5.26,
     "priceToEarnings": -4.98,

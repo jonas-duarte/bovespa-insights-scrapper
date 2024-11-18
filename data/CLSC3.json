@@ -1,6 +1,7 @@
 {
   "name": "CLSC3",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 75.95,
     "priceToEarnings": 4.34,

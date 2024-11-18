@@ -1,6 +1,7 @@
 {
   "name": "ARML3",
   "business": "Aluguel de carros",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 7.95,
     "priceToEarnings": 13.36,

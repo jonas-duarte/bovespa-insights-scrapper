@@ -1,6 +1,7 @@
 {
   "name": "ALUP3",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 9.85,
     "priceToEarnings": 9.39,

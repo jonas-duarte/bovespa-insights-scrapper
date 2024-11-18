@@ -1,6 +1,7 @@
 {
   "name": "HOOT4",
   "business": "Hotelaria",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 2.6,
     "priceToEarnings": 0.5,

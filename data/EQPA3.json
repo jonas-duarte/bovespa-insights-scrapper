@@ -1,6 +1,7 @@
 {
   "name": "EQPA3",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 5.51,
     "priceToEarnings": 5.87,

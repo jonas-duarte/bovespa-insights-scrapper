@@ -1,6 +1,7 @@
 {
   "name": "EMAE4",
   "business": "Energia El�trica",
+  "lastUpdate": 1731942962881,
   "currentState": {
     "price": 40.99,
     "priceToEarnings": 10.49,
